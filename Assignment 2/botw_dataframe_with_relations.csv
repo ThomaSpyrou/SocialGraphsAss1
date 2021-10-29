@@ -1,0 +1,657 @@
+Name,Role,Race,Gender,Relations
+Baddek,Ally,Hylian,Male,"['Link', 'Yammo', 'Nazbi', 'Savelle']"
+Bamboo,Ally,Horse,Unknown,['Baumar']
+Banji,Ally,Hylian,Female,"['Malanya', 'Sho', 'Geggle', 'Kenyo', 'Dabi', 'Hylia', 'Chork', 'Konba', 'Ena']"
+Baumar,Ally,Hylian,Male,"['Selmie', 'Bamboo', 'Falmark']"
+Bayge,Ally,Goron,Male,"['Heehl', 'Kabetta', 'Daruk']"
+Beedle,Ally,Human,Male,['Link']
+Bolson,Ally,Hylian,Male,"['Link', 'Hudson', 'Karson', 'Boldon']"
+Brigo,Ally,Hylian,Male,"['Guardian Stalker', 'Decayed Guardian', 'Link']"
+Cambo,Ally,Hylian,Male,['Link']
+Chabi,Ally,Hylian,Female,"['Blue Bokoblin', 'Bokoblin', 'Link', 'Black Bokoblin', 'Kilton']"
+Chork,Ally,Hylian,Male,"['Kass', 'Geggle', 'Link']"
+Chumin,Ally,Hylian,Male,['Link']
+Dabi,Ally,Hylian,Male,[]
+Daruk,Ally,Goron,Male,"['Bludo', 'Bokoblin', 'Link', 'Revali', 'Yunobo', 'King Rhoam', 'Dark Beast Ganon', 'Calamity Ganon', 'Fireblight Ganon', 'Princess Zelda']"
+Dauntless,Ally,Horse,Unknown,['Nazbi']
+Dinraal,Ally,Dragon,Unknown,"['Farosh', 'Naydra']"
+Ena,Ally,Hylian,Female,[]
+Endai,Ally,Hylian,Male,[]
+Epona,Ally,Horse,Female,"['Malanya', 'Link']"
+Farosh,Ally,Dragon,Unknown,"['Link', 'Dinraal', 'Naydra']"
+Fyson,Ally,Rito,Male,"['Misa', 'Link', 'Hudson']"
+Goflam,Ally,Unknown,Unknown,[]
+Greyson,Ally,Goron,Male,"['Axyl', 'Pelison', 'Jengo', 'Bolson', 'Bohrin', 'Rhondson', 'Dorill', 'Hudson']"
+Heehl,Ally,Goron,Male,"['Kabetta', 'Bayge']"
+Hestu,Ally,Korok,Male,['Link']
+Hudson,Ally,Hylian,Male,"['Link', 'Rhondson', 'Bolson']"
+Hylia,Ally,Hylian,Female,"['Link', 'Impa', 'Princess Zelda']"
+Kabetta,Ally,Goron,Male,"['Heehl', 'Bayge']"
+Kanny,Ally,Hylian,Male,[]
+Kapson,Ally,Zora,Male,"['Mipha', 'Rhondson', 'Link', 'Hudson', 'Hylia']"
+Karson,Ally,Hylian,Male,"['Link', 'Sophie', 'Bolson']"
+Kass,Ally,Rito,Male,"['Genli', 'Notts', 'Kheel', 'Amali', 'Cree', 'Farosh', 'Kotts', 'Princess Zelda']"
+Kenyo,Ally,Hylian,Male,['Link']
+Kilton,Ally,Hylian,Male,"['Hoz', 'Calamity Ganon', 'Link']"
+Leekah,Ally,Hylian,Female,[]
+Link,Ally,Hylian,Male,"['Paya', 'Hylia', 'King Rhoam', 'Epona', 'Old Man', 'Princess Zelda', 'Kass', 'Impa', 'Calamity Ganon']"
+Meeshy,Ally,Hylian,Female,[]
+Meghyn,Ally,Hylian,Female,"['Nat', 'Bokoblin']"
+Mei,Ally,Zora,Female,"['Fronk', 'Keye', 'Tumbo', 'Link']"
+Mils,Ally,Hylian,Male,['Mina']
+Mina,Ally,Hylian,Female,"['Link', 'Mils']"
+Mipha,Ally,Zora,Female,"['Sidon', 'Waterblight Ganon', 'Link', 'King Dorephan', 'King Rhoam', 'Muzu', 'Princess Zelda']"
+Misko,Ally,Unknown,Unknown,"['Prissen', 'Link', 'Domidak']"
+Nat,Ally,Hylian,Female,"['Meghyn', 'Bokoblin']"
+Naydra,Ally,Dragon,Unknown,"['Link', 'Dinraal', 'Farosh']"
+Nazbi,Ally,Hylian,Male,[]
+Pelison,Ally,Goron,Male,"['Greyson', 'Axyl', 'Rhondson', 'Bolson', 'Hudson']"
+Pikango,Ally,Sheikah,Male,"['Impa', 'Link', 'Master Kohga']"
+Regan,Ally,Hylian,Male,[]
+Revali,Ally,Rito,Male,"['Link', 'Urbosa', 'Daruk', 'King Rhoam', 'Windblight Ganon', 'Princess Zelda']"
+Rhondson,Ally,Gerudo,Female,"['Hudson', 'Link']"
+Rik,Ally,Hylian,Male,"['Steen', 'Olkin']"
+Ronn,Ally,Hylian,Male,[]
+Savelle,Ally,Hylian,Male,[]
+Sherfin,Ally,Unknown,Unknown,[]
+Sho,Ally,Hylian,Male,[]
+Sorelia,Ally,Hylian,Female,[]
+Spoone,Ally,Hylian,Male,"['Naydra', 'Link']"
+Toren,Ally,Hylian,Male,['Kaysa']
+Totsuna,Ally,Hylian,Female,[]
+Tye,Ally,Hylian,Male,[]
+Urbosa,Ally,Gerudo,Female,"['Riju', 'Kass', 'Yiga Footsoldier', 'Revali', 'Pearle', 'King Rhoam', 'Calamity Ganon', 'Princess Zelda', 'Thunderblight Ganon']"
+Yammo,Ally,Hylian,Female,[]
+Princess Zelda,Ally,Hylian,Female,"['Hylia', 'King Rhoam', 'Yiga Footsoldier', 'Kass', 'Link', 'Impa', 'Daruk']"
+Zyle,Ally,Hylian,Male,['Link']
+Laroba,Ally,Gerudo,Female,[]
+Naddon,Ally,Goron,Male,['Boldon']
+Pitar,Ally,Hylian,Male,[]
+Dah Hesho,Ally,Sheikah,Male,[]
+Dmitri,Ally,Hylian,Male,"['Kaifa', 'Jana', 'Gleema']"
+Gleema,Ally,Hylian,Female,"['Jana', 'Dmitri', 'Kaifa']"
+Jana,Ally,Hylian,Female,"['Kaifa', 'Dmitri', 'Link', 'Gleema', 'Hudson']"
+Kah Mael,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Kaifa,Ally,Hylian,Female,"['Jana', 'Dmitri', 'Gleema']"
+Ke'nai Shakah,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Lonni,Ally,Hylian,Female,['Stalnox']
+Nell,Ally,Hylian,Male,"['Blue Moblin', 'Link']"
+Rex,Ally,Hylian,Male,[]
+Stamm,Ally,Hylian,Male,[]
+Tenne,Ally,Hylian,Female,"['Kaifa', 'Epona', 'Dmitri', 'Jana', 'Link', 'Gleema']"
+Tutsuwa Nima,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Ze Kasho,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Granté,Ally,Hylian,Male,"['Robbie', 'Jerrin', 'Link']"
+Hagie,Ally,Hylian,Male,"['Hunnie', 'Ruli']"
+Hunnie,Ally,Hylian,Female,"['Ruli', 'Hagie']"
+Moggs,Ally,Hylian,Male,['Monari']
+Monari,Ally,Hylian,Female,['Moggs']
+Ruli,Ally,Hylian,Female,"['Hunnie', 'Hagie']"
+Ritaag Zumo,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Tu Ka'loh,Ally,Sheikah,Male,"['Link', 'Calamity Ganon', 'Hylia']"
+Aya,Ally,Hylian,Female,"['Robbie', 'Rudi', 'Khini']"
+Cherry,Ally,Unknown,Unknown,[]
+Hoz,Ally,Hylian,Male,['Kilton']
+Jerrin,Ally,Hylian,Female,"['Granté', 'Purah', 'Link', 'Robbie', 'Symin', 'Nanna']"
+Katosa Aug,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Khini,Ally,Hylian,Male,[]
+Nobo,Ally,Hylian,Female,"['Pitar', 'Link']"
+Robbie,Ally,Sheikah,Male,"['Granté', 'Link', 'Purah', 'Calamity Ganon', 'Princess Zelda', 'Jerrin']"
+Rudi,Ally,Hylian,Male,[]
+Zuna Kai,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Glendo,Ally,Hylian,Male,"['Link', 'Keese']"
+King Rhoam,Ally,Hylian,Male,"['Link', 'Impa', 'Old Man', 'Calamity Ganon', 'Princess Zelda']"
+Etsu Korima,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Ja Baij,Ally,Sheikah,Male,[]
+Keh Namut,Ally,Sheikah,Male,[]
+Old Man,Ally,Hylian,Male,"['Princess Zelda', 'Link', 'Calamity Ganon']"
+Oman Au,Ally,Sheikah,Male,[]
+Owa Daim,Ally,Sheikah,Male,[]
+Rohta Chigah,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Ruvo Korbah,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Yowaka Ita,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Aliza,Ally,Hylian,Female,['Link']
+Benny,Ally,Hylian,Female,['Link']
+Bosh Kala,Ally,Sheikah,Male,[]
+Botrick,Ally,Hylian,Male,[]
+Canni,Ally,Hylian,Female,['Epona']
+Dah Kaso,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Dai,Ally,Hylian,Male,"['Golden Lynel', 'Silver Lynel', 'Lynel']"
+Gotter,Ally,Hylian,Male,"['Hinox', 'Princess Zelda']"
+Haite,Ally,Hylian,Female,"['Myti', 'Link']"
+Kaam Ya'tak,Ally,Sheikah,Male,[]
+Katah Chuki,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Monya Toma,Ally,Sheikah,Male,[]
+Myti,Ally,Hylian,Female,"['Trott', 'Haite', 'Link']"
+Namika Ozz,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Noya Neha,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Parcy,Ally,Hylian,Female,[]
+Rota Ooh,Ally,Sheikah,Male,[]
+Saas Ko'sah,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Toffa,Ally,Hylian,Male,"['Princess Zelda', 'Link']"
+Trott,Ally,Hylian,Male,[]
+Wahgo Katta,Ally,Sheikah,Male,[]
+Zalta Wa,Ally,Sheikah,Male,[]
+Branli,Ally,Hylian,Male,['Link']
+Konba,Ally,Hylian,Male,['Link']
+Maag No'rah,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Mijah Rokee,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Mogg Latan,Ally,Sheikah,Male,[]
+Shira Gomar,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Toh Yahsa,Ally,Sheikah,Male,[]
+Yunobo,Ally,Goron,Male,"['Black Moblin', 'Daruk', 'Link', 'Bludo', 'Sentry', 'Fireblight Ganon']"
+Ashe,Ally,Hylian,Male,"['Breen', 'Link', 'Kish', 'Shamae']"
+Axyl,Ally,Goron,Male,"['Pelison', 'Dorill']"
+Bladon,Ally,Goron,Male,['Gonguron']
+Bohrin,Ally,Goron,Male,[]
+Boldon,Ally,Goron,Male,"['Naddon', 'Link', 'Bolson']"
+Breen,Ally,Hylian,Female,['Epona']
+Daqa Koh,Ally,Unknown,Unknown,[]
+Dayto,Ally,Hylian,Male,[]
+Dorill,Ally,Goron,Male,"['Axyl', 'Bludo']"
+Douma,Ally,Hylian,Female,[]
+Drak,Ally,Goron,Male,"['Yunobo', 'Bludo']"
+Dugby,Ally,Goron,Male,['Grapp']
+Fin,Ally,Hylian,Male,['Russ']
+Gaile,Ally,Hylian,Female,[]
+Gonguron,Ally,Goron,Male,['Bladon']
+Gorae Torr,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Grapp,Ally,Goron,Male,"['Dugby', 'Bludo']"
+Jengo,Ally,Goron,Male,"['Greyson', 'Bludo', 'Bohrin', 'Dorill']"
+Kairo,Ally,Goron,Male,['Yunobo']
+Karsh,Ally,Gerudo,Female,[]
+Kayra Mah,Ally,Unknown,Unknown,[]
+Kima,Ally,Hylian,Male,[]
+Kish,Ally,Hylian,Male,['Link']
+Mayro,Ally,Hylian,Male,['Ozunda']
+Mirro Shaz,Ally,Sheikah,Male,[]
+Mo'a Keet,Ally,Sheikah,Male,[]
+Molo,Ally,Hylian,Male,[]
+Offrak,Ally,Goron,Male,['Aji']
+Ozunda,Ally,Hylian,Male,['Link']
+Qua Raym,Ally,Sheikah,Male,[]
+Russ,Ally,Hylian,Male,['Fin']
+Sah Dahaj,Ally,Sheikah,Male,[]
+Shamae,Ally,Hylian,Female,['Ashe']
+Shora Hah,Ally,Unknown,Unknown,[]
+Tah Muhl,Ally,Sheikah,Male,[]
+Zorona,Ally,Hylian,Male,[]
+Aji,Ally,Goron,Male,"['Fyson', 'Pelison', 'Offrak']"
+Bargoh,Ally,Goron,Male,"['Yunobo', 'Bludo', 'Link']"
+Bludo,Ally,Goron,Male,"['Kass', 'Yunobo', 'Daruk']"
+Fugo,Ally,Goron,Male,"['Slergo', 'Rohan', 'Igneo Talus']"
+Krane,Ally,Goron,Male,['Bludo']
+Pyle,Ally,Goron,Male,"['Bludo', 'Rogaro']"
+Ramella,Ally,Gerudo,Female,"['Offrak', 'Calamity Ganon']"
+Rogaro,Ally,Goron,Male,['Pyle']
+Rohan,Ally,Goron,Male,"['Slergo', 'Igneo Talus', 'Fugo']"
+Shae Mo'sah,Ally,Sheikah,Male,[]
+Slergo,Ally,Goron,Male,"['Fugo', 'Rohan']"
+Tanko,Ally,Goron,Male,[]
+Tray,Ally,Goron,Male,['Volcon']
+Volcon,Ally,Goron,Male,['Tray']
+Akrah,Ally,Hylian,Male,"['Onya', 'Garshon', 'Zumi', 'Link']"
+Daag Chokah,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Garshon,Ally,Hylian,Male,[]
+Ketoh Wawai,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Kuhn Sidajj,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Maag Halan,Ally,Sheikah,Male,"['Hylia', 'Calamity Ganon', 'Link']"
+Oaki,Ally,Korok,Unknown,[]
+Onya,Ally,Hylian,Male,[]
+Sprinn,Ally,Hylian,Male,[]
+Tasho,Ally,Korok,Unknown,[]
+Zooki,Ally,Korok,Unknown,[]
+Zumi,Ally,Hylian,Female,[]
+Chio,Ally,Korok,Male,"['Hestu', 'Link']"
+Damia,Ally,Korok,Unknown,['Link']
+Daz,Ally,Korok,Unknown,[]
+Keo Ruug,Ally,Unknown,Unknown,[]
+Kula,Ally,Korok,Unknown,['The Great Deku Tree']
+Maca,Ally,Korok,Unknown,['Link']
+Natie,Ally,Korok,Unknown,['Link']
+Peeks,Ally,Korok,Male,"['The Great Deku Tree', 'Link']"
+Pepp,Ally,Korok,Unknown,['Link']
+The Great Deku Tree,Ally,Unknown,Male,"['Link', 'Princess Zelda']"
+Walton,Ally,Korok,Unknown,['Link']
+Blynne,Ally,Hylian,Male,['Link']
+Jini,Ally,Hylian,Male,['Link']
+Ka'o Makagh,Ally,Sheikah,Male,[]
+Loone,Ally,Hylian,Female,"['Roscoe', 'Link']"
+Malanya,Ally,Great Fairy,Male,['Link']
+Padok,Ally,Hylian,Male,['Link']
+Perosa,Ally,Hylian,Female,[]
+Phanna,Ally,Hylian,Female,[]
+Pumaag Nitae,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Roscoe,Ally,Ancient Orb,Unknown,['Link']
+Shae Katha,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Shoqa Tatone,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Straia,Ally,Hylian,Male,[]
+Suzuna,Ally,Hylian,Female,[]
+Ya Naga,Ally,Sheikah,Male,[]
+Barta,Ally,Gerudo,Female,"['Riju', 'Link', 'Leena', 'Kotta', 'Liana', 'Perda']"
+Calisa,Ally,Gerudo,Female,['Link']
+Eighth Heroine,Ally,Unknown,Female,"['Link', 'Bozai', 'Seven Heroines']"
+Gartan,Ally,Hylian,Male,['Link']
+Lukan,Ally,Gerudo,Female,"['Riju', 'Link']"
+Seven Heroines,Ally,Unknown,Unknown,"['Rotana', 'Link', 'Eighth Heroine']"
+Anche,Ally,Gerudo,Female,"['Pokki', 'Link', 'Furosa']"
+Benja,Ally,Hylian,Male,"['Vilia', 'Robsten', 'Link']"
+Dako Tah,Ally,Sheikah,Male,[]
+Daqo Chisay,Ally,Sheikah,Male,[]
+Dila Maag,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Dillie,Ally,Hylian,Male,"['Bokoblin', 'Link', 'Jora']"
+Hawa Koth,Ally,Sheikah,Male,[]
+Jee Noh,Ally,Sheikah,Male,[]
+Jora,Ally,Hylian,Male,"['Dillie', 'Bokoblin', 'Link']"
+Kay Noh,Ally,Sheikah,Male,[]
+Keive Tala,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Kema Zoos,Ally,Unknown,Unknown,[]
+Konora,Ally,Gerudo,Female,['Link']
+Korsh O'hu,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Kyra,Ally,Gerudo,Female,['Link']
+Misae Suma,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Patricia,Ally,Sand Seal,Female,"['Riju', 'Padda', 'Link']"
+Pokki,Ally,Gerudo,Female,"['Link', 'Furosa']"
+Raqa Zunzo,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Riju,Ally,Gerudo,Female,"['Buliara', 'Teake', 'Link', 'Urbosa', 'Patricia']"
+Shabonne,Ally,Gerudo,Female,"['Tali', 'Link']"
+Strade,Ally,Goron,Male,"['Lyndae', 'Link']"
+Sudrey,Ally,Gerudo,Female,"['Riju', 'Link']"
+Takama Shiri,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Tali,Ally,Gerudo,Female,"['Teli', 'Shabonne']"
+Tera,Ally,Great Fairy,Female,"['Cotera', 'Link', 'Kaysa']"
+Tho Kayu,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Ardin,Ally,Gerudo,Female,"['Spera', 'Jules', 'Estan', 'Nellie']"
+Ashai,Ally,Gerudo,Female,"['Pasha', 'Dina', 'Link', 'Risa']"
+Aurie Taamu,Ally,Unknown,Male,"['Isha', 'Ashai']"
+Babi,Ally,Gerudo,Female,"['Teake', 'Smaude', 'Malena', 'Marta', 'Link']"
+Bertri,Ally,Gerudo,Female,"['Riju', 'Link']"
+Bozai,Ally,Hylian,Male,['Link']
+Buliara,Ally,Gerudo,Female,"['Riju', 'Teake', 'Link', 'Princess Zelda']"
+Calyban,Ally,Gerudo,Female,"['Dalia', 'Link']"
+Cara,Ally,Gerudo,Female,"['Isha', 'Ashai', 'Link']"
+Dalia,Ally,Gerudo,Female,"['Pearle', 'Kalani', 'Lorn', 'Ashai', 'Makure']"
+Danda,Ally,Gerudo,Female,"['Kalani', 'Makure', 'Link']"
+Deltan,Ally,Gerudo,Female,"['Ashai', 'Link']"
+Dina,Ally,Gerudo,Female,"['Ashai', 'Link']"
+Dorrah,Ally,Gerudo,Female,"['Riju', 'Merina', 'Link']"
+Essa,Ally,Gerudo,Female,"['Link', 'Frelly']"
+Estan,Ally,Gerudo,Female,"['Maike', 'Link', 'Frita']"
+Fegran,Ally,Gerudo,Female,"['Riju', 'Link']"
+Frelly,Ally,Gerudo,Female,"['Link', 'Kohm']"
+Frita,Ally,Rito,Female,['Link']
+Furosa,Ally,Gerudo,Female,"['Pokki', 'Anche', 'Greta', 'Link']"
+Greta,Ally,Gerudo,Female,['Link']
+Isha,Ally,Gerudo,Female,"['Cara', 'Link']"
+Jules,Ally,Hylian,Female,['Link']
+Kalani,Ally,Gerudo,Female,"['Pearle', 'Danda', 'Makure', 'Dalia', 'Ashai', 'Frita']"
+Katta,Ally,Gerudo,Female,"['Riju', 'Link']"
+Kohm,Ally,Gerudo,Female,"['Link', 'Frelly']"
+Kotta,Ally,Gerudo,Female,"['Liana', 'Link', 'Barta']"
+Laine,Ally,Gerudo,Female,"['Tali', 'Link']"
+Lashley,Ally,Gerudo,Female,"['Riju', 'Link']"
+Leena,Ally,Gerudo,Female,"['Riju', 'Liana', 'Kotta', 'Link', 'Barta']"
+Liana,Ally,Gerudo,Female,"['Riju', 'Kotta', 'Leena', 'Link', 'Barta']"
+Lorn,Ally,Gerudo,Female,"['Dalia', 'Link']"
+Lyndae,Ally,Goron,Male,['Strade']
+Makure,Ally,Gerudo,Female,"['Pearle', 'Kalani', 'Danda', 'Dalia', 'Ashai']"
+Malena,Ally,Gerudo,Female,"['Molduga', 'Link']"
+Marta,Ally,Gerudo,Female,"['Riju', 'Babi', 'Link']"
+Merina,Ally,Gerudo,Female,"['Dorrah', 'Link']"
+Muava,Ally,Gerudo,Female,['Link']
+Nali,Ally,Gerudo,Female,"['Riju', 'Pritana', 'Link', 'Urbosa']"
+Nellie,Ally,Gerudo,Female,"['Ardin', 'Lorn', 'Link', 'Risa']"
+Olu,Ally,Gerudo,Female,"['Link', 'Romah']"
+Padda,Ally,Gerudo,Female,"['Riju', 'Patricia', 'Link']"
+Pasha,Ally,Gerudo,Female,"['Link', 'Ashai']"
+Pearle,Ally,Gerudo,Female,"['Rotana', 'Spera', 'Urbosa', 'Kalani', 'Ashai', 'Link', 'Makure']"
+Ploka,Ally,Gerudo,Female,"['Riju', 'Traysi', 'Reeza', 'Link']"
+Pritana,Ally,Gerudo,Female,"['Riju', 'Nali', 'Link', 'Urbosa']"
+Pyra,Ally,Gerudo,Female,"['Yaido', 'Rotana', 'Saula', 'Perda', 'Sumati']"
+Reeza,Ally,Gerudo,Female,"['Riju', 'Buliara', 'Ploka', 'Link']"
+Rima,Ally,Gerudo,Female,"['Buliara', 'Riju', 'Patricia', 'Link']"
+Risa,Ally,Gerudo,Female,"['Pasha', 'Nellie', 'Ashai', 'Dina', 'Link']"
+Romah,Ally,Gerudo,Female,['Link']
+Rotana,Ally,Gerudo,Female,"['Urbosa', 'Pearle', 'Link', 'Seven Heroines']"
+Saula,Ally,Gerudo,Female,"['Yaido', 'Link']"
+Smaude,Ally,Gerudo,Female,['Link']
+Spera,Ally,Gerudo,Female,['Link']
+Sumati,Ally,Gerudo,Female,"['Yaido', 'Rotana', 'Pyra', 'Saula', 'Perda']"
+Tauma,Ally,Hylian,Female,['Link']
+Teake,Ally,Gerudo,Female,"['Buliara', 'Riju', 'Link']"
+Traysi,Ally,Hylian,Female,"['Riju', 'Muava', 'Ashai', 'Link', 'Lyndae', 'Ploka', 'Dinraal', 'Strade', 'King Rhoam', 'Molduking', 'Farosh', 'Naydra', 'Molduga', 'Princess Zelda']"
+Yaido,Ally,Gerudo,Female,"['Rotana', 'Pyra', 'Saula', 'Perda', 'Sumati']"
+Emri,Ally,Gerudo,Female,"['Vilia', 'Link']"
+Guy,Ally,Rito,Male,['Link']
+Kachoo,Ally,Gerudo,Female,['Link']
+Maike,Ally,Gerudo,Female,"['Estan', 'Vilia', 'Link']"
+Nobiro,Ally,Hylian,Male,['Link']
+Ripp,Ally,Gerudo,Female,"['Vilia', 'Link']"
+Robsten,Ally,Hylian,Male,"['Vilia', 'Benja', 'Link']"
+Shaillu,Ally,Gerudo,Female,"['Vilia', 'Link']"
+Vilia,Ally,Hylian,Female,"['Riju', 'Link', 'Benja']"
+Canolo,Ally,Hylian,Female,"['Oliff', 'Flaxel', 'Palme', 'Blue Bokoblin', 'Bokoblin', 'Link', 'Sesami']"
+Flaxel,Ally,Hylian,Female,[]
+Ishto Soh,Ally,Sheikah,Male,[]
+Joloo Nah,Ally,Sheikah,Male,[]
+Keeha Yoog,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Kema Kosassa,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Kihiro Moh,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Kuh Takkar,Ally,Sheikah,Male,[]
+Maypin,Ally,Hylian,Male,['Link']
+Moza,Ally,Hylian,Female,['Link']
+Oliff,Ally,Hylian,Male,"['Link', 'Sesami']"
+Palme,Ally,Hylian,Male,[]
+Piaffe,Ally,Hylian,Male,['Link']
+Pirou,Ally,Hylian,Male,['Link']
+Sasa Kai,Ally,Sheikah,Male,"['Link', 'Calamity Ganon', 'Hylia']"
+Sesami,Ally,Hylian,Male,"['Oliff', 'Flaxel', 'Palme', 'Canolo', 'Link']"
+Sho Dantu,Ally,Unknown,Unknown,[]
+Suma Sahma,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Falmark,Ally,Hylian,Male,[]
+Teba,Ally,Rito,Male,"['Revali', 'Windblight Ganon', 'Saki', 'Calamity Ganon', 'Tulin', 'Link', 'Harth']"
+Tulin,Ally,Rito,Male,"['Saki', 'Link', 'Teba']"
+Goma Asaagh,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Hia Miu,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Kiah Toza,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Maka Rah,Ally,Sheikah,Male,[]
+Mozo Shenno,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Noe Rajee,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Qaza Tokki,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Rok Uwog,Ally,Sheikah,Male,[]
+Selmie,Ally,Hylian,Female,[]
+Sha Warvo,Ally,Sheikah,Male,[]
+Shada Naw,Ally,Sheikah,Male,[]
+To Quomo,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Danton,Ally,Hylian,Male,[]
+Harlow,Ally,Hylian,Female,"['Danton', 'Link']"
+Harry (Breath of the Wild),Ally,Horse,Male,['Monkton']
+Juannelle,Ally,Hylian,Female,[]
+Mary (Breath of the Wild),Ally,Horse,Female,['Monkton']
+Monkton,Ally,Hylian,Male,['Link']
+Rin Oyaa,Ally,Sheikah,Male,[]
+Sha Gehma,Ally,Sheikah,Male,[]
+Varke,Ally,Hylian,Male,[]
+Ariane,Ally,Hylian,Female,"['Galli', 'Lester', 'Link']"
+Bareeda Naag,Ally,Unknown,Unknown,[]
+Cree,Ally,Rito,Female,[]
+Dunba Taag,Ally,Sheikah,Male,[]
+Galli,Ally,Hylian,Male,[]
+Gee Ha'rah,Ally,Sheikah,Male,[]
+Geggle,Ally,Hylian,Male,[]
+Genli,Ally,Rito,Female,[]
+Gesane,Ally,Rito,Male,[]
+Kah Okeo,Ally,Sheikah,Male,[]
+Kaysa,Ally,Great Fairy,Female,"['Cotera', 'Tera', 'Toren']"
+Kheel,Ally,Rito,Female,"['Genli', 'Kass', 'Notts', 'Link', 'Amali', 'Cree', 'Kotts', 'Kaneli']"
+Kotts,Ally,Rito,Female,[]
+Lanno Kooh,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Lester,Ally,Hylian,Male,['Link']
+Modar,Ally,Goron,Male,[]
+Molli,Ally,Rito,Female,['Harth']
+Notts,Ally,Rito,Female,[]
+Pondo,Ally,Hylian,Male,['Link']
+Ponthos,Ally,Hylian,Male,[]
+Rona Kachta,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Shae Loya,Ally,Sheikah,Male,[]
+Sheem Dagoze,Ally,Sheikah,Male,[]
+Tena Ko'sah,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Voo Lota,Ally,Unknown,Unknown,[]
+Akh Va'quot,Ally,Sheikah,Male,[]
+Amali,Ally,Rito,Female,"['Kotts', 'Genli', 'Kass', 'Kheel', 'Notts', 'Cree']"
+Bedoli,Ally,Rito,Female,"['Link', 'Laissa']"
+Cecili,Ally,Rito,Female,"['Stalkoblin', 'Link']"
+Harth,Ally,Rito,Male,"['Revali', 'Calamity Ganon', 'Kaneli', 'Molli', 'Link', 'Teba']"
+Huck,Ally,Rito,Male,"['Revali', 'Verla']"
+Jogo,Ally,Hylian,Male,['Juney']
+Juney,Ally,Hylian,Female,['Jogo']
+Kaneli,Ally,Rito,Male,['Teba']
+Laissa,Ally,Rito,Female,[]
+Mazli,Ally,Rito,Male,['Link']
+Misa,Ally,Rito,Female,[]
+Nekk,Ally,Rito,Male,[]
+Saki,Ally,Rito,Female,"['Revali', 'Kaneli', 'Tulin', 'Link', 'Teba']"
+Verla,Ally,Rito,Male,[]
+Gruve,Ally,Zora,Male,"['Sidon', 'Link', 'King Dorephan', 'Lynel']"
+Ledo,Ally,Zora,Male,"['Dento', 'Sidon', 'Link']"
+Tona,Ally,Zora,Female,"['Cleff', 'Tula', 'Sidon', 'Link', 'Laruta']"
+Tottika,Ally,Zora,Male,[]
+Tula,Ally,Zora,Female,"['King Dorephan', 'Sidon', 'Waterblight Ganon', 'Link']"
+Eryck,Ally,Hylian,Male,['Gruve']
+Dagah Keek,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Mezza Lo,Ally,Sheikah,Male,[]
+Rucco Maag,Ally,Sheikah,Male,[]
+Sidon,Ally,Zora,Male,"['Link', 'King Dorephan', 'Mipha', 'Muzu', 'Calamity Ganon']"
+Soh Kofi,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Torfeau,Ally,Zora,Female,"['Hinox', 'Sidon']"
+Bazz,Ally,Zora,Male,"['King Dorephan', 'Link', 'Gaddison', 'Rivan']"
+Cleff,Ally,Zora,Male,"['Tona', 'Link']"
+Dento,Ally,Zora,Male,"['Link', 'Mipha', 'Marot']"
+Dunma,Ally,Zora,Female,"['Trello', 'Rivan']"
+Finley,Ally,Zora,Female,"['Kayden', 'Link', 'Sidon', 'Kodah']"
+Fronk,Ally,Zora,Male,"['Keye', 'Dento', 'Tumbo', 'Mei', 'Link']"
+Gaddison,Ally,Zora,Female,"['Bazz', 'Rivan']"
+Jiahto,Ally,Zora,Male,['Mipha']
+Kayden,Ally,Zora,Male,"['Link', 'Kodah', 'Finley']"
+Keye,Ally,Zora,Male,"['Fronk', 'Link', 'Mipha', 'Mei', 'Tumbo']"
+King Dorephan,Ally,Zora,Male,"['Muzu', 'Mipha', 'Princess Zelda', 'Link']"
+Kodah,Ally,Zora,Female,"['King Dorephan', 'Kayden', 'Mipha', 'Sidon', 'Link', 'Finley']"
+Laflat,Ally,Zora,Female,"['King Dorephan', 'Mipha', 'Lynel']"
+Laruta,Ally,Zora,Female,"['King Dorephan', 'Tona', 'Tula', 'Trello', 'Mipha', 'Sidon', 'Link']"
+Marot,Ally,Zora,Female,"['Dento', 'Link']"
+Muzu,Ally,Zora,Male,"['King Dorephan', 'Mipha', 'Sidon', 'Link']"
+Ne'ez Yohma,Ally,Sheikah,Male,[]
+Reagah,Ally,Goron,Male,"['Link', 'Sidon']"
+Rivan,Ally,Zora,Male,"['Trello', 'Bazz', 'Gaddison', 'Link', 'Dunma']"
+Seggin,Ally,Zora,Male,"['Mipha', 'Link']"
+Trello,Ally,Zora,Male,"['Link', 'Dento', 'Mipha', 'Rivan', 'Dunma']"
+Tumbo,Ally,Zora,Male,"['Fronk', 'Keye', 'Link', 'Calamity Ganon', 'Mipha', 'Mei']"
+Shai Yota,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Ami,Ally,Hylian,Male,"['Izra', 'Link', 'Yolero']"
+Daka Tuss,Ally,Sheikah,Male,[]
+Izra,Ally,Hylian,Male,[]
+Kaya Wan,Ally,Sheikah,Male,[]
+Lawdon,Ally,Hylian,Male,[]
+Quince,Ally,Hylian,Male,['Satty']
+Satty,Ally,Dog,Male,"['Quince', 'Link']"
+Sheh Rata,Ally,Unknown,Unknown,[]
+Yolero,Ally,Hylian,Male,[]
+Jitan Sa'mi,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Tahno O'ah,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Agus,Ally,Hylian,Male,['Link']
+Celessa,Ally,Hylian,Female,"['Link', 'Guardian Stalker', 'Impa', 'King Rhoam']"
+Garill,Ally,Hylian,Male,"['Guardian Stalker', 'Link']"
+Joute,Ally,Hylian,Male,['Link']
+Letty,Ally,Hylian,Female,[]
+Spinch (Horse),Ally,Horse,Unknown,[]
+Spinch (Hylian),Ally,Hylian,Unknown,[]
+Toma,Ally,Hylian,Female,[]
+Calip,Ally,Hylian,Male,[]
+Dow Na'eh,Ally,Sheikah,Male,[]
+Flavi,Ally,Gerudo,Female,[]
+Garini,Ally,Hylian,Male,[]
+Kah Yah,Ally,Sheikah,Male,[]
+Kam Urog,Ally,Sheikah,Male,[]
+Mimos,Ally,Hylian,Male,[]
+Muwo Jeem,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Perda,Ally,Gerudo,Female,"['Yaido', 'Wabbin', 'Pyra', 'Sumati', 'Ashai', 'Barta']"
+Tawa Jinn,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Teli,Ally,Hylian,Male,"['Robbie', 'Bokoblin', 'Tali', 'Link', 'Calamity Ganon']"
+Wabbin,Ally,Hylian,Male,['Perda']
+Amira,Ally,Hylian,Female,"['Pruce', 'Purah', 'Ivee', 'Nikki', 'Azu', 'Link']"
+Aster,Ally,Hylian,Female,"['Karin', 'Medda', 'Link', 'Bolson']"
+Azu,Ally,Hylian,Male,"['Pruce', 'Purah', 'Ivee', 'Karin', 'Sefaro', 'Amira', 'Link']"
+Clavia,Ally,Hylian,Female,"['Reede', 'Karin', 'Link']"
+Dantz,Ally,Hylian,Male,[]
+Horned Statue,Ally,Unknown,Male,"['Teebo', 'Hylia']"
+Ivee,Ally,Hylian,Female,"['Pruce', 'Amira', 'Azu', 'Link']"
+Karin,Ally,Hylian,Female,"['Clavia', 'Reede']"
+Koyin,Ally,Hylian,Female,"['Dantz', 'Link']"
+Leop,Ally,Hylian,Male,"['Purah', 'Prima']"
+Manny (Breath of the Wild),Ally,Hylian,Male,['Link']
+Medda,Ally,Hylian,Male,"['Aster', 'Link', 'Princess Zelda']"
+Myahm Agana,Ally,Sheikah,Male,[]
+Nack,Ally,Hylian,Male,"['Sayge', 'Link']"
+Narah,Ally,Hylian,Female,"['Nikki', 'Link', 'Amira', 'Nack', 'Nebb']"
+Nebb,Ally,Hylian,Male,"['Nikki', 'Link', 'Narah', 'Nack']"
+Nikki,Ally,Hylian,Female,"['Purah', 'Link', 'Narah', 'Amira', 'Nack', 'Nebb']"
+Prima,Ally,Hylian,Female,['Link']
+Pruce,Ally,Hylian,Male,"['Ivee', 'Amira', 'Azu', 'Link']"
+Purah,Ally,Sheikah,Female,"['Robbie', 'Link', 'Paya', 'Impa', 'Symin', 'Calamity Ganon', 'Princess Zelda', 'Monk Maz Koshia']"
+Ralera,Ally,Hylian,Female,"['Rhodes', 'Purah', 'Rozel', 'Link']"
+Reede,Ally,Hylian,Male,"['Purah', 'Karin', 'Clavia', 'Link']"
+Rhodes,Ally,Hylian,Male,"['Ralera', 'Link']"
+Sayge,Ally,Hylian,Male,"['Senna', 'Sefaro']"
+Sefaro,Ally,Hylian,Male,"['Sayge', 'Purah', 'Senna', 'Azu', 'Link']"
+Seldon,Ally,Hylian,Male,"['Sayge', 'Sophie', 'Link']"
+Senna,Ally,Hylian,Female,"['Sayge', 'Sefaro']"
+Sophie,Ally,Hylian,Female,"['Karson', 'Link', 'Seldon']"
+Symin,Ally,Sheikah,Male,"['Purah', 'Calamity Ganon', 'Impa', 'Link']"
+Tamana,Ally,Hylian,Female,['Link']
+Teebo,Ally,Hylian,Male,"['Reede', 'Horned Statue', 'Link']"
+Thadd,Ally,Hylian,Male,"['Link', 'Seldon']"
+Tokk,Ally,Hylian,Male,"['Purah', 'Uma', 'Link']"
+Uma,Ally,Hylian,Female,"['Calamity Ganon', 'Link']"
+Worten,Ally,Hylian,Male,[]
+Armes,Ally,Hylian,Male,"['Numar', 'Sebasto', 'Link']"
+Chessica,Ally,Hylian,Female,['Link']
+Cloyne,Ally,Hylian,Male,"['Armes', 'Link']"
+Kiana,Ally,Hylian,Female,[]
+Kinov,Ally,Hylian,Male,"['Kiana', 'Link']"
+Mubs,Ally,Hylian,Female,[]
+Numar,Ally,Hylian,Male,[]
+Rozel,Ally,Hylian,Male,['Ralera']
+Sebasto,Ally,Hylian,Male,[]
+Yah Rin,Ally,Sheikah,Male,[]
+Zuta,Ally,Hylian,Male,[]
+Chaas Qeta,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Korgu Chideh,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Mimo,Ally,Rito,Male,['Link']
+Anly,Ally,Hylian,Male,"['Kampo', 'Link', 'Cima', 'Shay']"
+Brokka,Ally,Hylian,Female,['Link']
+Bugut,Ally,Hylian,Male,"['Claree', 'Link']"
+Cima,Ally,Hylian,Female,['Link']
+Cotera,Ally,Great Fairy,Female,"['Link', 'Dorian', 'Tera', 'Kaysa']"
+Darton,Ally,Hylian,Male,"['Link', 'Shibo', 'Rensa', 'Tasseren']"
+Domidak,Ally,Hylian,Male,"['Misko', 'Prissen', 'Link']"
+Giro,Ally,Hylian,Male,[]
+Ha Dahamar,Ally,Sheikah,Male,[]
+Hila Rao,Ally,Sheikah,Male,[]
+Hino,Ally,Hylian,Male,['Link']
+Kampo,Ally,Hylian,Male,[]
+Magda,Ally,Hylian,Female,[]
+Prissen,Ally,Hylian,Male,"['Domidak', 'Misko', 'Link']"
+Qukah Nata,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Ree Dahee,Ally,Sheikah,Male,[]
+Rensa,Ally,Hylian,Male,"['Darton', 'Link', 'Tasseren', 'Purah', 'Shibo']"
+Sagessa,Ally,Hylian,Female,"['Darton', 'Link', 'Shibo']"
+Shai Utoh,Ally,Sheikah,Male,[]
+Shay,Ally,Hylian,Male,[]
+Shee Vaneer,Ally,Sheikah,Male,[]
+Shee Venath,Ally,Sheikah,Male,[]
+Shibo,Ally,Hylian,Male,"['Link', 'Darton', 'Rensa', 'Tasseren']"
+Shoda Sah,Ally,Unknown,Unknown,[]
+Tasseren,Ally,Hylian,Male,"['Rensa', 'Link']"
+Toto Sah,Ally,Sheikah,Male,[]
+Cado,Ally,Sheikah,Male,"['Rola', 'Calamity Ganon', 'Dorian', 'Impa', 'Link']"
+Claree,Ally,Sheikah,Female,"['Nanna', 'Link', 'Lasli']"
+Cottla,Ally,Sheikah,Female,"['Koko', 'Dorian', 'Link']"
+Dorian,Ally,Sheikah,Male,"['Cottla', 'Cado', 'Link', 'Paya', 'Impa', 'Yiga Blademaster', 'Cotera', 'Koko']"
+Impa,Ally,Sheikah,Female,"['Paya', 'Hylia', 'King Rhoam', 'Princess Zelda', 'Bokoblin', 'Fire Wizzrobe', 'Link', 'Purah', 'Calamity Ganon']"
+Koko,Ally,Sheikah,Female,"['Cottla', 'Link', 'Dorian']"
+Lakna Rokee,Ally,Sheikah,Male,"['Calamity Ganon', 'Link', 'Hylia']"
+Lasli,Ally,Sheikah,Female,"['Claree', 'Link', 'Nanna']"
+Mellie,Ally,Sheikah,Female,"['Steen', 'Olkin']"
+Nanna,Ally,Sheikah,Female,"['Purah', 'Claree', 'Robbie', 'Impa', 'Symin', 'Jerrin', 'Lasli']"
+Olkin,Ally,Sheikah,Male,"['Mellie', 'Link']"
+Ollie,Ally,Sheikah,Male,"['Olkin', 'Mellie', 'Link']"
+Paya,Ally,Sheikah,Female,"['Cado', 'Link', 'Purah', 'Impa', 'Dorian', 'Princess Zelda']"
+Rola,Ally,Hylian,Female,"['Cado', 'Link']"
+Steen,Ally,Sheikah,Male,"['Calamity Ganon', 'Trissa', 'Olkin', 'Link']"
+Ta'loh Naeg,Ally,Sheikah,Male,[]
+Trissa,Ally,Sheikah,Female,"['Steen', 'Olkin']"
+Black Bokoblin,Enemy,Bokoblin,Unknown,['Blue Bokoblin']
+Black Lizalfos,Enemy,Lizalfos,Unknown,"['Lizalfos', 'Blue Lizalfos', 'Ice-Breath Lizalfos', 'Electric Lizalfos', 'Stalizalfos', 'Fire-Breath Lizalfos', 'Golden Lizalfos', 'Silver Lizalfos']"
+Black Moblin,Enemy,Moblin,Unknown,['Blue Moblin']
+Blizzrobe,Enemy,Wizzrobe,Unknown,"['Ice Chuchu', 'Ice Keese', 'Ice Wizzrobe']"
+Blue Bokoblin,Enemy,Bokoblin,Unknown,"['White-Maned Lynel', 'Bokoblin', 'Link']"
+Blue Lizalfos,Enemy,Lizalfos,Unknown,"['Lizalfos', 'Electric Lizalfos', 'Ice-Breath Lizalfos', 'Stalizalfos', 'Fire-Breath Lizalfos', 'Black Lizalfos', 'Cursed Lizalfos', 'Golden Lizalfos', 'Silver Lizalfos']"
+Blue-Maned Lynel,Enemy,Lynel,Unknown,['Lynel']
+Blue Moblin,Enemy,Moblin,Unknown,"['Moblin', 'Silver Moblin', 'Black Moblin']"
+Bokoblin,Enemy,Bokoblin,Unknown,"['Blue Bokoblin', 'Link', 'Golden Bokoblin', 'Stalkoblin', 'Black Bokoblin', 'Silver Bokoblin']"
+Chuchu,Enemy,Chuchu,Unknown,"['Fire Chuchu', 'Ice Chuchu', 'Link', 'Electric Chuchu']"
+Cursed Bokoblin,Enemy,Bokoblin,Unknown,"['Cursed Moblin', 'Bokoblin', 'Link', 'Stalkoblin', 'Cursed Lizalfos']"
+Cursed Lizalfos,Enemy,Lizalfos,Unknown,"['Cursed Bokoblin', 'Stalizalfos', 'Cursed Moblin']"
+Cursed Moblin,Enemy,Moblin,Unknown,"['Cursed Bokoblin', 'Moblin', 'Link', 'Stalmoblin']"
+Decayed Guardian,Enemy,Guardian,Unknown,"['Guardian Skywatcher', 'Link', 'Guardian Stalker', 'Guardian Turret', 'Sentry']"
+Electric Chuchu,Enemy,Chuchu,Unknown,"['Chuchu', 'Fire Chuchu', 'Ice Chuchu']"
+Electric Keese,Enemy,Keese,Unknown,"['Link', 'Fire Keese']"
+Electric Lizalfos,Enemy,Lizalfos,Unknown,"['Lizalfos', 'Link']"
+Electric Wizzrobe,Enemy,Wizzrobe,Unknown,"['Electric Keese', 'Electric Chuchu', 'Link']"
+Fire-Breath Lizalfos,Enemy,Lizalfos,Unknown,"['Lizalfos', 'Link']"
+Fire Chuchu,Enemy,Chuchu,Unknown,"['Chuchu', 'Ice Chuchu', 'Electric Chuchu', 'Link']"
+Fire Keese,Enemy,Keese,Unknown,"['Ice Keese', 'Link', 'Electric Keese', 'Keese']"
+Fire Wizzrobe,Enemy,Wizzrobe,Unknown,"['Fire Keese', 'Fire Chuchu']"
+Forest Octorok,Enemy,Octorok,Unknown,"['Water Octorok', 'Treasure Octorok', 'Snow Octorok', 'Sky Octorok', 'Rock Octorok', 'Link']"
+Frost Pebblit,Enemy,Talus,Unknown,"['Frost Talus', 'Link', 'Stone Pebblit', 'Igneo Pebblit']"
+Golden Bokoblin,Enemy,Bokoblin,Unknown,"['Silver Bokoblin', 'Black Bokoblin', 'Stalkoblin', 'Blue Bokoblin', 'Bokoblin']"
+Golden Lizalfos,Enemy,Lizalfos,Unknown,"['Ice-Breath Lizalfos', 'Black Lizalfos', 'Silver Lizalfos', 'Lizalfos', 'Fire-Breath Lizalfos', 'Blue Lizalfos', 'Stalizalfos', 'Electric Lizalfos']"
+Golden Lynel,Enemy,Lynel,Unknown,"['White-Maned Lynel', 'Link', 'Old Man', 'Blue-Maned Lynel', 'Silver Lynel', 'Lynel']"
+Golden Moblin,Enemy,Moblin,Unknown,"['Moblin', 'Bokoblin', 'Link', 'Silver Moblin', 'Old Man']"
+Guardian Stalker,Enemy,Guardian,Unknown,"['Guardian Skywatcher', 'Link', 'Calamity Ganon', 'Guardian Turret', 'Decayed Guardian', 'Sentry']"
+Guardian Scout I,Enemy,Guardian,Unknown,['Calamity Ganon']
+Guardian Scout II,Enemy,Guardian,Unknown,"['Guardian Scout I', 'Link']"
+Guardian Scout III,Enemy,Guardian,Unknown,"['Guardian Turret', 'Guardian Scout II', 'Link']"
+Guardian Scout IV,Enemy,Guardian,Unknown,['Link']
+Guardian Skywatcher,Enemy,Guardian,Unknown,"['Link', 'Calamity Ganon', 'Guardian Turret']"
+Guardian Turret,Enemy,Guardian,Unknown,"['Link', 'Calamity Ganon', 'Decayed Guardian']"
+Ice Chuchu,Enemy,Chuchu,Unknown,"['Chuchu', 'Electric Chuchu', 'Fire Chuchu']"
+Ice Keese,Enemy,Keese,Unknown,"['Link', 'Electric Keese', 'Fire Keese', 'Keese']"
+Ice-Breath Lizalfos,Enemy,Lizalfos,Unknown,"['Lizalfos', 'Blue Lizalfos', 'Silver Lizalfos', 'Stalizalfos', 'Fire-Breath Lizalfos', 'Black Lizalfos', 'Cursed Lizalfos', 'Golden Lizalfos', 'Electric Lizalfos']"
+Ice Wizzrobe,Enemy,Wizzrobe,Unknown,"['Ice Chuchu', 'Ice Keese', 'Link']"
+Igneo Pebblit,Enemy,Talus,Unknown,"['Igneo Talus', 'Link', 'Stone Pebblit', 'Frost Pebblit']"
+Keese,Enemy,Keese,Unknown,"['Ice Keese', 'Electric Keese', 'Fire Keese']"
+Lizalfos,Enemy,Lizalfos,Unknown,"['Ice-Breath Lizalfos', 'Moblin', 'Black Lizalfos', 'Link', 'Golden Lizalfos', 'Silver Lizalfos', 'Fire-Breath Lizalfos', 'Cursed Lizalfos', 'Blue Lizalfos', 'Stalizalfos', 'Electric Lizalfos']"
+Lynel,Enemy,Lynel,Unknown,"['Moblin', 'Old Man', 'Silver Lynel', 'Golden Lynel', 'Princess Zelda', 'White-Maned Lynel', 'Link', 'Blue-Maned Lynel', 'Kilton']"
+Meteo Wizzrobe,Enemy,Wizzrobe,Unknown,"['Fire Wizzrobe', 'Fire Keese', 'Fire Chuchu']"
+Moblin,Enemy,Moblin,Unknown,"['Cursed Moblin', 'Hinox', 'Beedle', 'Stalmoblin', 'Old Man', 'Princess Zelda', 'Bokoblin', 'Lizalfos', 'Golden Moblin', 'Link']"
+Rock Octorok,Enemy,Octorok,Unknown,['Link']
+Sentry,Enemy,Guardian,Unknown,"['Guardian Skywatcher', 'Yunobo', 'Link']"
+Silver Bokoblin,Enemy,Bokoblin,Unknown,"['Blue Bokoblin', 'Bokoblin', 'Golden Bokoblin', 'Stalkoblin', 'Black Bokoblin']"
+Silver Lizalfos,Enemy,Lizalfos,Unknown,"['Ice-Breath Lizalfos', 'Black Lizalfos', 'Link', 'Golden Lizalfos', 'Lizalfos', 'Fire-Breath Lizalfos', 'Calamity Ganon', 'Cursed Lizalfos', 'Blue Lizalfos', 'Stalizalfos', 'Electric Lizalfos']"
+Silver Lynel,Enemy,Lynel,Unknown,"['White-Maned Lynel', 'Lynel']"
+Silver Moblin,Enemy,Moblin,Unknown,"['Black Moblin', 'Golden Moblin', 'Moblin', 'Calamity Ganon']"
+Sky Octorok,Enemy,Octorok,Unknown,['Link']
+Snow Octorok,Enemy,Octorok,Unknown,"['Water Octorok', 'Forest Octorok', 'Treasure Octorok', 'Sky Octorok', 'Rock Octorok', 'Link']"
+Stalizalfos,Enemy,Lizalfos,Unknown,"['Ice-Breath Lizalfos', 'Black Lizalfos', 'Link', 'Stalmoblin', 'Golden Lizalfos', 'Silver Lizalfos', 'Lizalfos', 'Stalkoblin', 'Fire-Breath Lizalfos', 'Cursed Lizalfos', 'Blue Lizalfos', 'Electric Lizalfos']"
+Stalkoblin,Enemy,Bokoblin,Unknown,"['Blue Bokoblin', 'Bokoblin', 'Stalmoblin', 'Cursed Bokoblin', 'Golden Bokoblin', 'Black Bokoblin', 'Silver Bokoblin', 'Stalizalfos']"
+Stalmoblin,Enemy,Moblin,Unknown,"['Moblin', 'Link', 'Cursed Moblin']"
+Stone Pebblit,Enemy,Talus,Unknown,"['Link', 'Stone Talus']"
+Thunder Wizzrobe,Enemy,Wizzrobe,Unknown,"['Electric Wizzrobe', 'Electric Keese', 'Electric Chuchu', 'Link']"
+Treasure Octorok,Enemy,Octorok,Unknown,"['Water Octorok', 'Forest Octorok', 'Snow Octorok', 'Sky Octorok', 'Rock Octorok', 'Link']"
+Water Octorok,Enemy,Octorok,Unknown,['Link']
+White-Maned Lynel,Enemy,Lynel,Unknown,"['Bokoblin', 'Lynel', 'Blue-Maned Lynel']"
+Yiga Blademaster,Enemy,Sheikah,Male,"['Link', 'Master Kohga']"
+Yiga Footsoldier,Enemy,Sheikah,Male,"['Robbie', 'Link', 'Purah', 'Master Kohga', 'Calamity Ganon', 'Yiga Blademaster', 'Princess Zelda', 'Monk Maz Koshia']"
+Stone Talus,Boss,Talus,Unknown,"['Link', 'Frost Talus', 'Igneo Talus', 'Kilton']"
+Stone Talus (Junior),Boss,Talus,Unknown,['Stone Talus']
+Stone Talus (Senior),Boss,Talus,Unknown,['Stone Talus']
+Stone Talus (Luminous),Boss,Talus,Unknown,"['Stone Talus', 'Calamity Ganon', 'Kilton']"
+Stone Talus (Rare),Boss,Talus,Unknown,"['Link', 'Stone Talus', 'Calamity Ganon', 'Kilton']"
+Igneo Talus,Boss,Talus,Unknown,"['Link', 'Stone Talus', 'Calamity Ganon', 'Fugo', 'Kilton']"
+Frost Talus,Boss,Talus,Unknown,"['Link', 'Stone Talus', 'Calamity Ganon', 'Kilton']"
+Hinox,Boss,Hinox,Unknown,"['Stalnox', 'Fire Keese', 'Bokoblin', 'Link']"
+Blue Hinox,Boss,Hinox,Unknown,"['Torfeau', 'Link', 'Black Hinox', 'Hinox', 'Calamity Ganon', 'Stalnox', 'Kilton']"
+Black Hinox,Boss,Hinox,Unknown,"['Link', 'Hinox', 'Calamity Ganon', 'Stalnox', 'Blue Hinox', 'Kilton']"
+Stalnox,Boss,Hinox,Unknown,"['Granté', 'Link', 'Hinox', 'Kilton']"
+Molduga,Boss,Molduga,Unknown,"['Link', 'Molduking', 'Kilton']"
+Igneo Talus Titan,Boss,Talus,Unknown,"['Frost Talus', 'Daruk', 'Stone Talus', 'Igneo Talus', 'Molduking', 'Igneo Pebblit']"
+Molduking,Boss,Molduga,Unknown,"['Traysi', 'Teake', 'Igneo Talus Titan', 'Molduga']"
+Windblight Ganon,Boss,Unknown,Unknown,"['Revali', 'Calamity Ganon', 'Waterblight Ganon', 'Fireblight Ganon', 'Link', 'Thunderblight Ganon']"
+Fireblight Ganon,Boss,Unknown,Unknown,"['Daruk', 'Yunobo', 'Windblight Ganon', 'Calamity Ganon', 'Waterblight Ganon', 'Link', 'Thunderblight Ganon']"
+Thunderblight Ganon,Boss,Unknown,Unknown,"['Windblight Ganon', 'Calamity Ganon', 'Waterblight Ganon', 'Fireblight Ganon', 'Link', 'Urbosa']"
+Waterblight Ganon,Boss,Unknown,Unknown,"['Mipha', 'Sidon']"
+Master Kohga,Boss,Sheikah,Male,['Link']
+Monk Maz Koshia,Boss,Sheikah,Male,"['Link', 'Yiga Footsoldier', 'Thunderblight Ganon']"
+Calamity Ganon,Boss,Gerudo,Male,"['Waterblight Ganon', 'Windblight Ganon', 'Dark Beast Ganon', 'Fireblight Ganon', 'Thunderblight Ganon']"
+Dark Beast Ganon,Boss,Gerudo,Male,"['Link', 'Calamity Ganon', 'Princess Zelda']"

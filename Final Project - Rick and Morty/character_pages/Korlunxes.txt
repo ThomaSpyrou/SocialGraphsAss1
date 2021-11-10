@@ -1,0 +1,28 @@
+{{Character
+|image = PibblesBodyguards.png
+|species = 
+|status = Alive
+|job = Bodyguards
+|affiliation = [[Shrimply Pibbles]]<br>[[St. Gloopy Noops Hospital]]
+|voice actor = 
+|first = Interdimensional Cable 2: Tempting Fate
+}}
+
+'''Korlunxes'''<ref>https://books.google.com/books?id=paHmDwAAQBAJ&pg=PA72&lpg=PA72&dq=rick+morty+korlunxes&source=bl&ots=ILcpVZryRj&sig=ACfU3U3g7NIqdg2FZ0P2gfUM8m50KYVgYQ&hl=en&sa=X&ved=2ahUKEwiow62poKXxAhVIqZ4KHWVfBsQQ6AEwAHoECAgQAg#v=onepage&q=rick%20morty%20korlunxes&f=false</ref> are an alien species that made their only appearance in [[Interdimensional Cable 2: Tempting Fate]].  Two of them served as bodyguards of [[Shrimply Pibbles]]. They appeared after [[Jerry Smith]] held an entire operating room hostage in an attempt to force the doctors to accept Jerry's donation.  They shot Jerry when he kept resisting them.
+
+==Appearance==
+
+Korlunxes are a mammal-like species that is covered in blue fur. They have a dog like nose. They wear very formal suits and their fur is well kept and groomed. They also wear earpiece over where their ears would theoretically be.
+
+==Trivia==
+
+* Their designs greatly resemble the Wookiees from the ''Star Wars'' franchise in terms of their appearance but their fur is colored dark blue instead of brown and the fur is more groomed.
+
+== References ==
+<references />
+
+==Site navigation==
+{{Characters}}
+[[Category:Aliens]]
+[[Category:Characters]]
+[[Category:Male Characters]]

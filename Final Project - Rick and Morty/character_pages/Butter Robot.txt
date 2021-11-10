@@ -1,0 +1,65 @@
+{{object
+|image = [[File:Butter_Robot_Picture.png|thumb]]
+|first = "[[Something Ricked This Way Comes]]"
+|last = "[[Something Ricked This Way Comes]]"|dimension = [[Replacement Dimension]]
+|planet = [[Earth]]
+|type = Robot|job = Pass butter}}
+
+{{Quote|You pass butter.|font-size = 20|-[[Rick]] explaining its purpose|Something Ricked This Way Comes}}The '''Butter Robot''' is a small, two armed, mobile, sentient robot [[Rick Sanchez]] created for the sole purpose of passing butter.
+
+==History==
+In "[[Something Ricked This Way Comes]]" upon its creation, it asks [[Rick]], "What is my purpose?", in response, Rick tells it to pass the butter. Moments after completing its task, the Robot repeats, "What is my purpose?" Rick clarifies that it passes butter. It looks down realizing its sole reason for existence is for something so mundane and says "Oh my god." Rick responds "Yeah, welcome to the club, pal."
+
+Later on, while Rick is dining alone, the Robot passive-aggressively slams a whole stick of butter in Rick's food tray, then spurns his offer to see a movie by answering: "I am not programmed for friendship."
+
+The Butter Robot makes its last appearance in the same episode as [[Morty]]'s science fair project held up inside a sandwich bag after Rick gives it to Morty. Its last word on screen is "Butter."
+
+The Butter Robot returns in a ''[[Rick and Morty]]'' commercial for ''Old Spice'', and is tossed around, and eventually eaten, and destroyed by three giant anthropomorphic Old Spice spray cans.
+
+The Butter Robot returns in a Rick and Morty commercial for Wendys.
+
+== Trivia ==
+[[Justin Roiland]] has stated that the '''Butter Robot''' is voiced by a talking app he used for 2 weeks when he threw out his voice while voicing Lemongrab on Adventure Time.
+
+==''[[Pocket Mortys]]''==
+{{PM Item
+|image = Butter Robot.png
+|part or final item = Item
+|craftable = Yes
+|salesman rick = No
+|battle = No
+|reward = No}}
+{{quote|Why reach for the butter yourself?|In-game description}}
+In [[Pocket Mortys]], Butter Robot can be created by combining [[Robot]] with [[Tin Can]].
+
+===Recipe===
+{{Recipe|Robot|Tin Can|equal=Butter Robot}}
+
+===Quests===
+*[[Butter Me Up Rick]]
+*[[The Ricktatorship]]
+{{clear}}
+
+==Appearances==
+===[[Season 1]]===
+*"[[Something Ricked This Way Comes]]"
+
+===[[Season 4]]===
+*"[[The Old Man and the Seat]]" (cameo)
+
+===Other Media===
+*''Rick and Morty Old Spice Commercial''
+*Rick and Morty Wendys Commercial 2
+*Rick and Morty in the Eternal Nightmare Machine
+*Fortnite
+
+==Site navigation==
+{{Objects}}
+{{Pocket Mortys}}
+[[Category:Gadgets]]
+[[Category:Pocket Mortys]]
+[[Category:Pocket Mortys Items]]
+[[Category:Pocket Mortys Craftable]]
+[[Category:Robots]]
+[[Category:Genderless]]
+[[Category:Characters]]

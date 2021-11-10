@@ -1,0 +1,33 @@
+{{Stub}}
+{{Character
+|name = Rebel Doctor
+|image = 
+|first = Star Mort Rickturn of the Jerri
+|species = Alien
+|voice actor = [[Dan Harmon]]
+|status = Alive
+|hair = White
+|job = Medic
+|affiliation = [[The Defiance]]}}
+The '''{{PAGENAME}}''' is a member of [[the Defiance]], in which he seemingly serves as a medic. He is an ally of [[Space Beth]], and is addicted to pills.
+
+==Biography==
+
+==Appearance==
+The Rebel Doctor is similar in appearance to a [[Garblovians|Garblovian]], but with a rounder head, fewer teeth, and larger, more wide-set eyes. He is a diminutive creature, but spends most of his time inside of an orange robotic armor with six arms. Additionally, his right eye appears to be cybernetic. 
+==Personality==
+The Rebel Doctor is a friendly individual who is on good terms with Beth Smith, knowing a lot about her father Rick. He is good with his robotic armor and at fixing the cybernetics in Beth's arm, but is also addicted to several types of pills. 
+
+==Episode appearances==
+{{Appearances
+|410=true
+}}
+
+==Trivia==
+
+
+==Site navigation==
+{{Characters}}
+[[Category:Aliens]]
+[[Category:Male Characters]]
+[[Category:Characters]]

@@ -1,0 +1,29 @@
+{{Stub}}{{SimilarName|Slow Rick|[[Rick (disambiguation)|other versions of Rick]]}}
+{{Character
+|name        = Slow Rick
+|aka         = Tall Morty
+|image       = Slowrick.png
+|species     = Human
+|status      = Alive
+|job         = Student
+|voice actor = [[Justin Roiland]]
+|first       = Tales From the Citadel
+}}{{Quote|D-Did I gradgu-tate this time yet?|Slow Rick|Tales From the Citadel}}
+'''{{PAGENAME}}''' (also known as "'''Tall Morty'''", as he is called by [[Teacher Rick]]) is a version of [[Rick Sanchez]] that lives in the [[The Citadel]]. He is shown being educated at the Morty Academy during the episode "[[Tales From the Citadel]]."
+
+==Appearances==
+===[[Season 3]]===
+*"[[Tales From the Citadel]]"
+
+==Trivia==
+*It has been theorized that this Rick originated from a reality in which he looked into the microscope that [[Mr. Needful]] gave him.
+*This Rick is similar to both [[Dumb Rick]], from Issue 3 of the ''[[Rick and Morty (comic series)|Rick and Morty]]'' comic series, and the Morty Rick avatar from the [[Rick and Morty (TV series)|Rick and Morty]] game ''[[Pocket Mortys]]''.
+**It is possible that they're all the same Rick, as it is possible that he went to the Citadel after murdering [[Genius Morty|his Morty]], and was treated as a Morty due to sharing their intelligence.
+
+* He seems to be a commentary on how modern disabled school children are treated.
+
+==Navigation==
+{{Characters}}
+[[Category:Ricks]]
+[[Category:Male Characters]]
+[[Category:Characters]]

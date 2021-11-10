@@ -1,0 +1,32 @@
+{{Species 
+|image1 =Hambrosians_Bench.png 
+|type: = Cephalopod-humanoid
+|homeworld: = Haamden
+|notable_members: = X’Ulililir Popoiv
+|affliations: = [[Galactic Federation]]
+|first_seen_in: = [[Mortynight Run]]
+}}
+
+'''Hambrosians''' are a species of polydimensional aliens, meaning that they exist on several planes of reality at once. 
+
+==Appearance==
+Their appearances are reminiscent of sea creatures, with fin-like hands and squid-like head-top. They seem to generally have blue skin and yellow eyes.
+
+==Biology==
+Being polydimensional, or 'poly', they do not seem to enjoy their stay on [[Earth]], as it appears on only one plane of reality (it does have one more plane where dogs and humans have changed roles, but it was a little "too far-fetched" for Hambrosians taste). And because Hambrosian genitals don't start manifesting until plane ζ, they are unable to form sexual bonds with any humans.
+
+A Hambrosian named '''X’Ulililir Popoiv''' wrote an article in a magazine called Nazz about this, titled "Earth Sucks If You’re Poly: a NAZZ Special Report". <ref name="nazz article">{{cite web | title = Earth Sucks If You’re Poly: a NAZZ Special Report | url = http://fedconnect.galacticfederation.com/post/158417489298/earth-sucks-if-youre-poly-a-nazz-special-report | accessdate = 2017-03-29 }}</ref>
+
+==History==
+Hambrosians could be seen at [[Blips and Chitz]] in "[[Mortynight Run]]" when [[Rick]] brought [[Morty]] there for the first time. 
+
+Another Hambrosian was invited to [[Birdperson]] and [[Tammy]]'s wedding on [[Planet Squanch]] in "[[The Wedding Squanchers]]" and was killed by the [[Galactic Federation]].
+
+==Trivia==
+*They appear to be used to being discriminated against
+*Their saying, "For the love of Grundis", could point to their God being named Grundis
+
+{{Reflist}}
+[[Category:Races]]
+[[Category:Aliens]]
+[[Category:Characters]]

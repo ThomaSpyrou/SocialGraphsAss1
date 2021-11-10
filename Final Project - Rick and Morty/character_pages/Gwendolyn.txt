@@ -1,0 +1,52 @@
+{{Character|image = gwendolyn cropped.png|species = Robot|status = Unknown|origin = [[Gazorpazorp]]|family = [[Morty Jr.]] (son)|relationships = [[Morty Smith]] (user)|first = Raising Gazorpazorp}}'''Gwendolyn''' is a sex robot that [[Rick Sanchez|Rick]] buys for [[Morty Smith|Morty]] at a [[Pawn Shop Planet|pawn shop]] in outer space.
+
+==History==
+Morty convinces Rick to buy it for him, under the guise of it being a souvenir of all their adventures together. After Morty has sex with her, she turns into a floating sphere and produces [[Morty Jr.]]. Upon further investigation, Rick finds out that she is a sort of reproduction robot from the planet [[Gazorpazorp]].
+
+The robot produces Gazorpian offspring, and is made by female Gazorpazorps to sustain the population. They are sent out to have intercourse with male Gazorpians and then sent back to their base to "give birth". If the offspring is female, they will take care of it and raise it properly. If the offspring is male, they will abandon them outside, because of their destructive behaviour, or as they call it, they "get to play outside".
+
+Gwendolyn can be spotted on the Loot Crate exclusive puzzle in the garage.
+
+==''[[Pocket Mortys]]''==
+{{PM Item
+|name = Gwendolyn Doll
+|image = Gwendolyn Doll.png
+|part or final item = Item
+|craftable = Yes
+|salesman rick = No
+|battle = No
+|reward = No}}
+{{Quote|Will keep you company, always.|In-game description}}
+
+===Recipe===
+{{Recipe|Love Potion|Robot||equal = Gwendolyn Doll}}
+
+===Quests===
+*[[The Ricktatorship]]
+*[[Behind Every Lover, There is a Rick]]
+{{Clear}}
+
+==Appearances==
+===[[Season 1]]===
+*"[[Raising Gazorpazorp]]"
+*"[[Rixty Minutes]]" (mentioned)
+===[[Season 2]]===
+*"[[Mortynight Run]]" (cameo)
+===Other Media===
+*[[Pocket Mortys]]
+*[[Rick and Morty Exquisite Corpse]]
+
+==Site navigation==
+{{Objects}}
+{{Pocket Mortys}}
+[[Category:Objects]]
+[[Category:Gadgets]]
+[[Category:Robots]]
+[[Category:Genderless]]
+[[Category:Pocket Mortys Craftable]]
+[[Category:Characters]]
+[[Category:Female Characters]]
+[[Category:Smith Family]]
+[[Category:Unknown Fate]]
+[[Category:Love Interests]]
+[[Category:Morty's Love Interests]]

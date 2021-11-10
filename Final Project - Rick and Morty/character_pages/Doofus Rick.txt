@@ -1,0 +1,79 @@
+{{SimilarName|Doofus Rick|[[Rick Sanchez (J19α7)|Doofus Rick (comic series)]] or [[Rick (disambiguation)|other versions of Rick]]}}
+{{Character
+|name = Doofus Rick
+|image = S1e10 doofy.png
+|origin = Earth ([[Dimension J19ζ7]])
+|alias = Doofus Rick
+|status = Unknown
+|first = Close Rick-Counters of the Rick Kind
+|voice actor = [[Justin Roiland]]
+|species = Human
+|job = Scientist
+|age = 70}}
+{{Quote|What's that dipshit doing out there? Are you FRIENDS with him?! You know he eats his own shit, right?|[[Rick Sanchez|Rick]] to [[Jerry Smith|Jerry]] as Doofus Rick stands in the rain outside Jerry's house.|Close Rick-Counters of the Rick Kind}}
+'''Rick Sanchez''' of [[Dimension J19ζ7|Dimension J19 Zeta 7]], commonly known as '''{{PAGENAME}}''', is the least respected of all the Ricks. He first appeared in the episode "[[Close Rick-counters of the Rick Kind]]." Other Ricks claim that Doofus Rick’s home dimension is themed around people eating their own feces; on the Blu-ray/DVD commentary track for "[[Close Rick-counters of the Rick Kind]]", however, Justin Roiland has confirmed that Doofus Rick does ''not'' actually do the aforementioned action, which means the other Ricks are merely bullying him. Doofus Rick was a member of the [[Citadel's militia]].
+
+==History==
+[[File:Vlcsnap-2015-01-31-05h43m53s187.png|thumb|Doofus Rick and Jerry playing with Lego bricks.]]
+Doofus Rick never married and never had any children, so his [[Eric Stoltz Mask Morty|Morty]] was assigned to him from another reality where everyone looks like Eric Stoltz from the movie ''[[wikipedia:Mask (film)|Mask]]''. In his debut appearance, he befriends [[Jerry Smith|Jerry]], and he seems to be the only Rick who genuinely likes him. He returns at the end of the episode, where he simply waves at Jerry from the street on a rainy evening. This is noticed by the main Rick who is amused by the friendship Jerry has with Doofus Rick and goes to call other Ricks about this.
+
+In "[[The Rickshank Rickdemption]]," many Ricks are killed when the [[Citadel of Ricks]] is transported into a prison of the [[Galactic Federation]]. It is unknown if Doofus Rick is one of the Ricks who died.
+
+==Personality==
+Doofus Rick is the kindest and sweetest of all the Ricks. He approached Jerry during the investigation at the [[Smith Residence|Smith house]] and engaged him in conversation, expressing genuine interest in Jerry's life and abilities; perhaps because they were both ostracized and mocked by the rest of the Ricks present, the two quickly bonded.
+
+Doofus Rick's inherently kind and accepting nature came through when Jerry showed him his collection of [[wikipedia:R2-D2|R2-D2]] quarters and asked for his opinion on them.
+
+{{Quote|I'm not going to tell you these coins will increase in value, or even hold their current value. The truth is, you bought 'em because you like 'em. They have value to you. That's what matters.|Doofus Rick to Jerry|Close Rick-Counters of the Rick Kind}}
+
+Despite being deemed a "doofus", Doofus Rick was able to create ovenless brownies with Jerry by mixing chemicals and substances. This hints that Doofus Rick only ''looks'' unintelligent, and is actually quite scientifically skilled and resourceful. This is further hinted, as he was able to return to the Replacement Dimension, suggesting he can use a portal gun. His interactions with Jerry indicate he may be more [[wikipedia:Emotional intelligence|emotionally intelligent]] than other Ricks.
+
+{{Clear}}
+
+==''[[Pocket Mortys]]''==
+{{MortyTrainer|Name = Doofus Rick|Image = Doofus Rick Sprite.PNG|Type = Gym Leader|Species = Human|Mortys = Random|Rewards = [[Schmeckles]], Random item}}
+'''Doofus Rick''' is a rival Morty Trainer in the game ''[[Pocket Mortys]]''.
+
+===Dialogue===
+====Pre-Battle====
+{{Quote|Don’t make fun of my Mortys, Rick. They're the best I have. I’m just getting good! Look, I’ll show you.}}
+{{Quote|If your Mortys mean something to you, that is all that matters. Be kind and gentle and they will love you in return.}}
+====Post-Battle====
+{{Quote|Don't rub it in, Rick. I know I lost. I never win anything.}}
+
+{{Clear}}
+
+==Appearances==
+===[[Season 1]]===
+*"[[Close Rick-Counters of the Rick Kind]]"
+===[[Season 3]]===
+*"[[The Rickshank Rickdemption]]"(Pictured)
+===Other Media===
+*[[Pocket Mortys]]
+*[https://jayuzumi.com/doofus-rick-soundboard Doofus Rick Soundboard]
+
+==Trivia==
+*Doofus Rick appears very similar to the severely inbred direct descendant of Jesus Christ from the comic book series ''[[wikipedia:Preacher (comics)|Preacher]]'', due to the bowl-cut hair, unibrow, and buck teeth.
+** Both likely take inspiration from Moe Howard of the Three Stooges.
+*The Birds of the [[Doopidoo dimension]] have the same hairdo as Doofus Rick.
+*Despite serving in the Citadel Militia, Doofus Rick wears a normal labcoat instead of the militia uniform. 
+*His Hairstyle is based of Simple Jack in the Movie ''Tropic Thunder''. 
+
+==Gallery==
+<gallery navigation="true">
+File:Rick J19-Zeta 7.png|Doofus Rick in Close Rickounters of the Rick kind.
+Funko-Pop-Rick-and-Morty-Rick Doofus-GS.jpg|Funko Pop! 140 Doofus Rick - GameStop|link=https://rickandmorty.fandom.com/wiki/POP!_Vinyl#Exclusives
+File:Preacher comic.png|A character in a crowd of people on a Preacher comic cover that resembles Doofus Rick.
+</gallery>
+
+==Site Navigation==
+{{Character list}}
+{{Pocket Mortys}}
+[[it:Rick Sanchez (J19ζ7)]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Ricks]]
+[[Category:Humans]]
+[[Category:Unknown Fate]]
+[[Category:Pocket Mortys]]
+[[Category:Trainers]]

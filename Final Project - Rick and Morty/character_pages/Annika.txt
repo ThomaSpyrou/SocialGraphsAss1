@@ -1,0 +1,13 @@
+{{Character
+|name = Annika
+|image = Annika.PNG|job=Hobby Hall|species=Human|age=Teenager|status=Alive}}
+
+'''Annika''' is a girl who was created for the comic series [[Rick and Morty vs. Dungeons and Dragons|Rick and Morty vs Dungeons & Dragons]].
+
+== History==
+Annika works at Hobby Haul. Morty first meets her when he wants to learn how to play Dungeons & Dragons. Morty develops a crush on her and at the end of the fourth issue he gets to play the game with her.
+== Appearance==
+Annika is a girl about Morty's age. She wears a purple top and has blue hair. She wears mushroom earrings on both ears and has a skulls tattoo on her left arm.
+[[Category:Characters]]
+[[Category:Female Characters]]
+[[Category:Comic Characters]]

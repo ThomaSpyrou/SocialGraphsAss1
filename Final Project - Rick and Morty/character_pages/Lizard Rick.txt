@@ -1,0 +1,35 @@
+{{Character
+|image=Wall_Crawling_Rick.png
+|status = Unknown
+|affiliation = [[Citadel of Ricks]] (formerly)
+|first = The Rickshank Rickdemption
+|age = 70|family = Wall Crawling Morty (grandson)}}
+'''Lizard Rick''' is a lizard person-version of [[Rick]] seen climbing walls at The Citadel.
+
+==Biography==
+He first appeared in the [[Season 3]] premiere episode, "[[The Rickshank Rickdemption]]", and can be spotted crawling on the walls of the [[Citadel of Ricks|Citadel]]. It is unknown what happened to him following the fall of the [[Galactic Federation]] and near destruction of [[The Citadel]]. 
+
+He most likely has affiliations with [[Lizard Morty|lizard morty]]. 
+
+==Appearances==
+===[[Season 3]]===
+*"[[The Rickshank Rickdemption]]"
+===Other Media===
+*[[Pocket Mortys]]
+
+==''[[Pocket Mortys]]''==
+{{MortyTrainer
+|Name = Lizard Rick
+|Image = Lizard Rick.png
+|Type = Avatar
+|Species = Lizard
+|Mortys = Any
+|Cost = 10 Blips and Chitz Coupons}}
+Lizard Rick is a purchasable avatar in the game ''[[Pocket Mortys]]''.
+[[Category:Ricks]]
+[[Category:Pocket Mortys]]
+[[Category:Morty Trainers]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Animals]]
+[[Category:Unknown Fate]]

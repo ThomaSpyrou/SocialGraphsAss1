@@ -1,0 +1,20 @@
+{{Character
+|name          = Jon
+|image         = Jon.png
+|species       = [[Gazorpians|Gazorpian]] Human
+|voice actor   = [[Tom Kenny]]
+|first         = Rixty Minutes
+}}
+'''Jon''' is a parody on the [[w:c:garfield:Jon Arbuckle|character of the same name]] from the ''[[Wikipedia:Garfield|Garfield]]'' comics. He is a character on the [[Gazorpazorp]]'s TV Show, ''[[Gazorpazorpfield]]''.
+
+==History==
+Jon is the owner of [[Gazorpazorpfield (Character)|Gazorpazorpfield]].
+
+==Trivia==
+* Despite being called "human" by Gazorpazorpfield, he has two extra pairs of arms like a Gazorpian.
+** He is, however, a fictional cartoon character. So, the Gazorpians may have drawn him to look like this on purpose.
+* In the comics he has four fingers, but in the cartoon he has five.
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Aliens]]
+[[Category:Interdimensional Cable Characters]]

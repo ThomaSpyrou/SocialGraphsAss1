@@ -1,0 +1,29 @@
+{{Character
+|name = Tophat Jones
+|image = Tophatjones.png
+|species = Leprechaun
+|status = Deceased
+|job = Cereal Mascot
+|affiliation = [[Strawberry Smiggles]]
+|first = Rixty Minutes
+|voice actor = [[Justin Roiland]]
+}}
+'''Tophat Jones''' is a breakfast cereal mascot that appears in a commercial for [[Strawberry Smiggles]] in the episode "[[Rixty Minutes]]", and has since then made numerous appearances in ''[[Rick and Morty (TV series)|Rick and Morty]]'', along with the [[Strawberry Smiggles]] product itself. Jones is a parody of Lucky the Leprechaun, the mascot for Lucky Charms, and the Trix Rabbit, the mascot for Trix Cereal.
+
+==Appearance==
+Tophat Jones resembles an amalgamation of Lucky the Leprechaun and the Trix Rabbit: He wears traditional leprechaun attire, but has a pair of white rabbit ears and a top hat.
+
+==Personality==
+Tophat Jones' selfishness and greed led to the dismemberment of his flesh and organs. It can be assumed that he was not a very good person outside from what we have seen of him either since he immediately saw demons during his death.
+
+==Appearances==
+*"[[Rixty Minutes]]"
+*"[[Big Trouble In Little Sanchez]]"
+*"[[The Wedding Squanchers]]"
+
+{{Characters}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Deceased Characters]]
+[[Category:Interdimensional Cable Characters]]
+[[Category:One-Time Characters]]

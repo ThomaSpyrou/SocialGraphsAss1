@@ -1,0 +1,25 @@
+{{character
+|name = Roger
+|image = Roger from anatomy park2.png
+|species = Human
+|job = [[Anatomy Park (Location)|Anatomy Park]] employee
+|first = Anatomy Park (Episode){{!}}Anatomy Park
+|family =Unnamed Wife<br>
+Unnamed Children 
+|voice actor = Jess Harnell
+|status = Deceased|relationships = Unnamed Wife}}
+'''Roger''' was a member of the team working on [[Anatomy Park (Location)|Anatomy Park]]. He appears in the episode of the same name ''[[Anatomy Park (Episode)|Anatomy Park]]''.
+
+==Background==
+
+Roger appeared to be the "zoo keeper" of [[Dr. Xenon Bloom|Dr. Xenon Bloom's]] team at Anatomy Park. He was killed when the Sphincter Dam blows.
+
+== Trivia ==
+* The appearance of Roger most likely comes from that of [https://en.wikipedia.org/wiki/Steve_Irwin Steve Irwin] - an Australian zookeeper and wildlife expert.
+
+{{stub}}
+{{Character list}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Deceased Characters]]
+[[Category:Humans]]

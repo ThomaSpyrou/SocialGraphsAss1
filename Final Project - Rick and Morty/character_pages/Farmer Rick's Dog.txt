@@ -1,0 +1,5 @@
+{{Stub}}
+{{Character|name = Farmer Rick's Dog|image = Farmer dogg.PNG|aka = Boy|species = Robot Dog|status = Working|first = Tales From the Citadel}}
+[[Category:Characters]]
+[[Category:Robots]]
+[[Category:Objects]]

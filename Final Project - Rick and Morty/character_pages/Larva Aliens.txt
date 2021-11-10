@@ -1,0 +1,28 @@
+{{Species
+|name = Unknown
+|image1 = LarvaAlienBand.png
+|homeworld: = Unknown planet (destroyed)
+|type: = Larva alien 
+|status: = Mostly Extinct
+|affliations: = [[Galactic Federation]]
+|first_seen_in: = [[Get Schwifty]]
+}}
+
+'''Larva Aliens''' is an alien species that was part of the [[Galactic Federation]] before its fall. Their home planet was destroyed by [[Cromulons]]. 
+
+==History==
+Their planet was involuntarily transported to the [[Cromulon Dimension|Signus 5 Expanse]] to be a part of the interdimensional [[Cromulons|cromulon]] TV show ''[[Planet Music]]''. Their representatives performed after [[Arboles Mentirosos]] and before [[Earth]]. They were not declared the winners and their planet was destroyed by a plasma ray.
+[[File:LarvaAlienPlanet.png|thumb|Larva Aliens' planet before its destruction]]
+One larva alien attended the wedding of [[Birdperson]] and [[Tammy]] on [[Planet Squanch]].
+
+==Appearances==
+*"[[Get Schwifty]]"
+*"[[Interdimensional Cable 2: Tempting Fate]]"
+*"[[The Wedding Squanchers]]"
+
+==Trivia==
+* The actual name of this species is unknown.
+* So far only one member of this species had a speaking role with that member being a surgical assistant at [[St. Gloopy Noops Hospital]].  This member is identified as female due to having an uncredited female voice actress.
+[[Category:Aliens]]
+[[Category:Characters]]
+[[Category:Races]]

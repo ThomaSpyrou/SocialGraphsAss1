@@ -1,0 +1,64 @@
+{{Character|name = Rick Prime
+|image = Rick Prime (1).png 
+|species = Human
+|status = Deceased
+|job = Member of the [[Council of Ricks]]
+|first = Close Rick-Counters of the Rick Kind|actor = |voice actor =Justin Roiland |age = 70|job2 = }}[[File:RickPrimeDeath.png|thumb|260x260px|Rick Prime's death, shot in the chest by [[Rick Sanchez|Rick C-137]]]]
+'''Rick Prime''' was one of the members of the now defunct [[Council of Ricks]]. He was killed by [[Rick Sanchez|Rick C-137]] in "[[The Rickshank Rickdemption]]."
+
+==Appearance==
+Rick Prime's appearance is almost identical to the other members of the Council of Ricks. The only difference is that his hair style consists of a large puff of hair on top, with the sides and back of his head shaved. He also has a tiny soul patch on his chin.
+[[File:S1e10 traumatized mortys.png|thumb|300px|Rick Prime gathering Mortys.|left]]
+
+{{clear}}
+
+
+==''[[Pocket Mortys]]''==
+{{MortyTrainer
+|Image = Rick Prime.png
+|Type = Council of Rick
+|Species = Human
+|Mortys = Level 6 [[Exo-Alpha Morty]] [[file:PM-icon-031.png|x22px]]<br>
+Level 6 [[Spooky Morty]] [[file:PM-icon-043.png|x22px]]
+|Rewards = [[Schmeckles]], [[Blips and Chitz Coupon]], Council Badge|Name = Rick Prime}}Rick Prime is the first Rick in the Council of Ricks the player must battle to get back the portal gun. You're required to have two gym badges to battle him.
+
+'''Gym badge:''' [[File:CoR badge Rick Prime.png|x50px]]
+
+===Dialogue===
+====Pre-battle====
+*"So, you found your way back here without getting killed?"
+*"I guess you've earned my attention. Let's battle!"
+
+====Post-battle====
+*"Beginner's luck, Rick! Don't get too cocky."
+*"Wait, you thought that's all you needed to do to get your portal gun back?<br />It's not going to be that easy, Rick. I don't even have it."
+*"Come back when you have 6 badges and maybe you'll be closer."
+
+{{clear}}
+<gallery>
+CoR badge Rick Prime.png
+Prime-pocket-mortys-rick.jpg
+Rick Prime.png
+
+</gallery>
+
+==<nowiki/>==
+==Appearances==
+===[[Season 1]]===
+*"[[Close Rick-Counters of the Rick Kind]]"
+===[[Season 3]]===
+*"[[The Rickshank Rickdemption]]"
+===Other Media===
+*[[Pocket Mortys]]
+
+==Site navigation==
+{{characters}}
+{{Pocket Mortys}}
+
+[[it:Rick_Prime]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Ricks]]
+[[Category:Deceased Characters]]
+[[Category:Killed by Rick]]
+[[Category:Recurring Characters]]

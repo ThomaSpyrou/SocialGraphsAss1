@@ -1,0 +1,19 @@
+{{Character
+|image = CatogamiDefault.png
+|species = Cat robot
+|status = Presumed destroyed
+|origin = [[Dimension C-132]]
+|job = [[Morty Smith (C-132)|Morty]]'s servant
+|affiliation = Morty & Rick Inc. (formerly)
+|first = Rick and Morty Issue 1
+}}
+
+'''Catogami''' was a cat robot that briefly served as [[Morty Smith (C-132)|Morty Smith]]'s personal servant. It fought back against the Time Police when they came to arrest [[Rick Sanchez (C-132)|Rick]] and Morty.
+
+==Biography==
+[[File:CatogamiBattleMode.png|thumb|250px|left|Catogami in Battle Mode]]
+Catogami was delivered to the Smith's house in a large wooden crate, bursting out and scaring [[Jerry Smith (C-132)|Jerry]] into fetal position. It immediately walked upstairs to Morty's office where it not long after was order to escort Rick out of. Before it could do this, the Time Police arrived to arrest both Rick and Morty; on the tip [[Professor Tock]] managed to get out of Jerry. As Rick and Morty was attempting to escape, Rick activated Catogami's ''Battle Mode'' by voice control, to fend off the Time Police. This failed, however, as they were arrested after a 12 hour standoff with the police.
+[[Category:Characters]]
+[[Category:Deceased Characters]]
+[[Category:Robots]]
+[[Category:Comic Characters]]

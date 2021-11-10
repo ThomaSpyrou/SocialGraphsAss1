@@ -1,0 +1,12 @@
+{{Character
+|name = Fleeb
+|image = Fleeb_(Rick_and_Morty).png
+}}
+'''Fleeb''' is a character/object that appeared in the episode "[[Interdimensional Cable 2: Tempting Fate]]". It is a living being that is used as a tool for making [[Plumbus|Plumbuses]]. It excretes a juice called Fleeb Juice<ref>[https://www.amazon.com/Rick-Morty-Fleeb-Juice-Energy/dp/B07FNXBP7C Fleeb Juice Energy Drink]</ref>.
+
+==References==
+<references />
+
+[[Category:Characters]]
+[[Category:Objects]]
+[[Category:Interdimensional Cable Characters]]

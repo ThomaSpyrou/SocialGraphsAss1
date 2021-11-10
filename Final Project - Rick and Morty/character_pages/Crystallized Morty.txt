@@ -1,0 +1,20 @@
+{{Character
+|image = S3e7 crystallized morty.png
+|origin = 
+|species = Human
+|age = 14
+|status = Crystalized
+|affiliation = [[The Citadel]]
+|first = Tales From the Citadel
+}}
+'''{{PAGENAME}}''' is a version of [[Morty Smith]] who has been crystalized. He is briefly seen in a hospital in [[Tales From the Citadel]].
+
+==Biography==
+{{PAGENAME}} is shown on the [[CN]] news coverage of [[President Morty]]'s visit to a hospital on [[Citadel of Ricks|the Citadel]] and greeting injured Mortys. This Morty is hospitalized due to being trapped in a crystal, most likely by his Rick. He is greeted by President Morty, but unable to shake his hand, so President Morty merely lays his hand on the crystal. He shares a room with [[Trunk Morty]], who shook hands with President Morty before him.
+==Appearance==
+{{PAGENAME}} dresses in a damaged yellow shirt and blue pants. His skin is light and scratched in his face, and his hair is brown. His is frozen with a scared and tired expression on his face, with his arms lifted and open palms pointing forward.
+
+==Site Navigation==
+{{Characters}}
+[[Category:Mortys]]
+[[Category:Characters]]

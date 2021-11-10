@@ -1,0 +1,51 @@
+{{Character
+|image=HammerMortyIMTJAH.png
+|age=14
+|status=Unknown
+|job=Slave
+|first=Close Rick-Counters of the Rick Kind
+|voice actor=[[Justin Roiland]]
+}}{{Quote|I'm more than just a hammer!|Said by Hammerhead Morty while the One True Morty speaks.}}[[File:Hammerheadmorty-rickshank.jpg|thumb|right|350px|Hammerhead Morty shot in "[[The Rickshank Rickdemption]]."]]'''Hammerhead Morty''' is one of the alternate dimension versions of [[Morty Smith]] who, with the other Mortys, rebelled against [[Evil Rick]]. He first appeared in the episode "[[Close Rick-Counters of the Rick Kind|Close Rick-Counters of the Rick Kind]]". He appeared again, and was gravely injured, possibly fatally, in "[[The Rickshank Rickdemption|The Rickshank Rickdemption]]", when a guard for the Council of Ricks used him as a weapon and a meat shield. After taking many shots for the guard, who was killed shortly after, Hammerhead Morty was last seen kneeling on the ground suffering from his injuries. It is unknown if he survived.
+
+==Appearance==
+Hammerhead Morty is a Caucasian teenage boy with the head of a giant hammer. His hammer head appears to be made of gray metal, and his face is located on the face of the hammer. Hammerhead Morty's hands, however, seem to be made out of human flesh. This is backed up by the fact that when Hammerhead Morty was shot, he had red bullet wounds.  His body seems to be rounded and pole-shaped, just like the handle of a hammer, implying that his entire body could be a hammer. Hammerhead Morty wears a yellow t-shirt, like all of the other Mortys.
+{{clear}}
+
+==''[[Pocket Mortys]]''==
+{{PocketMorty
+|Name = Hammerhead Morty
+|Number = 077
+|Previous = Robot Morty
+|Next = Guard Morty
+|Type = Rock
+|Badge = 28
+|Rare = Yes
+|height = 5'7"
+|weight = 185.1 lbs
+|characteristics = Has a hammerhead
+|Evolution = [[File:PM077.png|50px|link={{PAGENAME}}]]}}
+{{Quote|This Morty is always there to help. Designed by an award-winning Rick, he was the first in a long line of work bench Mortys.|In-game description}}
+
+{{clear}}
+==Appearances==
+===[[Season 1]]===
+*"[[Close Rick-Counters of the Rick Kind]]"
+===[[Season 3]]===
+*"[[The Rickshank Rickdemption]]" (cameo)
+===Other Media===
+*[[Pocket Mortys]]
+*[[Rickstaverse]]
+
+==Trivia==
+* Hammerhead Morty appears in the mobile game ''[[Pocket Mortys]]. ''
+* Hammerhead Morty is also depicted as a character in the ''[[Rickstaverse]] ''game's unlockable "[[Mortyism|Morty Tracts]]".
+*Hammerhead Morty is a pickaxe in the game ''Fortnite''.
+
+==Site navigation==
+{{Character list}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Mortys]]
+[[Category:Rock-type Mortys]]
+[[Category:Unknown Fate]]

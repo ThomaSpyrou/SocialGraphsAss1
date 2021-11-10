@@ -1,0 +1,11 @@
+{{Character
+|image=Pichael_Thompson.png
+|job = Cooking Show Host
+|family = [[Michael Thompson]] (conjoined twin brother)
+|first = Interdimensional Cable 2: Tempting Fate
+|voice actor = [[Justin Roiland]]
+}}
+'''Pichael Thompson''' is a character who appeared in "[[Interdimensional Cable 2: Tempting Fate]]". He is the host of a show called ''[[Cooking Things]]''. He is also conjoined twins with [[Michael Thompson]].
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Interdimensional Cable Characters]]

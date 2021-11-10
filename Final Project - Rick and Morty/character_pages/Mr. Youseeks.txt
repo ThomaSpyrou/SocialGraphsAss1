@@ -1,0 +1,33 @@
+{{Character
+|name = Mr. Youseeks
+|image = YouseeksInGame.png
+|origin = [[The Garage|Rick's Garage]]
+|species = Modified [[Mr. Meeseeks|Meeseeks]]
+|age = Varies
+|status = Alive (until headset is removed)
+|job = 
+|first = Rick and Morty: Virtual Rick-ality
+|voice actor = [[Justin Roiland]]
+}}
+
+{{quote|I'm Mr. '''YOUSEEKS'''! Look at '''YOU'''!|Mr. Youseeks' catchphrase|Rick and Morty: Virtual Rick-ality}}
+
+'''Mr. Youseeks''' is the name of all the creatures summoned by activating a '''Modified Meeseeks Box'''. They are modified versions of regular [[Mr. Meeseeks|Meeseeks]]. Youseeks only appears in the VR game [[Rick and Morty: Virtual Rick-ality]].
+
+==Appearance==
+Mr. Youseeks is a floating head and hands. The hands are not physically connected to the head, yet they stay in the same place they would if the Youseeks had a body. Youseeks are identical to Meeseeks with the exception that they don't have a body and that they have a VR headset plugged into their head with cables. Underneath the headset they appear to be missing some skin.
+
+==Biography==
+[[File:YouseeksBall.png|thumb|right|An open Youseeks Box]]
+Youseeks are contained in a small ball inside a Modified Meeseeks Box. Dropping that ball to the ground will release a glitchy Youseeks. Youseeks mimics everything that the person who released them do, including hurting themselves. Unlike Meeseeks, Youseeks will not disappear when they have served their purpose. other than being killed, the only way to get rid of a Youseeks is to get it to remove its VR headset. This will make the Youseeks explode, but not before thanking the person doing it.
+
+Youseeks is a creation of [[Rick]] and seems to be unfinished because they glitch out whenever they're first released from their ball. According to schematics in Rick's garage, the current Youseeks is version 4.
+
+==Gallery==
+<gallery>
+YouseeksV21.png|Schematic from the Rick and Morty: Virtual Rick-ality demo
+YouseeksV4.png|Schematic from the Rick and Morty: Virtual Rick-ality game
+</gallery>
+[[Category:Aliens]]
+[[Category:Races]]
+[[Category:Characters]]

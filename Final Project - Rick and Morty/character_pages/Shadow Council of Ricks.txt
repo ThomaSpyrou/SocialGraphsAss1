@@ -1,0 +1,26 @@
+{{Council
+|image1 = Brotherhoodricks.png
+|type = Governing Body
+|status = Possibly defunct
+|appearance = [[Tales From the Citadel]]
+|members = 
+*[[Rick D. Sanchez III]] (deceased)<br>
+*[[Garment District Rick]] (deceased)<br>
+*Seven unnamed Ricks (five deceased)
+|first_appearance = [[Tales From the Citadel]]}}
+
+The '''Shadow Council of Ricks''', also known as the '''Brotherhood Counsel''' was a secret cabal forming the true (shadow) government ruling over [[the Citadel]]. The Shadow Council predated the normal [[Council of Ricks]] and consisted of the most powerful Ricks in the Citadel. All but two of its nine members were summarily ordered to be executed by [[Evil Morty]] shortly after his election triumph, their corpses ejected into space to join other Ricks and Mortys who were deceased.
+
+==Membership==
+The Ricks on the Shadow Council apparently represented major business concerns of the Citadel. Each Rick owned and operated large corporations. Some Ricks were reminiscent of either real-world industry captains (such as the two surviving members, who look like Elon Musk and Steve Jobs) or global upper-class stereotypes.
+
+===Known Representatives and Industries===
+*[[Rick D. Sanchez III]] - [[Simple Rick’s Wafer Cookie factory]]
+*[[Garment District Rick]] - Fashion
+*[[Sheikh Rick]] - Fuel Energy
+
+{{Characters}}
+[[Category:Antagonists]]
+[[Category:Characters]]
+[[Category:Ricks]]
+[[Category:Groups]]

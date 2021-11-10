@@ -1,0 +1,78 @@
+{{Episode
+|image = A Rickle in Time.png
+|season number = 2
+|episode = 1
+|epcount = 12
+|ratings=2.12<ref name=Episode12ratings>{{cite web|last1=Kondolojy|first1=Amanda|title=Sunday Cable Ratings: 'I am Cait' Tops Night + 'Naked & Afraid XL', 'Rick & Morty', 'True Detective', NASCAR, 'Ballers' & More|url=http://tvbythenumbers.zap2it.com/2015/07/28/sunday-cable-ratings-i-am-cait-tops-night-naked-afraid-xl-rick-morty-true-detective-nascar-ballers-more/438491/|publisher=[[TV by the Numbers]]|accessdate=July 28, 2015}}</ref>
+|prev = [[Ricksy Business]]
+|next = [[Mortynight Run]]
+|writer = [[Matt Roller]]
+|director = [[Wes Archer]]
+|airdate = July 26, 2015 (United States)<br>March 27, 2016 (Canada)
+|network = [adult swim]|code = 201}}"'''A Rickle in Time'''" is the first episode of the [[Season 2|second season]] of [[Rick and Morty (TV series)|''Rick and Morty'']]. It is the twelfth episode of the series overall. It premiered on July 26, 2015. It was written by [[Matt Roller]] and directed by [[Wes Archer]].
+==Synopsis==
+Rick unfreezes time, but since he, Morty and Summer have been living for so long on frozen time, a parallel dimension develops.
+
+==Plot==
+The episode opens with time still frozen from [[Ricksy Business|the ending of Season One]]. Outside of the [[Smith Residence]], [[Morty]] and [[Summer]] finish up some last minute cleaning duties while [[Jerry Smith|Jerry]] and [[Beth Smith|Beth]] are still frozen outside. It's revealed that time has been frozen for nearly six months. Before [[Rick]] unfreezes time, he admits that 'their' time may need time to stabilize back within the 'world's time'. As a precaution, he tells Morty and Summer not to touch their parents at all, or otherwise their existence might fall apart at the seams.
+
+When time is unfrozen, Mr. Benson falls off the roof while both Jerry and Beth are very clearly confused with the entire house not destroyed. Rick insists that Jerry was just seeing the negative and he warmly greets Beth. Beth attempts to hug her father and children, but they pull back, insisting it's because they missed them a lot and hugging would destroy them (it literally would). As a means to play it safe, Rick bribes the two into leaving to buy ice cream. He kicks a pile of unmarked bills to get them out of the house. Soon, Morty and Summer experience a bit of sibling rivalry over who's closer to Rick. As they shove each other, it generates a direct rift in time, creating two parallel realities which exist separately from each other. Rick tells his grandchildren that their 'uncertainty' has caused time to fracture into two equally possible impossibilities. Rick says they aren't in any timelines, and to prove it he opens the garage door to reveal the house floating in the middle of a black void surrounded by Schrödinger's cats.
+
+After getting ice cream, Jerry and Beth accidentally strike a deer. The deer isn't killed but severely injured. Beth takes it upon herself to help heal the deer. Beth takes the deer into a veterinary hospital and attempts to perform surgery. Before she begins her procedure, she notices a gunshot wound in its side. A hunter appears and says he was the one who shot him. He claims the deer belongs to him and calls his lawyer to help him gain ownership. The hunter's lawyer appears at the animal hospital and lets them know about Brad's Law and how legally the deer belongs to the hunter. Beth ignores him and continues to operate.
+
+Rick uses a [[Time Crystal]] to try to mend the timelines together, but Morty and Summer's continued uncertainty prevents the fusion from working. Rick demands to know the reason behind their uncertainty. He deduces that the two of them 'want to be grandpa's favorite' and then sits them down in front of a whiteboard and cruelly tells both of them how little he cares about them and how little he values their contributions. His long speech clearly upsets both of them. Before Rick attempts to mend time together once again, Morty makes a quip about his drinking habits which directly result in Rick becoming uncertain. The time fusion fails for the second time and Rick immediately thinks that his 'other self' is trying to kill him off to fix the problem.
+
+Rick quickly creates a pistol with his time crystal and attempts to kill the other self. A shootout opens up with both Ricks across timelines trying to murder each other. The chaos results in time splitting a second time, leading to four separate realities. Morty knocks out Rick from behind in order to calm him down. Morty and Summer put Rick into a dog crate. Rick reawakens in the crate and proves he's certain across all four timelines by calling himself and leaving a message. He then receives three other voicemails simultaneously. Suddenly, a [[Fourth Dimensional Being]] appears and scolds Rick for attempting to piece time together with just a crystal. He gives Rick, Morty, and Summer [[Time-Stabilizing Collar|time-stabilizing collars]] that then correctly fuse their times back to its regular place. However, since Rick obtained the time crystal by illegal means, the being tells them that they will go to [[Time Prison]] for eternity.
+
+After the being calls for backup, Rick tricks him and makes a grab for his 'gun' [[Chris]], discarding and killing it. Rick orders Morty and Summer to remove their collars. He forces himself to be uncertain to split time once again. The three continue to split time in order to overwhelm the being, punching him across multiple timelines until he's defeated. As a consequence, time is now split across 64 different possibilities.
+
+Beth's surgery continues with all the characters gathered around her. Jerry comes to the rescue by bringing members of a Cervine Institute of Elk, Moose, Deer, and Stag. The members can transport the deer across state lines to the best doctors, and outside the jurisdiction of the hunter's claim. The two drive back into the woods with the Cervine Institute members and Jerry reveals that the two men were not from the Cervine Institute, but were actually employees at Cold Stone Creamery. This allows Beth to continue her operation. She successfully patches up the deer, who springs to life and returns to the woods.
+
+Rick, Morty, and Summer all attempt to put their collars on. Summer's works immediately, but due to a faulty Morty collar in one of the timelines (and Rick attempting to fix it), all of Morty and Rick's are still split. The broken-collared Morty attempts to hand the collar to Rick but with time destabilizing, falls into the black void. Rick dives after him and gives Morty his collar. All Mortys are then safely teleported back. With one Rick floating in the spaceless void, he accepts death and tells Morty to be better than him. But then, Rick spots Morty's collar floating below him. He scrambles to collar while begging God for everything to work out. He fixes the collar, immediately denounces God, and then is teleported safely back with all others. Rick and Summer celebrate by doing the Cabbage Patch dance.
+
+Beth and Jerry return while Jerry begins to make fun of the three's time collars while Beth laughs. Morty asks Rick if being the one who is taunted doesn't feel good to which Rick agrees that it hurts. The pan out at the end of the episode shows Mr. Benson below his house, receiving roses in a wheelchair, indicating that he still survived the fall. The after credits sequence shows two Fourth Dimensional Beings quickly navigate through Earth's history to find Rick. They stumble upon [[Albert Einstein]], thinking it's Rick, and promptly beat him up, warning him not to mess with time. This results in Einstein discovering E=mc<sup>2</sup> out of spite.
+
+==Characters==
+*[[Rick Sanchez]]
+*[[Morty Smith]]
+*[[Summer Smith]]
+*[[Jerry Smith]]
+*[[Beth Smith]]
+*[[Shleemypants]]
+*[[Chris]]
+*[[Albert Einstein]]
+*Hunter
+*Vet
+*Lawyer
+*Cold Stone Employee #1
+*Cold Stone Employee #2
+
+==Deaths==
+* [[Chris]]
+
+==Trivia==
+*This is the sixth episode to involve [[Rick Sanchez|Rick's]] name. The previous ones would be "[[Rick Potion No. 9]]", "[[Something Ricked This Way Comes]]", "[[Rixty Minutes]]", "[[Close Rick-Counters of the Rick Kind]]", and "[[Ricksy Business]]".
+*This episode references Rick's atheism/agnosticism. He prays to God when on the brink of death, in order to avoid going to Hell, but then quickly reverts to being an atheist once he realizes he's safe.
+* The Blu-ray extras include the animatics and dialogue for an earlier draft of this episode. Several jokes are added and removed between the two versions. Other differences include Shleemypants being a customer service agent instead of a [[Time Cops|Time Cop]], Summer and Morty are able to hug their parents instead of avoiding them, and near the end of the episode Summer is the one that knocks out Rick instead of Morty. Overall Summer plays a slightly larger roll in the draft version and of some of her lines were moved to being spoken by Morty in the final release.
+===Cultural References===
+*The title of this episode is a pun on the novel ''A Wrinkle in Time'' by Madeleine L'Engle.
+*The fourth-dimensional being is a reference to a time eater from Stephen King's ''The Langoliers''.
+*While Rick, Morty, and Summer are outside of space and time, there are infinite cats floating around in space. This is a reference to the thought experiment/paradox, [[Wikipedia:Schrödinger's cat|Schrödinger's cat]].
+*[[Red Grin Grumble]] - a made up reference to mock Jerry, Morty, and Summer, because Rick.
+
+==Transcript==
+View a full transcript of this episode [[A Rickle in Time/Transcript|here]].
+
+{{gallery}}
+{{reflist}}
+
+==Site navigation==
+{{Episodes}}
+[[it:Episodio 12]]
+{{DEFAULTSORT:Rickle in Time, A}}
+[[Category:Episodes]]
+[[Category:Season 2 episodes]]
+[[Category:Rick Episodes]]
+[[Category:Jerry Episodes]]
+[[Category:Beth Episodes]]
+[[Category:Sequels]]

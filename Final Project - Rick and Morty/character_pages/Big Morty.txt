@@ -1,0 +1,44 @@
+{{Character|name = Big Morty
+|image = BigMorty.png
+|species = Human
+|age = 14-15
+|status = Deceased
+|job=Drug Lord
+|appearances = ''[[Tales From the Citadel]]''
+|main actor = [[Justin Roiland]]}}
+'''Big Morty ''' is an alternate version of [[Morty Smith]] who appeared in the episode, "[[Tales From the Citadel|''Tales From the Citadel'']]". He is killed by [[Cop Morty]] shortly after he is introduced.
+==Biography==
+He is one of the residents in Morty Town and is presumably there because he has no Rick and no other family to return to.
+
+After [[Cop Morty]] kills the [[Mortytown Locos]], they head to [[The Creepy Morty|a bar]] where they meet Big Morty, a local "drug lord" of sorts. Cop Morty tells Big Morty that the Mortytown Locos had an 'accident' and that they won't be bothering him any more. Big Morty offers to pay Cop Morty and [[Cop Rick]], however Cop Rick refuses to take the money, and eventually attempts to arrest Big Morty, only to end up causing a gun fight between the cops and Big Morty's henchmen. Cop Morty and Cop Rick end up killing both of the henchmen, and Cop Morty holds Big Morty at gunpoint, knowing he would reveal that he was abusing his power as a police officer. Cop Rick tells Cop Morty not to kill Big Morty, and Cop Morty fakes Cop Rick out by pretending to not want to be a cop anymore, only to shoot Big Morty, killing him, when Cop Rick's guard is down. Cop Rick quickly realizes his mistake and kills Cop Morty, turning himself in to the police.
+==Appearance==
+Big Morty is a Morty with yellow sunglasses, a very slight moustache, two gold necklaces, a red shirt and a dark pink jacket.
+
+==[[Pocket Mortys]]==
+{{PocketMorty|Name = Big Morty|Number = 226|Previous = Festival Morty|Next = Flower Morty|Type = Scissors|height = 5'2|weight = 114.7|characteristics = Dangerous, Respected|Evolution = [[File:PM226.png|center|50px]]|Badge = 2|Rare = Yes}}{{Quote|This Morty is a crime lord who "keeps the peace" in Mortytown.}}
+
+==Attacks==
+{| class="article-table"
+|NAME
+|TYPE
+|POWE
+|ACCURACY
+|AP
+|LV
+|}
+
+==Appearances==
+===[[Season 3]]===
+*"[[Tales From the Citadel]]"
+===Other Media===
+*[[Pocket Mortys]]
+==Site Navigation==
+{{Characters}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Mortys]]
+[[Category:Deceased Characters]]
+[[Category:Killed by Morty]]
+[[Category:Antagonists]]
+[[Category:Pocket Mortys]]
+[[Category:Scissors-type Mortys]]

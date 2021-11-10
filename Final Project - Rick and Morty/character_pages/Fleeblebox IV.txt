@@ -1,0 +1,22 @@
+{{Character
+|image = FleebleboxIVcomic.png
+|origin = [[Dimension C-132]]
+|species = 3-eyed tentacle-alien
+|status = Alive
+|job = Newscaster
+|affiliation = [[Glub 7 News]]
+|first = Rick and Morty Issue 1
+}}
+
+'''Fleeblebox IV''' is a news anchorman at [[Glub 7 News]] station. He is from a planet where every creature has three eyes.
+
+==Appearance==
+Fleeblebox is a middle-aged blue three-eyed alien with an odd nose, long ears and tentacle arms with yellow suctioncups. He has grey hair and a few wrinkles in his face.
+
+==Site navigation==
+{{Characters}}
+[[Category:Aliens]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Comic Characters]]
+[[Category:Article stubs]]

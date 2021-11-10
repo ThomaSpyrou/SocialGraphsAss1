@@ -1,0 +1,14 @@
+{{Character
+|image = ButtmouthChild.png
+|origin = Planet 840-3GG
+|species = Telepathic octopus-alien
+|status = Endangered
+|affiliation = Planet 840-3GG Nature Preserve
+|voice actor =
+|first = Rick and Morty: Virtual Rick-ality
+}}
+
+'''Buttmouth''' is a race of pink one-eyed telepathic octopus-like aliens. They hatch from green eggs and float above the ground with purple auras around them.
+[[Category:Aliens]]
+[[Category:Races]]
+[[Category:Characters]]

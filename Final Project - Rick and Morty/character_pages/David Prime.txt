@@ -1,0 +1,19 @@
+{{Character
+|name = David Prime
+|image = DavidPrime.png
+|origin = 
+|species = Hivemind
+|age = Unknown
+|status = Alive
+|job = 
+|family = 
+|relationships = 
+|first = 
+|voice actor = 
+|aka = Klthakkkath’pft’torp Mind Collective}}
+The '''Klthakkkath’pft’torp Mind Collective''', preferably known as '''David Prime''', is a Hivemind appearing to primarily have taken control of [[Boobloosians]]. It posted a clickbait article online entitled, "We Joined a Hive Mind, Here's Why You Should Too"[https://web.archive.org/web/20181209041813/http://fedconnect.galacticfederation.com/post/158458009739/we-joined-a-hive-mind-heres-why-you-should-too], which was designed to attract naïve humans with "mind altering-docu-tech", and assimilate them.
+[[Category:Characters]]
+[[Category:Aliens]]
+[[Category:Genderless]]
+[[Category:Hiveminds]]
+[[Category:Groups]]

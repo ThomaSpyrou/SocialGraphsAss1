@@ -1,0 +1,54 @@
+{{SimilarName|Cronenberg Morty|[[Morty (disambiguation)|other versions of Morty]]}}
+{{Character
+|name = Cronenberg Morty
+|image = Cronenberg Morty.png
+|origin = [[Cronenberg World]]
+|species = [[Cronenberg]]
+|status = Unknown
+|age =14 
+|job = 
+|family = [[Cronenberg Rick]] (maternal grandfather)
+|relationships = 
+|first = Rick Potion No. 9
+|voice actor = [[Justin Roiland]]
+}}
+{{quote|I'm going to,  y'know, miss Cronenberg world because everyone was Cronenberged all along like us from the beginning, y'know? I mean I wish we hadn't genetically ruined Cronenberg World beyond repair like we did, y'know, and turned everyone into regular normal people.|Cronenberg Morty to Cronenberg Rick|Rick Potion No. 9}}
+
+'''Cronenberg Morty''' is a version of [[Morty Smith]] who originates from [[Cronenberg World]]. In the episode "[[Rick Potion No. 9]]", [[Cronenberg Rick]] and Cronenberg Morty take a portal to a [[Cronenberged dimension|"Cronenberged" version of Earth]] after they discovered that C-137 Rick turned the entire population of Earth, except [[Beth]], [[Jerry]] and [[Summer]], into [[Cronenbergs]]. Cronenberg Rick and Cronenberg Morty did this because they turned the entire population of Cronenberg World into normal Humans and wanted to live in a world where they would fit in.
+
+== Biography ==
+[[File:Cronenbergs.png|thumb|left|Cronenberg Rick and Cronenberg Morty at the [[Citadel of Ricks]].]]
+In "[[Close Rick-Counters of the Rick Kind]]" Cronenberg Rick and Cronenberg Morty make a cameo appearance in the background as [[Rick]] and [[Morty]] were being escorted through the [[Citadel of Ricks]].
+
+In ''[[The Rickshank Rickdemption]]'', many Mortys are killed when the [[Citadel of Ricks]] is transported into a prison of the [[Galactic Federation]], it is unknown if Cronenberg Morty is one of the Mortys who died.
+{{Clear}}
+
+==''[[Pocket Mortys]]''==
+{{PocketMorty
+|Name = Cronenberg Morty
+|Number = 079
+|Previous = Guard Morty
+|Next = Mascot Morty
+|Type = Normal
+|Badge = 40
+|Rare = Yes
+|height = 7'6"
+|weight = 343.7 lbs
+|characteristics = Messed up|Evolution = [[File:PM079.png|50px|link={{PAGENAME}}]]}}
+{{Quote|This Morty is from that episode of Rick and Morty where everyone don gets straight Cronenberged up, broh.|In-game description}}
+'''{{PAGENAME}}''' is a Normal-type Morty in ''[[Pocket Mortys]]''. He can't evolve.
+{{clear}}
+==Trivia==
+* He, alongside [[Cronenberg Rick]], are the only Cronenbergs shown to be capable of human speech and thinking.
+* Ironically, Cronenberg Morty is seen wearing ripped remains of regular human clothings that most versions of Morty wear, despite having been born a Cronenberg. 
+
+==Site navigation==
+{{Character list}}
+{{Pocket Mortys}}
+
+[[it:Cronenberg Morty]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Mortys]]
+[[Category:Unknown Fate]]
+[[Category:Normal-type Mortys]]

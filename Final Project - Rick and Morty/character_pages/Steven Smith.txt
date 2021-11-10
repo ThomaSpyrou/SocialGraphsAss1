@@ -1,0 +1,34 @@
+{{Character
+|name = Steven Smith
+|image = UncleSteve.png
+|species = [[Memory Parasites|Memory Parasite]] (Disguised as human)
+|status = Deceased
+|first = Total Rickall|Total Rickall
+|voice actor = [[Tony Barbieri]] 
+|clip = Uncle Steve Rick and Morty Adult Swim
+|alias = Best uncle ever<br>(by his "niece" [[Summer]])<br>My goofy brother Steve<br>(by his "younger brother" [[Jerry]])<br>[[Alien Parasites|An Alien Parasite]]<br>(by [[Rick]])|affiliation = Smith family (falsely)|family = [[Leonard Smith]] ("father")<br />
+[[Joyce Smith]] ("mother")<br />
+[[Jerry Smith]] ("younger brother")<br />
+[[Unnamed Uncle]] ("paternal/maternal uncle; deceased")<br />
+[[Beth Smith]] ("sister-in-law")<br />
+[[Summer Smith]] ("niece")<br />
+[[Morty Smith]] ("nephew")<br />
+[[Hemorrhage]] ("nephew-in-law")<br />
+[[Gwendolyn]] ("niece-in-law")<br />
+[[Morty Jr.]] ("great-nephew")|age = Unknown, possibly late 40's - early 50's}}{{Quote|Hey, someone's been spending too much time with glowing rocks, am I right?|Uncle Steve's last words before being shot by [[Rick]]|Total Rickall|font-size = 50}}'''Steven "Steve" Smith''' is a minor character that appears in the episode ''[[Total Rickall]]''.
+
+==History==
+He claimed to be the eldest son of [[Leonard Smith]] and [[Joyce Smith]], the nephew of the [[Unnamed Uncle]], the older brother of [[Jerry Smith]], the brother-in-law of [[Beth Smith]], and the paternal uncle of [[Summer Smith]] and [[Morty Smith]], he has persuaded the Smith family that he has been living in the [[Smith Residence]] for nearly a year. His appearance marks the first outbreak of the [[Alien Parasites]] where he is quickly killed by [[Rick Sanchez]] while the family is eating breakfast.
+
+==Personality==
+Uncle Steve seems to be well liked by the family, and is supportive of Jerry. As a means to express his gratitude, he attempts to buy the Smith family a vacation to Paris, most likely as a means to continue to spread the parasites. He then backs up Jerry after Rick insults him, assuring him that Jerry will find employment soon. Rick then shoots him and reveals he's an alien parasite.
+
+==Trivia==
+*Ironically, Steve is killed before Rick blocks off the house meaning he could have easily created more parasites instead of eating with the family, although he probably assumed that Rick wouldn't know of his existence as a parasite.
+*He was the first [http://rickandmorty.wikia.com/wiki/Alien_Parasites parasite] to be seen on the episode.
+[[Category:Characters]]
+[[Category:Alien Parasite Characters]]
+[[Category:Smith Family]]
+[[Category:Male Characters]]
+[[Category:Deceased Characters]]
+[[Category:Killed by Rick]]

@@ -1,0 +1,55 @@
+{{Character
+|image=Fish Rick.png
+|status=Alive
+|family=[[Fish Morty]] (grandson)
+|affiliation=[[The Citadel]]
+|first=Close Rick-counters of the Rick Kind
+|species = Fish-person|age = 70|name = Fish Rick}}
+'''{{PAGENAME}}''' is an alternate version of [[Rick Sanchez]] with aquatic features often seen at [[The Citadel]] with his Morty.
+
+==Appearance==
+{{PAGENAME}} shares the general appearance of [[Rick Sanchez]], though with many distinguishable features usually acquainted with that of a sea creature. Like his grandson, [[Fish Morty]], he wears a helmet, presumably filled with water.
+
+==Biography==
+[[File:S1e10 fishman morty.png|thumb|{{PAGENAME}} and Morty seeing C-137 Rick and Morty]]
+{{PAGENAME}} was one of many many Ricks who banded together to create the Citadel due to many enemies who wanted him dead. He would often bring his Morty along to the Citadel, including the time when [[Rick]] and [[Morty]] of [[Dimension C-137]] were arrested and brought to the Citadel to stand trial. {{PAGENAME}} and his Morty was standing around on the upper levels of the Citadel was passed by the arrested Rick and Morty escorted by [[Guard Rick]]s. They soon joined in the audience at the trial before C-137 Rick and Morty escaped.
+
+He and his Morty was present at the Citadel during the events of the [[Galactic Federation#Fall|fall of the Galactic Federation]] and the [[The Rickshank Rickdemption|destruction of the Citadel]] by Rick C-137. The two aquatic humanoids were walking past the escorted Morty and [[Summer]], who were on their way to the Council of Ricks. {{PAGENAME}} would go on to survive the catastrophic event and help rebuild the Citadel.
+[[File:S3e7 hard rick cafe.png|thumb|{{PAGENAME}} in the crowd to see Candidate Morty]]
+During the first presidential election on the Citadel, he had become just another Rick in the crowd who went to work and did their job. He showed up to [[Evil Morty|Candidate Morty]]'s public appearance outside the "''Hard Rick Café''" to show his support for the presidential candidate. He was presumably shocked when Candidate Morty was shot by [[Campaign Manager Morty]] in the middle of the crowd. He would later go on to vote for Candidate Morty in the election and bring upon the great change for the Citadel.
+
+==''[[Pocket Mortys]]''==
+{{MortyTrainer|Name = Fish Rick|Image = AquaRickSprite.transparent.png|Type = Gym Leader|Species = Sea Creature|Mortys = Random|Rewards = Badge, [[Schmeckles]], Random item}}
+Fish '''Rick''' is a rival Morty Trainer in the game ''[[Pocket Mortys]]''.
+
+===Dialogue===
+====Pre-Battle 1====
+{{PMQ|You think you've got what it takes to defeat me? Ha, good luck with that!}}
+====Pre-Battle 2====
+{{PMQ|This is the Rick you'll wish you had never challenged. Don’t be too hard on yourself when you lose.}}
+====Post-Battle====
+{{PMQ|Damn you, Rick! Look at my Mortys! They don't even know which day it is. Get out!}}
+{{Clear}}
+==Appearances==
+===[[Season 1]]===
+*"[[Close Rick-counters of the Rick Kind]]" (Non-Speaking Cameo)
+===[[Season 3]]===
+*"[[The Rickshank Rickdemption]]" (Non-Speaking Cameo)
+*"[[Tales From the Citadel]]" (Non-Speaking Cameo)
+===Other Media===
+*[[Pocket Mortys]]
+*[[Rickstaverse]]
+
+==Gallery==
+<gallery>
+S3e7 crowded city.png|Aqua Rick in the crowd of Ricks
+151641229071163177.png|Pocket Mortys Sprite
+</gallery>
+==Site Navigation==
+{{Characters}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Ricks]]
+[[Category:Animals]]
+[[Category:Pocket Mortys]]

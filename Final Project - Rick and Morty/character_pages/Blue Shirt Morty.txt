@@ -1,0 +1,45 @@
+{{Stub}}
+{{Character
+|name        = Blue Shirt Morty
+|image       = Blue shirt morty.PNG
+|origin      = Earth (Color Swap dimension)
+|species     = Human
+|age         = 14
+|status      = Unknown
+|family      = [[Yellow Shirt Rick]] (maternal grandfather)
+|affiliation = [[The Citadel]]
+|appearances = [[Close Rick-Counters of the Rick Kind]]
+}}
+'''Blue Shirt Morty''' is an alternate version of a different timeline of [[Morty Smith]]. His distinct feature is his blue shirt, which deviates from the common yellow shirt worn by most Mortys.
+
+==Biography==
+He is first seen in ''[[Close Rick-Counters of the Rick Kind]]'' at [[The Citadel]] alongside his [[Yellow Shirt Rick|Rick]], who is talking with a [[Guard Rick]]. Morty seems sceptical or confused by something Guard Rick says, tilting his head to the side with a raised eyebrow. [[Rick Sanchez|Rick]] and [[Morty Smith|Morty]] are escorted past them on their way to the [[Council of Ricks]]. Blue Shirt Morty is not present at the trial.
+
+In ''[[The Rickshank Rickdemption]]'', many Mortys are killed when the Citadel is transported into a prison of the [[Galactic Federation]]. It is unknown if Blue Shirt Morty is one of the Mortys who died.
+{{Clear}}
+==[[Pocket Mortys]]==
+{{PocketMorty
+|Name            = Blue Shirt Morty
+|Number          = 025
+|Previous        = Pocket Mortys Morty
+|Next            = Red Shirt Morty
+|Type            = Paper
+|Badge           = 0
+|Rare            = No
+|height          = 5'2"
+|weight          = 110.2 lbs
+|characteristics = Likes shirts and the color blue
+|Evolution       = [[File:PM025.png|50px|link=Blue Shirt Morty (Pocket Mortys)]] ⇒ [[File:PM026.png|50px|link=Red Shirt Morty]] ⇒ [[File:PM027.png|50px|link=Orange Shirt Morty]]⇒ [[File:PM028.png|50px|link=Green Shirt Morty]] ⇒ [[File:PM029.png|50px|link=Purple Shirt Morty (Pocket Mortys)]] ⇒ [[File:PM030.png|50px|link=Rainbow Shirt Morty]]}}
+{{Quote|This Morty does not want to be defined by wearing the same yellow shirt every day, as other Mortys do. He opted for blue, the color of the summer sky and the distant seas.}}
+
+==Attacks==
+
+{{Clear}}
+==Site navigation==
+{{Characters}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Mortys]]
+[[Category:Paper-type Mortys]]
+[[Category:Unknown Fate]]

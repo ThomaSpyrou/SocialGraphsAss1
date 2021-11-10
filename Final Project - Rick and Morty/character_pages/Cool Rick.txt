@@ -1,0 +1,34 @@
+{{Character
+|image = Cool_Rick.png
+|name = Cool Rick
+|age = 70
+|species = Human
+|job = Supervisor at the [[Simple Rick’s Wafer Cookie factory]] (formerly)
+|affiliation = [[The Citadel]]
+|status = Unknown (Presumed deceased)
+|origin = Earth (Dimension K-83)
+|family = 
+|voice actor = [[Justin Roiland]]
+|first = Tales From the Citadel
+}}{{Quote|I know I'm new to the Citadel and some of you might not think I've put in my time, but what can I say? I'm Cool Rick! Yo, ha ha, check me out.|Cool Rick's first announcement as supervisor|Tales From the Citadel}}
+'''Rick Sanchez (K-83)''', affectionately known as '''Cool Rick''', was the supervisor at the [[Simple Rick’s Wafer Cookie factory]] before it's destruction. He was given the position after the previous supervisor was promoted to Regional Manager.
+
+==Appearance==
+Cool Rick shares the general appearance of Rick Sanchez, though he has a soul patch and wears aviator sunglasses.
+
+==Biography==
+Rick (K-83), or Cool Rick, had only recently arrived at the [[Citadel of Ricks]] when he was given the position of supervisor at the Simple Rick's Wafer Cookie factory, as [[Regional Manager Rick]] had been promoted to regional manager. This move greatly irritated [[Rick Sanchez (J-22)]], who would go on to kill Regional Manager Rick soon after.
+
+It's unknown if he was present and died during the destruction of the Citadel or left it and survived his likely demise.
+
+==Appearances==
+===[[Season 3]]===
+*"[[Tales From the Citadel]]"
+
+==Site navigation==
+{{Characters}}
+[[Category:Ricks]]
+[[Category:Male Characters]]
+[[Category:Humans]]
+[[Category:Characters]]
+[[Category:Unknown Fate]]

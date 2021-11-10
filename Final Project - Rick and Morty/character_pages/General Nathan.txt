@@ -1,0 +1,34 @@
+{{Character
+|name = Nathan
+|image = GeneralNathan205.png
+|species = Human
+|age = Unknown, possibly late 50's - early 60's
+|status = Deceased
+|job = Army General
+|origin = Earth ([[Replacement Dimension]])
+|relationships = [[The President]] (colleague)
+|first = Get Schwifty
+|voice actor = [[Wikipedia:Kurtwood Smith|Kurtwood Smith]]
+}}
+'''General Nathan''' was an American army general who appeared in the episode ''[[Get Schwifty]]'' as the main antagonist.
+==Biography==
+The original General Nathan presumably became a Cronenberg in Dimension C-137.
+
+General Nathan was present during the Pentagon meeting after [[Cromulons|a giant alien head]] had appeared in the Earth's atmosphere causing heavy natural disasters. He wanted to destroy the [[Cromulons]] with nuclear weapons. [[The President]] disagreed instead giving [[Rick Sanchez]] and [[Morty Smith|Morty]] a chance to perform a song for the Cromulon.
+
+Later, General Nathan was still fixed on his idea to use nuclear weapons against the aliens and attempted a coup against the President by knocking him out and launching the nuclear weapons before Rick and Morty's second performance. However, Nathan's missiles proved to be ineffective against the aliens, only angering them. Rick and Morty's new song still managed to satisfy their Cromulon audience, nevertheless.
+
+After the Cromulons left, General Nathan attempted to murder the President but is zapped by Rick using his particle beam wristwatch. The President showed no remorse for Nathan's death, instead laughing hysterically at the reveal Rick's wristwatch does ''not'' turn people into snakes and merely vaporizes them.
+
+==Trivia==
+
+* General Nathan's overall appearance, way of speaking and manner is likely a reference to Gen. Buck Turgidson, a similar military character played by George C. Scott in the movie "Dr. Strangelove."
+
+==Site Navigation==
+{{Characters}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Antagonists]]
+[[Category:Humans]]
+[[Category:Political Figures]]
+[[Category:Killed by Rick]]

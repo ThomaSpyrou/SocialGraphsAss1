@@ -1,0 +1,22 @@
+{{Character
+|job = Special Agent
+|affiliation = [[Galactic Federation]] (formerly)
+|first = The Wedding Squanchers
+|voice actor = Nolan North
+|species = [[Gromflomites|Gromflomite]] (presumably)
+|image = S2e10 rick makes a call.png}}
+
+'''Special Agent Gribbles''' worked for the Galactic Federation, heading the investigations of [[Rick Sanchez]].
+
+==Biography==
+Rick called him, posing as [[Jerry Smith]], to tell the federation where he would be, as well as to get his family sent back to [[Earth]]. Gribbles is told that Rick is headed for the [[Plim Plom Tavern]], which is where the Galactic Federation apprehends him later on. 
+
+==Trivia==
+Agent Gribbles is never seen, but his voice is heard over the phone.
+
+==Site Navigation==
+{{Characters}}
+[[Category:Unseen Characters]]
+[[Category:Male Characters]]
+[[Category:Characters]]
+[[Category:Gromflomites]]

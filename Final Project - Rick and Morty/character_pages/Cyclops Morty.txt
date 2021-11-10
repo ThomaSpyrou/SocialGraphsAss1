@@ -1,0 +1,56 @@
+{{Character
+|image=Cyclops_Morty.png
+|origin=Earth (presumably)
+|status=Alive
+|species=Cyclops
+|family= [[Cyclops Rick]] (maternal grandfather; deceased)
+|first = Close Rick-Counters of the Rick Kind}}'''Cyclops Morty''' is an alternate version of [[Morty Smith]] that was seen in the episode "[[Close Rick-Counters of the Rick Kind]]". He is a cyclops version of Morty.
+==Appearance==
+Cyclops Morty is a young teenage boy with brown hair and a yellow shirt and blue pants. He has light orange flesh and a giant cycloptic eyeball and pointed elf-like ears as well as two little white rounded fang-like teeth. Cyclops Morty wears two metal bracelets on his arms. Cyclops Morty also wears tan shoes.
+
+{{clear}}
+==''[[Pocket Mortys]]''==
+{{PocketMorty
+|Name = Cyclops Morty
+|Number = 073
+|Previous = Aqua Morty
+|Next = Mini Morty
+|Type = Scissors
+|Badge = 16
+|Rare = Yes
+|height = 5'2"
+|weight = 116.2 lbs
+|characteristics = Has one big eye
+|Evolution = [[File:PM073.png|50px]]}}
+{{Quote|This Morty was extradited from his home world after he caused a nuclear silo to explode.|In-game description}}Cyclops Morty appears in [[Pocket Like You Stole It 1|Pocket Like You Stole it 1.]]
+
+==Attacks==
+{| class="wikitable sortable" width="62%" cellspacing="0" cellpadding="4" style="border:2px solid gray; color:#000; background:#fff; text-align:center;"
+! style="background:#03afc9; color:white;"| NAME
+! style="background:#03afc9; color:white;"| TYPE
+! style="background:#03afc9; color:white;"| POWER
+! style="background:#03afc9; color:white;"| ACCURACY
+! style="background:#03afc9; color:white;"| AP
+! style="background:#03afc9; color:white;"| LV
+|-
+|style="text-align:left;" |
+|
+|
+|
+|
+|
+|}
+
+{{clear}}
+==Episode Appearances==
+===[[Season 1]]===
+*"[[Close Rick-Counters of the Rick Kind]]" (cameo)
+===[[Season 3]]===
+*"[[Tales From the Citadel]]" (cameo)
+==Site navigation==
+{{Character list}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Mortys]]
+[[Category:Scissors-type Mortys]]

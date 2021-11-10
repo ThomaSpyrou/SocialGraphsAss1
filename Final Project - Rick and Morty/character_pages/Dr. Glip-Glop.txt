@@ -1,0 +1,24 @@
+{{Character
+|name          = Dr. Glip-Glop
+|origin        = 
+|species       = Alien
+|age           = 
+|status        = Deceased
+|job           = Doctor
+|relationships = 
+|affiliation   = [[St. Gloopy Noops Hospital]]
+|first = Interdimensional Cable 2: Tempting Fate
+|voice actor   = Dan Harmon 
+|image = Drglipglop.png}}
+
+'''Dr. Glip-Glop''' is a minor character introduced in the episode "[[Interdimensional Cable 2: Tempting Fate]]". He was initially assigned to treat Jerry, who was suffering from an illness after consuming mutant bacteria. However, as Dr. Glip-Glop was introducing himself, Jerry vomited on him. The goo landed on his eyes and sent him into a murderous rage due to its effects. Before he could attack anyone, he was shot and disintegrated by [[Rick Sanchez|Rick]].
+
+He was labelled by the hospital staff to be the "Best Doctor in the Galaxy."
+
+==Trivia==
+*Dr. Glip-Glop shares his name with the derogatory term for Traflorkians, a term first described in "[[Ricksy Business]]" . The term is described by Rick as "the N-word and the C-word had a baby, and that baby was raised by all the bad words for jews."
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Aliens]]
+[[Category:Deceased Characters]]
+[[Category:Killed by Rick]]

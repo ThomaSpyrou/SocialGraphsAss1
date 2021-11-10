@@ -1,0 +1,35 @@
+{{Character
+|image = Rickk22.png
+|name = Rick Sanchez
+|age = 70
+|species = Human
+|job = Volunteer for [[The Citadel]] (formerly)
+|affiliation = [[The Citadel]]
+|status = Unknown (Presumed deceased)
+|origin = Earth (K-22)
+|family = [[Morty Smith (K-22)]] (grandson)
+|voice actor = [[Justin Roiland]]
+|first = Tales From the Citadel
+}}
+
+{{Quote|Morty, he's not gonna *burp* donate. You're pitching the policeman's ball to a black teenager here.|Rick K-22 to Morty K-22|Tales From the Citadel}}
+
+'''Rick K-22''' is a Rick who travels from reality to reality collecting donations to [[The Citadel]] Redevelopment Fund in the episode ''[[Tales From the Citadel]]''.
+
+==Biography==
+After [[Rick Sanchez|Rick C-137]] destroyed the Citadel in ''[[The Rickshank Rickdemption]]'', order was re-established and the work began in order to rebuild the Citadel. After organizing the society in the Citadel, Rick K-22 was sent out with his Morty to visit as many realities as possible containing Ricks in order to collect donations for the Citadel's redevelopment fund.
+
+Rick K-22 visits the [[Replacement dimension]], where he meets Rick C-137 and [[Morty Smith|Morty C-137]]. He asks Rick C-137 if he wants to contribute to the fund, which Rick refuses and says how he killed all those Ricks and blew up the Citadel because of how tired he had become of them. This immediately changes Rick K-22's mood, and he tells his Morty off when Morty tries to keep going with their presentation. They leave through a portal into another dimension to seek more donations elsewhere.
+
+It's unknown if he was present and died during the destruction of the Citadel or was away and survived his likely demise.
+
+==Site navigation==
+{{Characters}}
+
+[[pl:Rick Sanchez (K-22)]]
+[[Category:Male Characters]]
+[[Category:Humans]]
+[[Category:Ricks]]
+[[Category:One-Time Characters]]
+[[Category:Characters]]
+[[Category:Unknown Fate]]

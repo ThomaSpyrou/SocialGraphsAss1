@@ -1,0 +1,13 @@
+{{Character
+|image=Robot Soldiers.png
+|species=Robots
+|status=Extant
+|affiliation=Participants in the Robot Wars
+|appearances=[[The Old Man and the Seat]]
+}}
+The '''Robot Soldiers''' are a group of mechanical soldiers that fought against the [[Lizard People]].
+
+==History==
+They fought against the Lizard People in the Robot Wars. They were being pinned down and losing the war up until [[Rick Sanchez]] shows up and with a helmet that has a QR code on it and went to talk with the delivery drone but did not duck for cover causing the delivery drone to get shot and his pieces blown to the Lizard People's side. Rick then had no choice but to kill off a lot of Lizard people in order to retrieve the pieces making the Robot Soldiers successfully winning the war.
+[[Category:Robots]]
+[[Category:Characters]]

@@ -1,0 +1,24 @@
+{{Character
+|name = Jarshog Mollar
+|image = Jarshog Mollar.jpg
+|origin = 
+|species = [[Drumbloxian]]
+|age = 
+|status = Alive
+|job = 
+|family = 
+|relationships = 
+|affiliation = Earth
+|first = 
+}}
+
+'''Jarshog Mollar''' is a [[Drumbloxians|drumbloxian]] living on planet [[Earth]]. She is a fanatic about catching diseases and seems to go to great lengths to experience them all, while calling humans Puritans for avoiding contracting diseases. She has repeatedly licked her own doorknob and once visited an after hours establishment and caught four untreatable infections by a worker.
+
+Jarshog wrote a blogpost called "{{cite web | title = Lifehack: How To Catch All Of Earth’s Hottest Diseases | url = http://fedconnect.galacticfederation.com/post/156507387925/lifehack-how-to-catch-all-of-earths-hottest}}" about her experiences hunting down exotic diseases to be infected by while on Earth.
+
+==Trivia==
+* Her favourite disease is Escherichia Coli.
+* Known diseases she has caught: Rhinovirus, Necrotizing Fasciitis, Rubella, Influenza, Escherichia Coli.
+[[Category:Aliens]]
+[[Category:Characters]]
+[[Category:Female Characters]]

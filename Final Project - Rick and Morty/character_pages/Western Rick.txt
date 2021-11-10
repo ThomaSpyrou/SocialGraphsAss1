@@ -1,0 +1,69 @@
+{{SimilarName|{{PAGENAME}}|[[Rick (disambiguation)|other versions of Rick]]}}
+{{Character
+|name = Rick Sanchez
+|image = Cowboy Rick.PNG
+|first = Close Rick-Counters of the Rick Kind
+|race = Human
+|age = 70
+|status = Alive
+|job = Cowboy<br>Scientist
+|family = [[Cowgirl Beth]] (daughter)<br>[[Western Morty]] (grandson)
+|affiliation = [[Council of Ricks]]
+}}
+'''{{PAGENAME}}''', also known as '''Cowboy Rick''', is an alternate version of [[Rick]] who, along with [[Western Morty|his Morty]], hails from a cowboy dimension.
+
+==Appearance==
+{{PAGENAME}}, as he is a variation of [[Rick]], looks very similar to Rick, aside from a few differences. Unlike Rick, {{PAGENAME}} wears a green bolo tie, a large belt buckle on his belt, boots with spurs, and a white cowboy hat.
+
+==Biography==
+{{PAGENAME}} was on a visit to [[The Citadel]] with his Morty at the same time as Rick and [[Morty]] of [[Dimension C-137]] was brought in to be judged by the [[Council of Ricks]]. They later came to the trial and kept in the far back.
+
+He portaled his Morty, without warning, into a battle arena where his Morty fought against a giant spider and had his arm ripped off. He later walked in on Morty masturbating and left in disgust without forcing him on another adventure. 
+[[File:S3e7 behind the scenes.png|thumb|{{PAGENAME}} backstage during the debate]]
+He survived the events of the [[Galactic Federation#Fall|fall of the Galactic Federation]] and temporary destruction of The Citadel by either fighting, hiding or not being present at The Citadel at the time. 
+
+During the presidential debate, {{PAGENAME}} was backstage with [[Salesman Rick]] and was arguing with [[Black Rick]] about something. most likely related to the upcoming election.
+
+==''[[Pocket Mortys]]''==
+{{MortyTrainer
+|Name = Cowboy Rick
+|Image = Cowboy Rick Sprite.PNG
+|Type = Gym Leader
+|Species = Human
+|Mortys = Random
+|Rewards = [[Schmeckles]], Random item}}'''Cowboy Rick''' appears as a gym leader in the game [[Pocket Mortys]]. 
+
+===Dialogues===
+====Pre-Battle 1====
+{{PMQ|Howdy 'buurp'! I'm the sheriff around these parts.*I beat outlaws like you all the time. You won't be taking my badge from me that easily, partner!|Cowboy Rick}}
+====Pre-Battle 2====
+{{PMQ|Out West, a man must put up if he's to see what kind of a’ Morty he’s been a' raising.* Are you such a man, Rick? Or are you just a no-good, dimension-hopping toad?|Cowboy Rick}}
+====Post-Battle====
+{{PMQ|You're no partner of mine. Get out of here!|Cowboy Rick}}
+
+==Appearances==
+===[[Season 1]]===
+*"[[Close Rick-counters of the Rick Kind]]" (cameo)
+===[[Season 3]]===
+*"[[Tales From the Citadel]]" (cameo)
+===Other media===
+*[[Rickstaverse]] - Mortytract 4: "Unidle Hands"
+*[[Pocket Mortys]]
+
+==Trivia==
+*It is unknown what dimension {{PAGENAME}} and Morty are from, but it is most likely set in a setting where everyone is a cowboy/cowgirl.
+* It is possible that they might be a reference to ''Back to the Future Part III''  which features Rick and Morty's inspiration, Doc and Marty, in the old west.
+
+==Gallery==
+<gallery>
+2018-Funko-San-Diego-Comic-Con-Exclusives-Funko-Pop-Rick-and-Morty-363-Western-Rick.jpg|Funko Pop! 363 Western Rick - SDCC 2018|link=https://rickandmorty.fandom.com/wiki/POP!_Vinyl#Exclusives
+</gallery>
+==Site navigation==
+{{Character list}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Ricks]]
+[[Category:Humans]]
+[[Category:Pocket Mortys]]
+[[Category:Trainers]]

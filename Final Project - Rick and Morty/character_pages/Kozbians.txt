@@ -1,0 +1,17 @@
+{{Character
+|image = Kozbian_Prisoner.png
+|species = Tentacle-alien
+|origin = 
+|status = 
+|affiliation = 
+|first = The Wedding Squanchers
+}}
+
+'''Kozbians''' are octopus-like aliens that exist in the world of Rick and Morty. Each of their eight tentacles has an individual eye at the end, four of which form the head and the other four are its arms and legs. Their torsos are very scrawny. 
+
+==Trivia==
+* Their name may be a reference to one of [[Justin Roiland|Justin Roiland's]] previous works, [http://house-of-cosbys.wikia.com House of Cosbys].
+[[Category:Aliens]]
+[[Category:Characters]]
+[[Category:Races]]
+[[Category:Article stubs]]

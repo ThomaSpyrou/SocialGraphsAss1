@@ -1,0 +1,72 @@
+{{Character
+|image=Lawyer-NotLawyer_Morty.png
+|age=14
+|status=Unknown
+|first =The Rickshank Rickdemption
+|job="Lawyer"
+|voice actor=[[Justin Roiland]]
+|origin = The Citadel of Ricks}}
+{{Quote|It's not fair, you have no rights, and he's not a lawyer. We just keep him here because he's fun. Look at him go!|Riq IV to Morty and Summer|The Rickshank Rickdemption}}
+'''Lawyer Morty''' is a Morty who poses as a lawyer at the [[Council of Ricks]].
+
+==Biography==
+He is put on [[Morty Smith|Morty]] and [[Summer Smith|Summer's]] side for their quarrel against the Council of Ricks in ''[[The Rickshank Rickdemption]]'', where he is shown to be less of a serious lawyer and only there because "he's fun". He apparently has a pog collection.
+
+In the same episode, many Mortys are killed when the [[Citadel of Ricks]] is transported into a prison of the [[Galactic Federation]], it is unknown if Lawyer Morty is one of the Mortys who died.
+
+==Merchandise==
+<gallery>
+Funko-Pop-Rick-and-Morty-304-Lawyer-Morty.jpg|Funko Pop! 304 Lawyer Morty|link=https://rickandmorty.fandom.com/wiki/POP!_Vinyl#Rick_and_Morty_Wave_3
+</gallery>
+
+==[[Pocket Mortys]]==
+{{PocketMorty
+|Name = Lawyer Morty
+|Number = 200
+|Previous = Girl Morty
+|Next = Judge Morty
+|Type = Paper
+|Badge = 2
+|Rare = No
+|height = 5'2"
+|weight = 113.3 lbs
+|characteristics = Fun, Shy
+|Evolution = [[File:PM200.png|50px]] ⇒ [[File:PM201.png|50px|link=Judge Morty]]}}{{Quote|This Morty is fun to be around, but he never completed law school or even attended one. He likes to dance for the attention of Ricks and is very proud of his Pog collection.|In-game description}}
+'''Lawyer Morty''' is a Paper-type Morty added in a July (2017) update in [[Pocket Mortys]]. He evolves into [[Judge Morty]] and can be found in the Mortyland dimension. 
+
+==Attacks==
+{| class="wikitable sortable" width="59%" cellspacing="0" cellpadding="4" style="border:2px solid gray; color:#000; background:#fff; text-align:center;"
+! style="background:#03afc9; color:white;" | NAME
+! style="background:#03afc9; color:white;" | TYPE
+! style="background:#03afc9; color:white;" | POWER
+! style="background:#03afc9; color:white;" | ACCURACY
+! style="background:#03afc9; color:white;" | AP
+! style="background:#03afc9; color:white;" | LV
+|-
+| style="text-align:left;" |Cheek Pinch
+|Normal
+|50
+|95%
+|12
+|1
+|-
+| style="text-align:left;" |Strengthen 
+| {{Increase}} Attack (Self)
+ {{Increase}} Evade (Self)
+| Weak
+Weak
+| 90%
+100%
+| 5
+| 13
+|}
+
+==Site Navigation==
+{{Character list}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Mortys]]
+[[Category:Unknown Fate]]
+[[Category:Humans]]
+[[Category:Paper-type Mortys]]

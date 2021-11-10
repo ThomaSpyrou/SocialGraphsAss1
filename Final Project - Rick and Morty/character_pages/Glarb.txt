@@ -1,0 +1,22 @@
+{{Character
+|image = GlarbReporter.png
+|origin = [[Dimension C-132]]
+|species = Three-eyed tentacled alien
+|status = Alive
+|job = News reporter
+|affiliation = [[Glub 7 News]]
+|first = Rick and Morty Issue 1
+}}
+
+'''Glarb''' is a field reporter for [[Glub 7 News]]. She covered the arrest of [[Rick Sanchez (C-132)|Rick (C-132)]] and [[Morty Smith (C-132)|Morty (C-132)]] after they had a twelve-hour standoff with the Time Police. She was unable to get a comment from [[Professor Tock|Detective Tock]] or [[Jerry Smith (C-132)|Jerry (C-132)]]
+
+==Appearance==
+Glarb is a green, three-eyed alien with an upturned nose, long ears, protrusions on her neck, and tentacles for arms. She has grey hair and a few wrinkles on her face, giving her a middle-aged appearance.
+
+==Site navigation==
+{{Characters}}
+[[Category:Aliens]]
+[[Category:Characters]]
+[[Category:Female Characters]]
+[[Category:Article stubs]]
+[[Category:Comic Characters]]

@@ -1,0 +1,34 @@
+{{Character
+|name          = Alexander
+|image         = Screenshot_2015-10-01_at_7.56.29_AM.png
+|origin        = 
+|aka           = Dippity Doo
+|species       = Human
+|age           = Unknown, possibly late 40's - early 50's
+|status        = Deceased
+|job           = Mascot at [[Anatomy Park (Location)|Anatomy Park]]
+|family        = <!-- add <br/> between multiple family members --> 
+|relationships = 
+|affiliation   = 
+|voice actor   = [[wikipedia:Rob Schrab|Rob Schrab]]
+|first         = Anatomy Park (Episode){{!}}Anatomy Park
+}}
+'''Alexander''' is a character who appeared in the episode [[Anatomy Park (episode)|''Anatomy Park'']]. He is a member of the team. Alexander was a minor character who was killed off very soon after he was introduced. His only known trait is that he has to wear a dog costume that he hates all the time and [[Dr. Xenon Bloom]] won't allow him to take it off.
+
+== Biography ==
+Alexander was a part of the team that worked on [[Anatomy Park]], which was a theme park built inside the body of a homeless man named [[Ruben]]. He was hired by Dr. Bloom to be the theme park's mascot, something Alexander came to hate as he hated the costume and Bloom refused to allow him to take it off.
+[[File:AlexanderDeath.png|thumb|220x220px]]
+When [[Poncho]] opened fire within the lungs section of the park, Ruben begins violently coughing as the gunfire shot up the alveoli. Alexander ends up getting lifted by the vacuum and is briefly saved by [[Morty]], who, as he holds onto him, promises he won't die and asks for his name. Just as Alexander was about to share it, Reuben let out a violent cough and Alexander is pulled away from Morty's grasp. The sheer pressure of the vacuum causes Alexander's body to be ripped to pieces before being being coughed onto [[Rick]]'s face.
+
+==Gallery==
+<gallery>
+Alexander Character Model.png|Character Model sheet
+Alexander Ripped Model.png|Skin ripping model sheet
+</gallery>
+
+==Site Navigation==
+{{Characters}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Deceased Characters]]
+[[Category:Humans]]

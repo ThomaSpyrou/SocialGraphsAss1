@@ -1,0 +1,23 @@
+{{Character
+|name = The President of the Miniverse
+|image = President_of_the_Miniverse.png
+|origin = [[Miniverse]] within Rick's [[Microverse Battery]] ([[Dimension C-137]])
+|species = Alien
+|age = Unknown
+|status = Deceased
+|job = President
+|family = 
+|relationships = 
+|first = The Ricks Must Be Crazy
+|voice actor = Maurice LaMarche
+|aka =}}
+'''The President of the Miniverse''' is the unnamed president who is the head of the society in [[Zeep Zanflorp]]'s [[Miniverse]]. He appeared in the episode [[The Ricks Must Be Crazy]]. Like [[Chris (The Ricks Must Be Crazy)|The President of the Microverse]] and the scientist Zeep, he is the only one who knows about a top secret project being worked on by the scientist [[Kyle]], wherein he is making his own miniature universe that will provide a universal source of energy for them, making the "Flooblecrank" that powers Zeep's universe obsolete.
+
+He died, along with everyone else inside the Miniverse, as it was destroyed by [[Rick Sanchez]].
+
+{{Characters}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Deceased Characters]]
+[[Category:Political Figures]]
+[[Category:Killed by Rick]]

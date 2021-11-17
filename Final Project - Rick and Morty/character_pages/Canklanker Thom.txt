@@ -1,0 +1,29 @@
+{{Character
+|name = Canklanker Thom
+|image = CanklankerProfile.jpg
+|species = [[Gromflomites|Gromflomite]]
+|origin = [[Gromflom Prime]]
+|status = Deceased
+|job = [[Galactic Federation Prison]] Guard
+|affiliation = [[Galactic Federation]]
+|family = 7,543 children (unnamed)
+|relationships = 
+|only =
+}}
+
+{{Quote|Proud vet of the Battle of Klorgon, father of 7,543 hatchlings, kraan enthusiast.|Canklanker's profile description on FedConnect}}
+'''Canklanker Thom''' was a [[Gromflomite]] veteran who served in the [[Galactic Federation]]'s military during [[Glapflap#Battle of Blood Ridge|the revolt]] 27 [[Glaagnar|glaagnars]] ago. He later started working at a [[Galactic Federation Prison]], and after the [[Galactic Federation#Fall|Galactic Federation's fall]], ingested his cyanide pill.
+
+==Biography==
+Thom served in the Galactic Federation Gromflomite forces at the [[Glapflap#Battle of Blood Ridge|Battle of Blood Ridge]]. On their last surge to eliminate the rebels, he got separated from his platoon when his legs were crushed by a HoverGORD. After lying there for several days, he was found by [[Rick Sanchez]] who, albeit unintentionally, saved Canklanker by defecating on his face. This kept Thom alive until he was found a few days later by a medic team.[http://fedconnect.galacticfederation.com/post/155973862723/gromflomite-veterans-reflect-on-blood-ridge]
+
+At some point, he started working at the Galactic Federation Prison where Rick Sanchez would later be incarcerated. Following the transportation of the [[Citadel of Ricks]] into the Galactic Prison, and the beginning of the [[Blemflarck#Blemflarck Crisis|Blemflarck crisis]], Thom decided to ingest his standard-provided cyanide pill and died.[http://fedconnect.galacticfederation.com/profile?id=g-6060842]
+
+==Site navigation==
+{{Characters}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Gromflomites]]
+[[Category:Aliens]]
+[[Category:Deceased Characters]]
+[[Category:Suicide]]

@@ -1,0 +1,35 @@
+{{SimilarName|the minor character from "[[Close Rick-counters of the Rick Kind]]"|Rick's clone of Morty from "[[Rickmancing the Stone]]"}}
+{{Character
+|image=Robot_Morty.png|species = Robot|family = [[Robot Rick]] (grandfather)}}'''Robot Morty''' is an alternate version of [[Morty Smith]] who appeared in the episode [[Close Rick-Counters of the Rick Kind]]. He is a robotic version of Morty who is dressed up to look like him.
+==Appearance==
+Robot Morty is a gray metal robot who is built in the body form of a teenage boy. He has brown hair and a yellow shirt, which are both non-robotic for some reason. He has robotic claw hands and red glowing pupils along with a giant mouth.
+
+{{clear}}
+==''[[Pocket Mortys]]''==
+{{PocketMorty
+|Name = Robot Morty
+|Number = 076
+|Previous = Cowboy Morty
+|Next = Hammerhead Morty
+|Type = Scissors 
+|Badge = 25
+|Rare = Yes
+|height = 5'2"
+|weight = 203.9 lbss
+|characteristics = Cybernetic organism
+|Evolution = [[File:PM076.png|50px]]}}
+{{Quote|This Morty claims he is a real boy. It is unknown if his software has malfunctioned or if he really does contain the mind of an actual, biological Morty.|In-game description}}
+Robot Morty appears in the game [[Pocket Mortys]]. He appears in [[Pocket Like You Stole It 1]].
+
+{{clear}}
+== Trivia==
+
+==Site navigation==
+{{Characters}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Mortys]]
+[[Category:Robots]]
+[[Category:Unknown Fate]]
+[[Category:Scissors-type Mortys]]

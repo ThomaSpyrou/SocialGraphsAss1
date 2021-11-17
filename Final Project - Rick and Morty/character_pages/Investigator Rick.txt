@@ -1,0 +1,38 @@
+{{Character 
+|name = Investigator Rick
+|image = IMG 0161.png
+|origin = Unknown dimension in the multiverse 
+|species = Human
+|status = Deceased
+|job = Investigator
+|family = 
+|relationships = 
+|voice actor = [[Justin Roiland]]
+|age = 70
+|home planet = Earth
+|only = Tales From the Citadel
+}}
+{{Quote|It's secrets. What do you think it is, look at how I'm dressed.|Investigator Rick, after giving Campaign Manager Morty an envelope hiding incriminating evidence against Evil Morty}}
+
+'''Investigator Rick''' was a Rick in the [[Citadel of Ricks]]. His only appearance was in ''[[Tales From the Citadel]]''.
+
+==Biography==
+In ''[[Tales From the Citadel]]'', Investigator Rick gave [[Campaign Manager Morty]] information about [[Evil Morty]] in a bar. The information later led to a failed assassination attempt by Campaign Manager Morty on Evil Morty's life.
+
+Sometime after sharing the secrets with Campaign Manager Morty, Investigator Rick was killed on [[Evil Morty]]'s orders, his lifeless corpse later visible floating in space with other Ricks and Mortys ejected from the Citadel.
+[[File:Dead Rick.jpg.jpg|thumb|His corpse]]
+<br />
+
+==Trivia==
+*It is possible, but unlikely, that Evil Morty was controlling Investigator Rick, as he did with [[Evil Rick]]. This may have been because Evil Morty knew that if his former campaign manager learned the truth, he would try to assassinate him in front of a large crowd of supporters, which would earn him votes of sympathy.
+**Investigator Rick's Morty was never seen, supporting this theory.
+*Usually within media, characters who wear trench coats and face-concealing fedoras do so to hide their identity. Ironically, Investigator Rick ends up standing out due to his outfit. He would be much less conspicuous if he dressed as a standard looking Rick.
+**This is most likely a joke in and of itself, as Investigator Rick asks Campaign Manager Morty "It's secrets, what do you think it is? Look how I'm dressed" which is a meta gag on the nature of his outfit.
+{{Characters}}
+[[Category:Ricks]]
+[[Category:Deceased Characters]]
+[[Category:Male Characters]]
+[[Category:Humans]]
+[[Category:Killed by Rick]]
+[[Category:Killed by Morty]]
+[[Category:Characters]]

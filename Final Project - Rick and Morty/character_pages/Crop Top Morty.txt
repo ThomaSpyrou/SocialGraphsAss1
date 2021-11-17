@@ -1,0 +1,14 @@
+{{Delete|crop top morty}}
+{{Character
+|name = Crop Top Morty
+|image = Croptopmorty.png
+|first = Tales From the Citadel
+|species = Human
+|status = Alive
+|age = 14}}{{Characters}}'''Crop Top Morty''' is a background character who first made his appearance in "[[Tales From the Citadel]]".
+==Appearance==
+Crop Top Morty looks similar to [[Morty Smith]], but his shirt is tucked into a crop top.
+[[Category:Characters]]
+[[Category:Mortys]]
+[[Category:Male Characters]]
+[[Category:Humans]]

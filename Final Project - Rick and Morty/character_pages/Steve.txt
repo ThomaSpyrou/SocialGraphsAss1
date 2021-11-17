@@ -1,0 +1,21 @@
+{{Character
+|image = Steve_(Secret_Service_Member).png
+|origin = [[Earth]] ([[Replacement dimension]])
+|species = Human
+|status = Alive
+|job = Secret Service agent
+|voice actor = 
+|first = The Rickchurian Mortydate
+|age = Unknown, possibly late 40's - early 50's}}
+
+'''Steve''' is a member of [[The President|The President's]] Secret Service. He appeared in "[[The Rickchurian Mortydate]]".
+==Biography==
+The original Steve presumably became a Cronenberg in the [[Cronenberged dimension]].
+
+In "[[The Rickchurian Mortydate]]", [[The President]] sent two of his secret service members, including Steve, to summon [[Rick Sanchez|Rick]] and [[Morty Smith|Morty]]. Steve and his co-worker traveled all the way from [[The White House]] to [[Smith Residence]], only to find out that Rick and Morty could teleport there in seconds, using the [[Portal Gun|portal gun]]. Steve questioned why they went through that entire ordeal just to do that, and his co-worker cut him off, telling him that he knows just as little as he does, being merely an employee who works for The President.
+
+==Site navigation==
+{{Characters}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Humans]]

@@ -1,0 +1,43 @@
+{{Character
+|name          = Dr. Xenon Bloom
+|image         = Dr._Xenon_Bloom_HQ
+|origin        = 
+|species       = Amoeba
+|age           = 
+|status        = Deceased
+|job           = Co-founder of [[Anatomy Park (location)|Anatomy Park]]
+|family        = 
+|relationships = 
+|affiliation   = 
+|voice actor   = [[wikipedia:John Oliver (comedian)|John Oliver]]
+|first = Anatomy Park (Episode) {{!}}Anatomy Park}}{{Quote|Oh wait, there is an autopilot.|Bloom's last words|Anatomy Park |font-size = 30}}'''Dr. Xenon Bloom''' is a character of the day and served as one of the protagonists, appearing in the 3rd episode, ''[[Anatomy Park (Episode)|Anatomy Park]]''. Bloom is an amoeba who is the co-founder of Anatomy Park.
+
+==Biography==
+Dr. Bloom, along with the help of [[Rick]], builds [[Anatomy Park (Location)|Anatomy Park]] inside a disease-infested [[Ruben]]. Dr. Bloom's team consists of [[Poncho]], [[Roger]], and [[Annie]]. While traveling through Anatomy Park to figure out why the park's security system is failing, Dr. Bloom and his team must then traverse the dangers of Anatomy Park and escape Ruben. However, he does not escape and is killed by [[E. coli]] while manually operating the [[Bone Train]] to save [[Morty]] and Annie.
+
+Dr. Bloom taught Annie to the degree she believed she could build an entirely new Anatomy Park. Rick eagerly took this as an opportunity to build a second park choosing Summer's boyfriend [[Ethan]] as the host.
+
+Dr. Bloom appears in a picture on Rick's bedroom wall in the episode, "[[Close Rick-Counters of the Rick Kind]]".
+
+
+==Appearances==
+
+===Season 1===
+* [[Anatomy Park (episode)|Anatomy Park]]
+* [[Close Rick-Counters of the Rick Kind]] (pictured)
+
+==Trivia==
+*He is based on [[wikipedia:List of Jurassic Park characters#John Hammond|John Hammond]], the creator and CEO of Jurassic Park.
+*His name "Xenon Bloom" is a play on words/reference to Jeff Goldblum, one of the main cast in the Jurassic Park movies. The connection being that Xenon and Gold are both chemical elements, and 'blum' from Goldblum is pronounced as bloom.
+*According to a [https://www.reddit.com/r/rickandmorty/comments/1ull9o/dr_xenon_bloom/ Reddit post] by [http://www.imdb.com/name/nm2466457/ Ryan Ridley], one of the writers for the show, Bloom is an alien being whom Rick met during one of his many adventures. They came up with the idea for Anatomy Park and found a group of humans willing to be shrunk and work inside Ruben. He was also originally planned to be human.
+*Bloom holds the distinction of being one of the few beings whose intelligence Rick respects.
+
+==Merchandise==
+<gallery>
+xenon-bloom.jpg|570 [[Dr. Xenon Bloom]]
+</gallery>
+
+{{Character list}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Deceased Characters]]

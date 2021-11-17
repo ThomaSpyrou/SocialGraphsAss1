@@ -1,0 +1,122 @@
+{{Character
+|image = S3e7 trunk person morty.png
+|origin = Trunk World
+|species = [[Trunk People|Trunk person]]
+|age = 14
+|status = Alive
+|affiliation = [[The Citadel]]
+|first = Tales From the Citadel
+}}
+
+'''Trunk Morty''' is a [[Trunk People|Trunk person]]-version of [[Morty Smith]]. He is briefly seen in a hospital in "[[Tales From the Citadel]]".
+
+==Biography==
+Trunk Morty is shown on the [[CN]] news coverage of [[President Morty]]'s visit to a hospital on [[The Citadel|the Citadel]] and greeting injured Mortys. Trunk Morty is hospitalized with a damaged arm, held in a sling. He shakes hands with President Morty, which greatly improves on his mood. He shares a room with [[Crystallized Morty]], who also was greeted by President Morty on his visit.
+==Appearance==
+Trunk Morty dresses in a yellow shirt and blue pants. His left arm is kept in a blue sling in front of his stomach. His skin is light and his hair is brown. His face is largely covered with his trunk, which is a different shade than his other skin, and is both hairy and lumpy. The end of the trunk mimics his mouth in behavior. 
+
+==''[[Pocket Mortys]]''==
+{{PocketMorty
+|Name = Trunk Morty
+|Number = 249
+|Previous = Enforcer Loco Morty
+|Next = Scaly Morty
+|Type = Rock
+|Badge = 2
+|Rare = No
+|height = 5'3"
+|weight = 118.7 lbs
+|characteristics = Scared, Trunky
+|Evolution = [[File:PM249.png|50px]]}}
+{{Quote|This Morty is scared of what [[Michael Denny and the Denny Singers|Michael Denny and the Denny singers]] would do to him if they ever get their way.|In-game description}}
+
+'''{{PAGENAME}}''' is a Rock-type Morty in ''[[Pocket Mortys]]''. He can't evolve.
+
+==Attacks==
+{| class="wikitable sortable" width="59%" cellspacing="0" cellpadding="4" style="border:2px solid gray; color:#000; background:#fff; text-align:center;"
+! style="background:#03afc9; color:white;"| NAME
+! style="background:#03afc9; color:white;"| TYPE
+! style="background:#03afc9; color:white;"| POWER
+! style="background:#03afc9; color:white;"| ACCURACY
+! style="background:#03afc9; color:white;"| AP
+! style="background:#03afc9; color:white;"| LV
+|-
+|style="background:white; text-align:left;" |Solidify
+|{{rock}} Rock
+|50
+|95%
+|12
+|Start
+|-
+|style="background:white; text-align:left;" |Moisten
+|{{Decrease}} Speed (Enemy)
+|Weak
+|95%
+|15
+|Start
+|-
+|style="background:white; text-align:left;" |Negative Energy
+|{{Decrease}} Attack (Enemy)
+|Medium
+|95%
+|15
+|8
+|-
+|style="background:white; text-align:left;" |Vomit
+|{{rock}} Rock
+|62
+|95%
+|10
+|13
+|-
+|style="background:white; text-align:left;" |Gooey Discharge
+|Normal
+|78
+|95%
+|8
+|17
+|-
+|style="background:white; text-align:left;" |Gross Out
+|{{Decrease}} Speed (Enemy)
+|Strong
+|95%
+|10
+|22
+|-
+|style="background:white; text-align:left;" |Vile Spew
+|Normal<br>{{Poison}} Poison<br>{{Poison}} Poison
+|85
+|95%<br>50%<br>50%
+|5
+|24
+|-
+|style="background:white; text-align:left;" |Aura
+|{{Increase}} Attack (Self)
+|Strong
+|95%
+|10
+|30
+|-
+|style="background:white; text-align:left;" |Poison Spit
+|Normal<br> Normal<br>{{Poison}} Poison<br> Normal<br>{{Poison}} Poison
+|30<br>30<br>  <br>30<br>  
+|95%<br>100%<br>15%<br>50%<br>15%
+|5
+|35
+|-
+|style="background:white; text-align:left;" |Vaccinate
+|{{Rock}} Rock
+|110
+|90%
+|8
+|41
+|}
+
+==Site navigation==
+{{Characters}}
+{{Pocket Mortys}}
+[[Category:Mortys]]
+[[Category:Male Characters]]
+[[Category:LGBT Characters]]
+[[Category:Rock-type Mortys]]
+[[Category:Characters]]

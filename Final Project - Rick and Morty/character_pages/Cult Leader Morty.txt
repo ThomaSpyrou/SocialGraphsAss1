@@ -1,0 +1,54 @@
+{{Character
+|image=Screenshot_2016-11-16_at_8.45.25_PM.png
+|species=Interdimensional Human
+|age=14
+|status=Alive
+|job=Cult Leader [former]
+|appearance=Close Rick-Counters of the Rick Kind
+|voice actor=[[Justin Roiland]]
+|family = Unnamed Rick (maternal grandfather; deceased)
+}}'''Cult Leader Morty''' is a character that appeared in the episode [[Close Rick-Counters of the Rick Kind]]. He is the leader of a cult of Mortys that are trapped in the dungeon of [[Evil Rick|Evil Rick's]] torture chamber, and he awaits the arrival of a holy deity to come and save him. The cult is a religion called [[Mortyism]].
+==Biography==
+Cult Leader Morty is one of the many Mortys that have been kidnapped by [[Evil Rick]] and held hostage on a [[Hideout Planet]], where they are constantly tortured day in and day out. A large amount of the Mortys have read a book called [[The Good Morty]], which tells them that there's a prophet called [[The One True Morty]], that will one day come to rescue them from the dungeon. This has formed a cult, where they await the arrival of The One True Morty to save them. This specific Morty is the one who takes charge of everything, and is seen as the one who can deliver the word of The One True Morty, while they wait for him to arrive.
+==Appearance==
+Cult Leader Morty is the exact same as the original [[Morty Smith]] in physical appearance, only he has made a few changes in his clothing attire. He wears a tannish brown colored hooded cloak over his body and is supposedly naked underneath. He has also used some pinkish red face paint to make a few striped and dotted patterns on his face.
+
+==[[Pocket Mortys]]==
+{{PocketMorty
+|Name = Cult Leader Morty
+|Number = 261
+|Previous = Cult of Morty Morty
+|Next = Grand Sage Morty
+|Type = Scissors
+|Badge = 16
+|Rare = Yes
+|height = 5'3"
+|weight = 121.1 lbs
+|characteristics = Faithful, True
+|Evolution = [[File:PM260.png|50px|link=Cult of Morty Morty]] ⇒ [[File:PM261.png|50px]] ⇒ [[File:PM262.png|50px|link=Grand Sage Morty]]}}
+{{Quote|This Morty has given into the power of The One True Morty and now must spread the word to all Morty kind. Praise The One True Morty!|In-game description}}
+'''Cult Leader Morty''' is a Scissors-type Morty in ''[[Pocket Mortys]]''. He evolves from [[Cult of Morty Morty]], and evolves into [[Grand Sage Morty]].
+===Attacks===
+{| class="wikitable sortable" width="59%" cellspacing="0" cellpadding="4" style="border:2px solid gray; color:#000; background:#fff; text-align:center;"
+! style="background:#03afc9; color:white;"| NAME
+! style="background:#03afc9; color:white;"| TYPE
+! style="background:#03afc9; color:white;"| POWER
+! style="background:#03afc9; color:white;"| ACCURACY
+! style="background:#03afc9; color:white;"| AP
+! style="background:#03afc9; color:white;"| LV
+|-
+|style="background:white; text-align:left;" |Flail
+|Normal
+|65
+|95%
+|10
+|1
+|}
+
+==Site navigation==
+{{Characters}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Mortys]]
+[[Category:Scissors-type Mortys]]

@@ -1,0 +1,30 @@
+{{Species
+|image1 = Zerillian_Prisoner.png
+|origin = 
+|type: = Humanoid
+|status: = Alive
+|affliations: =  [[Galactic Federation]]
+|first_seen_in: = [[The Wedding Squanchers]]
+}}
+'''Zerillians''' are large, 3-eyed, humanoid beings with warty skin. 
+
+==Appearance==
+Zerillians vary on height and skin color; a prisoner was tall and pink, while an office worker was short and brown. They all have large warts all over their body, three eyes and unibrow. 
+
+==History==
+Rick was assigned a space in galactic prison next to a Zerillian who asked him what he was in for, Rick then responded with "everything". This Zerillian later broke out after [[The Citadel]] was transported into the prison.
+
+Another Zerillian worked in the same office as [[Jerry Smith]] before the [[Blemflarck#Blemflarck Crisis|Blemflarck Crisis]] hit. He was killed in front of Jerry during the ensuing riot.
+
+==Trivia==
+*The Zerillian in "[[The Wedding Squanchers]]" was voiced by [[Tom Kenny]].
+
+==Gallery==
+<gallery>
+S3e1 eye pop.png|The Zerillian prisoner escaping into The Citadel
+S3e1 jerry frightened.png|A Zerillian co-worker of Jerry
+</gallery>
+[[Category:Aliens]]
+[[Category:Races]]
+[[Category:Characters]]
+[[Category:Article Stubs]]

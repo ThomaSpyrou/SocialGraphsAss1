@@ -1,0 +1,15 @@
+{{Character
+|image=Izzy.png
+|origin = Earth ([[Replacement dimension]])
+|species = Cat
+|status = Alive
+|first = Pickle Rick
+}}'''Izzy''' is the cat of one of the [[Smith Family]]'s neighbors. She appeared in "[[Pickle Rick]]".
+==Biography==
+After [[Rick Sanchez]], in the form of a [[Pickle Rick (character)|pickle]] was left abandoned by his daughter and grandchildren in the garage, Izzy walked in and mistook him for a snake. She pawed at Rick and knocked him off the table, making him roll out into the driveway, where he suffered from the blazing sun.
+
+==Site navigation==
+{{Characters}}
+[[Category:Characters]]
+[[Category:Animals]]
+[[Category:Female Characters]]

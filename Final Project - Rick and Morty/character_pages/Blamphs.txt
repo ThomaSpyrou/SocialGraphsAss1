@@ -1,0 +1,19 @@
+{{Stub}}
+{{Species
+|image1 = Blamphs.png
+|caption1 = Blamphs at work
+|status: = Alive
+|type: = Humanoid
+|other_names: = Plumbus aliens
+|affliations: = [[Plumbus]]
+|first_seen_in: = "[[Interdimensional Cable 2: Tempting Fate]]"
+}}
+'''Blamphs''' are an interdimensional alien species that appeared in the episode [[Interdimensional Cable 2: Tempting Fate|<nowiki>''</nowiki>Interdimensional Cable 2: Tempting Fate<nowiki>''</nowiki>]]. A group of them work in a factory, where they produce [[Plumbus]]es.
+
+== Trivia ==
+
+*In [[Pocket Mortys|''Pocket Mortys'']], [[Plumbonia Morty]] can be found on ''Plumbubo Prime 51b''.
+[[Category:Characters]]
+[[Category:Races]]
+[[Category:Aliens]]
+[[Category:Interdimensional Cable Characters]]

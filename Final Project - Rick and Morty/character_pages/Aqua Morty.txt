@@ -1,0 +1,123 @@
+{{Character
+|status=Unkown
+|image=Fish Morty.png
+|species = Fish-person
+|age = 14
+|family=[[Fish Rick]] (grandfather)
+|first=Close Rick-counters of the Rick Kind
+}}'''Aqua Morty''' is an alternate version of [[Morty Smith]] who often would be at [[The Citadel]] with [[Aqua Rick|his Rick]].
+
+==Appearance==
+Aqua Morty shares the general appearance of [[Morty Smith]], though with many distinguishable features usually acquainted with that of a sea creature. Like [[Fish Rick]], he wears a helmet, presumably filled with water.
+
+==Biography==
+{{PAGENAME}} came to The Citadel with his Rick at the same time as the trial of [[Rick C-137]], and watched them be escorted to the council chambers before joining the audience for the trial. He also watched as C-137 Rick and Morty escaped from the Citadel.
+
+He was again at The Citadel when Morty and [[Summer]] were escorted to the Council to inform them of the capture of their Rick. Soon after, the Citadel was teleported into a [[Galactic Federation Prison]] and fighting broke out. It's not known if {{PAGENAME}} survived this event.
+
+==''[[Pocket Mortys]]''==
+{{PocketMorty
+|Name = Aqua Morty
+|Number= 072
+|Type = Paper
+|Previous = Shadow Morty
+|Next = Cyclops Morty
+|Badge = 13
+|Rare = Yes
+|Evolution= [[File:PM072.png|50px]]
+|height = 5'2"|weight = 80.3 lbs
+|characteristics = Lives under the sea}}
+{{Quote|This Morty comes from a family of fish people. He is a vegan but enjoys chicken on Fridays.|In-Game Description}}
+'''Aqua Morty''' appears in the game [[Pocket Mortys]]. He appears in [[Pocket Like You Stole It 1]].
+
+===Attacks===
+{| class="wikitable sortable" width="59%" cellspacing="0" cellpadding="4" style="border:2px solid gray; color:#000; background:#fff; text-align:center;"
+! style="background:#03afc9; color:white;"| NAME
+! style="background:#03afc9; color:white;"| TYPE
+! style="background:#03afc9; color:white;"| POWER
+! style="background:#03afc9; color:white;"| ACCURACY
+! style="background:#03afc9; color:white;"| AP
+! style="background:#03afc9; color:white;"| LV
+|-
+|style="background:white; text-align:left;" |Outburst
+|Normal
+|50
+|95%
+|12
+|Start
+|-
+|style="background:white; text-align:left;" |Cry
+|{{decrease}} Defense (Enemy)
+|Weak
+|100%
+|18
+|1
+|-
+|style="background:white; text-align:left;" |Bunt
+|Normal
+|95
+|95%
+|8
+|8
+|-
+|style="background:white; text-align:left;" |Belch
+|{{increase}} Accuracy (Self)
+|Weak
+|95%
+|18
+|10
+|-
+|style="background:white; text-align:left;" |Scrunch
+|{{Paper}}
+|65
+|90%
+|10
+|14
+|-
+|style="background:white; text-align:left;" |Mortify
+|{{Increase}} Attack (Self)
+|Medium
+|95%
+|12
+|19
+|-
+|style="background:white; text-align:left;" |Fang Rage
+|{{Paper}}
+|91
+|95%
+|8
+|26
+|-
+|style="background:white; text-align:left;" |Wrangle
+|{{Decrease}} Defense (Enemy)
+|Strong
+|95%
+|10
+|32
+|-
+|style="background:white; text-align:left;" |Descale
+|{{Paper}}
+|105
+|95%
+|8
+|38
+|}{{clear}}
+==Appearances==
+===[[Season 1]]===
+*"[[Close Rick-counters of the Rick Kind]]" (Non-Speaking Cameo)
+===[[Season 3]]===
+*"[[The Rickshank Rickdemption]]" (Non-Speaking Cameo)
+===[[Rick and Morty: Pocket Like You Stole It]]===
+*"[[Pocket Like You Stole It 1]]"
+===Other Media===
+*[[Pocket Mortys]]
+*[[Rickstaverse]]
+
+==Site Navigation==
+{{Characters}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Mortys]]
+[[Category:Animals]]
+[[Category:Unknown Fate]]

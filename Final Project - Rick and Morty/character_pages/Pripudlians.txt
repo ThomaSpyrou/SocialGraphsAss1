@@ -1,0 +1,28 @@
+{{Species
+|name=Pripudlians
+|image1=Pripudlian_Galactic_Prison.png
+|type: = Worm-aliens 
+|status:=Alive
+|affliations: = [[Galactic Federation]]
+|first_seen_in:=[[Pilot]]
+}}
+The '''Pripudlians''' are a pink, worm-like alien race that exist in the world of Rick and Morty. They appear in a lot of intergalactic places, but do not seem to make much commotion about themselves, or travel in groups. Like most other aliens, Pripudlians do not wear pants.
+
+==Physiology==
+Pripudlians move by using a combination of the end of their tail to push themselves forward and slither like snakes/worms. They always appear upright and never lying on the ground, meaning that though they look like worms they do not behave similar to worms. Their arms a typically short and skinny, implyng weak arm-strength and generally non-aggressive behavior.
+
+==Culture==
+According to [[Rick]], Pripudlians are some of the greatest gamers in the multiverse. They also had their own version of ''GamerGate'', but it was appearantly "even worse than ours".<ref>[https://www.instagram.com/p/5SXVejCwY0/ Blips and Chitz - Rickstaverse]</ref>
+
+==Appearances==
+*"[[Pilot]]" (cameo)
+*"[[Ricksy Business]]" (cameo)
+*"[[Mortynight Run]]" (cameo)
+*"[[The Wedding Squanchers]]" (cameo)
+*"[[Vindicators 3: The Return of Worldender]]" (cameo)
+==References==
+{{Reflist}}
+[[Category:Article stubs]]
+[[Category:Aliens]]
+[[Category:Characters]]
+[[Category:Races]]

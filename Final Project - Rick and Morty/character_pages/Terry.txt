@@ -1,0 +1,20 @@
+{{SimilarName|Terry the news reporter|[[Scary Terry]]}}
+{{Character
+|image = TerryNews.png
+|origin = Earth ([[Dimension C-137]])
+|species = Human
+|status = Unknown
+|job = News reporter
+|first = Get Schwifty
+|voice actor = 
+}}
+
+'''Terry''' was a news reporter who reported on the [[Cromulons|giant floating head]] in the sky which created chaos over Earth. He was live on an unknown news network, talking with [[Jim]] when commenting on the destruction and climate change being created by the giant head. When the Cromulon started talking, Terry was nearly hit by a falling helicopter caused by the Cromulon's voice.
+
+==Site navigation==
+{{Characters}}
+[[Category:Article stubs]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Humans]]
+[[Category:Unknown Fate]]

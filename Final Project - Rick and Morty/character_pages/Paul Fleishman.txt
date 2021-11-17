@@ -1,0 +1,36 @@
+{{Character
+|name = Paul Fleischman
+|image = Paul Fleishmam.png
+|species = Human
+|status = Alive
+|family = [[Beth Smith]] (wife)<br>[[Summer Smith]] (step-daughter)<br> [[Morty Smith]] (step-son) <br>[[Rick Sanchez]] (father-in-law)
+|first = Mortynight Run
+|voice actor = [[Ryan Ridley]]
+|age = 35+
+}}
+'''{{PAGENAME}}''' is a man that appeared in the episode [[Mortynight Run]] at [[Jerryboree]]. He comes from an alternate timeline where [[Jerry Smith|Jerry]] and [[Beth]] divorced and, soon after, Beth got remarried to him.
+
+==Biography==
+Paul is a man very much like Jerry, which led him to marry the Beth in his universe after she divorced the Jerry of that universe. He treats Beth very well and does not overstep his bounds with Morty by trying to replace Jerry.
+
+On one of his father-in-law's adventures, Paul is checked in to Jerryboree and appears to be the only non-Jerry there. When Jerry Smith returns from his short adventure outside of Jerryboree, he briefly talks to him and asks Jerry to assist him and the rest of the Jerrys with connecting the TV audio to the stereo. 
+
+== Pocket Mortys ==
+
+Paul Fleischman appears as a Rival Trainer in the game [[Pocket Mortys]] He can be found in [[Morty Games]] 
+
+=== Dialog ===
+
+'''Pre-Battle''':
+{{Quote| When I win, I'm taking the crown! Paul Fleischman and his band of Pauls will rule on!}}
+
+'''Post-Battle''':
+{{Quote| I take no responsibility for this. It was all Jerry. Yes, blame Jerry!}}
+
+==Site Navigation==
+{{Characters}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Humans]]
+[[Category:Love Interests]]
+[[Category:Beth's Love Interests]]

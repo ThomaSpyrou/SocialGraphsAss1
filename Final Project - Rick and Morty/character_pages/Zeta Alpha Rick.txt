@@ -1,0 +1,44 @@
+{{Character
+|name = Zeta Alpha Rick
+|image = ZetaAlphaRickS3.png
+|species = Human
+|status = Deceased
+|job = Member of the [[Council of Ricks]]
+|first = Close Rick-Counters of the Rick Kind|voice actor = Justin Roiland|age = 70}}
+'''Zeta Alpha Rick''' was a member of the now defunct [[Council of Ricks]]. He was killed by [[Rick Sanchez|Rick C-137]] in "[[The Rickshank Rickdemption]]."
+
+==Appearance==
+{{PAGENAME}} shares the general appearance of [[Rick Sanchez]], though with a different hairstyle.
+==Biography==
+In ''"[[Close Rick-Counters of the Rick Kind]]"'', Zeta Alpha Rick appears alongside his fellow council-members, [[Rick Prime]], [[Maximums Rickimus]], [[Quantum Rick]], [[Riq IV]], and [[Ricktiminus Sancheziminius]], accusing [[Rick Sanchez|Rick C-137]] for the murder of 27 alternate Ricks, including [[The Scientist Formerly Known as Rick]]. He joined them in sentencing Rick C-137 to the machine of unspeakable doom, to which he steals a portal gun and escapes from the Citadel.
+
+After the real perpetrator, [[Evil Rick]], was beaten to death by the group of enslaved Mortys, the Council of Ricks shows up to escort the Rick-less Mortys back to their respective dimensions. The Council takes C-137 Rick and Morty back to the Citadel, and officially apologize to Rick for accusing him of the murders. They even offer him a coupon for a free Morty, should anything ever happen to his, which Rick accepts while Morty's back is turned.
+
+[[File:Zeta'sDeath.png|thumb|291x291px|Zeta Alpha Rick is executed by [[Rick Sanchez|Rick C-137]].]]
+In ''"[[The Rickshank Rickdemption]]"'', the Council of Ricks hold [[Morty]] and [[Summer]] captive after sending [[SEAL Team Ricks]] to assassinate Rick C-137. After Rick teleported the entire Citadel back into the middle of the Federation prison, a heated battle broke out between the two sides. Rick infiltrated the Council chamber and kills most of the Council of Ricks, killing Zeta Alpha Rick with a shot to the head before ending up in a standoff with Riq IV, ultimately killing him and wiping out the council.
+==''[[Pocket Mortys]]''==
+'''Gym badge:''' [[File:CoR badge Zeta Alpha Rick.png|x50px]]
+
+{{clear}}
+==Appearances==
+===[[Season 1]]===
+*"[[Close Rick-Counters of the Rick Kind]]"
+*"[[Ricksy Business]]" (Cameo)
+=== [[Season 3]] ===
+*"[[The Rickshank Rickdemption]]"
+===[[Season 5]]===
+* "[[Rickmurai Jack]]" (flashback cameo)
+===Other Media===
+*[[Pocket Mortys]]
+
+==Site navigation==
+{{characters}}
+{{Pocket Mortys}}
+
+[[it:Zeta Alpha Rick]]
+[[Category:Characters]]
+[[Category:Ricks]]
+[[Category:Male Characters]]
+[[Category:Deceased Characters]]
+[[Category:Killed by Rick]]
+[[Category:Recurring Characters]]

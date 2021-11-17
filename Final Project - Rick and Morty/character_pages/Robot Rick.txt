@@ -1,0 +1,32 @@
+{{SimilarName|the minor character from "[[Close Rick-counters of the Rick Kind]]"|Rick's clone of himself from "[[Rickmancing the Stone]]"
+}}
+{{Character
+|image=Robot-Rick.png|status = unknown|relationships = [[Robot Morty]] (grandson)|species = Robot}}'''Robot Rick''' is an alternate version of [[Rick Sanchez]] that appeared in the episode "[[Close Rick-Counters of the Rick Kind]]." He is a robot that resembles Rick.
+
+==Appearance==
+Robot Rick is a robot in the form of tall old man. He has light blue spiky hair and a unibrow that are not robotic for some reason. He also has a white lab coat that is not robotic either. He has a giant hinge mouth and light purple pupils and his hands are robot claws. His fate as of the events of "[[The Rickshank Rickdemption]]" is unknown as he was never seen among the combatants who fought the Galactic Federation in that episode.
+
+{{Clear}}
+
+==''[[Pocket Mortys]]''==
+{{MortyTrainer|Name = Robot Rick|Image = Robot Rick.png|Type = Gym Leader|Species = Robot|Mortys = Random|Rewards = [[Schmeckles]], Random item}}
+'''Robot Rick''' is a rival Morty Trainer in the game ''[[Pocket Mortys]]''.
+
+{{Clear}}
+
+==Appearances==
+===[[Season 1]]===
+*"[[Close Rick-counters of the Rick Kind]]" (Non-Speaking Cameo)
+===Other Media===
+*[[Pocket Mortys]]
+
+==Site Navigation==
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Ricks]]
+[[Category:Robots]]
+[[Category:Unknown Fate]]
+[[Category:Trainers]]
+[[Category:Objects]]
+[[Category:One-Time Characters]]

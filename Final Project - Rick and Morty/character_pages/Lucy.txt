@@ -1,0 +1,35 @@
+{{Character
+|name = Lucy
+|status = Deceased 
+|image = Lucy.JPG
+|age = Unknown, possibly late 40's - early 50's
+|family = 
+|only = Ricksy Business
+|job = Maid
+|affiliation = Titanic 2
+|species = Human
+|voice actor = Alejandra Gollas
+}}
+'''Lucy''' is a character who appeared in the episode "[[Ricksy Business]]", serving as the main antagonist. She worked as a maid on the [[Titanic 2]]. While coming off as a sweet lady, she eventually becomes obsessed with [[Jerry]]; attempting to force him to have sex with her at gunpoint.
+
+==History==
+The original Lucy presumably became a Cronenberg in [[Dimension C-137]].
+
+Lucy is first encountered by [[Jerry]] and [[Beth]] when they board the Titanic 2. Beth's lack of interest in the attractions on the boat leads to her pairing Lucy off with Jerry. Lucy reveals that she's a huge Titanic fan, and had never experienced the boat properly. Jerry proceeds to show her a fun time, but she quickly grows too attached to him. With Beth showing little interest in Jerry, Lucy begins to take bigger and bigger advances towards him, eventually leading to a forced seduction. She strips naked and asks Jerry to draw her, but he refuses before she takes out a gun threatening to draw her and to have sex with her in a prop car.
+
+Beth appears and knocks Lucy out with a book. However, Lucy attempts to attach herself to the underside of the Smith car on their way out. She gets knocked off and is ran over, leaving her mortally wounded as she spent the last few seconds of her life crawling around the parking lot on a pool of her own blood and screaming in agony before dying.
+
+==Trivia==
+[[File:Lucy's demise.JPG|right|200px]]
+* Her death is a reference to the underside car scene in ''Cape Fear''.
+* While the episode Lucy appeared in kept her fate ambiguous due to fan theories that she could have received medical attention after getting run over, her death was eventually confirmed by Justin Roiland in his art book, ''The Art Of Rick And Morty''.
+** However, in the ''[[Rick and Morty Character Guide]]'', she has sent a lipstick covered postcard to Jerry saying she misses him.<ref name=RMCG>[[Rick and Morty Character Guide]]</ref>
+
+==Navigation==
+{{Character list}}
+[[Category:Characters]]
+[[Category:Female Characters]]
+[[Category:Antagonists]]
+[[Category:Humans]]
+[[Category:Deceased Characters]]
+[[Category:Killed by Beth]]

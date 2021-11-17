@@ -1,0 +1,30 @@
+{{Character
+|name = Pat Guterman
+|image = Pat_Picture.png
+|race = Android
+|age = Unknown, possibly late 40's - early 50's
+|status = Deceased
+|hair = Brown
+|job = Spy for the Galactic Federation
+|relationships = [[Donna Guterman]] (fake wife; destroyed)<br>[[Tammy Guterman]] (fake daughter)<br>[[Birdperson]] (fake son-in-law)
+|first = The Wedding Squanchers
+|voice actor = James Callis 
+|species=Android|affiliation=[[Galactic Federation]]}}'''Pat Guterman''' was the husband of [[Donna Guterman]], the father of [[Tammy Guetermann]], and the father-in-law of [[Birdperson]], he is first introduced in the episode ''[[The Wedding Squanchers]]'' during her wedding to [[Bird Person]]. He and his wife introduced themselves to the spouses [[Smith Family|Smith]], [[Jerry Smith|Jerry]] and [[Beth Smith|Beth]] during the wedding's reception.
+
+Later, it is revealed that Pat, Donna, and Tammy are agents for the [[Galactic Federation]]. Pat and Donna are not humans and are shown as deadly robots. The two of them directly pursue the Smith family as they attempt to escape. Pat slips on a group of earthworms and falls out of the back of a spaceship from a great height.
+
+==Trivia==
+*Pat's likeness is a direct reference to the character Gaius Baltar in the sci-fi series Battlestar Galactica. He is voiced by the actor of this character, James Callis.
+
+==Gallery==
+<gallery>
+PatAndDonna.PNG|The spouses Gueterman introducing themselves to the spouses Smith
+TammyPatDonna.PNG|The family turn on the crowd.
+PatRobot.PNG|Pat as a robot
+</gallery>
+[[Category:Characters]]
+[[Category:Antagonists]]
+[[Category:Robots]]
+[[Category:Genderless]]
+[[Category:Deceased Characters]]
+[[Category:Killed by Rick]]

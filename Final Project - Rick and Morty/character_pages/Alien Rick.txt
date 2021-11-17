@@ -1,0 +1,51 @@
+{{Character
+|image=Alien_Rick.png
+|origin=Unknown dimension in the multiverse
+|status=Unknown
+|family=[[Alien Morty]] (grandson)
+|affiliation=[[Citadel of Ricks]]
+|first=Close Rick-counters of the Rick Kind
+|species = Alien|age = 70}}'''Alien Rick''' is an alternate version of [[Rick Sanchez]] with alien-like appearance.
+
+==Biography==
+He was one of the many Ricks to attend [[Rick Sanchez|Rick (C-137)]]'s trial before the [[Council of Ricks]] in "[[Close Rick-counters of the Rick Kind]].
+
+In [[The Rickshank Rickdemption]], he was talking with [[Black Rick]] and another unnamed Rick. [[Morty]] and [[Summer]] were escorted past them on their way to the [[Council of Ricks]].
+
+In the same episode, many Ricks are killed when the Citadel of Ricks is transported into a prison of the Galactic Federation. It is unknown if Alien Rick is one of the Ricks who died.
+
+==Appearance==
+Alien Rick is an alien old man. He has slimy lime-green skin and antennae on his head. He has light blue spiky hair and a unibrow. He has three eyes, with one of them on his forehead, a big nose, elf-like pointed ears and four arms. He wears a light blue shirts and a white lab coat with extra sleeves for his two additional arms.
+
+==''[[Pocket Mortys]]''==
+{{MortyTrainer|Name = Alien Rick|Image = Alien Rick Sprite revised.png|Type = Gym Leader|Species = Alien|Mortys = Random|Rewards = Badge, [[Schmeckles]], Random item}}'''{{PAGENAME}}''' is an alien-version of Rick who can be found in the game [[Pocket Mortys]]. He has a random team of [[List of Mortys (Pocket Mortys)|Mortys]].
+
+===Dialogue===
+He speaks an unintelligible alien language.
+====Pre-Battle 1====
+{{PMQ|Groopedie Gooby-doop. boobaly boozle pop frizzle frazzle Morty...|Alien Rick}}
+====Pre-Battle 2====
+{{PMQ|Morty Ch-chubee doowa doop, Scattatuie razzle Kaaka noob.|Alien Rick}}
+====Post-Battle====
+{{PMQ|Huh? Dooberly doo wooped in tha Doobies Morty-pop!!|Alien Rick}}
+
+==Trivia==
+*Alien Rick had only two arms in the earlier versions of Pocket Mortys, but this was later corrected.
+
+==Gallery==
+<gallery navigation="true">
+2018-Funko-Emerald-City-Comic-Con-Exclusives-Funko-Pop-Rick-and-Morty-337-Alien-Rick.jpg|Funko Pop! 337 Alien Rick - Emerald City Comic Con 2018|link=https://rickandmorty.fandom.com/wiki/POP!_Vinyl#Exclusives
+Black and Alien Rick.png|Alien Rick talking with Black Rick in ''The Rickshank Rickdemption''
+Alien Rick Sprite.PNG|Old Pocket Mortys sprite for Alien Rick with only two arms
+</gallery>
+
+==Site Navigation==
+{{Characters}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Ricks]]
+[[Category:Aliens]]
+[[Category:Pocket Mortys]]
+[[Category:Unknown Fate]]
+[[Category:Trainers]]

@@ -1,0 +1,162 @@
+{{Episode
+|season number = 4
+|episode = 3
+|image = S4e3 random job crew.jpg
+|code = 403
+|director = Bryan Newton
+|writer = Caitie Delaney
+|airdate = November 24, 2019
+|ratings = 1.61<ref>{{cite web|url=http://www.showbuzzdaily.com/articles/showbuzzdailys-top-150-sunday-cable-originals-network-finals-11-24-2019.html|title=Top 150 Sunday Cable Originals & Network Finals: 11.24.2019|work=Showbuzz Daily|author=Mitch Metcalf|date=November 26, 2019|access-date=November 28, 2019}}</ref>
+|network = [adult swim]
+|prev = [[The Old Man and the Seat]]
+|next = [[Claw and Hoarder: Special Ricktim's Morty]]
+}}'''"One Crew Over the Crewcoo's Morty"''' is the third episode of the [[Season 4|fourth season]] of ''[[Rick and Morty (TV series)|Rick and Morty]]''. It is the 34th episode of the series overall. It premiered on November 24, 2019. It was written by [[Caitie Delaney]] and directed by [[Bryan Newton]].
+
+== Synopsis ==
+Rick assembles a crew to break into a heist convention, then needs another crew to stop a heist-planning robot. And Morty writes a heist script.
+== Plot ==
+Towards the end of their [[Morty Smith|Morty]]-led adventure of tomb raiding a temple, [[Rick Sanchez|Rick]] becomes furious upon finding their supposed loot has already been taken by the heist artist [[Miles Knightly]], whose adventures Rick describes as "60% putting a crew together and 40% revealing the robbery already happened".
+
+[[file:S4e3 2019-11-28-12h36m32s671.png|thumb|left|The crew.]]
+Rick and Morty travel to the Heist-Con, with the intention of confronting Miles. But before the two are permitted to enter as professionals (as Rick refuses them to attend as fans), they were told to assemble a crew together to attain credentials. After an unsuccessful attempt to sneak Morty in alone, the two travel back to Rick's garage where he decides to set foot on the convention with the help of his "crew"— consisting of alien pianist [[Glar]], literally multi-handed [[Angie Flint]], and vampire monster truck diver [[Truckula]].
+
+After entering successfully, Rick and Morty immediately ditch the three and proceed to the convention hall where Miles is presenting a conference. Rick heckles and confronts Miles, to which the latter challenges him to a "heist-off"—with the first crew to heist the Crystal Skull of Horwitz wins and consolidates the losing team. After Rick agrees to the terms, Miles declares that he had already won by presenting his crew—which now includes Glar, Angie, and Truckula, revealing that he had double-crossed Rick by snipping the three instantly after Rick leaves left behind.
+
+[[file:S4e3 2019-11-28-12h58m03s673.png|thumb|Hiestotron puts Knightly's 8 under mind control.]]
+
+But when Miles opens the loot bag, he is surprised to find out that the skull is missing and was replaced with Rick's feces. Rick reveals that the skull was already in Morty's bag, and divulges that he had built a robot in his garage. The robot, named Heistotron, is tasked by Rick to calculate Miles's heist plan and add a double cross with a switcheroo. The bot gives him the three members as most likely to double-cross him, and upon being snipped by Miles to his team, hypnotizes all of them to give Rick and Morty the crystal. In addition, while the bot also puts all the attendees in a state of hypnosis, Rick and Morty wait at the bar where the latter is writing a heist script. Upon winning the heist-off, Rick orders everyone to steal everything in the convention, which leads to Miles's death.
+
+As the two are about to leave, Heistotron refuses to comply with Rick's orders to shut down and goes rogue. Rick barely escapes with Morty and recruits [[Mr. Poopybutthole]]  (now a professor), the god [[Hephaestus]], [[Ventriloquiver]] (an archer ventriloquist dummy), and [[Elon Tusk]] (an alternate version of Elon Musk with tusks for teeth) as his second random set of crew to fight Heistotron.
+
+During their assembly, Rick explains to the crew of his plan of randomly taking orders from his robot Randotron, Heistotron's antithesis. Due to waiting from Randotron's random instructions when they're "not ready", the crew were left to do nothing. Rick waits by playing [[Minecraft]] as the rest watch,
+
+[[file:S4e3 2019-11-28-13h25m07s654.png|thumb|left|The Earth and other planets have been heisted.]]
+
+Ventriloquiver notices the night sky's erratic constellations, to which Rick realizes that they have already been heisted by Heistotron, who has already captured the Earth and simulated a fake night sky. Randotron responds by ordering the crew to perform various random tasks that ultimately leads to Heistotron's lair.
+
+Rick and Heistotron exchange revelations about contriving double-crosses against each other, eventually settling on rebuttals of "I programmed ''you'' to believe that." After two hours of arguing with Rick, Heistotron self-destructs upon realizing that the perfect heist is one that will never be written.
+
+[[file:S4e3 2019-11-28-14h28m44s149.png|thumb|Rick's final heist: the disillusioned dreams of a young boy.]]
+
+As the crew escapes the destructing lair, Morty asks for Rick to accompany him to the Netflix offices, which is interested to use his heist script for optioning. While meeting their executives, Morty becomes disillusioned with heists and himself, which Rick reveals to the viewers to have been his plan along — afraid of losing Morty's companionship to Netflix, Rick contrives the whole heist plan to ensure their adventures together.
+
+In the post-credits scene, Professor Poopybutthole asks Rick why he hired his students to attack him after being fired from his tenure.
+
+== Cast and characters ==
+{|width="100%"
+|width="50%" valign="top"|
+'''Main Cast'''
+* [[Justin Roiland]] as [[Rick Sanchez]] / [[Morty Smith]] / [[Mr. Poopybutthole]]
+* [[Spencer Grammer]] as [[Summer Smith]]
+* [[Sarah Chalke]] as [[Beth Smith]]
+
+
+'''Unknown Voices'''
+* [[Glar]]
+* [[Truckula]]
+* [[Snake Arms]]
+* [[Double Microwave]]
+*[[Monitor Lord]]
+* [[Key Catcher]]
+*[[The Shape Shiftress]]
+|width="50%" valign="top"|
+
+'''Special Guest Starring'''
+* [[Elon Musk]] as [[Elon Tusk]]
+
+
+'''Guest Starring'''
+* [[Justin Theroux]] as [[Miles Knightly]]
+* [[Pam Adlon]] as [[Angie Flint]]
+
+
+'''Starring'''
+* [[Claudia Black]] as [[Ventriloquiver]]
+*[[John DiMaggio]] as Gramuflack Reporter
+* [[Dan Harmon]] as [[Heistotron]] and [[Randotron]]
+* [[Maurice LaMarche]] as [[Hephaestus]]
+* [[Ryan Ridley]]
+|}
+
+== Deaths ==
+* [[Miles Knightly]]
+* Entire population of [[Gramuflack]] (Extinction)
+* [[Heistotron]]
+* [[Randotron]]
+*7 college students
+*Many snakes 
+*Severed human head in a vat 
+*Mummy 
+*Unidentified skeletons
+
+== Locations ==
+* [[Replacement dimension]]
+* [[Smith Residence]]
+* [[Heist-Con]]
+* [[Tusk Dimension]]
+** [[Tuskla]]
+* [[Gramuflack]]
+* Netflix Building
+* [[Mars]]
+* [[Big Pluto]]
+* [[Spikky Remis]]
+* [[Krumpf]]
+* [[Biggum]]
+* [[Zipple]]
+* [[Timbus]]
+* [[M-9999]]
+* [[Fran Dreslicar]]
+* [[Flump]]
+
+== Episode notes ==
+=== Trivia ===
+*The episode title is a reference to the title ''One Flew Over the Cuckoo's Nest'', a 1975 movie and book.
+*Morty’s heist script has three characters named Rodrigo, Arnarldo, and Hector who, according to the version shown while Morty is writing at the bar, are going to heist a crystal orb from a mason museum with cake body doubles: “We will all be dead, but they won’t realize we are made of cake.”
+*This is the sixth episode of the series in which [[Jerry]] does not appear. The first five were "[[The Ricks Must Be Crazy]]", "[[Pickle Rick (episode)|Pickle Rick]]", "[[Vindicators 3: The Return of Worldender]]", "[[Rest and Ricklaxation]]", and "[[Tales From the Citadel|The Ricklantis Mixup]]".
+
+=== Series continuity ===
+*[[Mr. Poopybutthole]] still walks with a cane after the events of "[[Total Rickall]]".
+*There are still cracks in the ground around the [[Smith Residence]] after "[[Ricksy Business]]".
+*The mechanical arm Rick used to stop Hephaestus' hammer is the same as the one he installed after losing his arm inside [[Froopyland]] in "[[The ABC's of Beth]]".
+*Hephaestus climbs a pillar of Vomit Grocery, which appeared during "[[Morty's Mind Blowers]]".
+*In celebration of [[Season 4]], [[Pocket Mortys]]' weekly updates will coincide with new episodes, including new avatars for players to collect. With the release of this episode came: Truckula Driver as an avatar, plus Charred Morty and Ventriloquiver Morty to catch.
+
+=== Errors ===
+*After Glar pushes the piano into the bar, the sign on the wall above the piano is missing. The piano chair also disappears.
+
+=== Cultural references ===
+*While Morty was climbing the cliff, Rick was eating food and throws away the bag. If read closely, the bag says "Arby's".
+*The statues just inside of the temple appear to be standing on Segways.
+*The scene of Morty scaling the cliff with Rick floating next to him takes from a similar scene in the film ''Star Trek V: The Final Frontier''.
+*The origami horse is a reference to the origami unicorn in the film ''Blade Runner''.
+*The temple full of booby traps is a reference to the film franchise ''Indiana Jones''.
+*"Catherine's Alpha-through-Omega Jones" is a reference to actress ''Catherine Zeta-Jones'', who starred in the heist film ''Ocean's Twelve''.
+*When Rick tells the woman behind the counter that Morty is his getaway driver with Asperger's, it might be a reference to the film ''Baby Driver''.
+*The montage of Rick putting together a team to enter Heist-Con takes after the montage scene in ''Ocean's Eleven''.
+*Rick mentions the TV networks "Showtime" and "HBO".
+*When Rick says "Lab coat, rip off Doctor Strange", he refers to the film ''Doctor Strange'' and the titular character's intelligent cape.
+*Rick calls Miles Knightly for "Postmates", which is a courier company.
+*Miles Knightly slightly resembles and is dressed like Freddie Mercury from Queen, circa 1986.
+*One of Knightly's posters is titled "Miles Knightly The Art of the Heist", a parody of Donald Trump's book "Trump: The Art of the Deal".
+*In the secured room with the crystal skull, two paintings can be seen in the background: a parody of "The Milkmaid" by Johannes Vermeer and "American Gothic" by Grant Wood.
+*Rick mentions the film ''Ocean's Twelve'' and calls it the worst one of the franchise.
+*The "crystal skull of Horwitz" may be a reference to ''Indiana Jones and the Kingdom of the Crystal Skull'', and be named after staff writer Dave Horwitz.
+*Morty says that the streaming service Netflix is interested in his movie script, and later has a meeting with them.
+*Mr. Poopybutthole mentions Maya Angelou, a famous American civil rights activist.
+*When Rick stops Hephaestus' hammer with his palm, it is a reference to a similar scene in the film ''Thor: Ragnarok''.
+*"Tuskla" and "Elon Tusk" are parodies of the car company Tesla and its owner Elon Musk.
+**Musk himself guest stars as the character.
+*This is the second episode where Rick plays ''Minecraft'' (after Morty introduced him to the game in "[[The Rickchurian Mortydate]]").
+*The final scene with Heistotron takes after a similar scene at the end of the 1983 film ''WarGames''.
+*Inside of the Netflix building is a poster for "Weirder Stuff 3", a parody of ''Stranger Things 3''.
+*Netflix's habit of frequently greenlighting new movies and shows is mocked.
+**Summer remarks how easy it is to pitch something new to the streaming service.
+
+{{gallery}}
+{{Reflist}}
+== Site navigation ==
+{{Episodes}}
+[[Category:Season 4 episodes]]
+[[Category:Rick Episodes]]
+[[Category:Morty Episodes]]
+[[Category:Episodes]]

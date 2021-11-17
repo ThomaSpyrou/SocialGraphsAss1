@@ -1,0 +1,35 @@
+{{Character
+|image = S4e6 00118.png
+|species = Human
+|status = Unknown
+|job = Elite Honor Guard
+|affiliation = [[Citadel of Ricks]] 
+|voice actor = 
+|first = Never Ricking Morty
+|age = 70}}
+'''Supreme Guard Ricks'''
+
+==Biography==
+==Appearance==
+==Appearances==
+=== [[Season 4]] ===
+*"[[Never Ricking Morty]]"
+=== [[Season 5]] ===
+*"[[Rickmurai Jack]]"
+==Gallery==
+<gallery>
+S4e6 00117.png
+S4e6 00119.png
+S4e6 00121.png
+S4e6 00129.png
+S4e6 00130.png
+</gallery>
+
+==Site Navigation==
+{{Characters}}
+[[Category:Ricks]]
+[[Category:Male Characters]]
+[[Category:Characters]]
+[[Category:Antagonists]]
+[[Category:Story Train Characters]]
+[[Category:Article Stubs]]

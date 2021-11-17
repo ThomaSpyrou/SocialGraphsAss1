@@ -1,0 +1,20 @@
+{{Character
+|name = Professor Tock
+|image = ProfTock.png
+|origin = 
+|species = 
+|age = 
+|status = Alive
+|job = Time Detective
+|first = Rick and Morty Issue 1
+|voice actor = 
+}}
+{{Quote|It looks like I just showed up in the nick of-" (interrupted by Rick)}}
+'''Professor Tock''' is a time detective in a multicolored plaid suit who knows Rick by name. He first appears in [[Rick and Morty Issue 1]].
+
+==Biography==
+Professor Tock first encounters [[Rick Sanchez (Dimension C-132)|Rick]] and [[Morty Smith (C-132)|Morty]] at the International Stock Exchange. After introducing himself to Morty and being mocked mercilessly by Rick, Tock states that Rick should not be here, and implies that he knows why Rick has come to the Exchange. Rick angrily contradicts this assertion, saying that Tock cannot possibly know the reason for his visit "because time travel doesn't make sense!" He also calls it "a paradox" and "impossible garbage science". He also states that if Tock was truly aware of his reasons, he would "arrest him already". Tock implies this statement to be a partial self-incrimination of wrongdoing, and Rick storms off, taking Morty with him and threatening to assault Tock over his time-based puns. Walking away, Morty tells Rick that Tock seemed alright to him, to which Rick, in a fit of suspicion and anger, threatens Morty, accusing him of wearing a wire and selling out his family.{{Characters}}
+[[Category:Characters]]
+[[Category:Comic Characters]]
+[[Category:Male Characters]]
+[[Category:Characters from Dimension C-132]]

@@ -1,0 +1,34 @@
+{{Character
+|name = {{PAGENAME}}
+|image = Megafruitfarmerrick.png
+|species = Human
+|job = Mega Fruit farmer
+|status = Alive
+|voice actor = [[Justin Roiland]]
+|first = Tales From the Citadel
+|age = 70}}
+{{Quote|Ah don' wear this dagnam hat an' commit to this rural character so you can eat for free while you come of age!|{{PAGENAME}}}}
+'''{{PAGENAME}}''' is a [[Mega Seeds|Mega Fruit]] farmer on [[The Citadel]].
+
+==Biography==
+{{PAGENAME}} worked as a farmer on The Citadel with his trusted robot dog. One day, four Mortys ([[Slick Morty|Slick]], [[Left-Handed Morty|Left-Handed]], [[Lizard Morty|Lizard]] and [[Glasses Morty|Glasses]]) sneaked onto his farm to steal his Mega Fruit. He fired a warning shot before sending his robot dog after the intruders, chasing them into the nearby river.
+
+Those four Mortys would return after [[President Morty]] changed the Citadel to focus more on Mortys. {{PAGENAME}} objected to the Mortys taking his fruit, but the Guard Ricks present would not stop them. 
+
+{{PAGENAME}} was seen killing [[Morty Smith|Morty of C-137]] in a possible future seen by a [[Death Crystal]].
+
+==Appearance==
+Mega Fruit Farmer Rick looks similar to [[Rick Sanchez]], but has a long beard, long hair, and wears a hat and overalls.
+
+==Appearances==
+===[[Season 3]]===
+*"[[The Ricklantis Mixup]]"
+===[[Season 4]]===
+*"[[Edge of Tomorty: Rick Die Rickpeat]]" <small>(Vision)</small>
+
+==Site Navigation==
+{{Characters}}
+[[Category:Characters]]
+[[Category:Ricks]]
+[[Category:Male Characters]]
+[[Category:Humans]]

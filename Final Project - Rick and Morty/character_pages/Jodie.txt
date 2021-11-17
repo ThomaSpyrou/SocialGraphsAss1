@@ -1,0 +1,23 @@
+{{Character
+|image = S3e8 2019-12-14-22h20m31s969.png
+|name = Jodie
+|species = Human
+|status = Alive
+|origin = [[Earth]] ([[Replacement dimension]])
+|job = Employee at NASA
+|voice actor = Unknown
+|first = Morty's Mind Blowers
+}}'''Jodie''' was a NASA employee sent to pilot an interstellar vehicle, which turned out to be a trick by [[Rick Sanchez]] to save himself and [[Morty Smith]] from [[The Menagerie]].
+
+==Biography==
+After [[Rick Sanchez]] and [[Morty Smith]] got stuck in the [[Collector]]'s menagerie, Rick sent a message to NASA with instructions to build an interstellar vehicle to find them. Jodie and [[Chang]] was sent to pilot the vehicle, and met Rick and Morty in the menagerie. Jodie and Chang were tricked by Rick and Morty to trade places, allowing the duo to escape in the vehicle and leave the two NASA employees with the Collector. Rick later removed this incident from Morty's memories.
+
+==Trivia==
+*Jodie's name was revealed in an [https://www.instagram.com/p/CRrejMgj1EI/ Instagram post]. 
+
+==Site navigation==
+{{Characters}}
+[[Category:Humans]]
+[[Category:Female Characters]]
+[[Category:One-Time Characters]]
+[[Category:Characters]]

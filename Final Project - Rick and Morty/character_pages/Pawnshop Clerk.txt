@@ -1,0 +1,30 @@
+{{Character
+|image = PawnShopClerk.png
+|origin = 
+|species = [[Sketchians|Sketchian]]
+|status = Alive
+|job = Clerk at [[Pawn Shop Planet|Pawn Shop]]
+|affiliation = [[Pawn Shop Planet]]
+|voice actor = [[Tom Kenny]]
+|first = Raising Gazorpazorp
+}}
+
+{{quote|Like you would even know d**k about fraculation. Your planet just got cellphones, and the coverage still sucks!|Pawnshop Clerk to Rick Sanchez|Raising Gazorpazorp}}
+The '''Pawnshop Clerk''' is the only known employee at [[Pawn Shop Planet]]. His species eats sulfur. 
+
+==Biography==
+[[Rick Sanchez|Rick]] and [[Morty Smith|Morty]] visited his pawn shop and the Clerk tried to sell Rick a [[Multi-Phase Quantum Resonator]] for 70 [[Smidgen|smidgens]], but because it couldn't defraculate, Rick only called it a broken defraculator. The Clerk then proceeded to badtalk [[Earth]] and doubt Rick's knowledge of fraculation. Rick decides to just go to another pawn shop, but Morty wanted a [[Gwendolyn|sex-robot]] he found in the shop. Rick ends up with buying the resonator and the sex-robot for 60 smidgens.
+
+==Appearance==
+The Pawnshop Clerk has beige scaly skin with certain parts being red. He has two yellow eyes with beige iris, long dark hair, unibrow and no visible nose. On each hand he has got four fingers linked with webbed skin, and several ridges on his back. He wears a metal cuff on each wrist with  a green tube from the cuff into his forearms.
+
+==Gallery==
+<gallery>
+Pawnshop man design.png|Design model
+</gallery>
+
+==Site Navigation==
+{{Characters}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Aliens]]

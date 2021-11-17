@@ -1,0 +1,129 @@
+{{Character
+|name = Slick Morty
+|image = Slick_Morty.png
+|first = Tales From the Citadel
+|species = Human
+|voice actor  = [[Justin Roiland]]
+|age = 14
+|status = Unknown
+|aka = Mr. Smith (by [[Teacher Rick]])}}'''Slick Morty''' is a Morty on the [[The Citadel]]. He appears in the episode "[[Tales From the Citadel]]".
+
+
+
+== Appearance ==
+Slick Morty was similar to a generic Morty, but with slight differences. He had a curved hair sticking out, and a scalp line on his right. His sleeves are always rolled in, and he wore dog-tags on his neck. He also had a barcode tattoo on his left side, due to his origins as one of an experimental line of Mortys.
+
+== History ==
+Slick Morty was part of an experimental line of Mortys with a drama implant. It is unknown whether this means he was one of a series of clones or simply a Morty that was augmented, and the original purpose of the drama implant was never revealed. One of his previous Ricks was decapitated on [[Zorpantheon 9]].
+
+==Biography==
+[[File:S3e7 snape morty.png|thumb|left|Slick Morty being berated by Teacher Rick]]
+At the time of his series debut, Slick Morty lived on the [[The Citadel]] attending the Morty Academy. He was depressed because he had five previous Ricks, all of whom died, and his life had become defined by being passed around interchangeably without autonomy or concern for his wants. He also had an existential crisis because he believed all Mortys on the Citadel were doomed to the same fate, leaving no chance for escape or betterment of their lives. Due to his drama implant, he also believed that he personally would always make the people around him sad and a little bored and tried to counter that by acting as a class clown (which got him berated by [[Teacher Rick]]). 
+
+[[File:S3e7 escape school.png|thumb|The four Mortys sneaking out of school]]
+On his last day at Morty Academy, before he would be assigned to his sixth Rick, Slick Morty convinced his friends to journey to the [[Wishing Portal]], a semi-mythical place to Mortys on the Citadel where their wishes may come true if they throw something important into it. Despite instigating the journey, Slick Morty made it clear that he didn't believe in the portal's power to grant wishes. He bitterly believed it to be a hole where the Citadel dumps its broken dreams, although he conceded that his reaction may be due in part to his drama implant. He was only ever seen smiling in the embrace of his friends and fellow Mortys, as they assured him of his uniqueness and individuality. 
+
+[[File:S3e7 jump.png|thumb|left|Slick Morty jumping into The Wishing Portal]]
+Upon arriving at the [[Wishing Portal]], Slick Morty again stated that he did not then and never had believed in its power to grant wishes. He only wished that anything about their powerless, miserable lives as Mortys on the Citadel would change. When told by [[Glasses Morty]] that he better be throwing in something very important to get that wish, Slick Morty said that he hopes so too, but doubted it. He then threw himself into the Wishing Portal, attempting suicide. Despite the desperate hopes of his friends that the portal may actually lead somewhere better, it was immediately revealed by nearby machinery that the portal is nothing more than garbage disposal for the Citadel. While it is possible that Slick Morty survived his plunge into the well, the likelihood that he landed on a mountain of garbage, possibly in a hostile alien environment, or been buried by the flood of debris that followed shortly after him makes this an unlikely hope.
+
+Due to unrelated events in the same episode, the lives of Mortys across the Citadel did see positive change following Slick Morty's suicide. His friends can be seen later, dressed in uniforms just like Ricks, laughing and harvesting [[Mega Trees|mega fruit]] together in fields where they were previously excluded. This leads some of Slick Morty's friends to believe that he got his wish.
+
+In the commentary for "Tales From the Citadel", it's revealed that the other side of The Wishing Portal was a universe/planet that complained to a Rick once about not leaving a tip. In retaliation, the Citadel decided to dump all their garbage onto that planet. Slick Morty survived by landing on a heap of garbage.
+
+==[[Pocket Mortys]]==
+{{PocketMorty
+|Name = Slick Morty
+|Number= 277
+|Type = Paper
+|Previous = Cowboy Dancer Morty
+|Next = Christmas Sweater Morty
+|Badge = 27
+|Rare = Yes
+|Evolution= [[File:PM277.png|50px]]
+|height = 5'2"|weight = 110.3 lbs
+|characteristics = Slick, Dramatic}}
+{{Quote|This Morty has been through a lot of Ricks in his time. He hopes one day to visit The Wishing Portal so that he may get the chance to change his life.|In-Game Description}}
+'''Slick Morty''' appears in the game [[Pocket Mortys]]. He's found in the wild and cannot evolve.
+===Attacks===
+{| class="wikitable sortable" width="59%" cellspacing="0" cellpadding="4" style="border:2px solid gray; color:#000; background:#fff; text-align:center;"
+! style="background:#03afc9; color:white;" | NAME
+! style="background:#03afc9; color:white;" | TYPE
+! style="background:#03afc9; color:white;" | POWER
+! style="background:#03afc9; color:white;" | ACCURACY
+! style="background:#03afc9; color:white;" | AP
+! style="background:#03afc9; color:white;" | LV
+|-
+| style="background:white; text-align:left;" |Scrunch
+|{{Paper}} Paper
+|65
+|90%
+|10
+|Start
+|-
+| style="background:white; text-align:left;" |Cry
+|{{decrease}} Defense (Enemy)
+|Weak
+|95%
+|18
+|Start
+|-
+| style="background:white; text-align:left;" |Suit & Boot
+|Normal
+|65
+|95%
+|10
+|8
+|-
+| style="background:white; text-align:left;" |Stare Down
+|{{decrease}} Accuracy (Enemy)
+|Medium
+|95%
+|10
+|13
+|-
+| style="background:white; text-align:left;" |Rush
+|Normal
+|100
+|95%
+|8
+|18
+|-
+| style="background:white; text-align:left;" |Snub
+|{{decrease}} Speed (Enemy)
+|Medium
+|95%
+|12
+|23
+|-
+| style="background:white; text-align:left;" |Piercing Stare
+|{{Paper}} Paper
+|108
+|95%
+|8
+|27
+|-
+| style="background:white; text-align:left;" |Blood Pressure
+|{{increase}} Attack (Self)
+|Strong
+|95%
+|19
+|32
+|-
+| style="background:white; text-align:left;" |Iron Out
+|{{Paper}} Paper
+|120
+|95%
+|5
+|37
+|}
+
+==Merchandise==
+[[File:Funko-Rick-and-MOrty-Slick-Morty-912x912.jpeg|thumb|left|Funko Pop! 440 Slick Morty]]
+
+{{Characters}}
+{{Pocket Mortys}}
+[[Category:Characters]]
+[[Category:Mortys]]
+[[Category:Suicide]]
+[[Category:Male Characters]]
+[[Category:Paper-type Mortys]]

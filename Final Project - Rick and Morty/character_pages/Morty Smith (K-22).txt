@@ -1,0 +1,26 @@
+{{Character
+|name = Morty Smith (K-22)
+|image = Capture.PNG
+|species = Human
+|age = 14
+|status = Alive
+|job = Volunteer for [[The Citadel]]
+|affiliation = [[The Citadel]]
+|origin = Earth (Dimension K-22)
+|family = [[Rick Sanchez (K-22)]] (maternal grandfather)
+|appearances = [[Tales From the Citadel]]
+|main actor = [[Justin Roiland]]
+}}
+'''Morty Smith (K-22) '''is a Morty who travels with [[Rick Sanchez (K-22)]] to collect donations to the [[Citadel of Ricks]] redevelopment fund in the episode [[Tales From the Citadel]].
+
+==Biography==
+After [[Rick Sanchez|Rick C-137]] destroyed the Citadel, repairs immediately began, with funds being called out for from as many realities as possible. Along with his grandfather, Morty began travelling from reality to reality asking for contributions.
+
+When they went to the [[Replacement dimension]], encountering Rick C-137 and his [[Morty Smith|Morty]], C-137 revealed himself to be the one who blew up the Citadel. Despite this, Morty continues to pitch about the redevelopment fund, which irritates his Rick before they walk through their portal. He and Rick are not seen for the remainder of the episode.
+
+==Site navigations==
+{{Characters}}
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Humans]]
+[[Category:Mortys]]

@@ -1,0 +1,37 @@
+{{Character
+|image       =Stu.PNG
+|species     =[[Zigerion]]
+|status      =Deceased
+|job         =Simulation technician
+|origin      = Zigerion (planet)
+|affiliation =[[Zigerion|Zigerion Scammers]]
+|only        =M. Night Shaym-Aliens!
+|actor       =[[wikipedia:Maurice LaMarche|Maurice LaMarche]]
+}}
+{{Quote|If there's a wiener on that monitor, I swear to god, Stu.|[[Prince Nebulon]] to Stu|M. Night Shaym-Aliens!}}
+
+'''Stu''' was a [[Zigerion]] scammer working for [[Prince Nebulon]]. He was killed in an explosion caused by [[Rick Sanchez]]. 
+
+==Biography==
+He was on the team of scammers attempting to steal [[Rick]]'s recipe for [[concentrated dark matter]]. They captured Rick and put him in a simulation, inside of a simulation, inside of another simulation. Stu was the Zigerion who discovered [[Jerry Smith|Jerry's]] presence in the simulation and alerted [[Prince Nebulon]]. Like the rest of the Zigerions aboard the spacecraft, he was killed when the "formula" they believe they scammed from Rick caused a massive explosion and destroyed their entire ship.
+
+==Personality==
+While he only appeared in the episode briefly, Stu seemed more serious and professional than many of his colleagues. He didn't whine or joke about Rick and [[Morty Smith|Morty's]] nudity, instead remaining focused on his job.
+
+Stu was also intelligent and efficient, being the first to realize a second human is in the simulation and quickly identifying him as Rick's son-in-law, Jerry Smith.
+
+==Trivia==
+*In the episode [[Close Rick-Counters of the Rick Kind]], there was a picture of Stu on the wall of Rick's bedroom.
+
+==Gallery==
+<gallery>
+Stu CPU power.PNG|Stu adjusts the processing power in Jerry's quadrant to 5%.
+Zigerion design1.jpg|Stu's character model
+</gallery>
+
+{{Character list}}
+[[Category:Characters]]
+[[Category:Aliens]]
+[[Category:Male Characters]]
+[[Category:Deceased Characters]]
+[[Category:Killed by Rick]]

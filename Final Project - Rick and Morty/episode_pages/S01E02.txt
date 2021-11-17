@@ -1,0 +1,88 @@
+{{Tab|code=s1e02}}
+{{Episode
+| name           = Lawnmower Dog
+| season number  = 1
+| episode        = 2
+| image          = Lawnmower_Dog.png
+| writer         = [[Ryan Ridley]]
+| director       = [[John Rice]]
+| airdate        = December 9, 2013 (United States)<br>January 17, 2016 (Canada)
+| prev           = [[Pilot]]
+| next           = [[Anatomy Park (episode)|Anatomy Park]]
+|ratings = 1.51<ref name="The Futon Critic Staff 2013-12-10">{{cite web | url=http://www.thefutoncritic.com/ratings/2013/12/10/mondays-cable-ratings-and-broadcast-finals-monday-night-football-voice-continue-reign-653110/cable_20131209/| title=Monday's Cable Ratings & Broadcast Finals: ''Monday Night Football'', ''Voice'' Continue Reign | publisher=The Futon Critic | work=Ratings | date=December 10, 2013 | accessdate=December 11, 2013 | author=The Futon Critic Staff}}</ref>|code = 101}}
+'''<nowiki>''Lawnmower Dog''</nowiki>''' is the second episode of the [[Season 1|first season]] of [[Rick and Morty (TV series)|''Rick and Morty'']]. It is the second episode of the series overall. It premiered on December 9, 2013. It was written by [[Ryan Ridley]] and directed by [[John Rice]].
+
+== Synopsis ==
+Rick creates a device to make family dog Snuffles smarter, but it goes poorly. Rick and Morty invade the dreams of Morty's math teacher.
+
+==Plot==
+[[Jerry Smith (C-137)|Jerry]] complains that the family dog, Snuffles, is stupid so Rick gives Jerry a device that enhances the dog's intelligence. He and Morty then go into the dreams of Morty's math teacher to persuade him to give Morty an "A" in class so Morty can be assigned less homework. They go from Morty's math teacher's dreams to the dreams of a strong black female TV character named [[Mrs. Pancakes]], to a centaur's dreams, and so on. This results in Rick and Morty eventually encountering [[Scary Terry]] (a parody of Freddy Krueger, the villain in ''A Nightmare on Elm Street''). Scary Terry begins chasing the two of them through multiple dreams, causing Rick to become unhinged.
+
+At one point the two come across a dream of a post-apocalyptic city where they decide to hide from Scary Terry until he gets tired. When Scary Terry eventually sleeps, Rick and Morty enter his dreams and quickly persuade him to help the duo complete their mission. Meanwhile, after watching several exaggerated infomercials on dogs, Snuffles builds an advanced mechanical suit with a translator to speak to humans. He assembles a robot dog army and proceeds to take over the human race. Rick finds Morty and gives him pills which will make his kidneys shut down.
+
+Morty is later seen lying down on a hospital bed in a critical state with Snuffles by his side trying to keep him alive. Snuffles awakens (the aforementioned scenario is revealed to be a dream) and realizes that colonizing earth isn't the answer and that dog-kind must not fall to the fate of humankind with its heartbreak and cruelty. Snuffles and Morty have a tearful goodbye as Snuffles leaves for another planet for intelligent dogs where compassion is exercised and "pet insurance is mandatory."
+
+After the credits, Rick and Scary Terry are shown in Scary Class, now being taught by Scary Mr. Johnson, who asks to be called Scary Glen. Instead of Fundamentals of Fear, Scary Glen tells his students they first need to learn "how to chill."
+
+==Characters==
+===Major Characters===
+*[[Morty]]
+*[[Rick]]
+*[[Jerry Smith (C-137)|Jerry]] ([[Cronenberged dimension]])
+*[[Snuffles]]
+*[[Scary Terry]]
+*[[Mr. Goldenfold]] (Cronenberged dimension)
+===Minor Characters===
+*[[Beth Smith (C-137)|Beth]] (Cronenberged dimension)
+*[[Summer Smith (C-137)|Summer]] (Cronenberged dimension)
+*[[Centaur]]
+*[[Melissa]]
+*[[Scary Brandon]]
+*[[Mrs. Pancakes]]
+*[[Creepy Little Girl]]
+*[[Scary Olderson]]
+*[[Scary Glenn|Scary Mr. Johnson]]
+*[[Bill (Dog)|Bill]]
+
+==Deaths==
+* Creepy Little Girl (in her dream)
+* Centaur (in his dream)
+* Mrs. Pancakes (in her dream)
+* Mr. Goldenfold (in his dream)
+
+==Locations==
+*[[Dimension C-137|Earth]]
+**[[Smith House]]
+
+==Transcript==
+View the full transcript of this episode [[Lawnmower Dog/Transcript|here]].
+
+==Cultural References==
+*The title of this episode is a reference to the movie ''The Lawnmower Man'', wherein a scientist endows a mentally-challenged gardener with super-intelligence, only for the gardener to become evil.
+*The side-plot about Rick and Morty traveling into Mr. Goldenfold's dreams, and later, the dreams of people within those dreams, is a reference to the movie ''Inception''.
+**These similarities are, in fact, directly referenced by Rick in the episode.
+*Mrs. Pancakes' erotic dream about an erotic party, full of people wearing masks is a reference to the movie ''Eyes Wide Shut''.
+*Snuffles being wanted to be named Snowball is a reference to Snowball from Animal Farm, who is tired of being tyrannised by humans, like Snowball.
+*One scene in the movie featured dogs playing poker, which is a reference to the famous painting of the same name.
+*The Dog universe and Rick's dialogue at the end is a reference/explanation for the universe in Justin Roiland's pilot ''[[Dog World (Animatic)|Dog World]]''. Rick's dialogue implies that Roiland may still have a desire to adapt it for a show at some point.
+**Rick also mistook Snuffles' name for Ruffles, which was going to be the main character of Dog World.
+*Snuffles's rise to power may be a reference to Caesar in ''Rise of the Planet of The Apes''. They were both given heightened intelligence by a human, take over the world, and both Caesar and Snuffles still harbor soft feelings for a human.
+
+* Rick mentions a "dream bedrock" when they find themselves unable to further dream dive, which may be a reference to the game Minecraft, where bedrock is at the bottom of the world, which you cannot mine or destroy in anyway, save for "Creative Mode."
+
+* The rules of dying in dreams are inverted compared to those of ''Inception'' and ''A Nightmare on Elm Street''. While in the former, dying in a dream causes you to wake up (or fall into limbo), and in the latter, Freddy Krueger killing his victims in their dreams makes them die in the real world as well, Rick states that when you die in someone else's dream you die for real, and Scary Terry killing the dreamers merely wakes them up.
+
+{{gallery}}
+{{reflist}}
+
+==Site navigation==
+{{Episodes}}[[it:Episodio 2]]
+[[ru:Dog Mower]]
+[[de:Der_Rasenmäher-Hund]]
+[[es:Invasión_Canina]]
+[[pl:Inteligentny pies]]
+[[Category:Episodes]]
+[[Category:Season 1 episodes]]
+[[Category:Article Stubs]]
+[[Category:Morty Episodes]]
+[[Category:Rick Episodes]]

@@ -1,0 +1,29 @@
+{{Character
+|name = Colossus
+|image=Summer's_Victim.png
+|origin = [[Post-Apocalyptic Dimension]]
+|species = Human
+|status = Deceased
+|job = Scavenger
+|affiliation = [[Death Stalkers]]
+|voice actor = [https://en.wikipedia.org/wiki/John_DiMaggio John DiMaggio]
+|only = Rickmancing the Stone
+}}
+{{Quote|Your blood will be my lotion.|Colossus to Summer|Rickmancing the Stone}}
+'''Colossus''' was a warrior on the [[Post-Apocalyptic Dimension]]'s version of [[Earth]] and the leader of the [[Death Stalkers]] before [[Summer]] killed him.
+
+==Biography==
+Colossus, as leader of the Death Stalkers, was chasing [[Rick]], [[Morty]] and Summer through a desert for trespassing on their area. He was driving in a vehicle with a crown painted on the front, symbolizing his leadership, and ordered Mohawk Guy to "light them up"; blowing himself up on the back of Rick's car. When Rick stopped to pick up a fragment of ''Isotope-322'', Summer grabbed their shotgun and shot out Colossus' front wheel. His vehicle flipped over Summer and landed on him, causing a great loss of blood and loss of feeling in his legs. He crawled towards Summer and told her to kill him, which she did, but she first clarified it was of her own free will. 
+
+==Appearance==
+[[File:Colossus character design.png|thumb|right|Colossus character design]]
+Colossus was a large man who decorated himself with doll heads. He had bright hair and skin, some of which was covered in boils or blue paint. His left eye was noticeably larger than his other. He had bandages instead of shoes and carried around a backpack, from which protruded two spikes with two impaled doll heads each. He wore one muffler on each side of his head, both were connected to the apparatus that was his mouth. He also has a C in his right muffler. 
+
+==Trivia==
+* Colossus remained unnamed in the episode, but a character design sheet was posted on the official Rick and Morty Instagram from the creator of the character which stated his name.
+* Colossus's design is inspired by and directly parodying Immortan Joe from the film ''Mad Max: Fury Road''.
+[[Category:Characters]]
+[[Category:Antagonists]]
+[[Category:Male Characters]]
+[[Category:Deceased Characters]]
+[[Category:Killed by Summer]]

@@ -1,0 +1,25 @@
+{{Character
+|species = Human
+|age = 70
+|status = Deceased
+|job = Entrepreneur
+|affiliation = [[Shadow Council of Ricks]]
+|main actor = Justin Roiland
+|image = GarmentDistrictRick.PNG
+|affiliation2 = [[The Citadel]]
+|first = Tales From the Citadel
+}}
+'''Garment District Rick''' is a [[Rick Sanchez|Rick]] that appears in "[[Tales From the Citadel]]".
+
+==Appearance==
+Garment District Rick has a different hairstyle than the original Rick he also has a mustache and wears a brown winter coat.
+
+==Biography==
+Garment District Rick is implied to be a successful businessman and entrepreneur. He declares the intention of the [[Shadow Council of Ricks]] to continue to dominate the [[The Citadel|Citadel]], as they had done since before the creation of the [[Council of Ricks]]. He is killed on the orders of [[Evil Morty]], who purged the Shadow Council (save for two members) in order to consolidate his own power as the newly elected President of the Citadel. Garment District Rick's corpse is tossed out of the airlock of the Citadel, left to float alongside many other Ricks and Mortys killed over the course of the episode.
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Ricks]]
+[[Category:Deceased Characters]]
+[[Category:Killed by Rick]]
+[[Category:Antagonists]]
+[[Category:Killed by Morty]]

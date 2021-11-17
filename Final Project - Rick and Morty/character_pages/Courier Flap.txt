@@ -1,0 +1,34 @@
+{{Object
+|image=CourierFlap.png}}
+'''Courier Flaps''' are an organic species introduced in "[[The Wedding Squanchers]]" that delivers messages and packages across the galaxy.
+
+==History==
+Over 400 years ago, The Courier Flap Network was created to be the main way of delivering packages throughout the [[Galactic Federation]]. The Courier Flaps are credited with laying the foundation for the Galactic Federation. They were created in order to accommodate the transported object and adapt to different environments, and in the beginning handcrafted to the package to be delivered. The different Courier Flaps were later combined into a single flap, saving a lot of money and allowing all species to send and receive packages.<ref name="vis">[[1% Visible]] - Courier Flaps</ref>
+
+In "[[The Wedding Squanchers]]", [[Rick]] describes them as the 'intergalactic version of UPS, but less offputting'. They are capable of speech and conversation, and can transport packages as least as big as a human, as [[Jerry]] is abducted by one and transported to [[Birdperson]]'s wedding.
+
+==''[[Pocket Mortys]]''==
+{{PM Item
+|image = Courier Flap.png
+|part or final item = Item
+|craftable = Yes
+|salesman rick = Yes (10 badges)
+|reward = Yes (5 badges)
+|battle = No}}
+{{quote|Takes you back to the Citadel.|In-game description}}
+
+===Recipe===
+{{recipe|Battery|Motherboard|Mutant Bacteria Cell|equal = Courier Flap}}
+
+{{clear}}
+==Trivia==
+*Courier Flaps are the main means of transportation used by Gazorpazorpazon to deliver their packages.<ref name="vis"/>
+{{Reflist}}
+==Site navigation==
+{{Objects}}
+{{Pocket Mortys}}
+[[Category:Aliens]]
+[[Category:Races]]
+[[Category:Objects]]
+[[Category:Gadgets]]
+[[Category:Characters]]

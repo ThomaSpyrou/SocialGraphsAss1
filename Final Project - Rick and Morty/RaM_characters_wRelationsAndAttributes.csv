@@ -1,0 +1,540 @@
+,Name,Hyperlink,Relations,Species,Origin,Gender,Status
+0,Abandoned Jerrys,https://rickandmorty.fandom.com/wiki/Abandoned_Jerrys,['Jerry Smith'],unknown,unknown,Genderless,unknown
+1,Abrodolph Lincoler,https://rickandmorty.fandom.com/wiki/Abrodolph_Lincoler,"['Rick Sanchez', 'Brad', 'Morty Smith', 'Nancy']",unknown,unknown,Genderless,unknown
+2,Adam,https://rickandmorty.fandom.com/wiki/Adam,[],Humanoid,Narnia Dimension,Male,Dead
+3,Adjudicator Rick,https://rickandmorty.fandom.com/wiki/Adjudicator_Rick,['Evil Morty'],Human,unknown,Male,Dead
+4,Afro Rick,https://rickandmorty.fandom.com/wiki/Afro_Rick,"['Rick Sanchez', 'Morty Smith', 'Council of Ricks', 'Alien Rick', 'Juggling Rick', 'Western Rick', 'Evil Morty']",unknown,unknown,Genderless,unknown
+5,Agent Gribbles,https://rickandmorty.fandom.com/wiki/Agent_Gribbles,"['Gromflomites', 'Rick Sanchez', 'Jerry Smith']",unknown,unknown,Genderless,unknown
+6,Alan Rails,https://rickandmorty.fandom.com/wiki/Alan_Rails,"['Supernova', 'Million Ants']",Human,unknown,Male,Dead
+7,Albert Einstein,https://rickandmorty.fandom.com/wiki/Albert_Einstein,"['Rick Sanchez', 'Morty Smith', 'Shleemypants']",Human,Earth (C-137),Male,Dead
+8,Alexander,https://rickandmorty.fandom.com/wiki/Alexander,"['Dr. Xenon Bloom', 'Ruben', 'Poncho', 'Morty Smith', 'Rick Sanchez']",Human,Earth (C-137),Male,Dead
+9,Alien Googah,https://rickandmorty.fandom.com/wiki/Alien_Googah,"['The President', 'Rick Sanchez', 'Morty Smith']",Alien,unknown,Genderless,unknown
+10,Alien Morty,https://rickandmorty.fandom.com/wiki/Alien_Morty,"['Alien Rick', 'Morty Smith']",Alien,unknown,Male,unknown
+11,Alien Rick,https://rickandmorty.fandom.com/wiki/Alien_Rick,"['Alien Morty', 'Rick Sanchez', 'Council of Ricks', 'Afro Rick', 'Morty Smith']",Alien,unknown,Male,unknown
+12,Alyson Hannigan,https://rickandmorty.fandom.com/wiki/Alyson_Hannigan,"['Morty Smith', 'Summer Smith', 'Bruce Chutback', 'Space Cruiser']",Alien,unknown,Female,Dead
+13,Amfiddians,https://rickandmorty.fandom.com/wiki/Amfiddians,"['Morty Smith', 'Birdperson', 'Tammy Guterman']",unknown,unknown,Genderless,unknown
+14,Amish Cyborg,https://rickandmorty.fandom.com/wiki/Amish_Cyborg,"['Memory Parasites', 'Hamurai']",Alien,unknown,Male,Dead
+15,Annie,https://rickandmorty.fandom.com/wiki/Annie,"['Morty Smith', 'Ruben', 'Dr. Xenon Bloom', 'Poncho', 'Rick Sanchez', 'Ethan', 'Diane Sanchez']",Human,Earth (C-137),Female,Alive
+16,Annika,https://rickandmorty.fandom.com/wiki/Annika,[],unknown,unknown,Genderless,unknown
+17,Antenna Morty,https://rickandmorty.fandom.com/wiki/Antenna_Morty,"['Morty Smith', 'Evil Rick Sanchez', 'Evil Morty']",Human,unknown,Male,Alive
+18,Antenna Rick,https://rickandmorty.fandom.com/wiki/Antenna_Rick,"['Antenna Morty', 'Rick Sanchez', 'Council of Ricks', 'The Scientist Formerly Known as Rick', 'Alien Rick']",Human,unknown,Male,unknown
+19,Ants in my Eyes Johnson,https://rickandmorty.fandom.com/wiki/Ants_in_my_Eyes_Johnson,[],Human,unknown,Male,unknown
+20,Ants in my Eyes Morty,https://rickandmorty.fandom.com/wiki/Ants_in_my_Eyes_Morty,['Ants in my Eyes Johnson'],unknown,unknown,Genderless,unknown
+21,Aqua Morty,https://rickandmorty.fandom.com/wiki/Aqua_Morty,"['Aqua Rick', 'Morty Smith', 'Rick Sanchez']",Humanoid,unknown,Male,unknown
+22,Aqua Rick,https://rickandmorty.fandom.com/wiki/Aqua_Rick,"['Aqua Morty', 'Rick Sanchez', 'Morty Smith', 'Evil Morty']",Humanoid,unknown,Male,unknown
+23,Arcade Alien,https://rickandmorty.fandom.com/wiki/Arcade_Alien,['Rick Sanchez'],Alien,unknown,Male,unknown
+24,Arm Head Mutant Morty,https://rickandmorty.fandom.com/wiki/Arm_Head_Mutant_Morty,['Council of Ricks'],unknown,unknown,Genderless,unknown
+25,Armagheadon,https://rickandmorty.fandom.com/wiki/Armagheadon,"['Cromulons', 'Principal Vagina']",Alien,Signus 5 Expanse,Male,Alive
+26,Armothy,https://rickandmorty.fandom.com/wiki/Armothy,"['Morty Smith', 'Rick Sanchez', 'Jerry Smith', 'Beth Smith']",unknown,Post-Apocalyptic Earth,Male,Dead
+27,Arthricia,https://rickandmorty.fandom.com/wiki/Arthricia,"['Morty Smith', 'Rick Sanchez', 'Katherine Heffelfinger', 'Jessica', 'Annie']",Alien,Purge Planet,Female,Alive
+28,Artist Morty,https://rickandmorty.fandom.com/wiki/Artist_Morty,['Morty Smith'],Human,unknown,Male,Alive
+29,Attila Starwar,https://rickandmorty.fandom.com/wiki/Attila_Starwar,[],Human,unknown,Male,Alive
+30,Baby Legs,https://rickandmorty.fandom.com/wiki/Baby_Legs,['Regular Legs'],Human,unknown,Male,Alive
+31,Baby Poopybutthole,https://rickandmorty.fandom.com/wiki/Baby_Poopybutthole,"['Mr. Poopybutthole', 'Mrs. Poopybutthole']",Poopybutthole,unknown,Male,Alive
+32,Baby Wizard,https://rickandmorty.fandom.com/wiki/Baby_Wizard,"['Memory Parasites', 'Morty Smith', 'Duck with Muscles', 'Reverse Giraffe']",Alien,unknown,Male,Dead
+33,Balthromaw,https://rickandmorty.fandom.com/wiki/Balthromaw,"['Morty Smith', 'Rick Sanchez', 'Summer Smith', 'Talking Cat']",Mythological Creature,Draygon,Male,Alive
+34,Bearded Lady,https://rickandmorty.fandom.com/wiki/Bearded_Lady,"['Memory Parasites', 'Rick Sanchez']",Alien,unknown,Female,Dead
+35,Beebo,https://rickandmorty.fandom.com/wiki/Beebo,"['Rick Sanchez', 'Morty Smith']",Alien,Venzenulon 7,Male,Dead
+36,Benjamin,https://rickandmorty.fandom.com/wiki/Benjamin,[],Poopybutthole,unknown,Male,Alive
+37,Bepisians,https://rickandmorty.fandom.com/wiki/Bepisians,"['Shrimply Pibbles', 'Jerry Smith']",unknown,unknown,Genderless,unknown
+38,Beta-Seven,https://rickandmorty.fandom.com/wiki/Beta-Seven,"['Unity', 'Rick Sanchez']",Alien,unknown,Genderless,Alive
+39,Beth Sanchez (C-137),https://rickandmorty.fandom.com/wiki/Beth_Sanchez_(C-137),"['Rick Sanchez', 'Diane Sanchez', ""Rick's Father"", ""Rick's Foal"", 'Morty Smith', 'Weird Rick', 'Birdperson', 'Memory Rick']",unknown,unknown,Genderless,unknown
+40,Beth Sanchez (C-500A),https://rickandmorty.fandom.com/wiki/Beth_Sanchez_(C-500A),"['Jerry Smith (C-500A)', 'Beth Smith', 'Rick Sanchez', 'Kristen Stewart', 'Jerry Smith']",unknown,unknown,Genderless,unknown
+41,Beth Sanchez (Simple Rick's Dimension),https://rickandmorty.fandom.com/wiki/Beth_Sanchez_(Simple_Rick%27s_Dimension),"['Simple Rick', 'Beth Sanchez (C-500A)']",unknown,unknown,Genderless,unknown
+42,Beth Smith,https://rickandmorty.fandom.com/wiki/Beth_Smith,"['Thomas Lipnip', 'Jerry Smith', 'Summer Smith', 'Morty Smith (Replacement Dimension)', 'Morty Smith', 'Leonard Smith', 'Joyce Smith', 'Hemorrhage', 'Morty Jr.', 'Naruto Smith', 'Rick Sanchez (Replacement Dimension)', 'Rick Sanchez', 'Diane Sanchez', ""Rick's Father"", 'Sleepy Gary', 'Davin', 'Dr. Wong', 'Snuffles', 'Jerry Smith (Cronenberged dimension)', 'Summer Smith (Cronenberged dimension)', 'Jaguar', 'Mr. Poopybutthole', 'Planetina', 'Ethan', 'Poñeta']",Human,Earth (C-137),Female,Alive
+43,Beth Smith (304-X),https://rickandmorty.fandom.com/wiki/Beth_Smith_(304-X),"['Jerry Smith (304-X)', 'Summer Smith (304-X)', 'Morty Smith (304-X)', 'Beth Smith (C-132)', 'Rick Sanchez (C-132)', 'Morty Smith (C-132)', 'Morty Smith', 'Summer Smith', 'Jerry Smith']",unknown,unknown,Genderless,unknown
+44,Beth Smith (C-132),https://rickandmorty.fandom.com/wiki/Beth_Smith_(C-132),"['Summer Smith (C-132)', 'Morty Smith (C-132)', 'Rick Sanchez (C-132)', 'Beth Smith', 'Rick Sanchez', 'Morty Smith', 'Summer Smith', 'Jerry Smith']",unknown,unknown,Genderless,unknown
+45,Beth Smith (Evil Rick's Target Dimension),https://rickandmorty.fandom.com/wiki/Beth_Smith_(Evil_Rick%27s_Target_Dimension),"[""Jerry Smith (Evil Rick's Target Dimension)"", ""Summer Smith (Evil Rick's Target Dimension)"", ""Morty Smith (Evil Rick's Target Dimension)"", ""Rick Sanchez (Evil Rick's Target Dimension)"", 'Beth Smith', 'Evil Rick Sanchez', 'Evil Morty', 'Rick Sanchez', 'Morty Smith', 'Summer Smith', 'Jerry Smith']",unknown,unknown,Genderless,unknown
+46,Beth's Mytholog,https://rickandmorty.fandom.com/wiki/Beth%27s_Mytholog,"['Beth Smith', ""Jerry's Mytholog"", 'Ideal Jerry', 'Goddess Beth']",Mythological Creature,Nuptia 4,Female,Dead
+47,Big Boobed Waitress,https://rickandmorty.fandom.com/wiki/Big_Boobed_Waitress,"['Rick Sanchez', 'Morty Smith', 'Mr. Booby Buyer']",Mythological Creature,Fantasy World,Female,Alive
+48,Big Fat Rick,https://rickandmorty.fandom.com/wiki/Big_Fat_Rick,"['Ricardo Montoya', 'Hothead Rick', 'Little Ricky Wrap-it-up', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+49,Big Morty,https://rickandmorty.fandom.com/wiki/Big_Morty,"['Morty Smith', 'Mortytown Locos']",Human,unknown,Male,Dead
+50,Big Morty's Bodyguard Mortys,https://rickandmorty.fandom.com/wiki/Big_Morty%27s_Bodyguard_Mortys,['Big Morty'],unknown,unknown,Genderless,unknown
+51,Big-Head Morty,https://rickandmorty.fandom.com/wiki/Big-Head_Morty,"['Morty Smith', 'Summer Smith', 'Council of Ricks']",unknown,unknown,Genderless,unknown
+52,Bill (Dog),https://rickandmorty.fandom.com/wiki/Bill_(Dog),['Snuffles'],unknown,unknown,Genderless,unknown
+53,Birdperson's Daughter,https://rickandmorty.fandom.com/wiki/Birdperson%27s_Daughter,"['Birdperson', 'Tammy Guterman', 'Gromflomites']",unknown,unknown,Genderless,unknown
+54,Blamphs,https://rickandmorty.fandom.com/wiki/Blamphs,[],unknown,unknown,Genderless,unknown
+55,Blazen,https://rickandmorty.fandom.com/wiki/Blazen,"['Kathy Ireland', 'Rick Sanchez', 'Morty Smith', 'Sticky']",Human,Earth (Replacement Dimension),Male,Dead
+56,Blim Blam,https://rickandmorty.fandom.com/wiki/Blim_Blam,"['Rick Sanchez', 'Beth Smith', 'Jerry Smith', 'Summer Smith', 'Morty Smith']",Alien,unknown,Male,Alive
+57,Blue Footprint Guy,https://rickandmorty.fandom.com/wiki/Blue_Footprint_Guy,"['Rick Sanchez', 'Morty Smith']",Human,Post-Apocalyptic Earth,Male,Dead
+58,Blue Shirt Morty,https://rickandmorty.fandom.com/wiki/Blue_Shirt_Morty,"['Yellow Shirt Rick', 'Morty Smith', 'Rick Sanchez', 'Council of Ricks']",Human,unknown,Male,unknown
+59,Bobby Moynihan,https://rickandmorty.fandom.com/wiki/Bobby_Moynihan,"['Rick Sanchez', 'Morty Smith', 'Piece of Toast', 'Two Guys with Handlebar Mustaches', 'Man Painted Silver Who Makes Robot Noises', 'Garmanarnar', 'Three Unknown Things', 'Hole in the Wall Where the Men Can See it All']",Human,unknown,Male,Alive
+60,Boobloosians,https://rickandmorty.fandom.com/wiki/Boobloosians,"['David Prime', 'Beth Smith', 'Jerry Smith', 'Tammy Guterman', 'Birdperson']",unknown,unknown,Genderless,unknown
+61,Bootleg Portal Chemist Rick,https://rickandmorty.fandom.com/wiki/Bootleg_Portal_Chemist_Rick,"['Mortytown Locos', 'Evil Morty']",Human,unknown,Male,Dead
+62,Borpocians,https://rickandmorty.fandom.com/wiki/Borpocians,['Gromflomites'],unknown,unknown,Genderless,unknown
+63,Bova,https://rickandmorty.fandom.com/wiki/Bova,"['Hoovy', 'Japheth', 'Rick Sanchez']",Humanoid,Narnia Dimension,Female,Dead
+64,Brad,https://rickandmorty.fandom.com/wiki/Brad,"['Jessica', 'Morty Smith', 'Summer Smith', 'Rick Sanchez', 'Principal Vagina', 'Mr. Goldenfold', 'Tammy Guterman', 'Holly Hooks', 'Abrodolph Lincoler', 'Squanchy', 'Tricia Lange', 'Cynthia (Rixty Minutes)', 'Kiara', 'Bruce Chutback']",Human,Earth (Replacement Dimension),Male,Alive
+65,Brad Anderson,https://rickandmorty.fandom.com/wiki/Brad_Anderson,"['Morty Smith', 'Morty Jr.']",Human,Earth (Replacement Dimension),Male,Dead
+66,Bruce Chutback,https://rickandmorty.fandom.com/wiki/Bruce_Chutback,"['Morty Smith', 'Rick Sanchez', 'Brad']",Human,Earth (Replacement Dimension),Male,Alive
+67,Bullies,https://rickandmorty.fandom.com/wiki/Bullies,"['Morty Smith', 'The Garage']",unknown,unknown,Genderless,unknown
+68,Butter Robot,https://rickandmorty.fandom.com/wiki/Butter_Robot,"['Rick Sanchez', 'Morty Smith']",Robot,Earth (Replacement Dimension),Genderless,Alive
+69,Butter Robot (Fortnite),https://rickandmorty.fandom.com/wiki/Butter_Robot_(Fortnite),[],unknown,unknown,Genderless,unknown
+70,Buttmouth,https://rickandmorty.fandom.com/wiki/Buttmouth,[],unknown,unknown,Genderless,unknown
+71,Calypso,https://rickandmorty.fandom.com/wiki/Calypso,"['Lady Katana', 'Diablo Verde']",Human,unknown,Female,Dead
+72,Canklanker Thom,https://rickandmorty.fandom.com/wiki/Canklanker_Thom,"['Gromflomites', 'Rick Sanchez']",Alien,Gromflom Prime,Male,Dead
+73,Catogami,https://rickandmorty.fandom.com/wiki/Catogami,"['Morty Smith (C-132)', 'Rick Sanchez (C-132)', 'Professor Tock']",unknown,unknown,Genderless,unknown
+74,Centaur,https://rickandmorty.fandom.com/wiki/Centaur,"['Mrs. Pancakes', 'Mr. Goldenfold']",Mythological Creature,unknown,Male,Alive
+75,Chris (The Ricks Must Be Crazy),https://rickandmorty.fandom.com/wiki/Chris_(The_Ricks_Must_Be_Crazy),"['Chris', 'Zeep Xanflorp']",unknown,unknown,Genderless,unknown
+76,Chud King,https://rickandmorty.fandom.com/wiki/Chud_King,"['Poñeta', ""Rick's Foal"", 'The President', 'Rick Sanchez', 'Morty Smith', 'Sticky']",unknown,unknown,Genderless,unknown
+77,Coach Feratu,https://rickandmorty.fandom.com/wiki/Coach_Feratu,"['Rick Sanchez', 'Tiny Rick', 'Morty Smith', 'Vampire Master']",unknown,unknown,Genderless,unknown
+78,Colossus,https://rickandmorty.fandom.com/wiki/Colossus,"['Rick Sanchez', 'Morty Smith']",Human,Post-Apocalyptic Earth,Male,Dead
+79,Comedian,https://rickandmorty.fandom.com/wiki/Comedian,[],unknown,unknown,Genderless,unknown
+80,Commander Rick,https://rickandmorty.fandom.com/wiki/Commander_Rick,"['Rick Sanchez', 'Rick Sanchez (D-99)', 'Quantum Rick', 'Council of Ricks', 'Beth Sanchez (C-137)']",Human,unknown,Male,Dead
+81,Concerto,https://rickandmorty.fandom.com/wiki/Concerto,"['Rick Sanchez', 'Morty Smith', 'Jaguar']",Humanoid,unknown,Male,Dead
+82,Conroy,https://rickandmorty.fandom.com/wiki/Conroy,['Jerry Smith (Cronenberged dimension)'],Robot,Earth (Replacement Dimension),Genderless,Dead
+83,Cool Rick,https://rickandmorty.fandom.com/wiki/Cool_Rick,"['Regional Manager Rick', 'Rick Sanchez (J-22)']",Human,Earth (K-83),Male,Alive
+84,Coop,https://rickandmorty.fandom.com/wiki/Coop,[],Human,Earth (Replacement Dimension),Male,Alive
+85,Council of Ricks,https://rickandmorty.fandom.com/wiki/Council_of_Ricks,"['Rick Prime', 'Quantum Rick', 'Maximums Rickimus', 'Zeta Alpha Rick', 'Ricktiminus Sancheziminius', 'Riq IV', 'Shadow Council of Ricks', 'Rick Sanchez', 'The Scientist Formerly Known as Rick', 'SEAL Team Ricks', 'Evil Morty', 'Evil Rick Sanchez', 'Morty Smith', 'Summer Smith']",unknown,unknown,Genderless,unknown
+86,Courier Flap,https://rickandmorty.fandom.com/wiki/Courier_Flap,"['Rick Sanchez', 'Birdperson']",Alien,unknown,Genderless,Alive
+87,Cousin Nicky,https://rickandmorty.fandom.com/wiki/Cousin_Nicky,"['Memory Parasites', 'Mr. Poopybutthole', 'Mr. Beauregard', 'Rick Sanchez']",Alien,unknown,Male,Dead
+88,Crazy Cat Rick,https://rickandmorty.fandom.com/wiki/Crazy_Cat_Rick,['Rick Sanchez (C-132)'],unknown,unknown,Genderless,unknown
+89,Crocubot,https://rickandmorty.fandom.com/wiki/Crocubot,"['Rick Sanchez', 'Worldender']",Animal,unknown,Male,Dead
+90,Cromulons,https://rickandmorty.fandom.com/wiki/Cromulons,"['Armagheadon', 'Rick Sanchez', 'General Nathan', 'Principal Vagina']",unknown,unknown,Genderless,unknown
+91,Cronenberg Morty,https://rickandmorty.fandom.com/wiki/Cronenberg_Morty,"['Cronenberg Rick', 'Morty Smith', 'Rick Sanchez']",Cronenberg,Cronenberg Earth,Male,unknown
+92,Cronenberg Rick,https://rickandmorty.fandom.com/wiki/Cronenberg_Rick,"['Cronenberg Morty', 'Rick Sanchez', 'Morty Smith', 'Summer Smith (Cronenberged dimension)']",Cronenberg,Cronenberg Earth,Male,unknown
+93,Crop Top Morty,https://rickandmorty.fandom.com/wiki/Crop_Top_Morty,['Morty Smith'],unknown,unknown,Genderless,unknown
+94,Crowscare,https://rickandmorty.fandom.com/wiki/Crowscare,"['Rick Sanchez', 'Two Crows']",unknown,unknown,Genderless,unknown
+95,Crustolomons,https://rickandmorty.fandom.com/wiki/Crustolomons,"['Evil Rick Sanchez', 'Evil Morty']",unknown,unknown,Genderless,unknown
+96,Crystallized Morty,https://rickandmorty.fandom.com/wiki/Crystallized_Morty,"['Morty Smith', 'Evil Morty', 'Trunk Morty']",unknown,unknown,Genderless,unknown
+97,Cult Leader Morty,https://rickandmorty.fandom.com/wiki/Cult_Leader_Morty,"['Evil Rick Sanchez', 'The One True Morty', 'Morty Smith']",Human,unknown,Male,Alive
+98,Curly-haired Rick,https://rickandmorty.fandom.com/wiki/Curly-haired_Rick,['Rick Sanchez'],unknown,unknown,Genderless,unknown
+99,Cyclops Morty,https://rickandmorty.fandom.com/wiki/Cyclops_Morty,"['Cyclops Rick', 'Morty Smith']",Humanoid,unknown,Male,Alive
+100,Cyclops Rick,https://rickandmorty.fandom.com/wiki/Cyclops_Rick,"['Cyclops Morty', 'Rick Sanchez', 'Morty Smith', 'Solicitor Rick', 'Evil Morty']",Humanoid,unknown,Male,Dead
+101,Cynthia (Rixty Minutes),https://rickandmorty.fandom.com/wiki/Cynthia_(Rixty_Minutes),"['Cynthia', 'Rick Sanchez', 'Morty Smith', 'Mr. Goldenfold', 'Abrodolph Lincoler', 'Brad']",unknown,unknown,Genderless,unknown
+102,Dale,https://rickandmorty.fandom.com/wiki/Dale,"['Rose', ""Dale's Son"", 'Rick Sanchez', 'Morty Smith']",Mythological Creature,Giant's Town,Male,Dead
+103,Dale's Son,https://rickandmorty.fandom.com/wiki/Dale%27s_Son,"['Dale', 'Rose', 'Rick Sanchez', 'Morty Smith']",unknown,unknown,Genderless,unknown
+104,Dangelians,https://rickandmorty.fandom.com/wiki/Dangelians,"['Rick Sanchez', 'Kozbians']",unknown,unknown,Genderless,unknown
+105,Daphne,https://rickandmorty.fandom.com/wiki/Daphne,[],Alien,Morglutz,Female,Alive
+106,Daron Jefferson,https://rickandmorty.fandom.com/wiki/Daron_Jefferson,"['Nippalians', 'Unity']",Alien,Unity's Planet,Male,Alive
+107,Darth Poopybutthole,https://rickandmorty.fandom.com/wiki/Darth_Poopybutthole,"['Evil Morty', 'Rick Sanchez', 'Morty Smith', 'Mr. Meeseeks', 'Gazorpians', 'Mr. Poopybutthole', 'Jesus Christ']",Poopybutthole,Ricks’s Story,Male,Alive
+108,Dave,https://rickandmorty.fandom.com/wiki/Dave,['Roy'],unknown,unknown,Genderless,unknown
+109,David Letterman,https://rickandmorty.fandom.com/wiki/David_Letterman,['Jerry Smith'],Human,Earth (C-500A),Male,Alive
+110,David Prime,https://rickandmorty.fandom.com/wiki/David_Prime,['Boobloosians'],unknown,unknown,Genderless,unknown
+111,Davin,https://rickandmorty.fandom.com/wiki/Davin,"['Jerry Smith (Cronenberged dimension)', 'Morty Smith', 'Brad']",Human,Earth (C-137),Male,Dead
+112,Da’hou Ungherstahnk,https://rickandmorty.fandom.com/wiki/Da%E2%80%99hou_Ungherstahnk,['Flansians'],unknown,unknown,Genderless,unknown
+113,Defiance Doctor,https://rickandmorty.fandom.com/wiki/Defiance_Doctor,['Rick Sanchez'],Alien,unknown,Male,Alive
+114,Delta,https://rickandmorty.fandom.com/wiki/Delta,[],unknown,unknown,Genderless,unknown
+115,Diablo Verde,https://rickandmorty.fandom.com/wiki/Diablo_Verde,"['Lady Katana', 'Calypso', 'Doom-Nomitron']",Mythological Creature,unknown,Male,Dead
+116,Diane Sanchez,https://rickandmorty.fandom.com/wiki/Diane_Sanchez,"['Rick Sanchez', 'Beth Sanchez (C-137)', ""Rick's Father"", 'Weird Rick', 'Mr. Nimbus', 'Birdperson', 'Jessica', 'Space Cruiser', 'The Garage']",Human,Earth (C-137),Female,Dead
+117,Diesel Weasel,https://rickandmorty.fandom.com/wiki/Diesel_Weasel,['Planetina'],Animal,Earth (Replacement Dimension),Male,Alive
+118,Dipper and Mabel Mortys,https://rickandmorty.fandom.com/wiki/Dipper_and_Mabel_Mortys,"['Morty Smith', 'Summer Smith']",Human,unknown,Genderless,unknown
+119,Diseases,https://rickandmorty.fandom.com/wiki/Diseases,"['Ruben', 'Poncho', 'Morty Smith', 'Annie', 'Dr. Xenon Bloom']",unknown,unknown,Genderless,unknown
+120,Donna Guterman,https://rickandmorty.fandom.com/wiki/Donna_Guterman,"['Pat Guterman', 'Tammy Guterman', 'Birdperson', 'Jerry Smith', 'Beth Smith', 'Summer Smith']",unknown,unknown,Genderless,unknown
+121,Doofus Rick,https://rickandmorty.fandom.com/wiki/Doofus_Rick,"['Rick Sanchez (J19α7)', 'Rick Sanchez', 'Jerry Smith', 'Eric Stoltz Mask Morty']",Human,Earth (J19ζ7),Male,unknown
+122,Doom-Nomitron,https://rickandmorty.fandom.com/wiki/Doom-Nomitron,"['Rick Sanchez', 'Morty Smith', 'Lady Katana', 'Diablo Verde', 'Calypso']",Alien,unknown,Genderless,Dead
+123,Dr. Glip-Glop,https://rickandmorty.fandom.com/wiki/Dr._Glip-Glop,['Rick Sanchez'],Alien,unknown,Male,Dead
+124,Dr. Schmidt,https://rickandmorty.fandom.com/wiki/Dr._Schmidt,[],Human,Roy: A Life Well Lived,Male,unknown
+125,Dr. Wong,https://rickandmorty.fandom.com/wiki/Dr._Wong,"['Beth Smith', 'Jerry Smith', 'Pickle Rick (character)', 'Tammy Guterman', 'Mr. Goldenfold', 'Gromflomites']",Human,Earth (Replacement Dimension),Female,Alive
+126,Dr. Xenon Bloom,https://rickandmorty.fandom.com/wiki/Dr._Xenon_Bloom,"['Rick Sanchez', 'Ruben', 'Poncho', 'Roger', 'Annie', 'Diseases', 'Morty Smith', 'Ethan']",Humanoid,unknown,Male,Dead
+127,Drippy Boy,https://rickandmorty.fandom.com/wiki/Drippy_Boy,"['Rick Sanchez', 'Morty Smith', 'Beth Smith']",unknown,unknown,Genderless,unknown
+128,Duck with Muscles,https://rickandmorty.fandom.com/wiki/Duck_with_Muscles,"['Memory Parasites', 'Baby Wizard', 'Morty Smith', 'Rick Sanchez', 'Pencilvester']",unknown,unknown,Genderless,unknown
+129,Dwayne,https://rickandmorty.fandom.com/wiki/Dwayne,[],Human,Earth (Replacement Dimension),Male,Alive
+130,Eddie,https://rickandmorty.fandom.com/wiki/Eddie,"['Planetina', 'Morty Smith']",Human,Earth (Replacement Dimension),Male,Dead
+131,Eli,https://rickandmorty.fandom.com/wiki/Eli,"[""Eli's Girlfriend"", 'Hemorrhage', 'Summer Smith', 'Rick Sanchez', 'Morty Smith', 'Armothy']",Human,Post-Apocalyptic Earth,Male,Alive
+132,Eli's Girlfriend,https://rickandmorty.fandom.com/wiki/Eli%27s_Girlfriend,"['Eli', 'Summer Smith', 'Hemorrhage']",Human,Post-Apocalyptic Earth,Female,Alive
+133,Eric Stoltz Mask Morty,https://rickandmorty.fandom.com/wiki/Eric_Stoltz_Mask_Morty,"['Morty Smith', 'Doofus Rick']",Human,Eric Stoltz Mask Earth,Male,unknown
+134,Ethan,https://rickandmorty.fandom.com/wiki/Ethan,"['Summer Smith', 'Tricia Lange', 'Jacob Philip', 'Rick Sanchez', 'Toby Matthews', 'Hemorrhage', 'Beth Smith', 'Morty Smith']",Human,Earth (C-137),Male,unknown
+135,Evil Beth Clone,https://rickandmorty.fandom.com/wiki/Evil_Beth_Clone,"['Evil Jerry Clone', 'Evil Summer Clone', 'Beth Smith', 'Rick Sanchez', 'Morty Smith']",Human,unknown,Female,Dead
+136,Evil Jerry Clone,https://rickandmorty.fandom.com/wiki/Evil_Jerry_Clone,"['Evil Beth Clone', 'Evil Summer Clone', 'Jerry Smith']",Human,unknown,Male,Dead
+137,Evil Rick Sanchez,https://rickandmorty.fandom.com/wiki/Evil_Rick_Sanchez,"['Evil Morty', 'Rick Sanchez', 'Council of Ricks', 'Morty Smith']",unknown,unknown,Genderless,unknown
+138,Evil Summer Clone,https://rickandmorty.fandom.com/wiki/Evil_Summer_Clone,"['Evil Jerry Clone', 'Evil Beth Clone', 'Summer Smith']",Human,unknown,Female,Dead
+139,Eyehole Man,https://rickandmorty.fandom.com/wiki/Eyehole_Man,"['Rick Sanchez', 'Morty Smith', 'Jerry Smith', 'Summer Smith']",Alien,unknown,Male,Alive
+140,Farmer Rick,https://rickandmorty.fandom.com/wiki/Farmer_Rick,"['Slick Morty', 'Lizard Morty', 'Glasses Morty', 'Evil Morty', 'Morty Smith', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+141,Farmer Rick's Dog,https://rickandmorty.fandom.com/wiki/Farmer_Rick%27s_Dog,[],unknown,unknown,Genderless,unknown
+142,Fart,https://rickandmorty.fandom.com/wiki/Fart,"['Rick Sanchez', 'Krombopulos Michael', 'Gromflomites', 'Morty Smith']",Alien,unknown,Male,Dead
+143,Fascist Morty,https://rickandmorty.fandom.com/wiki/Fascist_Morty,"['Rick Sanchez', 'Mr. Meeseeks', 'Evil Morty', 'Morty Smith', 'Revolio Clockberg, Jr.']",Human,Earth (Fascist Dimension),Male,Dead
+144,Fast Aging Alien,https://rickandmorty.fandom.com/wiki/Fast_Aging_Alien,"['Rick Sanchez', 'Morty Smith', 'Gromflomites']",unknown,unknown,Genderless,unknown
+145,Father Bob,https://rickandmorty.fandom.com/wiki/Father_Bob,['Cromulons'],Human,Earth (Replacement Dimension),Male,Alive
+146,Flansians,https://rickandmorty.fandom.com/wiki/Flansians,"['Da’hou Ungherstahnk', 'Beth Smith', 'Jerry Smith', 'Birdperson', 'Tammy Guterman']",unknown,unknown,Genderless,unknown
+147,Fleeb,https://rickandmorty.fandom.com/wiki/Fleeb,[],Alien,unknown,Genderless,unknown
+148,Fleeblebox IV,https://rickandmorty.fandom.com/wiki/Fleeblebox_IV,[],unknown,unknown,Genderless,unknown
+149,Flex Xando,https://rickandmorty.fandom.com/wiki/Flex_Xando,[],unknown,unknown,Genderless,unknown
+150,Florflok,https://rickandmorty.fandom.com/wiki/Florflok,"['Gaia', 'Reggie', 'Ticktock', 'Squeeb', 'Rick Sanchez', 'Beth Smith', 'Jerry Smith']",unknown,unknown,Genderless,unknown
+151,Frank Palicky,https://rickandmorty.fandom.com/wiki/Frank_Palicky,"['Morty Smith', 'Rick Sanchez', 'Summer Smith (Cronenberged dimension)', 'Jerry Smith (Cronenberged dimension)']",Human,Earth (C-137),Male,Dead
+152,Frankenstein's Monster,https://rickandmorty.fandom.com/wiki/Frankenstein%27s_Monster,"['Tinkles', 'Memory Parasites']",Alien,unknown,Male,Dead
+153,Fulgora,https://rickandmorty.fandom.com/wiki/Fulgora,['Attila Starwar'],Human,unknown,Female,Alive
+154,Fungo,https://rickandmorty.fandom.com/wiki/Fungo,"['Yaarb', 'Jerry Smith', 'Shrimply Pibbles']",unknown,unknown,Genderless,unknown
+155,Gaia,https://rickandmorty.fandom.com/wiki/Gaia,"['Florflok', 'Ticktock', 'Squeeb', 'Rick Sanchez', 'Reggie']",unknown,Gaia,Female,Alive
+156,Galactic Federation President,https://rickandmorty.fandom.com/wiki/Galactic_Federation_President,"['Gromflomites', 'Rick Sanchez']",Alien,unknown,Male,Dead
+157,Gar Gloonch,https://rickandmorty.fandom.com/wiki/Gar_Gloonch,"['Zarbadar Gloonch', 'Jerry Smith']",Alien,unknown,Male,Dead
+158,Gar's Mytholog,https://rickandmorty.fandom.com/wiki/Gar%27s_Mytholog,"['Zarbadar Gloonch', 'Gar Gloonch']",Mythological Creature,Nuptia 4,Male,Dead
+159,Garblovians,https://rickandmorty.fandom.com/wiki/Garblovians,['GlorpDieBlorp'],unknown,unknown,Genderless,unknown
+160,Garmanarnar,https://rickandmorty.fandom.com/wiki/Garmanarnar,"['Piece of Toast', 'Two Guys with Handlebar Mustaches', 'Man Painted Silver Who Makes Robot Noises', 'Three Unknown Things', 'Hole in the Wall Where the Men Can See it All', 'Bobby Moynihan']",Alien,unknown,Male,Alive
+161,Garment District Rick,https://rickandmorty.fandom.com/wiki/Garment_District_Rick,"['Shadow Council of Ricks', 'Rick Sanchez', 'Council of Ricks', 'Evil Morty']",Human,unknown,Male,Dead
+162,Gazorpazorpfield (Character),https://rickandmorty.fandom.com/wiki/Gazorpazorpfield_(Character),"['Gazorpians', 'Jon', 'Rick Sanchez', 'Morty Smith']",unknown,unknown,Genderless,unknown
+163,Gazorpians,https://rickandmorty.fandom.com/wiki/Gazorpians,"['Morty Jr.', 'Mar-Sha', 'Gwendolyn', 'Rick Sanchez', 'Summer Smith', 'Morty Smith']",unknown,unknown,Genderless,unknown
+164,Geardude,https://rickandmorty.fandom.com/wiki/Geardude,"['Revolio Clockberg, Jr.', 'Rick Sanchez', 'Birdperson', 'Squanchy', 'Gromflomites']",unknown,unknown,Genderless,unknown
+165,Gene,https://rickandmorty.fandom.com/wiki/Gene,"['Principal Vagina', 'Ethan', 'Morty Smith', 'Rick Sanchez']",Human,Earth (Replacement Dimension),Male,Alive
+166,General Nathan,https://rickandmorty.fandom.com/wiki/General_Nathan,"['The President', 'Cromulons', 'Rick Sanchez', 'Morty Smith']",Human,Earth (Replacement Dimension),Male,Dead
+167,General Store Owner,https://rickandmorty.fandom.com/wiki/General_Store_Owner,"['Rick Sanchez', 'Morty Smith']",Alien,Purge Planet,Male,Dead
+168,Genital Washer,https://rickandmorty.fandom.com/wiki/Genital_Washer,"['Taint Washer', 'Lord Henderfinger']",Human,Post-Apocalyptic Earth,Male,Alive
+169,Ghost in a Jar,https://rickandmorty.fandom.com/wiki/Ghost_in_a_Jar,"['Memory Parasites', 'Reverse Giraffe']",Alien,unknown,Genderless,Dead
+170,Gibble Snake,https://rickandmorty.fandom.com/wiki/Gibble_Snake,['Shmooglite Runner'],Alien,Resort Planet,Genderless,Dead
+171,Glar,https://rickandmorty.fandom.com/wiki/Glar,"['Rick Sanchez', 'Morty Smith', 'Miles Knightly', 'Heistotron']",Alien,unknown,Male,Alive
+172,Glarb,https://rickandmorty.fandom.com/wiki/Glarb,"['Rick Sanchez (C-132)', 'Morty Smith (C-132)', 'Professor Tock']",unknown,unknown,Genderless,unknown
+173,Glasses Morty,https://rickandmorty.fandom.com/wiki/Glasses_Morty,"['Lizard Morty', 'Slick Morty', 'Morty Smith']",Human,unknown,Male,Alive
+174,Glaxo Slimslom,https://rickandmorty.fandom.com/wiki/Glaxo_Slimslom,"['Rick Sanchez', ""Beth's Mytholog"", 'Gar Gloonch', 'Zarbadar Gloonch']",unknown,unknown,Genderless,unknown
+175,Glenn (Rixty Minutes),https://rickandmorty.fandom.com/wiki/Glenn_(Rixty_Minutes),['Gromflomites'],unknown,unknown,Genderless,unknown
+176,Glootie,https://rickandmorty.fandom.com/wiki/Glootie,"['Rick Sanchez', 'Jerry Smith (Cronenberged dimension)', 'Jerry Smith']",Alien,unknown,Male,Alive
+177,GlorpDieBlorp,https://rickandmorty.fandom.com/wiki/GlorpDieBlorp,['Garblovians'],unknown,unknown,Genderless,unknown
+178,Gobo,https://rickandmorty.fandom.com/wiki/Gobo,"['Jerry Smith', 'Morty Smith']",Alien,unknown,Male,Dead
+179,Goddess Beth,https://rickandmorty.fandom.com/wiki/Goddess_Beth,"['Beth Smith', 'Ideal Jerry', ""Beth's Mytholog""]",Mythological Creature,Nuptia 4,Female,unknown
+180,Goomby,https://rickandmorty.fandom.com/wiki/Goomby,['Rick Sanchez'],Alien,Story Train,Male,Alive
+181,Gordon Lunas,https://rickandmorty.fandom.com/wiki/Gordon_Lunas,['Principal Vagina'],Human,unknown,Male,Dead
+182,Gorpathian Dermaks,https://rickandmorty.fandom.com/wiki/Gorpathian_Dermaks,['Rick Sanchez'],unknown,unknown,Genderless,unknown
+183,Grace,https://rickandmorty.fandom.com/wiki/Grace,"['Summer Smith', 'Morty Smith']",unknown,unknown,Genderless,unknown
+184,Grace Smith,https://rickandmorty.fandom.com/wiki/Grace_Smith,"['Nancy', 'Squanchy', 'Brad', 'Abrodolph Lincoler', 'Morty Smith', 'Jessica', 'Tammy Guterman', 'Grace']",unknown,unknown,Genderless,unknown
+185,Greebybobes,https://rickandmorty.fandom.com/wiki/Greebybobes,['Cromulons'],unknown,unknown,Genderless,unknown
+186,Greg,https://rickandmorty.fandom.com/wiki/Greg,['Fart'],unknown,unknown,Genderless,unknown
+187,Gromflomites,https://rickandmorty.fandom.com/wiki/Gromflomites,"['Canklanker Thom', 'Galactic Federation President', 'Glenn', 'Krombopulos Michael', 'McGlaargle', 'Rurtaugh', 'Tammy Guterman']",unknown,unknown,Genderless,unknown
+188,Gwendolyn,https://rickandmorty.fandom.com/wiki/Gwendolyn,"['Morty Jr.', 'Morty Smith', 'Rick Sanchez']",Robot,Gazorpazorp,Female,unknown
+189,Hambrosians,https://rickandmorty.fandom.com/wiki/Hambrosians,"['Rick Sanchez', 'Morty Smith', 'Birdperson', 'Tammy Guterman']",unknown,unknown,Genderless,unknown
+190,Hammerhead Morty,https://rickandmorty.fandom.com/wiki/Hammerhead_Morty,"['Morty Smith', 'Evil Rick Sanchez']",Humanoid,unknown,Male,unknown
+191,Hammerhead Morty (Fortnite),https://rickandmorty.fandom.com/wiki/Hammerhead_Morty_(Fortnite),"['Hammerhead Morty', 'Morty Smith']",unknown,unknown,Genderless,unknown
+192,Hamsters In Butts,https://rickandmorty.fandom.com/wiki/Hamsters_In_Butts,[],unknown,unknown,Genderless,unknown
+193,Hamurai,https://rickandmorty.fandom.com/wiki/Hamurai,"['Memory Parasites', 'Reverse Giraffe']",Alien,unknown,Male,Dead
+194,Harold,https://rickandmorty.fandom.com/wiki/Harold,"['Summer Smith (Cronenberged dimension)', 'Morty Smith']",Cronenberg,Earth (C-137),Male,Alive
+195,Harold The Garbage Goober,https://rickandmorty.fandom.com/wiki/Harold_The_Garbage_Goober,[],unknown,unknown,Genderless,unknown
+196,Healthy Rick,https://rickandmorty.fandom.com/wiki/Healthy_Rick,"['Rick Sanchez', 'Toxic Rick', 'Toxic Morty']",unknown,unknown,Genderless,unknown
+197,Heistotron,https://rickandmorty.fandom.com/wiki/Heistotron,['Rick Sanchez'],Robot,Earth (Replacement Dimension),Genderless,Dead
+198,Helium-Q,https://rickandmorty.fandom.com/wiki/Helium-Q,"['Water-T', 'Cromulons', 'Numbericons']",unknown,unknown,Genderless,unknown
+199,Hemorrhage,https://rickandmorty.fandom.com/wiki/Hemorrhage,"['Summer Smith', 'Jerry Smith', 'Sleepy Gary', 'Beth Smith', 'Morty Smith (Replacement Dimension)', 'Morty Smith', 'Gwendolyn', 'Morty Jr.', 'Leonard Smith', 'Joyce Smith', 'Steven Smith', 'Unnamed Uncle', 'Rick Sanchez (Replacement Dimension)', 'Rick Sanchez', 'Diane Sanchez', ""Rick's Father"", 'Colossus', 'Jerry Smith (Cronenberged dimension)']",Human,Post-Apocalyptic Earth,Male,Alive
+200,Hephaestus,https://rickandmorty.fandom.com/wiki/Hephaestus,"['Reggie', 'Rick Sanchez', 'Morty Smith', 'Heistotron', 'The Garage', 'Ventriloquiver']",Mythological Creature,Mount Olympus,Male,Alive
+201,Heroin Keith,https://rickandmorty.fandom.com/wiki/Heroin_Keith,['Morty Smith'],unknown,unknown,Genderless,unknown
+202,Hole in the Wall Where the Men Can See it All,https://rickandmorty.fandom.com/wiki/Hole_in_the_Wall_Where_the_Men_Can_See_it_All,"['Piece of Toast', 'Two Guys with Handlebar Mustaches', 'Man Painted Silver Who Makes Robot Noises', 'Garmanarnar', 'Three Unknown Things', 'Bobby Moynihan']",unknown,unknown,Genderless,unknown
+203,Holly Hooks,https://rickandmorty.fandom.com/wiki/Holly_Hooks,"['Jessica', 'Tricia Lange']",unknown,unknown,Genderless,unknown
+204,Hologram Rick,https://rickandmorty.fandom.com/wiki/Hologram_Rick,"['Rick Sanchez', 'Morty Smith', 'Wasp Rick', 'Jessica']",Humanoid,Earth (Replacement Dimension),Male,Dead
+205,Hologram Rick (Edge of Tomorty: Rick Die Repeat),https://rickandmorty.fandom.com/wiki/Hologram_Rick_(Edge_of_Tomorty:_Rick_Die_Repeat),"['Rick Sanchez', 'Morty Smith', 'Jessica', 'Bullies', 'Wasp Rick']",unknown,unknown,Genderless,unknown
+206,Hookah Alien,https://rickandmorty.fandom.com/wiki/Hookah_Alien,"['Rick Sanchez', 'Morty Smith']",Alien,unknown,Genderless,Alive
+207,Hoovy,https://rickandmorty.fandom.com/wiki/Hoovy,"['Bova', 'Rick Sanchez', 'Morty Smith', 'Japheth', 'The Garage', 'Dale', 'Arthricia']",Humanoid,Narnia Dimension,Male,Dead
+208,Hothead Rick,https://rickandmorty.fandom.com/wiki/Hothead_Rick,"['Rick Sanchez', 'Ricardo Montoya', 'Big Fat Rick', 'Little Ricky Wrap-it-up']",Human,unknown,Male,Dead
+209,Hunter,https://rickandmorty.fandom.com/wiki/Hunter,"[""Hunter's Father"", 'Space Cruiser', 'Summer Smith']",Human,Earth (Giant Telepathic Spiders Dimension),Male,Dead
+210,Hunter's Father,https://rickandmorty.fandom.com/wiki/Hunter%27s_Father,"['Hunter', 'Space Cruiser']",Human,Earth (Giant Telepathic Spiders Dimension),Male,Alive
+211,Hydrogen-F,https://rickandmorty.fandom.com/wiki/Hydrogen-F,"['Magnesium-J', 'Helium-Q', 'Water-T', 'Cromulons', 'Numbericons']",Alien,Alphabetrium,Female,Alive
+212,Ideal Jerry,https://rickandmorty.fandom.com/wiki/Ideal_Jerry,"['Jerry Smith', ""Jerry's Mytholog"", 'Beth Smith', ""Beth's Mytholog""]",Mythological Creature,Nuptia 4,Male,Dead
+213,Insurance Rick,https://rickandmorty.fandom.com/wiki/Insurance_Rick,"['Rick Sanchez', 'Morty Smith', 'Solicitor Rick']",Human,unknown,Male,unknown
+214,Investigator Rick,https://rickandmorty.fandom.com/wiki/Investigator_Rick,"['Evil Morty', 'Evil Rick Sanchez']",Human,unknown,Male,Dead
+215,Invisi-troopers,https://rickandmorty.fandom.com/wiki/Invisi-troopers,"['Rick Sanchez', 'The President', 'Morty Smith']",unknown,unknown,Genderless,unknown
+216,Izzy,https://rickandmorty.fandom.com/wiki/Izzy,"['Rick Sanchez', 'Pickle Rick (character)']",Animal,Earth (Replacement Dimension),Genderless,Alive
+217,Jacob Philip,https://rickandmorty.fandom.com/wiki/Jacob_Philip,"['Joyce Smith', 'Jerry Smith', 'Leonard Smith', 'Jerry Smith (Cronenberged dimension)', 'Summer Smith (Cronenberged dimension)', 'Ethan', 'Ruben']",unknown,unknown,Genderless,unknown
+218,Jacqueline,https://rickandmorty.fandom.com/wiki/Jacqueline,"['Morty Smith', 'Toxic Morty', 'Rick Sanchez', 'Jessica', 'Stacy']",Human,Earth (Replacement Dimension),Female,Alive
+219,Jaguar,https://rickandmorty.fandom.com/wiki/Jaguar,"['Katarina', 'Pickle Rick (character)', 'Beth Smith', 'Morty Smith', 'Concerto']",Human,Earth (Replacement Dimension),Male,Alive
+220,Jamey,https://rickandmorty.fandom.com/wiki/Jamey,"['Rick Sanchez', 'Morty Smith', 'Cromulons']",Human,Earth (Replacement Dimension),Male,Alive
+221,Jan-Michael Vincent,https://rickandmorty.fandom.com/wiki/Jan-Michael_Vincent,"['Morty Smith', 'Rick Sanchez']",Human,unknown,Male,Alive
+222,Japheth,https://rickandmorty.fandom.com/wiki/Japheth,"['Morty Smith', 'Hoovy', 'Bova']",Humanoid,Narnia Dimension,Male,Dead
+223,Jarshog Mollar,https://rickandmorty.fandom.com/wiki/Jarshog_Mollar,[],unknown,unknown,Genderless,unknown
+224,Jeff,https://rickandmorty.fandom.com/wiki/Jeff,"['Summer Smith', 'Maggie', 'Priest Witherspoon', 'Richard', 'Glootie']",Human,Earth (Replacement Dimension),Male,Alive
+225,Jerry Smith (304-X),https://rickandmorty.fandom.com/wiki/Jerry_Smith_(304-X),"['Beth Smith (304-X)', 'Summer Smith (304-X)', 'Morty Smith (304-X)', 'Rick Sanchez (C-132)', 'Morty Smith', 'Summer Smith', 'Beth Smith']",unknown,unknown,Genderless,unknown
+226,Jerry Smith (C-500A),https://rickandmorty.fandom.com/wiki/Jerry_Smith_(C-500A),"['Beth Sanchez (C-500A)', 'Jerry Smith', 'David Letterman', 'Johnny Depp', 'Kristen Stewart']",unknown,unknown,Genderless,unknown
+227,Jerry Smith (Cronenberged dimension),https://rickandmorty.fandom.com/wiki/Jerry_Smith_(Cronenberged_dimension),"['Jerry Smith', 'Summer Smith (Cronenberged dimension)', 'Morty Smith', 'Rick Sanchez', 'Diane Sanchez', ""Rick's Father"", 'Leonard Smith', 'Joyce Smith', 'Unnamed Uncle', 'Jacob Philip', 'Mr. Meeseeks', 'Snuffles', 'Summer Smith', 'Ethan', 'Beth Smith']",unknown,unknown,Genderless,unknown
+228,Jerry Smith (Evil Rick's Target Dimension),https://rickandmorty.fandom.com/wiki/Jerry_Smith_(Evil_Rick%27s_Target_Dimension),"[""Beth Smith (Evil Rick's Target Dimension)"", ""Summer Smith (Evil Rick's Target Dimension)"", ""Morty Smith (Evil Rick's Target Dimension)"", ""Rick Sanchez (Evil Rick's Target Dimension)"", 'Jerry Smith', 'Evil Rick Sanchez', 'Evil Morty']",unknown,unknown,Genderless,unknown
+229,Jerry's Mytholog,https://rickandmorty.fandom.com/wiki/Jerry%27s_Mytholog,"['Jerry Smith', ""Beth's Mytholog""]",Mythological Creature,Nuptia 4,Male,Dead
+230,Jessica,https://rickandmorty.fandom.com/wiki/Jessica,"[""Jessica's Grandma"", 'Brad', 'Morty Smith', 'Rick Sanchez', 'Squanchy', 'Mr. Goldenfold', 'Tiny Rick', 'Grace Smith', 'Tricia Lange', 'Fart']",Cronenberg,Earth (C-137),Female,Alive
+231,Jessica's Grandma,https://rickandmorty.fandom.com/wiki/Jessica%27s_Grandma,['Jessica'],unknown,unknown,Genderless,unknown
+232,Jesus Christ,https://rickandmorty.fandom.com/wiki/Jesus_Christ,[],Human,Ricks’s Story,Male,Alive
+233,Jew,https://rickandmorty.fandom.com/wiki/Jew,['Armagheadon'],unknown,unknown,Genderless,unknown
+234,Jodie,https://rickandmorty.fandom.com/wiki/Jodie,"['Rick Sanchez', 'Morty Smith']",unknown,unknown,Genderless,unknown
+235,Johnny Depp,https://rickandmorty.fandom.com/wiki/Johnny_Depp,['Jerry Smith (C-500A)'],Human,Earth (C-500A),Male,Alive
+236,Jon,https://rickandmorty.fandom.com/wiki/Jon,"['Gazorpians', 'Gazorpazorpfield (Character)']",Alien,Gazorpazorp,Male,Alive
+237,Joseph Lipnip,https://rickandmorty.fandom.com/wiki/Joseph_Lipnip,"['Mrs. Lipnip', 'Thomas Lipnip', ""Tommy's Clone"", 'Beth Smith']",unknown,unknown,Genderless,unknown
+238,Josiah,https://rickandmorty.fandom.com/wiki/Josiah,['Priest Witherspoon'],Human,Earth (Replacement Dimension),Male,Alive
+239,Joyce Smith,https://rickandmorty.fandom.com/wiki/Joyce_Smith,"['Leonard Smith', 'Jacob Philip', 'Steven Smith', 'Jerry Smith', 'Unnamed Uncle', 'Beth Smith', 'Summer Smith', 'Morty Smith', 'Hemorrhage', 'Gwendolyn', 'Morty Jr.', 'Jerry Smith (Cronenberged dimension)', 'Ethan']",Human,Earth (C-137),Female,Alive
+240,Juggling Rick,https://rickandmorty.fandom.com/wiki/Juggling_Rick,"['Rick Sanchez', 'Evil Morty']",Human,unknown,Male,unknown
+241,Karen Entity,https://rickandmorty.fandom.com/wiki/Karen_Entity,"['Nippalians', 'Unity']",Alien,Unity's Planet,Female,Alive
+242,Katarina,https://rickandmorty.fandom.com/wiki/Katarina,"['Jaguar', 'Rick Sanchez']",Human,Earth (Replacement Dimension),Female,Dead
+243,Katherine Heffelfinger,https://rickandmorty.fandom.com/wiki/Katherine_Heffelfinger,"['Morty Smith', 'Jessica', 'Annie', 'Arthricia']",unknown,unknown,Genderless,unknown
+244,Kathy Ireland,https://rickandmorty.fandom.com/wiki/Kathy_Ireland,"['Blazen', 'Morty Smith']",Human,Earth (Replacement Dimension),Female,Alive
+245,Kelsey Shawsen,https://rickandmorty.fandom.com/wiki/Kelsey_Shawsen,"['Toby Matthews', 'Gromflomites']",unknown,unknown,Genderless,unknown
+246,Kendra,https://rickandmorty.fandom.com/wiki/Kendra,"['Morty Smith', 'Rick Sanchez', 'Naruto Smith']",unknown,unknown,Genderless,unknown
+247,Kevin,https://rickandmorty.fandom.com/wiki/Kevin,"['Prince Nebulon', 'Rick Sanchez', 'Morty Smith']",Alien,unknown,Male,Dead
+248,Khlorgg,https://rickandmorty.fandom.com/wiki/Khlorgg,['Jerry Smith'],unknown,unknown,Genderless,unknown
+249,Kiara,https://rickandmorty.fandom.com/wiki/Kiara,"['Jerry Smith', 'Trandor', 'Rick Sanchez', 'Morty Smith', 'Summer Smith', 'Principal Vagina']",unknown,unknown,Genderless,unknown
+250,King Flippy Nips,https://rickandmorty.fandom.com/wiki/King_Flippy_Nips,"['Plutonian', 'Scroopy Noopers', 'Jerry Smith', 'Morty Smith']",Alien,Pluto,Male,Alive
+251,Kl’iiik Mijupsrit,https://rickandmorty.fandom.com/wiki/Kl%E2%80%99iiik_Mijupsrit,['Mr. Marklovitz'],unknown,unknown,Genderless,unknown
+252,Korlunxes,https://rickandmorty.fandom.com/wiki/Korlunxes,"['Shrimply Pibbles', 'Jerry Smith']",unknown,unknown,Genderless,unknown
+253,Kozbians,https://rickandmorty.fandom.com/wiki/Kozbians,[],unknown,unknown,Genderless,unknown
+254,Kristen Stewart,https://rickandmorty.fandom.com/wiki/Kristen_Stewart,"['Jerry Smith (C-500A)', 'Jerry Smith']",Human,Earth (C-500A),Female,Alive
+255,Krombopulos Michael,https://rickandmorty.fandom.com/wiki/Krombopulos_Michael,"['Gromflomites', 'Rick Sanchez', 'Fart', 'Morty Smith']",Alien,unknown,Male,Dead
+256,Kyle,https://rickandmorty.fandom.com/wiki/Kyle,"['Zeep Xanflorp', 'Rick Sanchez', 'Morty Smith', 'Mr. Nimbus']",Humanoid,Zeep Xanflorp's Miniverse,Male,Dead
+257,Lady Katana,https://rickandmorty.fandom.com/wiki/Lady_Katana,"['Calypso', 'Diablo Verde']",Humanoid,unknown,Female,Dead
+258,Larva Aliens,https://rickandmorty.fandom.com/wiki/Larva_Aliens,"['Cromulons', 'Birdperson', 'Tammy Guterman']",unknown,unknown,Genderless,unknown
+259,Lawyer Morty,https://rickandmorty.fandom.com/wiki/Lawyer_Morty,"['Council of Ricks', 'Morty Smith', 'Summer Smith']",Human,unknown,Male,unknown
+260,Leonard Smith,https://rickandmorty.fandom.com/wiki/Leonard_Smith,"['Joyce Smith', 'Steven Smith', 'Jerry Smith', 'Unnamed Uncle', 'Beth Smith', 'Summer Smith', 'Morty Smith', 'Hemorrhage', 'Gwendolyn', 'Morty Jr.', 'Jacob Philip', 'Jerry Smith (Cronenberged dimension)']",Human,Earth (C-137),Male,Alive
+261,Lighthouse Keeper,https://rickandmorty.fandom.com/wiki/Lighthouse_Keeper,"['Rick Sanchez', 'Morty Smith']",Alien,Purge Planet,Male,Dead
+262,Lil B,https://rickandmorty.fandom.com/wiki/Lil_B,"['Birdperson', 'Tammy Guterman', 'Rick Sanchez']",Alien,unknown,Male,Dead
+263,Lisa,https://rickandmorty.fandom.com/wiki/Lisa,[],Alien,unknown,Female,Dead
+264,Little Dipper,https://rickandmorty.fandom.com/wiki/Little_Dipper,[],Humanoid,unknown,Male,Alive
+265,Little Ricky Wrap-it-up,https://rickandmorty.fandom.com/wiki/Little_Ricky_Wrap-it-up,"['Rick Sanchez', 'Ricardo Montoya', 'Hothead Rick', 'Big Fat Rick']",unknown,unknown,Genderless,unknown
+266,Lizard Morty,https://rickandmorty.fandom.com/wiki/Lizard_Morty,"['Morty Smith', 'Slick Morty', 'Glasses Morty', 'Farmer Rick', 'Lizard Rick']",Humanoid,unknown,Male,Alive
+267,Lizard Rick,https://rickandmorty.fandom.com/wiki/Lizard_Rick,"['Rick Sanchez', 'Lizard Morty']",unknown,unknown,Genderless,unknown
+268,Loggins,https://rickandmorty.fandom.com/wiki/Loggins,[],Alien,unknown,Male,Alive
+269,Logic,https://rickandmorty.fandom.com/wiki/Logic,"['Rick Sanchez', 'Noob-Noob']",Human,unknown,Male,Alive
+270,Long Sleeved Morty,https://rickandmorty.fandom.com/wiki/Long_Sleeved_Morty,['Morty Smith'],Human,unknown,Male,unknown
+271,Lord Henderfinger,https://rickandmorty.fandom.com/wiki/Lord_Henderfinger,"['Armothy', 'Morty Smith', 'Rick Sanchez', 'Taint Washer', 'Genital Washer']",unknown,unknown,Genderless,unknown
+272,Lucius Needful,https://rickandmorty.fandom.com/wiki/Lucius_Needful,['Rick Sanchez'],unknown,unknown,Genderless,unknown
+273,Lucy,https://rickandmorty.fandom.com/wiki/Lucy,[],Human,Earth (Replacement Dimension),Female,Dead
+274,Maggie,https://rickandmorty.fandom.com/wiki/Maggie,"['Jeff', 'Running Bird']",Human,Earth (Replacement Dimension),Female,Alive
+275,Magnesium-J,https://rickandmorty.fandom.com/wiki/Magnesium-J,"['Hydrogen-F', 'Helium-Q', 'Water-T', 'Cromulons', 'Numbericons']",Alien,Alphabetrium,Male,Alive
+276,Man Painted Silver Who Makes Robot Noises,https://rickandmorty.fandom.com/wiki/Man_Painted_Silver_Who_Makes_Robot_Noises,"['Piece of Toast', 'Two Guys with Handlebar Mustaches', 'Garmanarnar', 'Three Unknown Things', 'Hole in the Wall Where the Men Can See it All', 'Bobby Moynihan']",Human,unknown,Male,Alive
+277,Mar-Sha,https://rickandmorty.fandom.com/wiki/Mar-Sha,"['Gazorpians', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+278,Masy Kallerax,https://rickandmorty.fandom.com/wiki/Masy_Kallerax,"['Unity', 'Nippalians']",unknown,unknown,Genderless,unknown
+279,Maximums Rickimus,https://rickandmorty.fandom.com/wiki/Maximums_Rickimus,"['Council of Ricks', 'Rick Sanchez', 'Riq IV', 'Rick Prime', 'Quantum Rick', 'Zeta Alpha Rick', 'Ricktiminus Sancheziminius', 'The Scientist Formerly Known as Rick', 'Evil Rick Sanchez', 'Morty Smith', 'SEAL Team Ricks']",Human,unknown,Male,Dead
+280,MC Haps,https://rickandmorty.fandom.com/wiki/MC_Haps,"['Morty Smith', 'Squanchy', 'Logic']",Human,Earth (C-137),Male,Alive
+281,McGlaargle,https://rickandmorty.fandom.com/wiki/McGlaargle,"['Gromflomites', 'Smarkians', 'Amfiddians']",unknown,unknown,Genderless,unknown
+282,Mecha Morty (Fortnite),https://rickandmorty.fandom.com/wiki/Mecha_Morty_(Fortnite),[],unknown,unknown,Genderless,unknown
+283,Mechanical Morty,https://rickandmorty.fandom.com/wiki/Mechanical_Morty,"['Robot Morty', 'Rick Sanchez', 'Mechanical Rick', 'Mechanical Summer', 'Morty Smith']",Robot,Earth (Replacement Dimension),Male,Dead
+284,Mechanical Rick,https://rickandmorty.fandom.com/wiki/Mechanical_Rick,"['Robot Rick', 'Rick Sanchez', 'Beth Smith']",Robot,Earth (Replacement Dimension),Male,unknown
+285,Mechanical Summer,https://rickandmorty.fandom.com/wiki/Mechanical_Summer,"['Summer Smith', 'Rick Sanchez', 'Beth Smith']",Robot,Earth (Replacement Dimension),Female,unknown
+286,Memory Parasites,https://rickandmorty.fandom.com/wiki/Memory_Parasites,"['Steven Smith', 'Cousin Nicky', 'Mr. Beauregard', 'Sleepy Gary', 'Morty Smith', 'Beth Smith', 'Rick Sanchez', 'Summer Smith', ""Frankenstein's Monster"", 'Photography Raptor', 'Pencilvester', 'Tinkles', 'Hamurai', 'Amish Cyborg', 'Reverse Giraffe', 'Ghost in a Jar', 'Baby Wizard', 'Mrs. Refrigerator', 'Bearded Lady', 'Duck with Muscles']",unknown,unknown,Genderless,unknown
+287,Michael (The ABC's of Beth),https://rickandmorty.fandom.com/wiki/Michael_(The_ABC%27s_of_Beth),['Jerry Smith'],unknown,unknown,Genderless,unknown
+288,Michael Denny and the Denny Singers,https://rickandmorty.fandom.com/wiki/Michael_Denny_and_the_Denny_Singers,['Trunk People'],Human,unknown,Male,Alive
+289,Michael Jenkins,https://rickandmorty.fandom.com/wiki/Michael_Jenkins,[],Human,unknown,Male,Dead
+290,Michael McLick,https://rickandmorty.fandom.com/wiki/Michael_McLick,['Randy Dicknose'],Human,unknown,Male,Alive
+291,Michael Thompson,https://rickandmorty.fandom.com/wiki/Michael_Thompson,['Pichael Thompson'],Humanoid,unknown,Male,Alive
+292,Miggs,https://rickandmorty.fandom.com/wiki/Miggs,"['Gromflomites', 'Rick Sanchez', 'Mr. Meeseeks', 'Morty Smith', 'Summer Smith']",unknown,unknown,Genderless,unknown
+293,Miles Knightly,https://rickandmorty.fandom.com/wiki/Miles_Knightly,['Rick Sanchez'],Alien,unknown,Male,Dead
+294,Million Ants,https://rickandmorty.fandom.com/wiki/Million_Ants,"['Supernova', 'Rick Sanchez', 'Alan Rails']",Animal,unknown,Male,Dead
+295,Mitch,https://rickandmorty.fandom.com/wiki/Mitch,"['Morty Smith', 'Frank Palicky', 'Summer Smith (Cronenberged dimension)', 'Jerry Smith (Cronenberged dimension)', 'Principal Vagina', 'Toxic Morty']",Human,Earth (Replacement Dimension),Male,Alive
+296,Morty Jr.,https://rickandmorty.fandom.com/wiki/Morty_Jr.,"['Morty Smith', 'Cronenberg Morty', 'Gazorpians', 'Gwendolyn', 'Jerry Smith', 'Beth Smith', 'Hemorrhage', 'Summer Smith', 'Naruto Smith', 'Leonard Smith', 'Joyce Smith', 'Unnamed Uncle', 'Rick Sanchez', 'Diane Sanchez', ""Rick's Father""]",Humanoid,Earth (Replacement Dimension),Male,Alive
+297,Morty Rick,https://rickandmorty.fandom.com/wiki/Morty_Rick,"['Rick Sanchez', 'Morty Smith', 'Tiny Rick']",Human,unknown,Male,unknown
+298,Morty Smith (304-X),https://rickandmorty.fandom.com/wiki/Morty_Smith_(304-X),"['Jerry Smith (304-X)', 'Beth Smith (304-X)', 'Summer Smith (304-X)', 'Morty Smith (C-132)', 'Rick Sanchez (C-132)', 'Rick Sanchez', 'Summer Smith', 'Jerry Smith', 'Beth Smith']",Human,unknown,Genderless,unknown
+299,Morty Smith (C-132),https://rickandmorty.fandom.com/wiki/Morty_Smith_(C-132),"['Beth Smith (C-132)', 'Summer Smith (C-132)', 'Rick Sanchez (C-132)', 'Morty Smith', 'Morty Jr.', 'Scary Terry']",Human,unknown,Genderless,unknown
+300,Morty Smith (Evil Rick's Target Dimension),https://rickandmorty.fandom.com/wiki/Morty_Smith_(Evil_Rick%27s_Target_Dimension),"[""Jerry Smith (Evil Rick's Target Dimension)"", ""Beth Smith (Evil Rick's Target Dimension)"", ""Summer Smith (Evil Rick's Target Dimension)"", ""Rick Sanchez (Evil Rick's Target Dimension)"", 'Morty Smith', 'Evil Rick Sanchez', 'Evil Morty', 'Rick Sanchez', 'Summer Smith', 'Jerry Smith', 'Beth Smith']",Human,unknown,Genderless,unknown
+301,Morty Smith (K-22),https://rickandmorty.fandom.com/wiki/Morty_Smith_(K-22),"['Rick Sanchez (K-22)', 'Rick Sanchez', 'Morty Smith']",Human,unknown,Genderless,unknown
+302,Morty Smith (Replacement Dimension),https://rickandmorty.fandom.com/wiki/Morty_Smith_(Replacement_Dimension),"['Jerry Smith', 'Beth Smith', 'Summer Smith', 'Hemorrhage', 'Leonard Smith', 'Joyce Smith', 'Unnamed Uncle', 'Rick Sanchez (Replacement Dimension)', 'Diane Sanchez', 'Jessica', 'Annie', 'Morty Smith', 'Rick Sanchez']",Human,unknown,Genderless,unknown
+303,Morty's Girlfriend,https://rickandmorty.fandom.com/wiki/Morty%27s_Girlfriend,['Morty Smith'],Human,unknown,Genderless,unknown
+304,Mortytown Locos,https://rickandmorty.fandom.com/wiki/Mortytown_Locos,"['Bootleg Portal Chemist Rick', 'Evil Morty']",Human,unknown,Genderless,unknown
+305,Mr. Always Wants To Be Hunted,https://rickandmorty.fandom.com/wiki/Mr._Always_Wants_To_Be_Hunted,['Mr. Poopybutthole'],Human,unknown,Genderless,unknown
+306,Mr. Beauregard,https://rickandmorty.fandom.com/wiki/Mr._Beauregard,"['Memory Parasites', 'Cousin Nicky', 'Jerry Smith', 'Morty Smith', 'Rick Sanchez']",Alien,unknown,Male,Dead
+307,Mr. Benson,https://rickandmorty.fandom.com/wiki/Mr._Benson,"['Rick Sanchez', 'Morty Smith', 'Summer Smith']",Human,Earth (Replacement Dimension),Male,Alive
+308,Mr. Booby Buyer,https://rickandmorty.fandom.com/wiki/Mr._Booby_Buyer,"['Rick Sanchez', 'Morty Smith']",Mythological Creature,Fantasy World,Male,Alive
+309,Mr. Goldenfold,https://rickandmorty.fandom.com/wiki/Mr._Goldenfold,"['Morty Smith', 'Mrs. Pancakes', 'Rick Sanchez', 'Jessica', 'Summer Smith']",Cronenberg,Earth (C-137),Male,Alive
+310,Mr. Goldenfold (Wasp Universe),https://rickandmorty.fandom.com/wiki/Mr._Goldenfold_(Wasp_Universe),"[""Mr. Goldenfold's Larvae"", 'Mr. Goldenfold', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+311,Mr. Goldenfold's Larvae,https://rickandmorty.fandom.com/wiki/Mr._Goldenfold%27s_Larvae,"['Mr. Goldenfold (Wasp Universe)', 'Mr. Goldenfold']",unknown,unknown,Genderless,unknown
+312,Mr. Marklovitz,https://rickandmorty.fandom.com/wiki/Mr._Marklovitz,"['Kl’iiik Mijupsrit', 'Jerry Smith', 'Unity']",Human,Earth (C-137),Male,Alive
+313,Mr. Meeseeks,https://rickandmorty.fandom.com/wiki/Mr._Meeseeks,"['Mr. Meeseeks (Kirkland)', 'Rick Sanchez', 'Jerry Smith']",Humanoid,Mr. Meeseeks Box,Male,unknown
+314,Mr. Meeseeks (Kirkland),https://rickandmorty.fandom.com/wiki/Mr._Meeseeks_(Kirkland),"['Mr. Meeseeks', 'Rick Sanchez', 'Wasp Rick', 'Morty Smith']",unknown,unknown,Genderless,unknown
+315,Mr. Nimbus,https://rickandmorty.fandom.com/wiki/Mr._Nimbus,"['Rick Sanchez', 'Morty Smith', 'Space Cruiser', 'Jerry Smith', 'Beth Smith', 'Jessica']",Mythological Creature,The Ocean,Male,Alive
+316,Mr. Poopybutthole,https://rickandmorty.fandom.com/wiki/Mr._Poopybutthole,"['Mrs. Poopybutthole', 'Baby Poopybutthole', 'Rick Sanchez', 'Beth Smith', 'Cousin Nicky', 'Darth Poopybutthole']",Poopybutthole,unknown,Male,Alive
+317,Mr. Poopybutthole's Cat,https://rickandmorty.fandom.com/wiki/Mr._Poopybutthole%27s_Cat,"['Mr. Poopybutthole', 'Mrs. Poopybutthole', ""Mr. Poopybutthole's Dog""]",unknown,unknown,Genderless,unknown
+318,Mr. Poopybutthole's Dog,https://rickandmorty.fandom.com/wiki/Mr._Poopybutthole%27s_Dog,"['Mr. Poopybutthole', 'Mrs. Poopybutthole', ""Mr. Poopybutthole's Cat"", 'Baby Poopybutthole']",unknown,unknown,Genderless,unknown
+319,Mr. Sneezy,https://rickandmorty.fandom.com/wiki/Mr._Sneezy,[],Human,Interdimensional Cable,Male,Alive
+320,Mr. Youseeks,https://rickandmorty.fandom.com/wiki/Mr._Youseeks,"['Mr. Meeseeks', 'The Garage', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+321,Mrs. Lipnip,https://rickandmorty.fandom.com/wiki/Mrs._Lipnip,"['Joseph Lipnip', 'Thomas Lipnip', ""Tommy's Clone"", 'Rick Sanchez', 'Beth Smith']",unknown,unknown,Genderless,unknown
+322,Mrs. Pancakes,https://rickandmorty.fandom.com/wiki/Mrs._Pancakes,"['Mr. Goldenfold', 'Rick Sanchez', 'Morty Smith', 'Centaur', 'The Little Girl', 'Scary Terry']",Human,Earth (C-137),Female,Alive
+323,Mrs. Poopybutthole,https://rickandmorty.fandom.com/wiki/Mrs._Poopybutthole,"['Mr. Poopybutthole', 'Baby Poopybutthole', 'Morty Smith', 'Summer Smith', 'Gromflomites']",unknown,unknown,Genderless,unknown
+324,Mrs. Refrigerator,https://rickandmorty.fandom.com/wiki/Mrs._Refrigerator,"['Memory Parasites', 'Beth Smith', 'Rick Sanchez']",Alien,unknown,Female,Dead
+325,Mrs. Sullivan,https://rickandmorty.fandom.com/wiki/Mrs._Sullivan,['Jerry Smith (C-500A)'],Human,Earth (C-500A),Female,Dead
+326,Mysterious Rick,https://rickandmorty.fandom.com/wiki/Mysterious_Rick,"['Morty Smith', 'Riq IV']",unknown,unknown,Genderless,unknown
+327,Nancy,https://rickandmorty.fandom.com/wiki/Nancy,"['Summer Smith', 'Rick Sanchez', 'Morty Smith', 'Abrodolph Lincoler', 'Beth Smith']",Human,Earth (Replacement Dimension),Female,Alive
+328,Naruto Smith,https://rickandmorty.fandom.com/wiki/Naruto_Smith,"['Morty Smith', 'Summer Smith', 'Jerry Smith', 'Beth Smith', ""Rick's Foal"", 'Morty Jr.', 'Rick Sanchez', 'Diane Sanchez', 'Leonard Smith', 'Joyce Smith', 'Unnamed Uncle', ""Rick's Father"", 'Sticky']",Humanoid,Earth (Replacement Dimension),Male,Alive
+329,Nick,https://rickandmorty.fandom.com/wiki/Nick,"['Morty Smith', 'Rick Sanchez', 'Jerry Smith', 'Mr. Nimbus']",Human,Earth (Replacement Dimension),Male,Dead
+330,Nippalians,https://rickandmorty.fandom.com/wiki/Nippalians,['Unity'],unknown,unknown,Genderless,unknown
+331,Noob-Noob,https://rickandmorty.fandom.com/wiki/Noob-Noob,"['Rick Sanchez', 'Morty Smith', 'Logic', 'Mr. Poopybutthole', 'Stealy', 'Benjamin']",Poopybutthole,unknown,Male,Alive
+332,Numbericons,https://rickandmorty.fandom.com/wiki/Numbericons,['Water-T'],unknown,unknown,Genderless,unknown
+333,Octopus Man,https://rickandmorty.fandom.com/wiki/Octopus_Man,[],Humanoid,unknown,Male,Alive
+334,Old Reptile,https://rickandmorty.fandom.com/wiki/Old_Reptile,"['Shrimply Pibbles', 'Jerry Smith']",unknown,unknown,Genderless,unknown
+335,Pants on Head Mutant Morty,https://rickandmorty.fandom.com/wiki/Pants_on_Head_Mutant_Morty,[],unknown,unknown,Genderless,unknown
+336,Pat Guterman,https://rickandmorty.fandom.com/wiki/Pat_Guterman,"['Donna Guterman', 'Tammy Guterman', 'Birdperson', 'Jerry Smith', 'Beth Smith']",unknown,unknown,Genderless,unknown
+337,Paul Fleishman,https://rickandmorty.fandom.com/wiki/Paul_Fleishman,"['Beth Smith', 'Summer Smith', 'Morty Smith', 'Rick Sanchez', 'Jerry Smith']",Human,unknown,Male,Alive
+338,Pawnshop Clerk,https://rickandmorty.fandom.com/wiki/Pawnshop_Clerk,"['Rick Sanchez', 'Morty Smith', 'Gwendolyn']",Alien,unknown,Male,Alive
+339,Pencilvester,https://rickandmorty.fandom.com/wiki/Pencilvester,"['Memory Parasites', 'Rick Sanchez', 'Morty Smith']",Alien,unknown,Male,Dead
+340,Phillip Jacobs,https://rickandmorty.fandom.com/wiki/Phillip_Jacobs,"['Rick Sanchez', 'Morty Smith']",Human,unknown,Male,Alive
+341,Photography Cyborgs,https://rickandmorty.fandom.com/wiki/Photography_Cyborgs,"['Birdperson', 'Tammy Guterman', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+342,Photography Raptor,https://rickandmorty.fandom.com/wiki/Photography_Raptor,"['Memory Parasites', 'Mr. Beauregard', 'Morty Smith']",Alien,unknown,Genderless,Dead
+343,Pichael Thompson,https://rickandmorty.fandom.com/wiki/Pichael_Thompson,['Michael Thompson'],Humanoid,unknown,Male,Alive
+344,Pickle Rick (character),https://rickandmorty.fandom.com/wiki/Pickle_Rick_(character),['Rick Sanchez'],unknown,unknown,Genderless,unknown
+345,Pickles the Drummer,https://rickandmorty.fandom.com/wiki/Pickles_the_Drummer,[],unknown,unknown,Genderless,unknown
+346,Piece of Toast,https://rickandmorty.fandom.com/wiki/Piece_of_Toast,"['Rick Sanchez', 'Bobby Moynihan', 'Two Guys with Handlebar Mustaches', 'Man Painted Silver Who Makes Robot Noises', 'Garmanarnar', 'Three Unknown Things', 'Hole in the Wall Where the Men Can See it All']",unknown,unknown,Genderless,Alive
+347,Pink Sentient Switchblade,https://rickandmorty.fandom.com/wiki/Pink_Sentient_Switchblade,"['Beth Smith', 'Rick Sanchez', 'Thomas Lipnip']",unknown,unknown,Genderless,unknown
+348,Planetina,https://rickandmorty.fandom.com/wiki/Planetina,"['Tina-Teers', 'Morty Smith', 'Diesel Weasel']",Humanoid,Elemental Rings,Female,Alive
+349,Plumber Rick,https://rickandmorty.fandom.com/wiki/Plumber_Rick,['Rick Sanchez'],Human,unknown,Male,Alive
+350,Plutonian,https://rickandmorty.fandom.com/wiki/Plutonian,"['King Flippy Nips', 'Scroopy Noopers']",unknown,unknown,Genderless,unknown
+351,Pom Poms,https://rickandmorty.fandom.com/wiki/Pom_Poms,"['Risotto Groupon', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+352,Poncho,https://rickandmorty.fandom.com/wiki/Poncho,"['Dr. Xenon Bloom', 'Morty Smith', 'Diseases', 'Annie']",Human,unknown,Male,Dead
+353,Poop Jesus,https://rickandmorty.fandom.com/wiki/Poop_Jesus,['Jesus Christ'],unknown,unknown,Genderless,unknown
+354,Poñeta,https://rickandmorty.fandom.com/wiki/Po%C3%B1eta,"['Chud King', 'Rick Sanchez', ""Rick's Foal"", 'Morty Smith']",unknown,unknown,Genderless,unknown
+355,Presidentress of the Mega Gargantuans,https://rickandmorty.fandom.com/wiki/Presidentress_of_the_Mega_Gargantuans,"['Rick Sanchez', 'Morty Smith', 'The President']",unknown,unknown,Genderless,unknown
+356,Priest Witherspoon,https://rickandmorty.fandom.com/wiki/Priest_Witherspoon,"['Josiah', 'Jeff', 'Maggie', 'Summer Smith', 'Richard']",Human,Earth (Replacement Dimension),Male,Alive
+357,Prince Nebulon,https://rickandmorty.fandom.com/wiki/Prince_Nebulon,"['Rick Sanchez', 'Kevin', 'Morty Smith', 'Jerry Smith (Cronenberged dimension)', 'Jerry Smith']",Alien,unknown,Male,Dead
+358,Principal Vagina,https://rickandmorty.fandom.com/wiki/Principal_Vagina,"['Frank Palicky', 'Mr. Meeseeks', 'Lucius Needful', 'Ethan', 'Gordon Lunas']",Cronenberg,Earth (C-137),Male,Alive
+359,Pripudlians,https://rickandmorty.fandom.com/wiki/Pripudlians,['Rick Sanchez'],unknown,unknown,Genderless,unknown
+360,Professor Shabooboo,https://rickandmorty.fandom.com/wiki/Professor_Shabooboo,"['The President', 'Summer Smith', 'Morty Smith']",Human,Earth (Replacement Dimension),Male,Dead
+361,Professor Tock,https://rickandmorty.fandom.com/wiki/Professor_Tock,"['Rick Sanchez (C-132)', 'Morty Smith (C-132)']",unknown,unknown,Genderless,unknown
+362,Purge Planet Ruler,https://rickandmorty.fandom.com/wiki/Purge_Planet_Ruler,"['Rick Sanchez', 'Morty Smith', 'Arthricia']",Alien,Purge Planet,Male,Dead
+363,Pussifer,https://rickandmorty.fandom.com/wiki/Pussifer,[],Animal,Rick and Two Crows Planet,Male,Dead
+364,Quantum Rick,https://rickandmorty.fandom.com/wiki/Quantum_Rick,"['Council of Ricks', 'Rick Sanchez', 'Commander Rick']",Human,unknown,Male,unknown
+365,Randy Dicknose,https://rickandmorty.fandom.com/wiki/Randy_Dicknose,['Michael McLick'],Human,unknown,Male,Alive
+366,Real Fake Doors Salesman,https://rickandmorty.fandom.com/wiki/Real_Fake_Doors_Salesman,[],Human,unknown,Male,Alive
+367,Rebel Doctor,https://rickandmorty.fandom.com/wiki/Rebel_Doctor,['Garblovians'],unknown,unknown,Genderless,unknown
+368,Red Grin Grumble,https://rickandmorty.fandom.com/wiki/Red_Grin_Grumble,"['Rick Sanchez', 'Jerry Smith', 'Morty Smith', 'Summer Smith']",unknown,unknown,Genderless,unknown
+369,Reggie,https://rickandmorty.fandom.com/wiki/Reggie,"['Hephaestus', 'Ticktock', 'Florflok', 'Squeeb', 'Gaia', 'Rick Sanchez', 'Morty Smith']",Mythological Creature,Mount Olympus,Male,Dead
+370,Regional Manager Rick,https://rickandmorty.fandom.com/wiki/Regional_Manager_Rick,"['Rick Sanchez (J-22)', 'Cool Rick', 'Evil Morty']",Human,unknown,Male,Dead
+371,Regular Legs,https://rickandmorty.fandom.com/wiki/Regular_Legs,['Baby Legs'],Human,unknown,Male,Alive
+372,Reverse Giraffe,https://rickandmorty.fandom.com/wiki/Reverse_Giraffe,"['Memory Parasites', 'Sleepy Gary', 'Rick Sanchez', 'Hamurai', 'Ghost in a Jar', 'Beth Smith', 'Morty Smith']",Alien,unknown,Male,Dead
+373,Reverse Rick Outrage,https://rickandmorty.fandom.com/wiki/Reverse_Rick_Outrage,"['Adjudicator Rick', 'Evil Morty']",Human,unknown,Male,Dead
+374,"Revolio Clockberg, Jr.","https://rickandmorty.fandom.com/wiki/Revolio_Clockberg,_Jr.","['Rick Sanchez', 'Morty Smith', 'Jessica', 'Fart', 'Noob-Noob']",unknown,unknown,Genderless,unknown
+375,Ricardo Montoya,https://rickandmorty.fandom.com/wiki/Ricardo_Montoya,"['Rick Sanchez', 'Big Fat Rick', 'Hothead Rick', 'Little Ricky Wrap-it-up']",Human,unknown,Male,unknown
+376,Richard,https://rickandmorty.fandom.com/wiki/Richard,[],Human,Earth (Replacement Dimension),Male,Alive
+377,Rick D. Sanchez III,https://rickandmorty.fandom.com/wiki/Rick_D._Sanchez_III,"['Shadow Council of Ricks', 'Rick Sanchez', 'Simple Rick', 'Evil Morty', 'Garment District Rick']",Human,unknown,Male,Dead
+378,Rick Guilt Rick,https://rickandmorty.fandom.com/wiki/Rick_Guilt_Rick,[],Human,unknown,Male,unknown
+379,Rick Prime,https://rickandmorty.fandom.com/wiki/Rick_Prime,"['Council of Ricks', 'Rick Sanchez']",Human,unknown,Male,Dead
+380,Rick Sanchez,https://rickandmorty.fandom.com/wiki/Rick_Sanchez,"['Mr. Nimbus', 'Big Fat Rick', 'Evil Morty', 'Beth Sanchez (C-137)', 'Jerry Smith (Cronenberged dimension)', 'Summer Smith (Cronenberged dimension)', 'Morty Smith', 'Beth Smith', 'Summer Smith', 'Jerry Smith', 'Morty Jr.', 'Naruto Smith', 'Diane Sanchez', 'Poñeta', ""Rick's Foal"", 'Unity', 'Gaia', 'Balthromaw', 'Weird Rick', 'Birdperson', 'Squanchy', 'Fart', 'Mr. Poopybutthole', 'Tammy Guterman', 'Arthricia', 'Mr. Goldenfold', 'Evil Rick Sanchez', 'Council of Ricks', 'Shleemypants', 'Krombopulos Michael', 'Gromflomites', 'SEAL Team Ricks', 'Blim Blam', 'Jessica', 'Lucius Needful', 'Snuffles', 'Kiara', 'Trandor', 'Wasp Rick', 'Doofus Rick']",Human,Earth (C-137),Male,Alive
+381,Rick Sanchez (C-132),https://rickandmorty.fandom.com/wiki/Rick_Sanchez_(C-132),"['Beth Smith (C-132)', 'Summer Smith (C-132)', 'Morty Smith (C-132)', 'Rick Sanchez', 'Morty Smith', 'Summer Smith', 'Jerry Smith', 'Beth Smith']",Human,unknown,Genderless,unknown
+382,Rick Sanchez (D-99),https://rickandmorty.fandom.com/wiki/Rick_Sanchez_(D-99),"['SEAL Team Ricks', 'Rick Sanchez', 'Morty Smith', 'Summer Smith', 'Gromflomites', 'Commander Rick']",Human,unknown,Genderless,unknown
+383,Rick Sanchez (Evil Rick's Target Dimension),https://rickandmorty.fandom.com/wiki/Rick_Sanchez_(Evil_Rick%27s_Target_Dimension),"[""Beth Smith (Evil Rick's Target Dimension)"", ""Jerry Smith (Evil Rick's Target Dimension)"", ""Summer Smith (Evil Rick's Target Dimension)"", ""Morty Smith (Evil Rick's Target Dimension)"", 'Rick Sanchez', 'Evil Rick Sanchez', 'Evil Morty', 'Morty Smith', 'Summer Smith', 'Jerry Smith', 'Beth Smith']",Human,unknown,Genderless,unknown
+384,Rick Sanchez (J-22),https://rickandmorty.fandom.com/wiki/Rick_Sanchez_(J-22),"['Rick Sanchez', 'Simple Rick', 'Rick D. Sanchez III', 'Cool Rick', 'Regional Manager Rick']",Human,unknown,Genderless,unknown
+385,Rick Sanchez (J19α7),https://rickandmorty.fandom.com/wiki/Rick_Sanchez_(J19%CE%B17),['Doofus Rick'],Human,unknown,Genderless,unknown
+386,Rick Sanchez (K-22),https://rickandmorty.fandom.com/wiki/Rick_Sanchez_(K-22),"['Morty Smith (K-22)', 'Rick Sanchez', 'Morty Smith']",Human,unknown,Genderless,unknown
+387,Rick Sanchez (Replacement Dimension),https://rickandmorty.fandom.com/wiki/Rick_Sanchez_(replacement_dimension),"['Diane Sanchez', 'Beth Smith', 'Jerry Smith', 'Summer Smith', 'Morty Smith (Replacement Dimension)', 'Hemorrhage', 'Unity', 'Rick Sanchez', 'Morty Smith']",Human,unknown,Genderless,unknown
+388,Rick's Father,https://rickandmorty.fandom.com/wiki/Rick%27s_Father,"['Rick Sanchez', 'Diane Sanchez', 'Beth Smith', ""Rick's Foal"", 'Jerry Smith', 'Sleepy Gary', 'Summer Smith', 'Morty Smith', 'Hemorrhage', 'Morty Jr.', 'Unity', 'Rick D. Sanchez III']",Human,unknown,Genderless,unknown
+389,Rick's Foal,https://rickandmorty.fandom.com/wiki/Rick%27s_Foal,"['Rick Sanchez', 'Poñeta', 'Beth Smith', 'Jerry Smith', 'Morty Smith', 'Summer Smith', 'Morty Jr.', 'Naruto Smith', 'Hemorrhage', 'Chud King', ""Rick's Father""]",Human,unknown,Genderless,unknown
+390,Ricktiminus Sancheziminius,https://rickandmorty.fandom.com/wiki/Ricktiminus_Sancheziminius,"['Council of Ricks', 'Rick Sanchez', 'Rick Prime', 'Maximums Rickimus', 'Quantum Rick', 'Zeta Alpha Rick', 'Riq IV', 'The Scientist Formerly Known as Rick', 'Evil Rick Sanchez', 'Morty Smith', 'SEAL Team Ricks']",Human,unknown,Male,Dead
+391,Riq IV,https://rickandmorty.fandom.com/wiki/Riq_IV,"['Council of Ricks', 'Rick Sanchez', 'Summer Smith', 'Morty Smith', 'Rick Prime', 'Maximums Rickimus', 'Quantum Rick', 'Zeta Alpha Rick', 'Ricktiminus Sancheziminius', 'The Scientist Formerly Known as Rick', 'Evil Rick Sanchez', 'SEAL Team Ricks']",Human,unknown,Male,Dead
+392,Risotto Groupon,https://rickandmorty.fandom.com/wiki/Risotto_Groupon,"['Pom Poms', 'Jerry Smith', 'Rick Sanchez']",Alien,Resort Planet,Male,Dead
+393,Robert,https://rickandmorty.fandom.com/wiki/Robert,"['Summer Smith (C-132)', 'Rick Sanchez (C-132)', 'Space Cruiser']",unknown,unknown,Genderless,unknown
+394,Robobros,https://rickandmorty.fandom.com/wiki/Robobros,"['Rick Sanchez', 'Morty Smith', 'Summer Smith']",unknown,unknown,Genderless,unknown
+395,Robot Morty,https://rickandmorty.fandom.com/wiki/Robot_Morty,"['Robot Rick', 'Morty Smith']",Robot,unknown,Male,unknown
+396,Robot Rick,https://rickandmorty.fandom.com/wiki/Robot_Rick,"['Robot Morty', 'Rick Sanchez']",Robot,unknown,Male,unknown
+397,Robot Soldiers,https://rickandmorty.fandom.com/wiki/Robot_Soldiers,['Rick Sanchez'],unknown,unknown,Genderless,unknown
+398,Roger,https://rickandmorty.fandom.com/wiki/Roger,['Dr. Xenon Bloom'],Human,Earth (C-137),Male,Dead
+399,Ron Benson,https://rickandmorty.fandom.com/wiki/Ron_Benson,"['Nippalians', 'Unity']",Alien,Unity's Planet,Male,Alive
+400,Rose,https://rickandmorty.fandom.com/wiki/Rose,"['Dale', ""Dale's Son"", 'Rick Sanchez', 'Morty Smith']",unknown,unknown,Genderless,unknown
+401,Roy,https://rickandmorty.fandom.com/wiki/Roy,"['Morty Smith', 'Rick Sanchez']",Human,Roy: A Life Well Lived,Male,Alive
+402,Ruben,https://rickandmorty.fandom.com/wiki/Ruben,"['Tammy Guterman', 'Birdperson', 'Squanchy', 'Mr. Poopybutthole', 'Krombopulos Michael', 'Mr. Meeseeks', 'Rick Sanchez', 'Dr. Xenon Bloom', 'Morty Smith', 'Annie', 'Jacob Philip', 'Ethan']",Human,Earth (C-137),Male,Dead
+403,Running Bird,https://rickandmorty.fandom.com/wiki/Running_Bird,"['Maggie', 'Jeff', 'Richard']",Human,Earth (Replacement Dimension),Male,Alive
+404,Rurtaugh,https://rickandmorty.fandom.com/wiki/Rurtaugh,"['Gromflomites', 'Rick Sanchez', 'Mr. Meeseeks', 'Miggs', 'Morty Smith', 'Summer Smith']",unknown,unknown,Genderless,unknown
+405,Salesman Rick,https://rickandmorty.fandom.com/wiki/Salesman_Rick,"['Courier Flap', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+406,Samantha,https://rickandmorty.fandom.com/wiki/Samantha,"['Mr. Meeseeks', 'Jerry Smith (Cronenberged dimension)']",Human,Earth (C-137),Female,Alive
+407,Scary Brandon,https://rickandmorty.fandom.com/wiki/Scary_Brandon,"['Scary Terry', 'Scary Melissa']",Mythological Creature,Mr. Goldenfold's dream,Male,Alive
+408,Scary Glenn,https://rickandmorty.fandom.com/wiki/Scary_Glenn,"['Scary Terry', 'Rick Sanchez']",Mythological Creature,Mr. Goldenfold's dream,Male,Alive
+409,Scary Melissa,https://rickandmorty.fandom.com/wiki/Scary_Melissa,"['Scary Terry', 'Scary Brandon', 'Rick Sanchez', 'Morty Smith']",unknown,unknown,Genderless,unknown
+410,Scary Terry,https://rickandmorty.fandom.com/wiki/Scary_Terry,"['Scary Melissa', 'Scary Brandon', 'Rick Sanchez', 'Morty Smith']",Mythological Creature,Mr. Goldenfold's dream,Male,Alive
+411,Schlami,https://rickandmorty.fandom.com/wiki/Schlami,[],unknown,unknown,Genderless,unknown
+412,Scroopy Noopers,https://rickandmorty.fandom.com/wiki/Scroopy_Noopers,"['Plutonian', 'King Flippy Nips', 'Jerry Smith', 'Morty Smith']",Alien,Pluto,Male,Alive
+413,Scropon,https://rickandmorty.fandom.com/wiki/Scropon,"['Rick Sanchez', 'Morty Smith', 'Revolio Clockberg, Jr.', 'Birdperson', 'Tammy Guterman', 'Beth Smith', 'Gromflomites']",Alien,unknown,Male,unknown
+414,Scrotians,https://rickandmorty.fandom.com/wiki/Scrotians,"['Cromulons', 'Birdperson', 'Tammy Guterman', 'Rick Sanchez', 'Logic']",unknown,unknown,Genderless,unknown
+415,SEAL Team Ricks,https://rickandmorty.fandom.com/wiki/SEAL_Team_Ricks,"['Rick Sanchez (D-99)', 'Rick Sanchez', 'Council of Ricks', 'Gromflomites', 'Commander Rick']",unknown,unknown,Genderless,unknown
+416,Self-Congratulatory Jerry,https://rickandmorty.fandom.com/wiki/Self-Congratulatory_Jerry,['Jerry Smith'],Mythological Creature,Nuptia 4,Male,unknown
+417,Semosites,https://rickandmorty.fandom.com/wiki/Semosites,"['Rick Sanchez', 'Morty Smith']",unknown,unknown,Genderless,unknown
+418,Severnians,https://rickandmorty.fandom.com/wiki/Severnians,[],unknown,unknown,Genderless,unknown
+419,Shadow Council of Ricks,https://rickandmorty.fandom.com/wiki/Shadow_Council_of_Ricks,"['Rick D. Sanchez III', 'Garment District Rick', 'Council of Ricks', 'Evil Morty', 'Sheikh Rick']",unknown,unknown,Genderless,unknown
+420,Sheikh Rick,https://rickandmorty.fandom.com/wiki/Sheikh_Rick,['Shadow Council of Ricks'],unknown,unknown,Genderless,unknown
+421,Shimshamians,https://rickandmorty.fandom.com/wiki/Shimshamians,[],unknown,unknown,Genderless,unknown
+422,Shleemypants,https://rickandmorty.fandom.com/wiki/Shleemypants,"['Rick Sanchez', 'Chris']",unknown,unknown,Male,Alive
+423,Shmlamantha Shmlicelli,https://rickandmorty.fandom.com/wiki/Shmlamantha_Shmlicelli,[],Human,unknown,Female,Alive
+424,Shmlangela Shmlobinson-Shmlower,https://rickandmorty.fandom.com/wiki/Shmlangela_Shmlobinson-Shmlower,[],Human,unknown,Female,Alive
+425,Shmlona Shmlobinson,https://rickandmorty.fandom.com/wiki/Shmlona_Shmlobinson,[],Human,unknown,Female,Alive
+426,Shmlonathan Shmlower,https://rickandmorty.fandom.com/wiki/Shmlonathan_Shmlower,[],Human,unknown,Male,Alive
+427,Shmlony Shmlicelli,https://rickandmorty.fandom.com/wiki/Shmlony_Shmlicelli,[],Human,unknown,Male,Alive
+428,Shmooglite Runner,https://rickandmorty.fandom.com/wiki/Shmooglite_Runner,"['Rick Sanchez', 'Gibble Snake']",Alien,Resort Planet,Male,unknown
+429,Shnoopy Bloopers,https://rickandmorty.fandom.com/wiki/Shnoopy_Bloopers,['Rick Sanchez'],Alien,unknown,Male,unknown
+430,Shrimp Rick,https://rickandmorty.fandom.com/wiki/Shrimp_Rick,['Rick Sanchez'],unknown,unknown,Genderless,unknown
+431,Shrimply Pibbles,https://rickandmorty.fandom.com/wiki/Shrimply_Pibbles,"['Jerry Smith', 'Old Reptile']",Alien,unknown,Male,Alive
+432,Simon,https://rickandmorty.fandom.com/wiki/Simon,"['The President', 'Cromulons', 'General Nathan', 'Rick Sanchez']",Human,Earth (Replacement Dimension),Male,Alive
+433,Simple Rick,https://rickandmorty.fandom.com/wiki/Simple_Rick,"['Diane Sanchez', 'Rick D. Sanchez III', 'Rick Sanchez', 'Rick Sanchez (J-22)', 'Regional Manager Rick']",Human,unknown,Male,Dead
+434,Simulation Morty,https://rickandmorty.fandom.com/wiki/Simulation_Morty,"['Morty Smith', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+435,Sleepy Gary,https://rickandmorty.fandom.com/wiki/Sleepy_Gary,"['Memory Parasites', 'Beth Smith', 'Jerry Smith', 'Summer Smith', 'Morty Smith', 'Rick Sanchez', 'Diane Sanchez', ""Rick's Father"", 'Hemorrhage', 'Gwendolyn', 'Morty Jr.', 'Mr. Beauregard']",Alien,unknown,Male,Dead
+436,Slick Morty,https://rickandmorty.fandom.com/wiki/Slick_Morty,"['Teacher Rick', 'Glasses Morty']",Human,unknown,Male,Dead
+437,Slippery Stair,https://rickandmorty.fandom.com/wiki/Slippery_Stair,"['Morty Smith', 'Rick Sanchez']",Mythological Creature,Fantasy World,Male,Alive
+438,Slow Mobius,https://rickandmorty.fandom.com/wiki/Slow_Mobius,"['Rick Sanchez', 'Morty Smith', 'Jessica']",Humanoid,unknown,Male,Alive
+439,Slow Rick,https://rickandmorty.fandom.com/wiki/Slow_Rick,"['Teacher Rick', 'Rick Sanchez', 'Lucius Needful']",Human,unknown,Male,Alive
+440,Smarkians,https://rickandmorty.fandom.com/wiki/Smarkians,[],unknown,unknown,Genderless,unknown
+441,Snuffles,https://rickandmorty.fandom.com/wiki/Snuffles,"['Morty Smith', 'Rick Sanchez', 'Jerry Smith']",Animal,Story Train,Male,Alive
+442,Solicitor Rick,https://rickandmorty.fandom.com/wiki/Solicitor_Rick,"['Rick Sanchez', 'Morty Smith', 'Council of Ricks', 'Gromflomites']",Human,unknown,Male,unknown
+443,Space Cruiser,https://rickandmorty.fandom.com/wiki/Space_Cruiser,[],Robot,Earth (Replacement Dimension),Female,Alive
+444,Space Snake,https://rickandmorty.fandom.com/wiki/Space_Snake,[],unknown,unknown,Genderless,unknown
+445,Sperm Queen,https://rickandmorty.fandom.com/wiki/Sperm_Queen,"['Morty Smith', 'Sticky', 'Rick Sanchez', 'Jerry Smith', 'Beth Smith', 'Summer Smith']",unknown,Morty,Female,Dead
+446,Squanchy,https://rickandmorty.fandom.com/wiki/Squanchy,"['Rick Sanchez', 'Tammy Guterman', 'Birdperson']",Alien,Planet Squanch,Male,unknown
+447,Squeeb,https://rickandmorty.fandom.com/wiki/Squeeb,"['Gaia', 'Reggie', 'Ticktock', 'Florflok', 'Rick Sanchez', 'Beth Smith', 'Jerry Smith']",Humanoid,Gaia,Genderless,Alive
+448,Stacy,https://rickandmorty.fandom.com/wiki/Stacy,"['Morty Smith', 'Rick Sanchez', 'Toxic Rick', 'Toxic Morty']",Human,Earth (Replacement Dimension),Female,Alive
+449,Stair Goblins,https://rickandmorty.fandom.com/wiki/Stair_Goblins,[],unknown,unknown,Genderless,unknown
+450,Stealy,https://rickandmorty.fandom.com/wiki/Stealy,['Mr. Poopybutthole'],Poopybutthole,unknown,Male,Alive
+451,Steve (Mortyplicity),https://rickandmorty.fandom.com/wiki/Steve_(Mortyplicity),"['The President', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+452,Steven Phillips,https://rickandmorty.fandom.com/wiki/Steven_Phillips,"['Nippalians', 'Unity', 'Summer Smith', 'Morty Smith']",Alien,Unity's Planet,Male,Alive
+453,Steven Smith,https://rickandmorty.fandom.com/wiki/Steven_Smith,"['Memory Parasites', 'Leonard Smith', 'Joyce Smith', 'Jerry Smith', 'Unnamed Uncle', 'Beth Smith', 'Summer Smith', 'Morty Smith', 'Hemorrhage', 'Gwendolyn', 'Morty Jr.', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+454,Sticky,https://rickandmorty.fandom.com/wiki/Sticky,"['Naruto Smith', 'Sperm Queen', 'Morty Smith', 'Rick Sanchez', 'Jerry Smith', 'Beth Smith', 'Summer Smith']",unknown,Morty,Male,Alive
+455,Story Lord,https://rickandmorty.fandom.com/wiki/Story_Lord,"['Rick Sanchez', 'Morty Smith', 'Jesus Christ']",unknown,unknown,Genderless,unknown
+456,Stu,https://rickandmorty.fandom.com/wiki/Stu,"['Prince Nebulon', 'Rick Sanchez', 'Jerry Smith', 'Morty Smith']",Alien,unknown,Male,Dead
+457,Submarine Nazi,https://rickandmorty.fandom.com/wiki/Submarine_Nazi,['Mr. Beauregard'],unknown,unknown,Genderless,unknown
+458,Summer Smith,https://rickandmorty.fandom.com/wiki/Summer_Smith,"['Jerry Smith', 'Beth Smith', 'Morty Smith (Replacement Dimension)', 'Morty Smith', 'Naruto Smith', 'Leonard Smith', 'Joyce Smith', 'Unnamed Uncle', 'Rick Sanchez (Replacement Dimension)', 'Rick Sanchez', 'Diane Sanchez', ""Rick's Father"", 'Hemorrhage', 'Gwendolyn', 'Morty Jr.', 'Ethan', 'Frank Palicky', 'Toby Matthews', 'Nancy', 'Grace', 'Tricia Lange', 'Snuffles', 'Lucius Needful', 'Daphne', 'Tammy Guterman', 'Birdperson', 'Jacob Philip', 'Tiny Rick', 'Bruce Chutback', 'Summer Smith (Cronenberged dimension)']",Human,Earth (C-137),Female,Alive
+459,Summer Smith (304-X),https://rickandmorty.fandom.com/wiki/Summer_Smith_(304-X),"['Jerry Smith (304-X)', 'Beth Smith (304-X)', 'Morty Smith (304-X)', 'Summer Smith (C-132)', 'Rick Sanchez (C-132)', 'Morty Smith (C-132)', 'Morty Smith', 'Jerry Smith', 'Beth Smith']",Human,unknown,Genderless,unknown
+460,Summer Smith (C-132),https://rickandmorty.fandom.com/wiki/Summer_Smith_(C-132),"['Beth Smith (C-132)', 'Morty Smith (C-132)', 'Rick Sanchez (C-132)', 'Summer Smith', 'Mr. Poopybutthole', 'Rick Sanchez', 'Morty Smith', 'Jerry Smith', 'Beth Smith']",Human,unknown,Genderless,unknown
+461,Summer Smith (Cronenberged dimension),https://rickandmorty.fandom.com/wiki/Summer_Smith_(Cronenberged_dimension),"['Jerry Smith (Cronenberged dimension)', 'Morty Smith', 'Leonard Smith', 'Joyce Smith', 'Unnamed Uncle', 'Rick Sanchez', 'Diane Sanchez', ""Rick's Father"", 'Ethan', 'Frank Palicky', 'Summer Smith', 'Snuffles', 'Cronenberg Morty', 'Space Cruiser', 'Tammy Guterman', 'Nancy', 'Jacob Philip', 'Jerry Smith', 'Beth Smith']",Human,unknown,Genderless,unknown
+462,Summer Smith (Evil Rick's Target Dimension),https://rickandmorty.fandom.com/wiki/Summer_Smith_(Evil_Rick%27s_Target_Dimension),"[""Jerry Smith (Evil Rick's Target Dimension)"", ""Beth Smith (Evil Rick's Target Dimension)"", ""Morty Smith (Evil Rick's Target Dimension)"", ""Rick Sanchez (Evil Rick's Target Dimension)"", 'Summer Smith', 'Evil Rick Sanchez', 'Evil Morty']",Human,unknown,Genderless,unknown
+463,Summer Smith (Goldenfold's Dream),https://rickandmorty.fandom.com/wiki/Summer_Smith_(Goldenfold%27s_Dream),"['Mr. Goldenfold', 'Mrs. Pancakes', 'Morty Smith', 'Rick Sanchez']",Human,unknown,Genderless,unknown
+464,Summer's Boyfriend,https://rickandmorty.fandom.com/wiki/Summer%27s_Boyfriend,['Summer Smith'],Human,unknown,Genderless,unknown
+465,Summer's Girlfriend,https://rickandmorty.fandom.com/wiki/Summer%27s_Girlfriend,['Summer Smith'],Human,unknown,Genderless,unknown
+466,Supernova,https://rickandmorty.fandom.com/wiki/Supernova,"['Alan Rails', 'Million Ants', 'Noob-Noob', 'Vance Maximus', 'Revolio Clockberg, Jr.']",Human,unknown,Female,Alive
+467,Supreme Guard Ricks,https://rickandmorty.fandom.com/wiki/Supreme_Guard_Ricks,[],unknown,unknown,Genderless,unknown
+468,Taddy Mason,https://rickandmorty.fandom.com/wiki/Taddy_Mason,"['Rick Sanchez', 'Morty Smith']",Human,Earth (Replacement Dimension),Male,Alive
+469,Taint Washer,https://rickandmorty.fandom.com/wiki/Taint_Washer,"['Lord Henderfinger', 'Genital Washer', 'Morty Smith', 'Armothy']",Human,Post-Apocalyptic Earth,Male,Alive
+470,Talking Cat,https://rickandmorty.fandom.com/wiki/Talking_Cat,"['Jerry Smith', 'Rick Sanchez', 'Balthromaw']",Animal,unknown,Male,Alive
+471,Tammy Guterman,https://rickandmorty.fandom.com/wiki/Tammy_Guterman,"['Jerry Smith', 'Birdperson', 'Pat Guterman', 'Donna Guterman', ""Birdperson's Daughter"", 'Summer Smith', 'Mr. Meeseeks', 'Rick Sanchez', 'Brad', 'Morty Smith', 'Squanchy']",unknown,unknown,Genderless,unknown
+472,Task Force Alpha,https://rickandmorty.fandom.com/wiki/Task_Force_Alpha,['The President'],unknown,unknown,Genderless,unknown
+473,Teacher Rick,https://rickandmorty.fandom.com/wiki/Teacher_Rick,"['Rick Sanchez', 'Lizard Morty', 'Slick Morty', 'Glasses Morty', 'Slow Rick', 'Maximums Rickimus']",Human,unknown,Male,Alive
+474,Terry,https://rickandmorty.fandom.com/wiki/Terry,"['Scary Terry', 'Cromulons']",Human,Earth (Replacement Dimension),Male,unknown
+475,Terryfolds,https://rickandmorty.fandom.com/wiki/Terryfolds,[],unknown,unknown,Genderless,unknown
+476,The Garage,https://rickandmorty.fandom.com/wiki/The_Garage,"['Rick Sanchez', 'Space Cruiser', 'Summer Smith', 'Morty Smith', 'Jessica']",unknown,unknown,Genderless,unknown
+477,The Little Girl,https://rickandmorty.fandom.com/wiki/The_Little_Girl,"['Centaur', 'Mrs. Pancakes', 'Mr. Goldenfold', 'Scary Terry']",unknown,unknown,Genderless,unknown
+478,The One True Morty,https://rickandmorty.fandom.com/wiki/The_One_True_Morty,"['Morty Smith', 'Evil Rick Sanchez']",unknown,unknown,Genderless,unknown
+479,The President,https://rickandmorty.fandom.com/wiki/The_President,"['General Nathan', 'Cromulons', 'Rick Sanchez', 'Morty Smith', 'Water-T', 'Snuffles', 'Naruto Smith']",unknown,unknown,Genderless,unknown
+480,The President of the Miniverse,https://rickandmorty.fandom.com/wiki/The_President_of_the_Miniverse,"['Zeep Xanflorp', 'Chris (The Ricks Must Be Crazy)', 'Kyle', 'Rick Sanchez']",Humanoid,Zeep Xanflorp's Miniverse,Male,Dead
+481,The Scientist Formerly Known as Rick,https://rickandmorty.fandom.com/wiki/The_Scientist_Formerly_Known_as_Rick,"['Council of Ricks', 'Rick Sanchez', 'Evil Rick Sanchez', 'Evil Morty']",Human,unknown,Male,Dead
+482,Thomas Lipnip,https://rickandmorty.fandom.com/wiki/Thomas_Lipnip,"[""Tommy's Clone"", 'Joseph Lipnip', 'Mrs. Lipnip', 'Beth Smith', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+483,Three Unknown Things,https://rickandmorty.fandom.com/wiki/Three_Unknown_Things,"['Piece of Toast', 'Two Guys with Handlebar Mustaches', 'Man Painted Silver Who Makes Robot Noises', 'Garmanarnar', 'Hole in the Wall Where the Men Can See it All', 'Bobby Moynihan']",Alien,unknown,Genderless,Alive
+484,Ticktock,https://rickandmorty.fandom.com/wiki/Ticktock,"['Gaia', 'Reggie', 'Florflok', 'Squeeb', 'Rick Sanchez', 'Beth Smith', 'Jerry Smith']",Humanoid,Gaia,Genderless,unknown
+485,Time Bird,https://rickandmorty.fandom.com/wiki/Time_Bird,[],unknown,unknown,Genderless,unknown
+486,Tina-Teers,https://rickandmorty.fandom.com/wiki/Tina-Teers,"['Eddie', 'Xing Ho', 'Planetina', 'Morty Smith']",unknown,unknown,Genderless,unknown
+487,Tinkles,https://rickandmorty.fandom.com/wiki/Tinkles,['Memory Parasites'],Alien,unknown,Female,Dead
+488,Tiny Rick,https://rickandmorty.fandom.com/wiki/Tiny_Rick,"['Rick Sanchez', 'Morty Smith', 'Coach Feratu']",Human,Earth (Replacement Dimension),Male,Dead
+489,Toby Matthews,https://rickandmorty.fandom.com/wiki/Toby_Matthews,"['Summer Smith', 'Tiny Rick', 'Ethan']",Human,Earth (Replacement Dimension),Male,Alive
+490,Todd Crystal,https://rickandmorty.fandom.com/wiki/Todd_Crystal,"['Nippalians', 'Unity']",Alien,Unity's Planet,Male,Alive
+491,Tommy's Clone,https://rickandmorty.fandom.com/wiki/Tommy%27s_Clone,"['Thomas Lipnip', 'The Garage', 'Joseph Lipnip', 'Mrs. Lipnip', 'Beth Smith', 'Rick Sanchez']",Human,Earth (Replacement Dimension),Male,Alive
+492,Tony's Wife,https://rickandmorty.fandom.com/wiki/Tony%27s_Wife,['Rick Sanchez'],unknown,unknown,Genderless,unknown
+493,Tophat Jones,https://rickandmorty.fandom.com/wiki/Tophat_Jones,[],Mythological Creature,unknown,Male,Dead
+494,Tortured Mortys,https://rickandmorty.fandom.com/wiki/Tortured_Mortys,"['Evil Rick Sanchez', 'Morty Smith', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+495,Tough Rat,https://rickandmorty.fandom.com/wiki/Tough_Rat,['Rick Sanchez'],unknown,unknown,Genderless,unknown
+496,Toxic Morty,https://rickandmorty.fandom.com/wiki/Toxic_Morty,"['Toxic Rick', 'Morty Smith', 'Rick Sanchez', 'Healthy Rick']",Humanoid,Detoxifier,Male,Dead
+497,Toxic Rick,https://rickandmorty.fandom.com/wiki/Toxic_Rick,"['Toxic Morty', 'Rick Sanchez', 'Healthy Rick', 'Morty Smith', 'Stacy', 'Space Cruiser']",Humanoid,Detoxifier,Male,Dead
+498,Traflorkians,https://rickandmorty.fandom.com/wiki/Traflorkians,"['Rick Sanchez', 'Dr. Glip-Glop', 'Jerry Smith']",unknown,unknown,Genderless,unknown
+499,Trandor,https://rickandmorty.fandom.com/wiki/Trandor,"['Kiara', 'Morty Smith']",Alien,Krootabulon,Male,Alive
+500,Tricia Lange,https://rickandmorty.fandom.com/wiki/Tricia_Lange,"['Ethan', 'Summer Smith', 'Morty Smith', 'Jessica', 'Holly Hooks', 'Brad', 'Nancy', 'Jerry Smith', 'Tammy Guterman']",Human,Earth (Replacement Dimension),Female,Alive
+501,Trunk Morty,https://rickandmorty.fandom.com/wiki/Trunk_Morty,"['Trunk People', 'Morty Smith', 'Evil Morty', 'Crystallized Morty', 'Michael Denny and the Denny Singers']",Humanoid,Trunk World,Male,Alive
+502,Trunk People,https://rickandmorty.fandom.com/wiki/Trunk_People,"['Trunk Morty', 'Morty Smith']",unknown,unknown,Genderless,unknown
+503,Truth Tortoise,https://rickandmorty.fandom.com/wiki/Truth_Tortoise,"['Rick Sanchez', 'Morty Smith']",Mythological Creature,unknown,Male,unknown
+504,Tumblorkians,https://rickandmorty.fandom.com/wiki/Tumblorkians,['Shrimply Pibbles'],unknown,unknown,Genderless,unknown
+505,Tusked Assassin,https://rickandmorty.fandom.com/wiki/Tusked_Assassin,"['Risotto Groupon', 'Rick Sanchez', 'Jerry Smith', 'Gibble Snake']",Alien,Resort Planet,Male,unknown
+506,Two Crows,https://rickandmorty.fandom.com/wiki/Two_Crows,"['Crowscare', 'Rick Sanchez', 'Morty Smith']",Animal,Earth (Replacement Dimension),Genderless,Alive
+507,Two Guys with Handlebar Mustaches,https://rickandmorty.fandom.com/wiki/Two_Guys_with_Handlebar_Mustaches,"['Piece of Toast', 'Man Painted Silver Who Makes Robot Noises', 'Garmanarnar', 'Three Unknown Things', 'Hole in the Wall Where the Men Can See it All', 'Bobby Moynihan']",Human,unknown,Male,Alive
+508,Unity,https://rickandmorty.fandom.com/wiki/Unity,"['Rick Sanchez', 'Beta-Seven', 'Morty Smith', 'Nippalians']",Alien,unknown,Genderless,Alive
+509,Unmuscular Michaels,https://rickandmorty.fandom.com/wiki/Unmuscular_Michaels,[],unknown,unknown,Genderless,unknown
+510,Unnamed Uncle,https://rickandmorty.fandom.com/wiki/Unnamed_Uncle,"['Joyce Smith', 'Steven Smith', 'Jerry Smith', 'Beth Smith', 'Summer Smith', 'Morty Smith', 'Hemorrhage', 'Gwendolyn', 'Morty Jr.']",unknown,unknown,Genderless,unknown
+511,Vampire Master,https://rickandmorty.fandom.com/wiki/Vampire_Master,['Coach Feratu'],Mythological Creature,Earth (Replacement Dimension),Male,Alive
+512,Vance Maximus,https://rickandmorty.fandom.com/wiki/Vance_Maximus,"['Morty Smith', 'Worldender']",Human,unknown,Male,Dead
+513,Ventriloquiver,https://rickandmorty.fandom.com/wiki/Ventriloquiver,[],Humanoid,Plitzville Montana,Female,Alive
+514,Vermigurber,https://rickandmorty.fandom.com/wiki/Vermigurber,[],Alien,unknown,Male,Alive
+515,Visor Rick,https://rickandmorty.fandom.com/wiki/Visor_Rick,"['Rick Sanchez', 'Morty Smith', 'Council of Ricks']",Human,unknown,Male,Dead
+516,Voltamatron,https://rickandmorty.fandom.com/wiki/Voltamatron,['Morty Smith'],unknown,unknown,Genderless,unknown
+517,Vulvorvians,https://rickandmorty.fandom.com/wiki/Vulvorvians,['Rick Sanchez'],unknown,unknown,Genderless,unknown
+518,Warlord of Titan,https://rickandmorty.fandom.com/wiki/Warlord_of_Titan,"['Morty Smith', 'Summer Smith', 'Beth Smith', 'Rick Sanchez', 'Jerry Smith', 'Warlord of Titan']",unknown,unknown,Genderless,unknown
+519,Wasp Rick,https://rickandmorty.fandom.com/wiki/Wasp_Rick,"['Rick Sanchez', 'Mr. Goldenfold (Wasp Universe)', 'Hologram Rick']",Animal,Earth (Wasp Dimension),Male,Alive
+520,Water-T,https://rickandmorty.fandom.com/wiki/Water-T,"['Helium-Q', 'Cromulons', 'The President', 'Rick Sanchez', 'Morty Smith', 'Numbericons']",unknown,unknown,Genderless,unknown
+521,Wedding Bartender,https://rickandmorty.fandom.com/wiki/Wedding_Bartender,"['Tammy Guterman', 'Birdperson', 'Rick Sanchez', 'Morty Smith']",Alien,unknown,Male,unknown
+522,Weird Rick,https://rickandmorty.fandom.com/wiki/Weird_Rick,"['Diane Sanchez', 'Rick Sanchez', 'Beth Sanchez (C-137)', 'Morty Smith']",unknown,unknown,Genderless,unknown
+523,Western Morty,https://rickandmorty.fandom.com/wiki/Western_Morty,"['Council of Ricks', 'Western Rick', 'Morty Smith', 'Rick Sanchez']",unknown,unknown,Genderless,unknown
+524,Western Rick,https://rickandmorty.fandom.com/wiki/Western_Rick,"['Council of Ricks', 'Western Morty', 'Rick Sanchez', 'Morty Smith', 'Salesman Rick', 'Afro Rick']",unknown,unknown,Genderless,unknown
+525,Wharborgarbors,https://rickandmorty.fandom.com/wiki/Wharborgarbors,"['Morty Smith', 'Abrodolph Lincoler']",unknown,unknown,Genderless,unknown
+526,Woman Rick,https://rickandmorty.fandom.com/wiki/Woman_Rick,"['Rick Sanchez', 'Morty Smith', 'Council of Ricks']",Alien,unknown,Female,Alive
+527,Worldender,https://rickandmorty.fandom.com/wiki/Worldender,"['Vance Maximus', 'Rick Sanchez']",Alien,unknown,Male,Dead
+528,Xing Ho,https://rickandmorty.fandom.com/wiki/Xing_Ho,"['Planetina', 'Morty Smith', 'Eddie']",Human,Earth (Replacement Dimension),Female,Dead
+529,Xorjhans,https://rickandmorty.fandom.com/wiki/Xorjhans,[],unknown,unknown,Genderless,unknown
+530,Yaarb,https://rickandmorty.fandom.com/wiki/Yaarb,"['Shrimply Pibbles', 'Jerry Smith']",Alien,unknown,Male,Alive
+531,Yellow Headed Doctor,https://rickandmorty.fandom.com/wiki/Yellow_Headed_Doctor,['Shrimply Pibbles'],Alien,unknown,Male,Alive
+532,Yellow Shirt Rick,https://rickandmorty.fandom.com/wiki/Yellow_Shirt_Rick,"['Blue Shirt Morty', 'Rick Sanchez', 'Morty Smith', 'Council of Ricks']",Human,unknown,Male,unknown
+533,Zarbadar Gloonch,https://rickandmorty.fandom.com/wiki/Zarbadar_Gloonch,"['Gar Gloonch', 'Unity']",Alien,unknown,Female,Dead
+534,Zarbadar's Mytholog,https://rickandmorty.fandom.com/wiki/Zarbadar%27s_Mytholog,"['Gar Gloonch', 'Zarbadar Gloonch']",Mythological Creature,Nuptia 4,Female,unknown
+535,Zeep Xanflorp,https://rickandmorty.fandom.com/wiki/Zeep_Xanflorp,"['Rick Sanchez', 'Chris (The Ricks Must Be Crazy)', 'Space Cruiser', 'Kyle', 'Chris']",Humanoid,Rick's Battery Microverse,Male,Alive
+536,Zerillians,https://rickandmorty.fandom.com/wiki/Zerillians,['Jerry Smith'],unknown,unknown,Genderless,unknown
+537,Zeta Alpha Rick,https://rickandmorty.fandom.com/wiki/Zeta_Alpha_Rick,"['Council of Ricks', 'Rick Sanchez', 'Rick Prime', 'Maximums Rickimus', 'Quantum Rick', 'Riq IV', 'Ricktiminus Sancheziminius', 'The Scientist Formerly Known as Rick', 'Evil Rick Sanchez', 'Morty Smith', 'SEAL Team Ricks']",Human,unknown,Male,Dead
+538,Jerry Smith,https://rickandmorty.fandom.com/wiki/Jerry_Smith,"['Beth Smith', 'Summer Smith', 'Morty Smith (Replacement Dimension)', 'Morty Smith', 'Morty Jr.', 'Naruto Smith', 'Rick Sanchez (Replacement Dimension)', 'Rick Sanchez', 'Diane Sanchez', ""Rick's Father"", 'Hemorrhage', 'Gwendolyn', 'Leonard Smith', 'Joyce Smith', 'Unnamed Uncle', 'Sleepy Gary', 'Kiara', 'Jerry Smith (Cronenberged dimension)', 'Mr. Meeseeks', 'King Flippy Nips', 'Plutonian', 'Risotto Groupon', 'Tammy Guterman', 'Ethan', 'Doofus Rick', 'Shrimply Pibbles']",Human,Earth (C-137),Male,Alive

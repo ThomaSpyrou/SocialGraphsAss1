@@ -1,162 +1,163 @@
+{{SimilarName|the episode "Pickle Rick"|[[Pickle Rick (Character)|the character]] or [[The Pickle Rick (Game)|the game]]}}
 {{Episode
-|image = S3e4 ready to go.png
+|name = Pickle Rick
+|image = Pickle Rick Episode.jpg
 |season number = 3
-|episode = 4
-|airdate = August 13, 2017 (United States)<br>April 21, 2019 (Canada)
-|writer = [[Sarah Carbiener]]<br>[[Erica Rosbe]]
-|director = [[Bryan Newton]]
-|ratings = 2.66<ref>{{Cite web |url=http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-aug-13-2017/ |title=Sunday cable ratings: ‘Game of Thrones’ scores another series high |work=[[TV by the Numbers]] |last=Porter |first=Rick |date=August 15, 2017 |accessdate=August 15, 2017 |url-status=live |archiveurl=https://web.archive.org/web/20170815222212/http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-aug-13-2017/ |archivedate=August 15, 2017}}</ref>
-|code = 304
-|prev = [[Pickle Rick]]
-|next = [[The Whirly Dirly Conspiracy]]}}"'''Vindicators 3: The Return of Worldender'''" is the fourth episode of the [[Season 3|third season]] of ''[[Rick and Morty (TV series)|Rick and Morty]]''. It is the 25th episode of the series overall. It premiered on August 13, 2017. It was written by [[Sarah Carbiener]] & [[Erica Rosbe]] and directed by [[Bryan Newton]]. The episode is rated TV-MA LV.
+|episode = 3
+|airdate = August 6, 2017 (United States)<br>April 14, 2019 (Canada)
+|writer = [[Jessica Gao]]
+|director = [[Anthony Chun]]
+|ratings =2.31<ref>{{Cite web |url=http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-aug-6-2017/ |title=Sunday cable ratings: 'Sharknado 5' lacks bite, 'Game of Thrones' hits total-viewer high |work=TV by the Numbers |last=Porter |first=Rick |date=August 8, 2017 |accessdate=August 8, 2017 |url-status=live |archiveurl=https://web.archive.org/web/20170808224152/http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-aug-6-2017/ |archivedate=August 8, 2017}}</ref>
+|prev = [[Rickmancing the Stone]]
+|next = [[Vindicators 3: The Return of Worldender]]
+|code = 303}} 
+"'''Pickle Rick'''" is the third episode of the [[Season 3|third season]] of ''[[Rick and Morty (TV series)|Rick and Morty]]''. It is the 24th episode of the series overall. It premiered on August 6, 2017. It was written by [[Jessica Gao]] and directed by [[Anthony Chun]]. The episode is rated TV-14 LV.
 
-==Synopsis==
-While ostensibly helping a group of superheroes called the Vindicators, Rick instead drunkenly sets up a "Saw"-like scenario for them to navigate.
+== Synopsis ==
+Rick turns himself into a pickle while the rest of the family goes to therapy. Now Rick has to figure out how to stop being a pickle.
 
-==Plot==
-Rick and Morty start off in the garage cleaning up multiple worm-like creatures that Rick states cannot be allowed to get into the food chain. A crystal on the shelf starts to glow and Morty points out that it is [[the Vindicators]] calling to help save the universe again for what appears to be the second time. Rick outright refuses to answer an actual [[wikipedia:Hero's_journey#The_Call_to_Adventure|call to adventure]], but ultimately relents because Morty brings up the fact that he gets to pick every tenth adventure.
-[[file:S3e4 explain worldender.png|thumb|Supernova briefs all on Worldender.]]
+== Plot ==
+[[file:S3e3 beth knows whatsup.png|thumb|left|Guess you won't be needing this then.]]
+Morty is preparing himself for a school-advised therapy session in the bathroom when he hears Rick's voice. He follows the voice to the garage to find that Rick has turned himself into a pickle "because he could." Beth and Summer appear and notice Rick's pickle status as well. Morty suspects that Rick did this to avoid going to the therapy session, noticing a dangling syringe rigged to inject Rick the moment the others leave. Rick denies the idea of getting out of going and claims the syringe to be irrelevant. In response, Beth removes the syringe, puts it in her purse, and leaves with her children.
 
-Rick and Morty are then seen sitting at a conference table getting briefed by [[Supernova]] on the threat of [[Worldender]]. Rick ends up heckling them at first then introduces every member of the Vindicators there except for [[Vance Maximus]] Renegade Star Soldier, who then shows up and seemingly charms everyone except Rick. 
+Now alone on the table, Rick starts making random sounds when a cat named Izzy appears. Rick tells the cat to back off stating that he has seen Youtube videos with cats attacking pickles because cats are afraid of snakes and think pickles are snakes. The cat knocks Rick over, pushing him outside of the garage and exposing Rick to the sun. Rick grudgingly states how dying in a pickle-form from the heat is the mega-genius equivalent of dying on the toilet. Fortunately, a timely rain shower saves him from that fate.
 
-It is then revealed that this is actually the third time the Vindicators had assembled and that they didn't invite Rick and Morty the second time due to a "personality conflict" with Rick and the rest of the Vindicators, which resulted in the deaths of three members of the Vindicators ([[Lady Katana]], [[Calypso]], and [[Diablo Verde]]).
+[[file:S3e3 rick falling into sewer.png|thumb|Rick falls into the sewers.]]
 
-[[file:S3e4 diarrhea everywhere.png|thumb|left|Rick on the conference room table.]]
+However, the resulting rush of water flushes Rick into the sewer drain forcing him to survive in the sewers. Rick creates a bit of pickle juice and lures a cockroach towards him. The cockroach is killed by Rick with a bite to the head and he removes part of the cockroach's head. Rick uses the brain of the cockroach to propel himself forward.
 
-Rick then gets blackout drunk and we next see him pantsless and having gotten diarrhea all over the conference table the following morning. This mess is left to be cleaned up by [[Noob Noob]] instead of him going on the mission with the rest of the Vindicators. Then, Vance gives Morty a Vindicators vest as to symbolize he is a welcomed member of the Vindicators.
+At the counseling office, we learn that the therapy session has been advised by the school, for Summer huffing pottery enamel and Morty wetting his pants in class, both believed to be signs of protesting their parents' divorce. Mr. Goldenfold runs into them on his way out: he was in for eating poop and asks the others if they're in for the same. Beth, Summer, and Morty are greeted by Dr. Wong, the therapist, and their therapy session begins. Beth talks about how Rick couldn't attend and how he is a genius. Morty blurts out that Rick turned himself into a pickle. Dr. Wong uses this idea to start a discussion about why Rick turned himself into a pickle.
 
-[[file:S3e4 ta da.png|thumb|Rick easily bypasses the machine guns.]]
+[[file:S3e3 rick set up.png|thumb|left|"OH YEAH!" Rick's disgusting suit of rats parts.]]
 
-Inside Worldender's base, the Vindicators get through the traps, then into Worldender's main room. It is then revealed that Worldender is already dying/dead and Rick then tries to leave with Morty. But then, all of the Vindicators are trapped inside of the room, as set up by Rick when he was blackout drunk. It is revealed that "Drunk Rick" set up a Saw-like sequence where the Vindicators are forced to play games to survive or they all die.
+Rick is seen cutting a sewer grate using a makeshift exo-suit of decapitated roaches. As he is pondering his next move (to a sewer line), a sewer rat appears and tries to attack Rick. Rick uses an elaborate trap to decapitate the unwary rodent. Rick then taunts the other rats that arrived and puts the dead rat's head on top of another contraption, creating a rat version of an exo-suit. The sewer bars break open with the rats pouring in and Rick begins to kill every rat in sight with various small items, including screws and box-cutters.
 
-[[file:S3e4 triggered.png|thumb|left|Vance, angered about getting Sawed]]
+[[file:S3e3 Mooom.png|thumb|"MOM!" Beth continues to be both in denial and uncooperative.]]
 
-Following a nervous breakdown, Vance then attempts to escape, only to be shot, burned and bisected in the ventilation system in a gruesome death. Morty then solves the puzzle, matching the Vindicators with Rick's opinion of them: Unoriginal.
+Inside the counseling office, Beth talks about how Rick is important. Summer replies back and says how Rick lied and turned himself into a pickle avoid the counseling session. Beth yells that Rick did not. Dr. Wong notices how the use of science is a common form of communication for the family and discusses this. Dr. Wong asks what could be inside the syringe with them replying it's a liquid that can change Rick back into a human. Beth disagrees and gets angry. She flips out and delivers f-bombs to both Dr. Wong and the siblings.
 
-[[File:S3e4 dorian 5.png|thumb|Crocubot picks out Dorian 5.]]
-In the next room, Drunk Rick asks the Vindicators to locate a place they would never mention. [[Crocubot]] then goes to the hologram map of the universe to point out [[Dorian 5]]. However, he is wrong and crushed to death. Dorian 5 is revealed to have been a planet destroyed (along with its populace) by the Vindicators to defeat Doom-nometron, a shapeshifter hiding on the planet during the Vindicators 2 mission. Rick stated that if they just brought him along, he could have created a machine to find Doom-nometron in a second. Morty then goes up to the map and locates Israel, the correct answer, as Morty knows that when Rick is blackout drunk, he rants about the United Nations and defense budgets, to which Rick defends isn't because he's anti-semitic.
+[[file:S3e3 hero pose.png|thumb|left|Rick lands in the hero pose.]]
 
-[[File:S3e4_more_death.png|thumb|left|A domestic argument.]]
+Rick has just killed the largest and toughest rat and enters the sewer pipe using rockets. He lands out of a toilet and exultantly yells, "PICKLE RIIICK!" He leaves the men's bathroom and begins to search for an exit. He stumbles upon an elevator and moves some nearby objects to allow himself to parkour towards the elevator door button.
 
-In the next room they need to make 5 three-pointers in 5 minutes or else a neutrino bomb will blow up the planet. Morty goes to defuse the bomb, which is revealed to happen a lot more than Rick knew about, while the Vindicators work on scoring three-pointers. During this, Supernova, [[Million Ants]], and [[Alan Rails]] discuss how Supernova and Alan were previously married, and how Supernova cheated on Alan with Million Ants. Alan and Million Ants then begin to fight, Supernova then suspends them in the air and Million Ants kills Alan. Rick makes a smart remark which is the final straw for Supernova who decides to arrest both Rick and Morty.
+[[file:S3e3 recycling shaming.png|thumb|A pickle shames them for not recycling.]]
 
-[[File:S3e4_complaining_about_morty_and_vins.png|thumb|Rick's final monologue.]]
+Rick is approached by some agents who speak Russian and begin shooting Rick. Rick runs into a room and starts building weapons with office supplies. Rick taunts the Agency Director of the building while killing all the agents using traps bombs and a laser gun. The Agency Director uses a last resort method and calls upon a captured fighter named [[Jaguar]] to kill Rick.
 
-In the final room, Drunk Rick asks for something he believes the Vindicators have that he wants. It is assumed Drunk Rick is talking about Morty because the Vindicators are heroes to Morty-- and Rick isn't. So Morty steps on the platform and he is taken down into a ride in which it seems Drunk Rick is expressing his love for Morty as his grandson. However, it is revealed the ride was intended for Noob Noob, simply because he laughed at Rick's jokes about the Vindicators while Morty was caught up in hero worship.
+Back in therapy, Dr. Wong asks what is in the syringe with Beth replying that Dr. Wong should say it, while the siblings say it is anti-pickle serum. Dr. Wong talks about the serum with Beth cutting her off. Beth talks about how the session is supposed to be about the siblings being angry that she divorced Jerry. Morty starts to notice interesting features of the therapy room, particularly how there is a book displaying people eating feces. Dr. Wong says she isn't going to take sides and states that Beth admires Rick. Beth blatantly says it is better than making other peoples' problems, which Dr. Wong questions if that is the reason she looks up to him.
 
-[[File:S3e4_brutality.png|thumb|left|Supernova betrays [[Million Ants|Snuzzles]]]]
+[[file:S3e3 staple pickle.png|thumb|left|"OW" Rick staples on a pickle slice to treat his wound.]]
 
-Morty gets back out of the ride (with a look of disgust), and the platform they are on begins to rise. Supernova then goes to kill Rick and Morty for the deaths Drunk Rick caused, to which Million Ants tries to convince Supernova not to do it, only to be killed himself by Supernova.
+Rick and Jaguar begin fighting, leading to them both becoming wounded and treating their injuries, leading to them both talking about their motives. Rick proceeds to destroy all the cameras while fighting Jaguar. The Agency Director receives a call from Rick, saying "Jaguar couldn't make it", with Rick remarking that he'll hunt down the Agency Director. The Agency Director offers 100 million dollars in bonds but Rick demands it be given to Jaguar's daughter when she's set free. The Agency Director says she's dead, and Rick refuses to reason with the Agency Director, who then kills the two remaining guards and flees to the roof to get to a helicopter.
 
-Before Supernova can do the same to Rick and Morty, the platform reaches a party with music star [[Logic]] singing a rap song about the Vindicators. Supernova gets away, and when Morty points it out, Rick dismissively says that 20 people try to kill him a week, and he ends up getting high with half of them, pointing out that [[Gearhead]] is there. The latter who takes Morty's Vindicators vest when Morty discards it. Beth and Summer are also at the party along with other previously seen characters. 
+[[file:S3e3 look up defeated.png|thumb|The director looks up defeated.]]
 
-[[File:S3e4_dabbing_im_dying.png|thumb|Logic hits the dab and it's kek, poggers and wholesome 100]]
+The helicopter flies away with Jaguar steering it and Rick, using a cigarette, creates an explosion that kills the Agency Director. Jaguar and Rick talk about their families, to which Jaguar ends by leaving. Jaguar is seen in a comic style flash ending.
 
-At that point Logic mentions Noob Noob in the rap song, to which Rick asks "Who the fuck is Noob Noob?", causing Morty to show another unpleasant look.
+The family is seen using simple sentences to describe what they currently want: Summer and Morty admit that Summer's sniffing enamel and Morty's desk wetting have nothing to do with the divorce: one is just for getting high and the other is a mere accident.
 
-In the post-credits scene, Gearhead is seen with the Vindicators vest trying to pick up some (possible) college girls, But then when an alien terrorist attack strikes, he goes down an alleyway to ditch the vest and run away, before he trips on a pile of gears and is dismantled.
- 
+[[file:S3e3 wong explains.png|thumb|left|The wonderful Dr. Wong lays down some facts.]]
 
+Rick appears, badly injured, and joins them, asking Beth for the serum that will, indeed, turn him back into a human. Rick says he turned himself into a pickle because he doesn't respect therapy, and therefore, didn't want to go, claiming therapy is for boring people and he does not need it. Dr. Wong agrees that going to therapy, or rather taking the time to repair relationships with your family, is boring, but boring in the way that brushing your teeth or going to the bathroom is not an adventure: there's no way to do it in a way that you can die, it is just about putting in work, and that perhaps some people would rather die than put in the work. Rick has no retort to this, and the session ends.
 
- 
+[[file:S3e3 truly awful parental units.png|thumb|Summer and Morty are ignored by some truly terrible parents.]]
+
+On the ride home, Rick apologizes to Beth for lying to her and Beth responds by injecting him with the syringe, finally turning him back into a human. Rick and Beth plan to go get a drink after dropping the siblings off while ignoring Summer and Morty asking if they'll ever go back to therapy.
+
+In the post-credits scene, Rick and Morty are tied up on a giant piano and are about to be killed by Concerto. Rick says how he is sorry for getting Morty into this situation and believes that they will definitely die. Unpredictably, Jaguar appears, kills Concerto, and leaves. Morty asks who that was and Rick replies, "That Morty, is why you don't go to therapy".
 
 ==Cast and characters==
 {| cellspacing="1" cellpadding="1" style="width:100%;"
 | valign="top" width="50%"| '''Main Cast'''
-*[[Justin Roiland]] as [[Rick Sanchez]] / [[Morty Smith]] / [[Noob Noob]] / PA System
-*[[Spencer Grammer]] as [[Summer Smith]] / Gear Person #1
-*[[Sarah Chalke]] as [[Beth Smith]] / Gear Person #2
+*[[Justin Roiland]] as [[Rick Sanchez]] / [[Morty Smith]] / [[Pickle Rick (character)|Pickle Rick]]
+*[[Chris Parnell]] as Agent
+*[[Spencer Grammer]] as [[Summer Smith]]
+*[[Sarah Chalke]] as [[Beth Smith]]
+
+
+
 
 
 
 
 '''Non-speaking characters'''
-* [[Worldender]]
-* [[Lady Katana]]<sup>(mentioned)</sup>
-* [[Calypso]]<sup>(mentioned)</sup>
-* [[Diablo Verde]]<sup>(mentioned)</sup>
-* Doomnomitron<sup>(mentioned)</sup>
-* [[Nancy]]
-* [[MC Haps]]
-*[[Grace Smith]]
-* [[Stair Goblins]]
+* [[Izzy]]
+* [[Beth Smith (C-137)]]<sup>(mentioned)</sup>
+* [[Jerry Smith]]<sup>(mentioned)</sup>
+* [[Katarina]]<sup>(mentioned)</sup>
+* [[Gene Vagina]]<sup>(mentioned)</sup>
 | valign="top" width="50%"| '''Guest Starring'''
 
-*Gillian Jacobs as [[Supernova]]
-*Christian Slater as [[Vance Maximus]]
-*Logic (Bobby Hall) as [[Logic]]
-*Lance Reddick as [[Alan Rails]]
+*Susan Sarandon as [[Dr. Wong]]
+*Peter Serafinowicz as [[Agency director|Agency Director]]
+*Danny Trejo as [[Jaguar]]
+
+
+
 
 
 
 
 '''Starring'''
-*Scott Chernoff as [[Gearhead]]
-*Tom Kenny as [[Million Ants]]
-*Maurice Lamarche as [[Crocubot]]
+*[[Brandon Johnson]] as [[Mr. Goldenfold]]
+*[[Ryan Ridley]] as [[Concerto]]
 |}
 
 ==Deaths==
-* [[Worldender]]
-* Worldender's minions
-* [[Maximus Renegade Starsoldier]]
-* [[Crocubot]]
-*Fleeb like alien 
-* [[Alan Rails]]
-*unidentified human bones and other species 
-* [[Million Ants]]
+* [[Katarina]] (Confirmed fate)
+* Several Roaches
+* Many Rats
+* [[Rat Boss]]
+* Many unnamed agents
+* [[Agency director|Agency Director]]
+* [[Concerto]]
+*Three unnamed people 
 
 ==Episode notes==
 ===Trivia===
-*This is one of the two episodes of Rick and Morty to be rated '''TV-MA''' from the FCC, the other being [[Interdimensional Cable 2: Tempting Fate]]. This is because the word 'fuck' was often used in the episode.
-*This episode was the worst episode in Dan Harmon's opinion.
-*In celebration of [[season 3]], [[Pocket Mortys|Pocket Mortys']] weekly updates will coincide with new episodes, including new avatars for players to collect.<ref>{{cite web |url=http://nerdist.com/pocket-mortys-rick-and-morty-season-3-episodic-updates/ |title=POCKET MORTYS Will Get Updates for Every RICK AND MORTY Season 3 Episode |last=Rossignol |first= Derrick |date=July 5, 2017 |website= Nerdist.com|publisher= Nerdist|access-date= July 6, 2017}}</ref> With the release of this episode came: Sherlock Rick, [[Noob-Noob]], Hawaiian Summer, and Hawaiian Rick as [[List_of_Pocket_Mortys_trainers_and_NPCs#Custom_avatars|avatars]], and Vindicator Morty, Federation Prisoner Morty, Hawaiian Morty, Sherlock Morty, Prisoner Morty, and Felon Morty to catch.
-*Rick is referred to here as Rick Sanchez: Tinkerer of Terror.
-*At one point in episode production, Million Ants had a sidekick: "Three More Ants"<ref>{{cite web |title= Tweet Number 897229912666329088 |url= https://twitter.com/danguterman/status/897229912666329088 |author= (((guterman))) |date= 14 August 2017|accessdate= 14 August 2017 |quote= TRIVIA: "At one point I pitched Million Ants have a sidekick: Three More Ants. It was in the script for a spell bu…" |work= Twitter }}</ref>
-*It is implied that all members of The Vindicators have 5 commonalities; they don't play well with others, their individual super power is a burden to themselves, they use their power responsibly (which is shown to not be the case by the end of the episode), they never give up, and they have a tragic origin.
-*Rick's epidermis is laced with a nano-fiber defense mesh, able to repel individuals away from himself.
-*In the scene where the Vindicators discover Worldender and his minions all massacred after Drunk Rick had annihilated them the night before, the minions' bodies can actually be seen arranged in various sex positions, most likely due to the twisted and disturbed nature of Rick in his drunken stupor. Among these positions are the missionary position, the 69, and doggy style.
-*The show guest starred rapper Robert Hall (known by his stage name '''Logic''') who performed a song dedicated to Noob Noob during the final scene and end credits.
-*Vindicators were assembled for the third time this episode. The first time was "some summer" (possibly 2014 or 2015 when Season 1 and Season 2 aired) while the second time was "last summer" which was in 2016 when Rick and Morty didn't air. The fact that Rick and Morty weren't invited to Vindicators 2 might be a nod to it.
-*During the livestream of this episode's premiere, instead of airing the actual episode, they had a few employees do a live reading of the episode while re-enacting the scene. The stream was meant as a jab to people who watched the episodes on stream instead of on TV, going as far as the person acting as Rick to refer to them as 'freeloaders'.
-*In this episode [[Justin Roiland]] actually got drunk in the booth to properly portray Drunk Rick. It was stated that it was the most unproductive day they've ever had.
+*In celebration of [[season 3]], [[Pocket Mortys|Pocket Mortys']] weekly updates will coincide with new episodes, including new avatars for players to collect.<ref>{{cite web |url=http://nerdist.com/pocket-mortys-rick-and-morty-season-3-episodic-updates/ |title=POCKET MORTYS Will Get Updates for Every RICK AND MORTY Season 3 Episode |last=Rossignol |first= Derrick |date=July 5, 2017 |website= Nerdist.com|publisher= Nerdist|access-date= July 6, 2017}}</ref> With the release of this episode came: [[Pickle Rick (character)|Pickle Rick]], Sunday Best Summer, Rat Suit Pickle Rick, [[Concerto]], and [[Jaguar]] as [[List_of_Pocket_Mortys_trainers_and_NPCs#Custom_avatars|avatars]], and Pickle Morty, Sunday Best Morty, Cucumber Morty, Pickled Morty, and Concerto Morty to catch.
+*This is the first episode where Rick's actual form has minor significance in the episode, only being seen near the very end. Although he himself did in fact have a major role in the episode, just in pickle form.
+*Rick wears a seatbelt for the first time in the entire series when he gets in Beth's car.
+*Summer's reason for undergoing family therapy was huffing pottery enamel glaze from pottery glass, an action completely unrelated to family issues. She wants to just be accepted as someone who can get high. Morty's reason is also unrelated to family issues, where he peed his desk at school.
+*Rick is regarded as [[Solen'ya]]: The Pickle Man. The Russian word "соле́нья" literally means "salted foods" and works only in the plural form, also sounding much like a female name, thus making it actually an awkward choice for the nickname even though it nods to John Wick who is called Baba Yaga.
+*Beth believes that Dr. Wong has a pickle obsession.
+*The key card which the Agency Director uses has 'ключ' printed in large letters, which literally means 'key' in Russian.
+*The portal gun does not appear in this episode and, apart from perhaps the after-credits scene, the episode takes place entirely in the [[Replacement dimension]].
+*This episode suggests that Rick probably hates cats.
+*The Blu-Ray release features two special special guest commentaries, one from Russel Brand and one from Game Of Thrones crew David Benioff, D.B. Weiss and Peter Dinklage.
+*This episode has won the Primetime Emmy Award for Outstanding Animated Program 2018.
 
 ===Series continuity===
-*[[Morty Smith|Morty]] chooses his 10th adventure, referencing his freedom of choice gained from winning the bet in [[Meeseeks and Destroy]].
-*Near the end of the episode, Rick references the events of "[[Mortynight Run]]".
-*Characters from previous episodes appear at the party at the end of the episode. This includes MC Haps (the rapper from "[[Rick Potion No. 9]]" ), [[Slippery Stair]] (from "[[Meeseeks and Destroy]]") and a guy with a Bart Simpson shirt that can be seen at the Flu Season Dance in "[[Rick Potion No. 9]]" and the party in "[[Ricksy Business]]". [[Revolio Clockberg, Jr.|Gearhead]] also makes a cameo at the party and is directly referenced by [[Rick Sanchez|Rick]].
-*[[Morty Smith|Morty]] mentions that the neutrino bomb has a 40% chance of being a dud due to Rick's drunken improvisation of them. This means the neutrino bomb that was armed in the first episode was possibly a dud and never blew up.
+* [[Snuffles]]'s picture can be seen above the Smith family's toilet.
+* [[Shoney's]] returns as a reference at the end when Rick and Beth want to go get drunk.
+** Not only do they do so in [[Star Mort Rickturn of the Jerri|S4E10]], but in real life some Shoney's sites do serve alcohol (if only as beer).
+* The ongoing troubling familial relationship between Jerry and the Smith family still appears to have ongoing ramifications since his separation in the episode "[[The Rickshank Rickdemption]]".
+* Rick mentions to [[Jaguar]] that "he abandoned one of his infinite daughters in a reality overrun by [[Cronenbergs|mutants]]." This is a reference to the events of "[[Rick Potion 9]]", and one of his infinite daughters is [[Beth Smith (C-137)]].
+* The cracks on the ground from the first season's finale are still on the ground.
 
 ===Cultural references===
-* The Vindicators are an obvious homage to superhero teams from both Marvel and DC Comics including The Avengers, Guardians of the Galaxy and The Justice League.
-** This can be seen when Morty refers to The Vindicators as 'The Guardians of the Unguarded', which is an obvious playoff to the Marvel's superhero team with the similar name.
-** The logo of The Vindicators resembles an upside-down Avengers symbol.
-** Each Vindicator parodies a different type of superhero in the superhero genre.
-*** [[Vance Maximus]] is the wise-talking technologically-enhanced Vindicator and resembles Iron Man, Star Lord and The Falcon. Additionally, his surname is Star Soldier, which is a reference to how superhero names are often a technological or astronomical word followed by an ordinary human word (like Star Lord or Iron Man).
-*** [[Alan Rails]] is the grim and depressed character whose tragic origin story makes him constantly struggle with his own internal demons, which closely resembles Batman. Throughout the episode, Alan is portrayed as being gruff and to the point with others and very protective of his loved ones, which is also similar to Batman.
-*** [[Supernova]] is the cosmic protector that is able to summon cosmic and intergalactic energy and often roams space alone with some form of intergalactic awareness, which closely resembles characters such as Doctor Strange, The Silver Surfer and Green Lantern. She is shown to have allegiance to a cosmic entity known as "Star Mother", which is a reference to the need for superheroes of this type to have a governing body (like Green Lantern's Lantern Corps or The Silver Surfer's Galactus). Her summoning of stars is also very similar to that of Storm in the 1980s X-Men cartoon series.
-*** [[Million Ants]] is the alien body sent to another planet that appears to perform only heroic actions and usually performs a Christ-like role by dying for others. This is a parody of Groot from ''Guardians of the Galaxy'', who is also an alien that sacrifices himself to save the lives of his team, as well as Superman, who traveled to Earth from Krypton as a baby and died for the people of Earth in 2004's Doomsday event. He could also be a literal interpretation of Ant-Man.
-*** [[Crocubot]] is a satire of characters like The Hulk and The Lizard who are infused with some sort of ability of an entity considered awesome such as a reptile or a monster. However, Crocubot shows that when two awesome things (a crocodile and a robot) are combined, they cancel out to be relatively lame.
-*** [[Lady Katana]], [[Calypso]], and [[Diablo Verde]] are all mentioned as being Vindicators that died during their previous adventure. However, during the roller-coaster designed by Rick, the audience gets a glimpse of three heroes that are believed to be the three deceased Vindicators. [[Lady Katana]] satirises mythological warriors like Thor, Hercules and Wonder Woman and [[Calypso]] references elementals like Ice Man, Storm and The Human Torch while [[Diablo Verde]] parodies bad-ass superheroes like Hellboy and Drax the Destroyer. The trio are also references to characters from Suicide Squad being: Katana, The Enchantress, and Diablo **spoilers** two of which die in the film which is also referenced in Rick and Morty.
-*** [[Worldender]] was meant to be a parody of apocalyptic villains such as Darkseid and Thanos, until Rick singlehandedly ended his reign of terror with ease.
-*** Doomnomitron is a reference to Ultron. Not only do their names sound similar but Doomnomitron is established as the villain of The Vindicators' second adventure while Ultron was the villain of The Avengers' second cinematic teammup. Also, Crocubot states during the episode that The Vindicators destroyed a planet during their fight with Doomnomitron which is a reference to The Avengers destroying the city of Sokovia during their fight with Ultron.
-* Morty compares Rick's drunken antics to the ''Saw'' movie series, where individuals are forced to play dangerous, yet therapeutic, games under a strict time limit by someone/people sitting behind a screen.
-* The three-point shot challenge references ''Escape from L.A.'', where, in one scene, Snake (the protagonist) is similarly forced into scoring points in basketball within a limited amount of time.
-* Drunk Rick can also be seen wearing a deerstalker hat, an item associated with Sherlock Holmes. This is a reference to the final episode of season 4 of the BBC's ''Sherlock'', in which Sherlock Holmes, John Watson, and Mycroft Holmes are put in a series of personal challenges each of which involves the death of either an innocent bystander or one of the trio. The theme of this episode is shown throughout the episode.
+*Rick and Jaguar's action sequence in the office, followed by their helicopter escape, is an allusion to ''Die-Hard''.
+*When Jaguar does a split during the fight scene, it’s an homage to Jean Claude Van Damme’s ability to perform them in his movies, particularly the kitchen fight in Timecop.
+*Rick says that death by frying in the sun, in the body of a pickle, would be a humiliating fate, being the genius equivalent of dying on the toilet. This is a reference to the infamous rumours of Elvis Presley's death on the toilet.
+*The franchise Smokey's Tavern is mentioned by Rick, when considering different places to go to eat/get drunk with Beth.
+*The song Concerto plays when attempting to kill Rick and Morty is Beethoven's Sonata No. 14, also known as the 'Moonlight Sonata'.
+*When Rick cuts the legs of the agents with a laser, a "[[wikipedia:Stock_sound_effect#Howie_Scream|Howie Scream]]" can be heard.
+*The writers confirmed, Pickle Rick going down the sewer and meeting a bunch of rats is a reference to the movie ''An American Tail: Fievel Goes West'', featuring rats who went down a sewer.
+*The scene in which Rick slaughters rats is a parody of a scene from ''The Wolverine''.
+*Rick's assembly of a suit made from rats to escape the sewer is a parody of Tony Stark assembling the Iron Man suit to escape from his captors.
+*In real life, Solen'ya is not an existing myth. Instead, it appears to be a parody on ''John Wick'' franchise, where ''Baba Yaga'' (an actual Russian myth) is a codename of a deadly and nearly unstoppable assassin.
 
 ==Transcript==
-View a full transcript of this episode [[Vindicators 3: The Return of Worldender/Transcript|here]].
+View a full transcript of this episode [[Pickle Rick/Transcript|here]].
 
-{{Gallery}}
+{{gallery}} 
 {{Reflist}}
 
-== Site Navigation ==
-{{Episodes}}[[pl:Vindicators 3: The Return Of Worldender]]
+== External links==
+* [https://jayuzumi.com/pickle-rick-soundboard Pickle Rick soundboard] 
 
-
- 
-[[Category:Episodes]]
+==Site navigation==
+{{Episodes}}[[Category:Episodes]]
 [[Category:Season 3 episodes]]
 [[Category:Rick Episodes]]
-[[Category:Morty Episodes]]
-[[Category:Sequels]]
+[[Category:Beth Episodes]]

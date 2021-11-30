@@ -1,182 +1,162 @@
 {{Episode
-|image =S3e5 02h19m26s212.png
+|image = S3e4 ready to go.png
 |season number = 3
-|episode = 5
-|airdate = August 20, 2017 (United States)<br>April 28, 2019 (Canada)
-|prev = [[Vindicators 3: The Return of Worldender]]
-|next = [[Rest and Ricklaxation]]
-|writer = [[Ryan Ridley]]
-|ratings = 2.29<ref>{{Cite web |url=http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-aug-20-2017/ |title=Sunday cable ratings: ‘Survivor’s Remorse’ premiere steady, ‘Game of Thrones’ down a little |last=Porter |first=Rick |date=August 22, 2017 |work=[[TV by the Numbers]] |access-date=August 22, 2017 |url-status=live |archiveurl=https://web.archive.org/web/20170822201353/http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-aug-20-2017/ |archivedate=August 22, 2017}}</ref>
-|director = [[Juan Meza-León]]|code = 305}}"'''The Whirly Dirly Conspiracy'''" is the fifth episode of the [[Season 3|third season]] of ''[[Rick and Morty (TV series)|Rick and Morty]]''. It is the 26th episode of the series overall. It premiered on August 20, 2017. It was written by [[Ryan Ridley]] and directed by [[Juan Meza-León]].
+|episode = 4
+|airdate = August 13, 2017 (United States)<br>April 21, 2019 (Canada)
+|writer = [[Sarah Carbiener]]<br>[[Erica Rosbe]]
+|director = [[Bryan Newton]]
+|ratings = 2.66<ref>{{Cite web |url=http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-aug-13-2017/ |title=Sunday cable ratings: ‘Game of Thrones’ scores another series high |work=[[TV by the Numbers]] |last=Porter |first=Rick |date=August 15, 2017 |accessdate=August 15, 2017 |url-status=live |archiveurl=https://web.archive.org/web/20170815222212/http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-aug-13-2017/ |archivedate=August 15, 2017}}</ref>
+|code = 304
+|prev = [[Pickle Rick]]
+|next = [[The Whirly Dirly Conspiracy]]}}"'''Vindicators 3: The Return of Worldender'''" is the fourth episode of the [[Season 3|third season]] of ''[[Rick and Morty (TV series)|Rick and Morty]]''. It is the 25th episode of the series overall. It premiered on August 13, 2017. It was written by [[Sarah Carbiener]] & [[Erica Rosbe]] and directed by [[Bryan Newton]]. The episode is rated TV-MA LV.
 
-== Synopsis ==
-Rick and Jerry go to a resort where dying is impossible, but a creature wants to kill Rick anyway. Summer's attempt to enlarge her breasts goes awry.
+==Synopsis==
+While ostensibly helping a group of superheroes called the Vindicators, Rick instead drunkenly sets up a "Saw"-like scenario for them to navigate.
 
 ==Plot==
-===Cold open===
-The episode begins with [[Jerry Smith|Jerry]] wallowing in his lonely new life. As he prepares to go to sleep, however, [[Rick Sanchez|Rick]] suddenly bursts into his apartment and drags him outside naked on the promise of an intergalactic adventure, to Jerry's confusion.
+Rick and Morty start off in the garage cleaning up multiple worm-like creatures that Rick states cannot be allowed to get into the food chain. A crystal on the shelf starts to glow and Morty points out that it is [[the Vindicators]] calling to help save the universe again for what appears to be the second time. Rick outright refuses to answer an actual [[wikipedia:Hero's_journey#The_Call_to_Adventure|call to adventure]], but ultimately relents because Morty brings up the fact that he gets to pick every tenth adventure.
+[[file:S3e4 explain worldender.png|thumb|Supernova briefs all on Worldender.]]
 
-===A plot===
-On the ride through space, Jerry questions Rick's motive for inviting him, to which Rick explains he only did so at Morty's behest, worried that his father might turn to suicide. Soon enough, the reluctant duo arrives at an [[Immortality Field Resort|intergalactic resort]] on [[Resort planet|another world]]. When Rick and a supposed enemy ([[Shnoopy Bloopers]]) kill each other, then immediately come back to life, he explains to a shocked Jerry that the entire facility is surrounded by an immortality field, meaning that even if Jerry tried to kill himself while on their vacation, doing so would be impossible. After greatly enhancing his relationship with Rick, Jerry is quickly captured while using the resort's restroom and is brought before an actual enemy of Rick named [[Risotto Groupon]], whose people were enslaved after Rick sold weapons to their enemies. With Jerry's help, he plans to assassinate Rick on a roller-coaster called the Whirly-Dirly, at the point where the ride travels outside the protective immortality field. When Jerry politely declines, Risotto allows him to leave unharmed.
+Rick and Morty are then seen sitting at a conference table getting briefed by [[Supernova]] on the threat of [[Worldender]]. Rick ends up heckling them at first then introduces every member of the Vindicators there except for [[Vance Maximus]] Renegade Star Soldier, who then shows up and seemingly charms everyone except Rick. 
 
-Jerry continues to drink with Rick, however, during the conversation Rick admits that he was essentially the whole reason Beth broke up with him. His new view of Rick now shattered, Jerry invites Rick to join him on the Whirly-Dirly. However while on the ride Rick apologizes for breaking up the marriage and a guilty Jerry tries to change his mind, but can't get Rick off the ride before it begins. After Jerry is shot and revived, Rick notices the assassins behind him and fights back. In the midst of the brawl, Jerry calls out to Rick and points to the area that dips outside of the field. Once the assassin has been dealt with Rick realizes something and asks Jerry how he knew about the kill point. He's interrupted however when several more hit-men in a helicopter attempt to physically pull Rick outside the immortality field. Rick quickly detaches his coat and detonates a bomb hidden inside taking out the chopper and sending the roller coaster crashing into the surrounding jungle and deactivating the resort's immortality field in the process. A suspicious Rick asks Jerry how he knew about the Whirly-Dirly only for a fatally wounded assassin to reveal that they had made a deal. Having learned of Jerry's involvement in his attempted assassination, Rick slow approaches Jerry causing him to back up into a massive alien snake and refuses to help as Jerry is slowly eaten alive by said snake. Jerry denounces Rick as a "self-righteous piece of shit" who stole his family. Infuriated, Rick volleys back by reminding Jerry that Beth was his daughter before she was his wife and that her life was stolen when Jerry got her pregnant at prom which subsequently lead to her being stolen from Rick. Further, Rick claims that Beth had options, but she gave it all up because she felt sorry for Jerry. Citing that Jerry acts like he's prey, but he's really a predator that uses his pitiful nature as a way to manipulate other. As Jerry is about to be digested, Rick finally kills the snake and saves him, only to then use him as bait for another alien creature. Right when it seems like Jerry is about to be eaten, Rick shoots a tranquilizer into the creature and attaches wires to it, allowing him to control it and take them to an airfield with a shuttle that would get them close to the Milky-Way.
+It is then revealed that this is actually the third time the Vindicators had assembled and that they didn't invite Rick and Morty the second time due to a "personality conflict" with Rick and the rest of the Vindicators, which resulted in the deaths of three members of the Vindicators ([[Lady Katana]], [[Calypso]], and [[Diablo Verde]]).
 
-While traveling through a checkpoint for a spaceship heading off-world, a security guard injects Rick, who is deemed a terrorist threat and revealed to have secret cybernetic augmentations, with a synaptic dampener to reduce his intelligence to that of a small child. Jerry quickly takes advantage of the child-like Rick, belittling him the whole time. Risotto, unfortunately, catches up during this time and is ready to shoot Rick while he's too dumb to do anything. Risotto decides to let Jerry go, but not out of any compassion but because he feels that Jerry is a pathetic excuse of a man and would prefer not to waste the bullet. Jerry, determined to prove himself, attempts to fight off Risotto but fails miserably. Risotto changes his mind and decides to shoot Jerry, too. However, Jerry causes Risotto to shoot an important piece of paneling just as the spaceship passes through a wormhole. Space, time and matter all combine, causing Rick, Jerry and Risotto to all merge and experience each other's thoughts and personalities for what feels like a moment and an eternity. After emerging, all feel changed by the experience and Risotto considers forgiving Rick. However, Rick, now free of the effects of the synaptic dampener, just steals his gun using his cybernetic arm implants and shoots him dead anyway, as Rick assumed Risotto was just going to change his mind and try to kill them again. After that, Rick and Jerry go home and agree to leave out the parts of the adventure that make them look bad. Rick offers to let Jerry inside for a minute but Jerry declines. Claiming that if the rest of his family saw him the state he was, they would feel sorry for him and making people feel pity for him would no longer be his signature move. Rick bids Jerry farewell, only to promptly lock the doors and setting up deadly countermeasures to keep him out. Watching how happy his family is without him, Jerry sighs and walks home.
+[[file:S3e4 diarrhea everywhere.png|thumb|left|Rick on the conference room table.]]
 
-===B plot===
-Meanwhile, as Beth builds a small sculpture out of horse hooves, Summer asks Beth if she is hot. Beth simply says her looks are not something she should focus on, causing Summer to describe herself as hideous and retreat to the garage. It's then revealed that [[Ethan]] has broken up with her, claiming it was because they no longer had anything in common, and began dating another girl named [[Tricia Lange]]. Summer is convinced Ethan really chose Tricia over her because Tricia had larger breasts. She then tries to enlarge her breasts using Rick's Morphizer-XE but ends up becoming a disproportionate giant trapped inside the garage.
+Rick then gets blackout drunk and we next see him pantsless and having gotten diarrhea all over the conference table the following morning. This mess is left to be cleaned up by [[Noob Noob]] instead of him going on the mission with the rest of the Vindicators. Then, Vance gives Morty a Vindicators vest as to symbolize he is a welcomed member of the Vindicators.
 
-Morty and Beth realize the Morphizer-XE was responsible and Morty wants to call Rick back to resolve the situation. Beth, however, insists she can solve the problem without her father's help, to which Morty berates her for trying to be like Rick. Beth tries to bring Summer back to normal proportions, which brings her back to normal body proportions but also makes her larger than the house. Considering it progress, Beth rashly soldiers on and ends up turning Summer inside out.
+[[file:S3e4 ta da.png|thumb|Rick easily bypasses the machine guns.]]
 
-Morty berates Beth to call Rick but instead, she calls the machine's "technical support." Unfortunately, it turns out the three (tiny) tech support workers actually live inside the machine and trick Beth into freeing them. Finally fed up with Beth's stubbornness, Morty snatches her phone and smashes it on the ground. He proceeds to admit that he tricked Rick into taking Jerry into space so he could get a little break from Rick's arrogance and irresponsibility but Beth ruined it by being just as bad as her father. Morty then tells Beth that sucking up to Rick won't help keep him around, but it would help drive everyone else away from her. Both of them then realize that Summer has disappeared. They quickly mount the Morpizer into the back of the car and go off looking for Summer, with Morty shooting at random object in an attempt to understand how the machine work. Beth finally defends herself from Morty's criticism from earlier by asking him what he would do if his daughter asked him if she was attractive. Morty asks Beth when Summer asked her that question, and she tells him that it was right before she super-sized herself. Upon hearing this, Morty deduces that Summer has gone to [[Camp Flabanabba]] where she and Ethan were supposed to go camping before he dumped her and took Tricia instead. As they approach the camp, Beth announces that she has a plan. Summer appears to Ethan and Tricia, terrifying them, and is then startled to see Beth, also large and inside out. The two reconcile and Tricia is so touched she runs home to make peace with her own mother. Ethan tries to follow in pursuit but Morty quickly stops him so they can have a, "chat". An emotionless Morty tells Ethan that he made Summer cry and ruined her self-esteem. Ethan tries to explain himself, but Morty shushes him and warns him to be careful because his, "s'more is burning" before turning the Morphizer on him.
+Inside Worldender's base, the Vindicators get through the traps, then into Worldender's main room. It is then revealed that Worldender is already dying/dead and Rick then tries to leave with Morty. But then, all of the Vindicators are trapped inside of the room, as set up by Rick when he was blackout drunk. It is revealed that "Drunk Rick" set up a Saw-like sequence where the Vindicators are forced to play games to survive or they all die.
 
-===Post credits===
-In a post-credits scene, a heavily-deformed Ethan is seen limping home, presumably by Morty for hurting Summer and as a lesson in shallowness. The three tech support aliens spot him, but decide not to help due to their newfound freedom. Their relief turns to horror, however, when one is carried away by an eagle.
+[[file:S3e4 triggered.png|thumb|left|Vance, angered about getting Sawed]]
+
+Following a nervous breakdown, Vance then attempts to escape, only to be shot, burned and bisected in the ventilation system in a gruesome death. Morty then solves the puzzle, matching the Vindicators with Rick's opinion of them: Unoriginal.
+
+[[File:S3e4 dorian 5.png|thumb|Crocubot picks out Dorian 5.]]
+In the next room, Drunk Rick asks the Vindicators to locate a place they would never mention. [[Crocubot]] then goes to the hologram map of the universe to point out [[Dorian 5]]. However, he is wrong and crushed to death. Dorian 5 is revealed to have been a planet destroyed (along with its populace) by the Vindicators to defeat Doom-nometron, a shapeshifter hiding on the planet during the Vindicators 2 mission. Rick stated that if they just brought him along, he could have created a machine to find Doom-nometron in a second. Morty then goes up to the map and locates Israel, the correct answer, as Morty knows that when Rick is blackout drunk, he rants about the United Nations and defense budgets, to which Rick defends isn't because he's anti-semitic.
+
+[[File:S3e4_more_death.png|thumb|left|A domestic argument.]]
+
+In the next room they need to make 5 three-pointers in 5 minutes or else a neutrino bomb will blow up the planet. Morty goes to defuse the bomb, which is revealed to happen a lot more than Rick knew about, while the Vindicators work on scoring three-pointers. During this, Supernova, [[Million Ants]], and [[Alan Rails]] discuss how Supernova and Alan were previously married, and how Supernova cheated on Alan with Million Ants. Alan and Million Ants then begin to fight, Supernova then suspends them in the air and Million Ants kills Alan. Rick makes a smart remark which is the final straw for Supernova who decides to arrest both Rick and Morty.
+
+[[File:S3e4_complaining_about_morty_and_vins.png|thumb|Rick's final monologue.]]
+
+In the final room, Drunk Rick asks for something he believes the Vindicators have that he wants. It is assumed Drunk Rick is talking about Morty because the Vindicators are heroes to Morty-- and Rick isn't. So Morty steps on the platform and he is taken down into a ride in which it seems Drunk Rick is expressing his love for Morty as his grandson. However, it is revealed the ride was intended for Noob Noob, simply because he laughed at Rick's jokes about the Vindicators while Morty was caught up in hero worship.
+
+[[File:S3e4_brutality.png|thumb|left|Supernova betrays [[Million Ants|Snuzzles]]]]
+
+Morty gets back out of the ride (with a look of disgust), and the platform they are on begins to rise. Supernova then goes to kill Rick and Morty for the deaths Drunk Rick caused, to which Million Ants tries to convince Supernova not to do it, only to be killed himself by Supernova.
+
+Before Supernova can do the same to Rick and Morty, the platform reaches a party with music star [[Logic]] singing a rap song about the Vindicators. Supernova gets away, and when Morty points it out, Rick dismissively says that 20 people try to kill him a week, and he ends up getting high with half of them, pointing out that [[Gearhead]] is there. The latter who takes Morty's Vindicators vest when Morty discards it. Beth and Summer are also at the party along with other previously seen characters. 
+
+[[File:S3e4_dabbing_im_dying.png|thumb|Logic hits the dab and it's kek, poggers and wholesome 100]]
+
+At that point Logic mentions Noob Noob in the rap song, to which Rick asks "Who the fuck is Noob Noob?", causing Morty to show another unpleasant look.
+
+In the post-credits scene, Gearhead is seen with the Vindicators vest trying to pick up some (possible) college girls, But then when an alien terrorist attack strikes, he goes down an alleyway to ditch the vest and run away, before he trips on a pile of gears and is dismantled.
+ 
+
+
+ 
 
 ==Cast and characters==
 {| cellspacing="1" cellpadding="1" style="width:100%;"
 | valign="top" width="50%"| '''Main Cast'''
-*[[Justin Roiland]] as [[Rick Sanchez]] / [[Morty Smith]] / [[Tiny Customer Service Reps|Call Center Alien]] #3
-*[[Chris Parnell]] as [[Jerry Smith]]
-*[[Spencer Grammer]] as [[Summer Smith]]
-*[[Sarah Chalke]] as [[Beth Smith]]
-
+*[[Justin Roiland]] as [[Rick Sanchez]] / [[Morty Smith]] / [[Noob Noob]] / PA System
+*[[Spencer Grammer]] as [[Summer Smith]] / Gear Person #1
+*[[Sarah Chalke]] as [[Beth Smith]] / Gear Person #2
 
 
 
 
 '''Non-speaking characters'''
-* [[Jessica]] <sup>(mentioned)</sup>
-* Mailman
-* Alien assassin
-* [[Birdperson]]<sup> (cameo; image only)</sup>
-* [[Shmooglite Runner]]
-* [[Gibble Snake]]
+* [[Worldender]]
+* [[Lady Katana]]<sup>(mentioned)</sup>
+* [[Calypso]]<sup>(mentioned)</sup>
+* [[Diablo Verde]]<sup>(mentioned)</sup>
+* Doomnomitron<sup>(mentioned)</sup>
+* [[Nancy]]
+* [[MC Haps]]
+*[[Grace Smith]]
+* [[Stair Goblins]]
+| valign="top" width="50%"| '''Guest Starring'''
+
+*Gillian Jacobs as [[Supernova]]
+*Christian Slater as [[Vance Maximus]]
+*Logic (Bobby Hall) as [[Logic]]
+*Lance Reddick as [[Alan Rails]]
 
 
 
 
-
-'''Unknown voices'''
-* [[Lisa]]
-* Lisa's brother
-| valign="top" width="50%"|'''Starring'''
-*[[Daniel Benson]] as [[Ethan]]
-*[[Clancy Brown]] as [[Risotto Groupon]]
-*[[Echo Kellum]] as [[Triple Trunks]]
-*[[Tom Kenny]] as [[Tusked Assassin]] / Alien waiter / Customs alien / [[Tiny Customer Service Reps|Call Center Alien]] #2
-*[[Ryan Ridley]] as [[Shnoopy Bloopers]] / [[Gene]] / [[Tiny Customer Service Reps|Call Center Alien]] #1
-*[[Cassie Steele]] as [[Tricia Lange]]
+'''Starring'''
+*Scott Chernoff as [[Gearhead]]
+*Tom Kenny as [[Million Ants]]
+*Maurice Lamarche as [[Crocubot]]
 |}
 
 ==Deaths==
-* At least 1 of the 2 Whirly Dirly assassins
-*[[Lisa]]
-*[[Risotto Groupon]]
-*1 Mailman
-*1 Alien bug
-* 1 [[Gibble Snake]]
-* 1 unnamed Morphizer customer service creature
-
-==Quotes==
-*'''Risotto Groupon:''' Look, I'm not like Rick, so you're free to do as you please. But there comes a time in every man's life when he must choose the foundation on which his legacy will be built; one of compromise, or one of blood.
-----
-*'''Beth:''' I call that progress.
-*'''Morty:''' SHE’S HUGE!
-*'''Beth:''' And normal.
-*'''Summer:''' I’M NOT NORMAL!
-----
-*'''Jerry:''' You self-righteous piece of shit! You took my family!
-*'''Rick:''' I took ''your'' family? Who do you think had more taken from them when you shot 20 CCs of liquid dream-killer into my daughter? She was Rick's daughter, Jerry, she had options!
-*'''Gibble Snake:''' Oof!
-*'''Rick:'''That all ended because she felt sorry for you. You act like prey but you're a predator; you use pity to lure in your victims. It's how you survive. I survive because I know everything, that snake survives because children wander off, and you survive because people think "Oh, this poor piece of shit, he never gets a break. I can't stand the deafening silent wails of his wilting soul. I guess I'll hire him or ''marry'' him."
-----
-*'''Morty:''' Don’t ‘’Morty’’ me! I tricked Rick into taking Dad on an adventure ‘cause I thought I was gonna get a break from this kind of shit! BUT NO! LIKE FATHER, LIKE GODDAMN DAUGHTER! You wanna be like Rick?! CONGRATULATIONS! YOU’RE JUST AS ARROGANT AND JUST AS IRRESPONSIBLE!’’’
-*'''Gene:''' Everything okay?
-*'''Morty:''' Mind your own GODDAMN business, Gene! I’m having a conversation with my mother here!
-----
-*'''Risotto Groupon:''' Jerry, step over there and lock yourself in the escape pod.
-*'''Jerry:''' You're not killing us?
-*'''Risotto Groupon:''' I'm killing Rick, you're free to go. You're no threat to me, or ''anyone.''
-*'''Jerry:''' Now you're just being mean.
-*'''Rick:''' Yeah, you're mean. No offense.
-*'''Risotto Groupon:''' Mean would be shooting you, Jerry, this is saving a bullet. Go back to your quietly ashamed family and live the rest of your days in denial of your vagina fantasy.
-*'''Jerry:''' IT WAS A ONE-TIME THOUGHT THAT EVERYONE HAS!
-----
-*'''Risotto Groupon:''' Congratulations, Jerry, you get to die a man!
-*'''Jerry:''' That's okay, I'll leave! Please don't shoot, I-I-I'm the vagina guy, remember?
-----
-*'''Jerry:''' Jesus! He hadn't decided he was still going to kill us!
-*'''Rick:''' He was talking himself into it, I've seen it before. Cosmic apotheosis wears off faster than salvia.
-*'''Jerry:''' I'm starting to believe you, because I just finished merging with your essence for an endless epoch and I'm already back to thinking you're an asshole!
-*'''Rick:''' Fine by me, let's just go our separate ways. Sounds like you and the word 'epoch' have a lot of catching up to do.
-----
-*'''Rick:''' You wanna-?
-*'''Jerry:''' Nah. If the family sees me like this they'll feel sorry for me, which is no longer my signature move.
+* [[Worldender]]
+* Worldender's minions
+* [[Maximus Renegade Starsoldier]]
+* [[Crocubot]]
+*Fleeb like alien 
+* [[Alan Rails]]
+*unidentified human bones and other species 
+* [[Million Ants]]
 
 ==Episode notes==
 ===Trivia===
-*In celebration of [[Season 3]], [[Pocket Mortys|Pocket Mortys']] weekly updates will coincide with new episodes, including new avatars for players to collect.<ref>{{cite web |url=http://nerdist.com/pocket-mortys-rick-and-morty-season-3-episodic-updates/ |title=POCKET MORTYS Will Get Updates for Every RICK AND MORTY Season 3 Episode |last=Rossignol |first= Derrick |date=July 5, 2017 |website= Nerdist.com|publisher= Nerdist|access-date= July 6, 2017}}</ref> With the release of this episode came: Spiritual Leader Rick, Victorian Jerry, [[Risotto Groupon]], Inside Out Beth, Inside Out Summer, [[Shnoopy Bloopers]], and Victorian Rick as [[List_of_Pocket_Mortys_trainers_and_NPCs#Custom_avatars|avatars]], and Master Morty, Poorhouse Morty and Chimney Sweep Morty to catch.
-* The scene where Rick drags Jerry out of his bed naked is an homage and parody to the pilot episode's opening scene where Rick did this to Morty.
-** Rick in this scene continues his habit of breaking the fourth wall as he's done in other episodes when he says the current episode is a "Rick and Jerry adventure/episode!".
-* It is revealed that Rick has cybernetic implants in a majority of his body. These implants appear to be located in all of his limbs, his left eye, part of his brain, and part of a system within his chest.
-**This likely explains some of physical attributes for a man his age.
-**This could also be due to the events in "[[The Rickshank Rickdemption]]", where Rick switches minds with [[Quantum Rick]] from the former [[Citadel of Ricks]].
-* Jerry lives at room 826 of his apartment block.
-* It appears that Summer has gained a wide amount of knowledge about Rick's garage, knowing the secret code to certain compartments and not being frightened by the abundance of extreme scientific contraptions (including a box with a trapped green entity).
-* The code to unlock the compartment behind Rick's billboard involves moving the only un-connected pin to the bottom-righthand corner of the blue piece of paper.
-* In the TV broadcast, until the last few minutes, the word "shit" is bleeped out, whereas in airings of the earlier episodes, it's been uncensored.
-* During a sequence when female Rick is nursing a little alien, there is a little bust of Beth and little [[Birdperson]] in the background.
+*This is one of the two episodes of Rick and Morty to be rated '''TV-MA''' from the FCC, the other being [[Interdimensional Cable 2: Tempting Fate]]. This is because the word 'fuck' was often used in the episode.
+*This episode was the worst episode in Dan Harmon's opinion.
+*In celebration of [[season 3]], [[Pocket Mortys|Pocket Mortys']] weekly updates will coincide with new episodes, including new avatars for players to collect.<ref>{{cite web |url=http://nerdist.com/pocket-mortys-rick-and-morty-season-3-episodic-updates/ |title=POCKET MORTYS Will Get Updates for Every RICK AND MORTY Season 3 Episode |last=Rossignol |first= Derrick |date=July 5, 2017 |website= Nerdist.com|publisher= Nerdist|access-date= July 6, 2017}}</ref> With the release of this episode came: Sherlock Rick, [[Noob-Noob]], Hawaiian Summer, and Hawaiian Rick as [[List_of_Pocket_Mortys_trainers_and_NPCs#Custom_avatars|avatars]], and Vindicator Morty, Federation Prisoner Morty, Hawaiian Morty, Sherlock Morty, Prisoner Morty, and Felon Morty to catch.
+*Rick is referred to here as Rick Sanchez: Tinkerer of Terror.
+*At one point in episode production, Million Ants had a sidekick: "Three More Ants"<ref>{{cite web |title= Tweet Number 897229912666329088 |url= https://twitter.com/danguterman/status/897229912666329088 |author= (((guterman))) |date= 14 August 2017|accessdate= 14 August 2017 |quote= TRIVIA: "At one point I pitched Million Ants have a sidekick: Three More Ants. It was in the script for a spell bu…" |work= Twitter }}</ref>
+*It is implied that all members of The Vindicators have 5 commonalities; they don't play well with others, their individual super power is a burden to themselves, they use their power responsibly (which is shown to not be the case by the end of the episode), they never give up, and they have a tragic origin.
+*Rick's epidermis is laced with a nano-fiber defense mesh, able to repel individuals away from himself.
+*In the scene where the Vindicators discover Worldender and his minions all massacred after Drunk Rick had annihilated them the night before, the minions' bodies can actually be seen arranged in various sex positions, most likely due to the twisted and disturbed nature of Rick in his drunken stupor. Among these positions are the missionary position, the 69, and doggy style.
+*The show guest starred rapper Robert Hall (known by his stage name '''Logic''') who performed a song dedicated to Noob Noob during the final scene and end credits.
+*Vindicators were assembled for the third time this episode. The first time was "some summer" (possibly 2014 or 2015 when Season 1 and Season 2 aired) while the second time was "last summer" which was in 2016 when Rick and Morty didn't air. The fact that Rick and Morty weren't invited to Vindicators 2 might be a nod to it.
+*During the livestream of this episode's premiere, instead of airing the actual episode, they had a few employees do a live reading of the episode while re-enacting the scene. The stream was meant as a jab to people who watched the episodes on stream instead of on TV, going as far as the person acting as Rick to refer to them as 'freeloaders'.
+*In this episode [[Justin Roiland]] actually got drunk in the booth to properly portray Drunk Rick. It was stated that it was the most unproductive day they've ever had.
 
 ===Series continuity===
-* Following the events of "[[The Rickshank Rickdemption]]", Jerry is still separated from Beth in this episode, and still lives alone in his apartment.
-* [[Arcade Alien]] can be seen in the Restaurant where Rick and Jerry are drinking.
-* Beth still tries to prove herself worthy of Rick's love as it was shown in "[[Pickle Rick]]."
-* Summer's relationship with Ethan from "[[Anatomy Park (episode)|Anatomy Park]]" comes to an end in this episode.
-* Morty references his love interest for [[Jessica]] when he states that his daughter will be hot because her mother will be Jessica.
-* Above Jerry's bed in his apartment, there is a picture of the Titanic, a reference to his obsession with the ship and also the film. The same picture is shown to be in the Smith family's recreation room throughout seasons 1 and 2 such as its appearance in "[[Close Rick-counters of the Rick Kind]]". This is a callback to the episode "[[Ricksy Business]]" where the plot revolved around his fascination with the Titanic.
-* During the episode, the Interdimensional Cable Box can still be seen in the background, following the episode "[[Rixty Minutes]]."
-* Rick's cybernetic components were first be seen in the background of his antics during the episode "[[Vindicators 3: The Return of Worldender]]."
-* The cracks around the house are still visible after the events of the episode "[[Ricksy Business]]".
-* The mailman who appeared in "[[M. Night Shaym-Aliens!]]" can be seen again, seemingly killed by a giant falling mailbox.
-** Justin Roiland confirmed him being "alive and well".<ref>{{cite web |url=https://mobile.twitter.com/justinroiland/status/901669222941573121 |title=mailman lives}}</ref>
-* Rick's nonchalant reaction to having endured a temporal lapse is further evidence of his extensive journeys across the cosmos, seeing such an existential occurrence as "trivial" rather than life-changing.
-* While Rick is under the effects of the "synaptic dampener" he bears a strong resemblance to Jerry. Rick remarks about his desire to eat cookies and watch a 90 minute cut of James Cameron's ''Avatar ''which is similar to Jerry's love of junk food and obsession with another James Cameron film, ''The Titanic''.
-* Summer is described as having "Clive Barkered" herself; this wording in relation to ''body horror'' movies is a call back to when Rick "Cronenberged" Earth in "[[Rick Potion No. 9]]".
+*[[Morty Smith|Morty]] chooses his 10th adventure, referencing his freedom of choice gained from winning the bet in [[Meeseeks and Destroy]].
+*Near the end of the episode, Rick references the events of "[[Mortynight Run]]".
+*Characters from previous episodes appear at the party at the end of the episode. This includes MC Haps (the rapper from "[[Rick Potion No. 9]]" ), [[Slippery Stair]] (from "[[Meeseeks and Destroy]]") and a guy with a Bart Simpson shirt that can be seen at the Flu Season Dance in "[[Rick Potion No. 9]]" and the party in "[[Ricksy Business]]". [[Revolio Clockberg, Jr.|Gearhead]] also makes a cameo at the party and is directly referenced by [[Rick Sanchez|Rick]].
+*[[Morty Smith|Morty]] mentions that the neutrino bomb has a 40% chance of being a dud due to Rick's drunken improvisation of them. This means the neutrino bomb that was armed in the first episode was possibly a dud and never blew up.
 
 ===Cultural references===
-* The title is possibly a reference to the recurring title formula for episodes of ''The Big Bang Theory''.
-* The entire scene where Summer enlarges through the Morphizer-XE to the point where she destroys the garage is a reference to ''Alice In Wonderland''. Her attack and journey towards Ethan and Tricia could also be seen as a reference to ''Attack of the 50 Ft. Woman''.
-* Summer enlarging herself, going on a rampage, and Beth having to become enlarged to stop her is a reference to the film ''Honey I Blew Up The Kid'' which follows the same storyline but with a baby boy instead of a teenaged girl.
-* Jeff Goldblum is also referenced as a joke which both Rick and Jerry agree on, where Rick says "Yo what's up, Big Chill! Don't go into that tele-pod!". This is a reference to the movie ''The Fly'', where Jeff Goldblum's appearance becomes severely altered after combing with a fly. This is referenced due to the ugly nature of some aliens which both Rick and Jerry recognize as Jeff Goldblum's face.
-* During the trip through the temporal field, a lot of cultural imagery appears, particularly in the form of archetypal images (including religious imagery - pagan, Egyptian, Christian, Hindu and occult - such as Baphomet).
-** This entire sequence is a reference to the 1980 film ''Altered States'', which has similar imagery and scenes.
-** The start and end animation may reference Anthony Francisco Schepperd's famous 2009 animation for a song 'The Music Scene' by the musician 'Blockhead'. [https://youtu.be/EJqo90lNYLs?t=35 Link]
-** The naked lion fight is a reference to a clip from the cafe scene of the 1968 film 'If....' by Lindsay Anderson. [https://youtu.be/4mIEShgpJ3k?t=217 Link]
-** The scene where Rick appears in recursive columns made of eyes is straight out of psychedelic artist Alex Grey's works.
-** Rick refers to the experience as "''cosmic apotheosis''" - this is a Greek concept of becoming God. It is implied that Rick has become God or merged with the cosmos (dualistic language breaks down) as he is sat cross-legged with his middle finger up.
-*** He sits beneath a pyramid underneath a "star tetrahedron" - the main symbol of sacred geometry. Above the pyramid projects "the all seeing eye" - the eye of Horus, the main God of the Egyptian pantheon and symbol of consciousness. This symbolizes the universe/God's essence, or oneness, which Rick merges with.
-*** The two deer-headed beings are male and female, (duality) and are possible references to Adam and Eve, and flow from the oneness which is God/Rick/Cosmos. Jerry appears to be "born" of their union. Jerry then "wakes up" and realises he is "literally Time". He is meditating in the lotus position and his chakras are all lit up. (This is his first experience of it, whereas Rick has experienced it before).
-*** The final symbol is the triskele, a pagan symbol referring to the trinity. (The one where the three of them merge).
-** After they return, Rick jokes that cosmic apotheosis wears off faster than salvia, which is a potent hallucinogen, reinforcing that these images are a mash up of psychedelic and religious symbols and ideas being played for laughs. Jerry felt their "souls were united and they were one with eternity," but soon went back to thinking Rick was an asshole.
-** At the beginning of the sequence Jerry asks "Am I dead? Am I still alive?", to which Rick's consciousness mysteriously responds, "Those aren't the questions you should be asking". This suggests that Rick's mind has indeed transcended the confines of 'life and death', of duality, and has become God. His response thus poses it's own question: "Who, or what, is asking the question?"
-* Ethan's punishment of augmented bodily horror imposed by Morty may be a reference to the 1967 science-fiction short story ''I have no Mouth and I must Scream'', written by Harlan Ellison.
-* The Whirly-Dirly and its destruction is possibly a reference to the time travel machine from the 1997 movie ''Contact''.
-* The scenes where Summer and later Beth had themselves enlarged and then turned their skin inside-out is a reference to the design of the Colossus Titan from the manga and anime ''Attack On Titan''.
-* While driving around town in search of Summer, Beth describes Summer's transformation as Summer having "Clive Barkered" herself. Clive Barker is an English novelist and movie director who wrote ''The Hellbound Heart ''and directed the body horror movies ''Hellraiser ''and ''Candyman''.
-** Beth's comment is an obvious allusion to ''Hellraiser'', specifically to the movie's villain, Frank Cotton, who is horribly mutilated by the cenobites, but later returns as a flayed undead corpse.
+* The Vindicators are an obvious homage to superhero teams from both Marvel and DC Comics including The Avengers, Guardians of the Galaxy and The Justice League.
+** This can be seen when Morty refers to The Vindicators as 'The Guardians of the Unguarded', which is an obvious playoff to the Marvel's superhero team with the similar name.
+** The logo of The Vindicators resembles an upside-down Avengers symbol.
+** Each Vindicator parodies a different type of superhero in the superhero genre.
+*** [[Vance Maximus]] is the wise-talking technologically-enhanced Vindicator and resembles Iron Man, Star Lord and The Falcon. Additionally, his surname is Star Soldier, which is a reference to how superhero names are often a technological or astronomical word followed by an ordinary human word (like Star Lord or Iron Man).
+*** [[Alan Rails]] is the grim and depressed character whose tragic origin story makes him constantly struggle with his own internal demons, which closely resembles Batman. Throughout the episode, Alan is portrayed as being gruff and to the point with others and very protective of his loved ones, which is also similar to Batman.
+*** [[Supernova]] is the cosmic protector that is able to summon cosmic and intergalactic energy and often roams space alone with some form of intergalactic awareness, which closely resembles characters such as Doctor Strange, The Silver Surfer and Green Lantern. She is shown to have allegiance to a cosmic entity known as "Star Mother", which is a reference to the need for superheroes of this type to have a governing body (like Green Lantern's Lantern Corps or The Silver Surfer's Galactus). Her summoning of stars is also very similar to that of Storm in the 1980s X-Men cartoon series.
+*** [[Million Ants]] is the alien body sent to another planet that appears to perform only heroic actions and usually performs a Christ-like role by dying for others. This is a parody of Groot from ''Guardians of the Galaxy'', who is also an alien that sacrifices himself to save the lives of his team, as well as Superman, who traveled to Earth from Krypton as a baby and died for the people of Earth in 2004's Doomsday event. He could also be a literal interpretation of Ant-Man.
+*** [[Crocubot]] is a satire of characters like The Hulk and The Lizard who are infused with some sort of ability of an entity considered awesome such as a reptile or a monster. However, Crocubot shows that when two awesome things (a crocodile and a robot) are combined, they cancel out to be relatively lame.
+*** [[Lady Katana]], [[Calypso]], and [[Diablo Verde]] are all mentioned as being Vindicators that died during their previous adventure. However, during the roller-coaster designed by Rick, the audience gets a glimpse of three heroes that are believed to be the three deceased Vindicators. [[Lady Katana]] satirises mythological warriors like Thor, Hercules and Wonder Woman and [[Calypso]] references elementals like Ice Man, Storm and The Human Torch while [[Diablo Verde]] parodies bad-ass superheroes like Hellboy and Drax the Destroyer. The trio are also references to characters from Suicide Squad being: Katana, The Enchantress, and Diablo **spoilers** two of which die in the film which is also referenced in Rick and Morty.
+*** [[Worldender]] was meant to be a parody of apocalyptic villains such as Darkseid and Thanos, until Rick singlehandedly ended his reign of terror with ease.
+*** Doomnomitron is a reference to Ultron. Not only do their names sound similar but Doomnomitron is established as the villain of The Vindicators' second adventure while Ultron was the villain of The Avengers' second cinematic teammup. Also, Crocubot states during the episode that The Vindicators destroyed a planet during their fight with Doomnomitron which is a reference to The Avengers destroying the city of Sokovia during their fight with Ultron.
+* Morty compares Rick's drunken antics to the ''Saw'' movie series, where individuals are forced to play dangerous, yet therapeutic, games under a strict time limit by someone/people sitting behind a screen.
+* The three-point shot challenge references ''Escape from L.A.'', where, in one scene, Snake (the protagonist) is similarly forced into scoring points in basketball within a limited amount of time.
+* Drunk Rick can also be seen wearing a deerstalker hat, an item associated with Sherlock Holmes. This is a reference to the final episode of season 4 of the BBC's ''Sherlock'', in which Sherlock Holmes, John Watson, and Mycroft Holmes are put in a series of personal challenges each of which involves the death of either an innocent bystander or one of the trio. The theme of this episode is shown throughout the episode.
 
 ==Transcript==
-View a full transcript of this episode [[The Whirly Dirly Conspiracy/Transcript|here]].
+View a full transcript of this episode [[Vindicators 3: The Return of Worldender/Transcript|here]].
 
-{{Gallery}} 
+{{Gallery}}
 {{Reflist}}
 
-== Site navigation ==
-{{Episodes}} {{DEFAULTSORT:Whirly Dirly Conspiracy, The}}
+== Site Navigation ==
+{{Episodes}}[[pl:Vindicators 3: The Return Of Worldender]]
+
+
+ 
+[[Category:Episodes]]
 [[Category:Season 3 episodes]]
 [[Category:Rick Episodes]]
-[[Category:Jerry Episodes]]
-[[Category:Summer Episodes]]
-[[Category:Beth Episodes]]
-[[Category:Episodes]]
+[[Category:Morty Episodes]]
+[[Category:Sequels]]

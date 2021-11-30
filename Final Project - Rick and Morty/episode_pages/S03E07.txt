@@ -1,188 +1,199 @@
 {{Episode
-|name = Morty's Mind Blowers
-|image = rm.s03e08.s05.png
 |season number = 3
-|episode = 8
-|network = [adult swim]
-|ratings = 2.51<ref>{{Cite web |url=http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-sept-17-2017/ |title=Sunday cable ratings: ‘Outlander’ and ‘The Deuce’ steady with second episodes |last=Porter |first=Rick |work=TV by the Numbers |date=September 19, 2017 |accessdate=September 19, 2017 |url-status=live |archiveurl=https://web.archive.org/web/20170919234406/http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-sept-17-2017/ |archivedate=September 19, 2017}}</ref>
-|prev = [[Tales From the Citadel]]
-|next = [[The ABC's of Beth]]
-|airdate = September 17, 2017 (United States)<br>May 19, 2019 (Canada)
-|director = [[Bryan Newton]]
-|writer = [[Mike McMahan]]<br>[[James Siciliano]]<br>[[Ryan Ridley]]<br>[[Dan Guterman]]<br>[[Justin Roiland]]<br>[[Dan Harmon]]}}
-{{quote|And we'll be doing this instead of Interdimensional Cable.|Rick}}
-"'''Morty's Mind Blowers'''" is the eighth episode of the [[Season 3|third season]] of ''[[Rick and Morty (TV series)|Rick and Morty]]''. It is the 29th episode of the series overall. It premiered on September 17, 2017. It was written by [[Mike McMahan]], [[James Siciliano]], [[Ryan Ridley]], [[Dan Guterman]], [[Justin Roiland]], and [[Dan Harmon]] and directed by [[Bryan Newton]].
+|episode = 7
+|airdate = September 10, 2017 (United States)<br>May 12, 2019 (Canada)
+|image = S3e7 Tales From the Citadel.png
+|writer = [[Ryan Ridley]]
+|ratings = 2.38<ref>{{Cite web |url=http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-sept-10-2017/ |title=Sunday cable ratings: 'The Deuce' starts off on par with 'The Night Of' |last=Porter |first=Rick |work=TV by the Numbers |date=September 13, 2017 |accessdate=September 13, 2017 |url-status=live |archiveurl=https://web.archive.org/web/20170914081701/http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-sept-10-2017/ |archivedate=September 14, 2017}}</ref>
+|director = [[Dominic Polcino]]
+|prev = [[Rest and Ricklaxation]]
+|next = [[Morty's Mind Blowers]]
+|name = Tales From the Citadel
+|network = [adult swim]}}"'''Tales From the Citadel'''," marketed as "'''The Ricklantis Mixup'''," is the seventh episode of the [[Season 3|third season]] of ''[[Rick and Morty (TV series)|Rick and Morty]]''. It is the 28th episode of the series overall. It premiered on September 10, 2017. It was written by [[Ryan Ridley]] and directed by [[Dominic Polcino]].
 
-==Synopsis==
-Rick shows Morty a room filled with memories Morty begged him to remove from his mind, and things go off the rails when Rick starts restoring them.
-==Plot==
-The episode starts off with Rick and Morty on the run from a strange humanoid creature set in a world similar to M.C. Escher's painting "Relativity" in which there are stairs all over the place and the rules. Morty is seen holding a turtle-like creature named the "Truth Tortoise." Morty looks at the Truth Tortoise, despite Rick's warnings, and causes Morty to drop the creature in a void. The place collapses, but not before the duo escapes.
+== Synopsis ==
+Rick and Morty encounter a visiting Rick and Morty from the Citadel of Ricks before heading off on an amazing adventure to Atlantis.
 
-Both of them arrive to the Smith residence. Rick wants both of them to watch Interdimensional Cable, but Morty complains about the looping memory in his head and asks Rick to erase the memory off his mind. So Rick leads Morty to a secret chamber underneath the garage, which contains various tubes that archives memories Morty wanted Rick to remove. Rick calls them "Morty's Mind Blowers" hence the title, then faces the audience telling them that they will be doing this instead of watching Interdimensional Cable.
+== Plot ==
+As [[Rick Sanchez|Rick]] and [[Morty Smith|Morty]] prepare to go to Atlantis, they're interrupted by a Rick and Morty pair looking for donations to the [[Citadel of Ricks|Citadel]] Redevelopment fund. Our Rick and Morty refute the possibility of donation with hostility, pointing out that our Rick was the one to destroy it in the first place, and the pair leave.
 
-Morty asks Rick how long he ever wanted to remove certain memories, and Rick just replies that he wanted to "ever since your (Morty) mind was blown." Rick grabs a blue tube and nicknames it "Moon-spiracy" just before Rick activates the helmet and places the tube on the hole of the helmet.
+The scene then cuts to show a fully-fledged, well-developed Citadel, which has extended beyond being a mere government into the territory of being a (mostly) functional society consisting only of Ricks and Mortys. The Citadel makes quick work of recuperating from Rick's attempted destruction of it, with workers restructuring its foundation, commuters proceeding with their work and an election going on. Contention surrounds the fact that a Morty has decided to run a political campaign, with the news anchor Ricks sardonically and aggressively defaming him on the news, leading [[Campaign Manager Morty]] to suggest that [[President Morty|Candidate Morty]] withdraw from the race. Despite this, Candidate Morty refuses.
 
-The memory starts off with Morty and a telescope just outside their front lawn. Morty at first admires the American flag planted on the lunar surface before he notices a strange figure standing in a mid-stride walking pose. He then goes and tells his family, but nobody, including Rick, believes him; they suggest that it was merely a smudge on the lens. He then finds out that Mr. Lunas is, in fact, a real person, as he comes to Morty's high school to work as a guidance counselor. Later on, Morty snaps pictures of Lunas, planting an American flag in his yard, and tells Principal Vagina that he thinks Lunas is "up to something" and "lives on the moon." Vagina takes this as a metaphor for pedophilia and goes outside to the parking lot to confront Lunas, ending in Lunas getting punched in the face. As a result of this accusation, Lunas goes home and commits suicide, which Morty finds out about from the ambulances outside of Lunas' home. Morty later eavesdrops on Lunas' funeral, where it is learned that Lunas served in the Marine Corps, and that "from a certain angle, some people would say he looked like a smudge." Morty then runs home and sees that there is, in fact, a smudge on his telescope lens, realizing that he inadvertently drove Lunas to kill himself.
+Meanwhile, a Morty Pride rally/protest is occurring on the streets. Here, a newly recruited [[Cop Rick]], while standing outside the [[Cafe Sanchez]], is surprised to discover that he has been paired with a jaded and critical [[Cop Morty]], who possesses anti-Morty sentiments and tasers any Morty that gets close to his car, calling them slurs such as "yellow-shirts", (much to the surprise of Cop Rick). Despite being called out, Cop Morty digresses that no one cares about broken codes or corruption. The pair are called to attend to a robbery committed in "Mortytown," a ghetto populated by Mortys who, for some reason or another, were deemed unsuitable for pairing with another Rick.
 
-Morty ended up inserting memories on his own. He started to remember Beth choosing Summer's life over his, Beth, Summer, and Rick insulting Morty as Voltematron forces himself back into Morty's mouth, Rick killing an animal that helped them find water and having him and Morty enter its guts after confusing Venzenulon 7 with Venzenulon 9, Rick tricking NASA employees into rescuing them so they could replace him and Morty in a menagerie, Morty getting chased by a hoard of squirrels after learning they controlled the world forcing him and Rick to move to a new reality again, Rick sending lambs to the Cosmic Slaughter, Morty having his hand chopped off, Rick hunting Morty as a ghost, Morty's head being attached to Snowball's body, Rick juggling Morty's body parts, Morty being eaten and pooped out by an alien, Mr. Poopybutthole proposing to Morty, etc. Rick also happened to have erased memories from Morty that involved Rick himself getting embarrassed just to secure his own pride.
+While this occurs, a Morty school is in session, where Mortys are being educated on how to act for when they are <span style="font-weight:400;">been</span> reassigned a new Rick. After the lesson, they are told they will graduate and be assigned a new Rick the following day. Hearing this, [[Lizard Morty]], [[Glasses Morty]] and [[Left-Handed Morty]] (Left Hand Morty) are encouraged by [[Slick Morty]] to make the most of their small amount of time left together by going to the "wishing portal". The four eventually agree to embark on the journey together.
 
-After realizing that Rick also took away memories without Morty asking or even wanting him to, Morty gets enraged and attacks Rick, pinning him to the floor. Rick manages to use the mind eraser on Morty, but Morty turns the tables and points the device at Rick while it's still being used. This causes them to not remember each other. Trying to find out who they are, Morty uses the helmet and goes through many more traumatic memories until he snaps and decides to kill himself over it, while Rick joins in as part of the suicide pact.
+As this takes place, a [[Simple Rick’s Wafer Cookie factory|factory]] producing Simple Rick's wafers (wafers doused in the psychic resonance of Simple Rick and his memory of having spent time with a young [[Beth Smith|Beth]] on her birthday), the Rick who would later become the Factory Terrorick ([[Rick J-22]]) is passed by for a promotion in favor of [[Cool Rick]] (K-83).
 
-Summer enters as Rick and Morty have guns to their own heads. When Rick doesn't remember her, Summer quickly realizes the situation. She reveals that Rick had a contingency plan should this happen (and has used it several times before) and tranquilizes them, restores both of their memories and drags them to the living room. Rick and Morty wake up on the couch. They believe that they slept through an entire "Interdimensional Cable" episode as Rick questions how that even happened. The two then hurl verbal abuse at Summer and decide to head off on another adventure. Summer moans that this is the reason the two are "''constantly fighting and behind schedule''".
+Meanwhile, Cop Rick and Cop Morty arrive in Mortytown to investigate the reported robbery, where Cop Rick learns more about the resident Mortys and what conditions they live with. The pair question the Morty Mart Manager Morty, who describes the robbers' appearances as four normal-looking Mortys. Whilst Cop Rick attempts to attain more information, Cop Morty uses his Morty-like nature to attempt to get some insider information from some vandalizing Mortys. After the vandalizing Mortys criticize him on his uniform and his relation to Rick, Cop Morty snaps, forcefully interrogating them and learning that a group called the "Mortytown Locos" were the ones who committed the crime. Cop Rick, shocked at Cop Morty's violation of codes, is ordered to get back into the car.
 
-In the post-credits scene Jerry shows up in Rick's garage and discovers a box containing "[[Jerry's Mind Blowers]]" where, in a twisted homage to ''E.T.: The Extra-Terrestrial'', he discovers he accidentally left an alien to die in his car.
+During this, the Presidential Election Campaign has commenced, with the candidate Ricks all providing their own solutions to issues currently surrounding the Citadel. When the time comes for Politician Morty to offer his solution to the social divide between Ricks and Mortys, he is mocked by his rivals. However, he answers with clarity and delivers the conclusion that the great divide is a result of the death of the Citadel, and that the main solution is recognizing how there are many Ricks and Mortys who believe in the Citadel's prosperity and success, as opposed to those who don't. As the crowd responds with great applause, Campaign Manager Morty is amazed by Politician Morty's success, to which Politician Morty responds by firing him.
+
+As Politician Morty delivers his message, Rick J-22 manages to snap in rage, killing the Regional Manager Rick and forcing himself to retreat into the Simple Rick's Factory's Flavor Core with an unconscious Simple Rick, locking the room around him. As he is shown trapped in the room, SWAT Team Ricks begin to swarm the building, attempting to negotiate and rationalize with Rick J-22, but with no success.
+
+As Campaign Manager Morty watches the event unfold on the TV from a bar, the news coverage switches back towards the highly-likely victory for Politician Morty and his speeches. Displaying his negative feelings of the situation, Campaign Manager Morty is then confronted by [[Investigator Rick]], who delivers some secret files and warns him that he should be fearful of what is to come.
+
+In Mortytown, the Mortytown Locos are also watching the same speeches, as Bootleg Portal Chemist Rick is attempting to create Bootleg Portal Fluid for inter-dimensional transport. At the same time, Cop Rick and Cop Morty break down the door, apprehending three of the Mortytown Locos. [[Bootleg Portal Chemist Rick]] attempts to escape through his own portal fluid, only to be killed due to issues of its bootleg-nature. Cop Rick then scouts around upstairs to find the fourth member of the Mortytown Locos, who plays with Rick's sympathy and stabs him in the shoulder. Rick quickly shoots the fourth member, and Cop Morty comforts Rick, saying that it is alright to put your faith in Mortys, but only the right ones. As Rick leaves to get medical treatment, Cop Morty then destroys the building.
+
+Meanwhile, Lizard Morty, Glasses Morty, Slick Morty, and Left-Handed Morty attempt to take some mega fruit, only to be chased off into a stream by an angry Mega Fruit Farmer Rick and his robot dog. As time turns to night, the group then gather around a campfire, where they converse over their wishes. Slick Morty, however, presents negative, dramatic opinion, causing Glasses Morty to comfort him by clarifying that he is more than just a dramatic person.
+
+Whilst this occurs, Politician Morty leaves ''Hard Rick'' Cafe to a large crowd of Ricks and Mortys who are excited over his recent statements. Within this crowd, Politician Morty spots his former Campaign Manager Morty and asks about his job search. Campaign Manager Morty states his new job is to assassinate Politician Morty as he pulls a gun from his jacket and shoots Politician Morty, causing him to bleed and lose consciousness. Campaign Manager Morty is then swiftly tasered by a Secret Service Rick, causing him to be apprehended.
+
+Following their recent handling of the Mortytown Locos, Cop Morty takes Cop Rick to a club called The Creepy Morty, where he meets [[Big Morty]], a drug-lord who presents Cop Rick and Cop Morty with money for their efforts. Cop Rick, having moral issues with this action, attempts to make an arrest of Big Morty, but causes a shootout in the club. During this shootout, Cop Morty tackles Big Morty to the ground, ready to kill. However, Cop Rick attempts to get Cop Morty to do the right thing, knowing he is capable of doing so. Cop Morty attempts to play with Rick's sympathy, only to end Big Morty by surprise, but Rick expected it this time and kills him before he can turn on him. Cop Rick leaves the club, where he surrenders to the other police officers over the death of the many Mortys in the club.
+
+Meanwhile, Rick J-22's negotiation for a working portal gun seemingly succeeds, causing the SWAT Team Ricks to deliver him a portal gun. Rick J-22 then awakens Simple Rick from his long unconscious state and sends him through the portal first, revealing that the dimension the portal gun was set to was the [[Blender Dimension]] and leads to Simple Rick's death. As he holds no leverage, the SWAT team finally cut a hole in the door to rush in, only to be stopped by [[Rick D. Sanchez III]], who sympathizes with Rick J-22, letting him go free. However, as he is set free, a narrative voice appears again, revealing that Rick J-22's attempted escape is just a replaying memory which the company is feeding off of to create their new product.
+
+Lizard Morty, Glasses Morty, Slick Morty, and Left-Handed Morty all manage to get to the Wishing Portal, where they all throw something of value to them in return for a wish. Left-Handed Morty throws in his panini maker, wishing for a million sandwiches, while also acknowledging the irony of his wish. Lizard Morty throws in his surfer necklace, wishing for something better in return. Glasses Morty throws in a piece of technology, wishing for incest porn to be more mainstream. However, Slick Morty becomes sad and expresses his wish for life to change for Mortys, ultimately throwing himself into the portal. It is then later revealed that the portal is part of a garbage dump.
+
+Meanwhile, Campaign Manager Morty is thrown into an airlock chamber by Secret Service Ricks, revealing to him that his assassination attempt failed and that Politician Morty will become the President of the Citadel. Campaign Manager Morty attempts to warn them that Politician Morty is not who he seems, but the Secret Service Ricks disregard him, sending him out into the vacuum of space.
+
+Cop Rick is shown in a small interrogation room, ready to accept his punishment, when council members enter, telling him that he is free and none of his actions matter, due to the changes in department codes.
+
+Lizard Morty, Glasses Morty, and Left-Handed Morty return to Morty School, only to find Teacher Rick to be locking the doors, revealing that no Ricks will be coming for the graduation and that he is fired, due to changes in the curriculum. The trio believes that Slick Morty's wish came true, where now a new, different life is available for Mortys.
+
+Rick D. Sanchez III enters a room with the [[Shadow Council of Ricks]] and the new President Morty. One member of the Council, Garment District Rick, then raises his opinion, stating that it doesn't matter who sits in the president's chair as the Council has, and always will, have control over the Citadel. President Morty, who has his back to them, responds to this by holding up his mirror and having the Ricks raise their hand if they agree with that statement before calling his guards to assassinate those who agreed. President Morty then asks the surviving Ricks, who are all now terrified, if they will obey and they agree.
+
+A montage shows new banners being deployed, Cop Rick going back to work, the trio of Lizard Morty, Glasses Morty, and Left-Handed Morty clad in new uniforms and harvesting mega fruits, and the corpses of the council members being dragged into airlock chambers, while President Morty ponders about making a "cold, calculated speech with sinister overtones" about the changes in politics, about order, brotherhood, and power, only to declare that, now that he is elected, the time for speeches is over and he can finally act.
+
+The dead council members are expelled into space, where they join the floating bodies of many Ricks and Mortys, including Cop Morty, Big Morty, Investigator Rick, and lastly Campaign Manager Morty, shown next to the secret documents which reveal the newly-elected "President Morty" is none other than the former [[President Morty|Eye Patch Morty]] who had controlled [[Evil Rick Sanchez|"Evil" Rick"]] in "[[Close Rick-counters of the Rick Kind]]".
+
+In the post-credit scene, Rick C-137 and his Morty return from their Atlantis adventure, where they boast and recollect about their sexual interactions with the mermaids. Morty asks Rick if he is concerned at all about the Citadel's return, to which he confidently responds that such a place "will never have any bearing over [their] lives ever again".
 
 ==Cast and characters==
 {| cellspacing="1" cellpadding="1" style="width:100%;"
 | valign="top" width="50%"| '''Main Cast'''
 *[[Justin Roiland]] as [[Rick Sanchez]] / [[Morty Smith]]
-*[[Chris Parnell]] as [[Jerry Smith]]
-*[[Spencer Grammer]] as [[Summer Smith]]
+**Various Ricks: [[Cop Rick]] / [[Simple Rick]] / [[Rick J-22]] / [[Rick Sanchez (K-22)]] / [[Teacher Rick]] / [[Slow Rick]] / [[Cool Rick]] / [[Regional Manager Rick]] / [[Cyclops Rick]] /  [[Rick Sanchez (D716)]] / [[Rick Sanchez (D716-B)]] / ​​​​​​[[Rick Sanchez (D716-C)]] / [[Investigator Rick]] / [[Businessman Ricks]] / [[Aqua Rick]] / [[Construction Worker Ricks|Construction Worker Ricks&nbsp;]]/ [[Policeman Rick]] / [[Headphones Rick]] / [[Luxury Rick]] / [[Rick D. Sanchez III]] / [[Simple Rick's Factory Worker Ricks]] / [[Red Sweater Rick]] / [[Juggling Rick]] / [[Rick Guilt Rick]] / [[Reverse Rick Outrage]] / [[Private Sector Rick]] / [[Retired General Rick]] / Cameraman Ricks / [[Adjudicator Rick]] / Security Guard Ricks / SWAT Team Ricks / Reporter Ricks / [[Mega Fruit Farmer Rick]] / Bodyguard Ricks / [[Plumber Rick]] / [[Afro Rick]] / Baby Clone Rick / [[Cowboy Rick]] / Writer Rick / Stylist Rick / Turban Rick / [[Garment District Rick]] / Taxi Driver Rick / [[Bootleg Portal Chemist Rick]] / [[Bald Rick]] / Secret Service Ricks / Steve Jobs Rick
+**Various Mortys: [[President Morty|Candidate (later President) Morty]] / [[Campaign Manager Morty]] / [[Cop Morty]] / [[Left-Handed Morty]] / [[Lizard Morty]] / [[Slick Morty]] / [[Glasses Morty]] / [[Morty Smith (K-22)]] / [[Big Morty]] / [[Cyclops Morty]] / [[Facemask Morty|Facemask Morty&nbsp;]]/ [[Squid Morty]] / [[Marty Morty]] / [[Crop Top Morty]] / [[Crystal Morty]] / [[Trunk Morty]] / [[Alien Morty]] / [[Beret Morty]] / Facepaint Mortys / Marching Band Mortys / [[Morty Mart Manager Morty]] / [[Mortytown Locos]] / Reporter Mortys / Bartender Mortys / Waiter Mortys / [[Psychopath Morty]] / [[Cowboy Morty]] / Justin Roiland Morty / Caesar Flickerman Morty / Beard Morty / Short Shorts Morty / No Outline Morty / [[Head Flower Morty]] / Bodyguard Mortys / [[Pink Insect Morty]] / Wasted Morty
 *[[Sarah Chalke]] as [[Beth Smith]]
 
 
-'''Non-speaking characters'''
-* [[Nancy]]
-* [[Mr. Poopybutthole]]
-* [[Snuffles]]
-* [[Mr. Meeseeks]]
-* [[Gazorpians|Female Gazorpians]]
-* Santa Claus
-* [[Gobo]]
-* [[Beebo]]
-* [[Chang]]
 
-'''Unknown voices'''
-*[[Truth Tortoise]]
-*[[Jodie]]
-*[[Jagoff]]
-*[[Voltematron]]
+
+
+
+'''Non-speaking characters'''
+*[[Jessica |Jessica]]<sup>(mentioned)</sup>
+*[[Jerry Smith]]<sup>(mentioned)</sup>
 | valign="top" width="50%"| '''Starring'''
 
-*Jonas Briedis as [[Zick Zack]]
-*[[Dan Harmon]]  
-*Phil Hendrie as [[Principal Vagina]]
-*Maurice LaMarche as [[Gordon Lunas|Mr. Lunas]]
-*Rob Paulsen
-*[[Ryan Ridley]]  
-*[[Kari Wahlgren]]
+*Jeff B. Davis as Simple Rick's Narrator
 |}
 
-==Deaths==
-* [[Gordon Lunas]]
-* [[Zick Zack]]
-* [[Beebo]]
-* [[Captain Sky]]
-* [[Gobo]]
-* Santa Claus impersonator
-* [[Unnamed Alien]]
-*many redhead woman
-*Human alien Souls sucked into vortex 
-*Trapped human and alien souls sucked into vortex 
-*Car driver,crashed off screen 
-*Many unnamed people 
-*Truth tortoise 
-*Unnamed humanoid 
-*old woman 
-*Fly
-*House
+== Deaths ==
+*[[Cop Morty]]
+*[[Campaign Manager Morty]]
+*[[Investigator Rick]]
+*[[Simple Rick]]
+*[[Big Morty]]
+*[[Big Morty's Body Guard Mortys]]
+*[[Rick D. Sanchez III]]
+*[[Garment District Rick]]
+*[[Reverse Rick Outrage]]
+*[[Private Sector Rick]]
+*[[Bald Rick]]
+*[[Cyclops Rick]]
+*[[Regional Manager Rick]]
+*[[Bootleg Portal Chemist Rick]]
+*[[Psychopath Morty]]
+*[[Adjudicator Rick]]
+*[[Rick Sanchez (D716)]]
+*3 [[Mortytown Locos]]
+*All but two members of [[Shadow Council of Ricks]]
+*Many unnamed Ricks
+*Many unnamed Mortys
 
-== Locations ==
-* [[Granador 7]]
-* [[Titan]]
+== Location ==
 * [[Replacement Dimension]]
-* [[The Menagerie]]
-* [[Don Cuco]]
-* [[Phoebe]]
-* [[Venzenulon 9]] (mentioned)
-* [[Venzenulon 7]]
-* [[Vomits Grocery's Carpark]]
-* [[Jerry's Apartment]]
-* [[Alpha Centauri]] (mentioned)
+* [[Citadel of Ricks]]
+* [[Mortytown]]
+* [[Morty School]]
+* [[Simple Rick’s Wafer Cookie factory]]
+* [[Morty Mart]]
+* [[The Creepy Morty]]
+* [[Blender Dimension]] (mentioned)
+* [[E. Sanchez Heights]] (mentioned)
+* [[The Wishing Portal]]
+* [[Hard Rick Cafe]]
+* [[Zorpantheon 9]] (mentioned)
 
-==Episode notes==
+== Episode notes ==
+
 ===Trivia===
-*In celebration of [[season 3]], [[Pocket Mortys|Pocket Mortys']] weekly updates will coincide with new episodes, including new avatars for players to collect.<ref>{{cite web |url=http://nerdist.com/pocket-mortys-rick-and-morty-season-3-episodic-updates/ |title=POCKET MORTYS Will Get Updates for Every RICK AND MORTY Season 3 Episode |last=Rossignol |first= Derrick |date=July 5, 2017 |website= Nerdist.com|publisher= Nerdist|access-date= July 6, 2017}}</ref> With the release of this episode came: Ghost Catcher Rick, Gobo and Space Trooper Rick as [[List of Pocket Mortys trainers and NPCs#Custom_avatars|avatars]], and Ingested Morty, Voltamatron Morty, Snuffles Morty, Space Trooper Morty, Monster Morty, Possessed Morty, and Mindblower Morty to catch.
-*This is an anthology-styled episode that is taking the place of Interdimensional Cable, as Rick points out.
-[[File:Rm.s03e08.s01.png|thumb|The truth tortoise.]]
-* The Truth Tortoise says "I am a Beatle, Paul is dead!" backwards to Morty.
-** This is a reference to a conspiracy theory that claimed that Paul McCartney from The Beatles died during 1966-67 and was replaced by a look-alike. Claims to the theory included listening to certain tracks by the group backwards that revealed clues of Paul's "death" (e.g. ''Strawberry Fields Forever'': John Lennon saying "Cranberry sauce" was misinterpreted to say "I buried Paul").
-*Lunis' car license is SATFIV3
-**This is a reference to the [[Wikipedia:Saturn_V|Saturn V]] rocket used to send man to the moon.
-*Morty enters a word with 7 letters into Rick's magnet which causes red-haired women with large busts to be brought to the magnet. As such, one can possibly presume that the word was "Jessica" or "redhead".
-*The program that Rick and Morty are watching when they return to the couch is House Hunters, featuring hunters literally hunting anthropomorphic houses.
-*The squirrel dimension fragment sparked a small debate on whether Rick and Morty did escape that dimension into another replacement dimension after all (see below). Since Rick speficially mentions that they can do it "only a couple more times", it's clearly taking place after the original escape; however, while the ''possibility'' of a new escape is shown, it's also possible that Rick eventually resolved the problem with squirrels without jumping into a new dimension. 
-** It's also debatable whether the memories are in fact accurate (or, whether '''any''' memory is accurate, due to Rick's ability to edit them).
-*In Don Cuco, there is a sign which says "El Baño" in cursive (which can be misread as "El Baña", which translates from Spanish to "The Bathroom" or culturally it is also accepted as "The Restroom".)
-*Its revealed Beth favors Summer over Morty as shown in one of the memories.
-*Morty's name can be read as "Morry" on step 1 of the list of Scenario 4 instructions for Summer due to the missing line for the letter ''t''.
-*The people hooked up to life support in Storage Unit 1700 is probably a rework of a deleted scene from Season 1 Episode 8, "The Young and the Restful."
-*Susanne Blakeslee, best known for her roles as Wanda and Mrs. Turner on the ''Fairly OddParents'', voices the female squirrel, but is uncredited.
-*The vial Rick grabs off the floor, after losing his memory was purple, but in the next shot it's blue.
-*In the flashback with the magnet, several Morty was sitting on a cabinet with his legs in front of the doors, but when the doors open that clip right through Morty's legs.
-*In some of the very first frames of when they enter the room of memories, towards the bottom of the frame there is a memory in red labeled "Virginity".
-
-===Squirrel dimension vs Replacement Dimension===
-This episode suggests that Rick and Morty might have left [[Replacement Dimension]]. Rick mentions that they can change dimension only a couple of times. He previously said it in "[[Rick Potion 9|Rick Potion No.9]]". However we know from S3 E7 that many Rick and Mortys hop dimensions '''''all the time''''' and this is treated as the norm in the citadel not the exception, so "we can do it only a few times" isn't necessarily unique to C-137 Rick and his Morty.
-* Nowhere in this episode is Rick referred to as "C-137"
-* It should be noted that Rick removes the memory for escaping squirrel controlled world, '''''BUT NOT''''' Cronenberg world which was arguably '''''far more''''' traumatic. This might strongly suggest an alternative Rick/Morty pair in this episode. (The squirrel memory belonging to C-137 but taking place before Rick Potion #9 is unlikely since the possibility of Rick retrieving that particular memory vial from Cronenberg Dimension seems low.)
-* It is learned from Summer in "[[The Rickshank Rickdemption]]" unearthing the buried Rick and Morty that C-137 is at least living in the same dimension since Rick Potion #9. Since then the show has been fairly persistent in showcasing that C-137 has been living in a consistent dimension. From a narrative standpoint, it is difficult to pinpoint the exact timing of another dimension jump performed by C-137.
-* Mr. Poopybutthole is seen in a flashback, and we know that Mr. Poopybutthole only exists in SOME dimensions, and the C-137 hasn't been confirmed to have any interactions with him.
-* Alternatively this '''''is''''' Rick C-137 and his Morty, however since they hopped dimensions in Rick Potion #9 the memories of leaving the squirrel conspiracy dimension could be that '''''inherited''''' of the deceased Morty from the replacement dimension they're in and '''''not the original memories''''' of the C-137 Morty. The memory vials not being the memories of C-137 Morty potentially applies to all memories presented in the episode since C-137 Rick and Morty would have picked up the deceased pair's collection of memory vials in the replacement dimension when they arrived and there's no clear way for the audience to deduce which memories are that of  the deceased replacement dimensions Rick and Morty which was '''''already there''''' and which memories were '''''added by C-137''''' ''after'' Rick Potion #9.
-* Add in the fact that Rick could've resolved the crisis without making a new escape, such as by killing off the entire squirrel conspiracy or simply by erasing ''their'' memories.
+* This is the second episode (first was "Interdimensional Cable 2: Tempting Fate") that does not include the classic intro.
+*In celebration of [[Season 3]], [[Pocket Mortys|''Pocket Mortys''<nowiki/>']] weekly updates will coincide with new episodes, including new avatars for players to collect.<ref>{{cite web |url=http://nerdist.com/pocket-mortys-rick-and-morty-season-3-episodic-updates/ |title=POCKET MORTYS Will Get Updates for Every RICK AND MORTY Season 3 Episode |last=Rossignol |first= Derrick |date=July 5, 2017 |website= Nerdist.com|publisher= Nerdist|access-date= July 6, 2017}}</ref> With the release of this episode came: General Rick, Farmer Rick, Tycoon Rick, Cop Rick and Candidate Rick Guilt as [[List_of_Pocket_Mortys_trainers_and_NPCs#Custom_avatars|avatars]], and Parade Morty, Pride Morty, Flower Morty, Festival Morty and Big Morty to catch.
+*With the exception of the narration for the ''Simple Rick's'' commercial (voiced by Jeff B. Davis) and a single line from a young Beth, this episode was entirely voiced by Justin Roiland as the various Ricks and Mortys.
+*This episode was distributed and marketed under the title "''The Ricklantis Mixup''", in order to prevent the premise and contents of the episode from being leaked months before the episode's release.
+*[[Beth Smith|Beth]] appears only as a young child, [[Jerry Smith|Jerry]] is only mentioned, and [[Summer Smith|Summer]] does not appear at all in this episode.
+*The lockers at the Morty School all have a photo of [[Jessica]] identical to [[Morty Smith|C-137]]'s.
+*All Ricks are shown to be alcoholics, and many possess the same belch as Rick C-137.
+*Citadel Morning News 5 is hosted and maintained by Ricks from the dimension D716 and its alphabetical variations.
+*Beth is shown with a horse in a photo in Simple Rick's house. This may have influenced how she grew up to become a horse surgeon.
+*Simple Rick is shown wrapping up a present for Beth with a unicorn on it. This is likely to be another reference to Beth's love of horses.
+*The Latin on the classroom board of Morty School states "MOTTO AUTEM DIEM: ACTA NON VERBA," which translates to "MOTTO OF THE DAY: ACTIONS NOT WORDS,"
+*There is a poster in the classroom of Morty School which says the word "Recycle" and show the recycle triangle symbol. Interestingly, in the center of that triangle is the face of a Morty.
+*During the episode, it's stated that the number of displaced Mortys are soaring and the Rick satisfaction levels are plummeting.
+*The helmet which Rick J-22 and Simple Rick wear to relive their memories has a pink part on top, which possibly could be a time crystal in order to keep his mindset in one specific time.
+*The Citadel has a slum section called Mortytown which is occupied by Rickless Mortys. One of Mortytown's streets is named after the sound of Rick's belch.
+*In The Creepy Morty club there is a Morty playing a pinball machine called Pocket Pool which has the words crank, spank, pull, and yank on its backglass, which are all slang terms for masturbation.
+*In the beginning of the episode, the Rick and Morty who come out of the portal looking for funds do not immediately realize that Rick and Morty C-137 are the ones who murdered the council, as seen in the line, "Oh. That was ''you,''" a callback to the fact that while the Rick and Morty are from C-137, they abandoned that dimension and went to one where they fixed the [[Cronenbergs|Cronenberg]] virus but died soon after. The Rick and Morty funding thought that C-137 RnM were from whatever dimension the show is currently in, or was, as in [[Morty's Mind Blowers]] it is shown that was not the only time C-137 has hopped dimensions.
+*Early in the episode, when the News Anchor Ricks are first discussing Candidate Morty, we see a Morty frozen in a magenta crystal very similar to the crystal Jessica got frozen in in [[Mort Dinner Rick Andre]].
 
 ===Series continuity===
-* Rick breaks the fourth wall, mentioning that this episode will be in place of Interdimensional Cable, a set of episodes ("[[Rixty Minutes]]" and "[[Interdimensional Cable 2: Tempting Fate]]") which explore other realities through the interdimensional cable box. The interdimensional cable box also makes an appearance.
-* The cracks surrounding the house following the events of "[[Ricksy Business]]" and "[[A Rickle in Time]]" are still visible.
-
-* Rick's statement "grab a shovel" is a reference to his statement when burying his own body in the episode "[[Rick Potion 9|Rick Potion No.9]]".
-
-*One of Morty's memories features the character [[Mr. Poopybutthole]] as Morty is shown being proposed to by Mr. Poopybutthole, wherein the original he actually proposes to his wife.
-*One of Morty's memories features [[Snuffles]], as Morty is shown having his head on Snuffles' body.
-*Jerry is still shown to have a picture of the Titanic located above his bed in his apartment and is also seen watching it on his phone, referencing his obsession over the ship and the movie. This obsession is shown in the episode "Ricksy Business".
-*When Morty is going through all the memories, one of the memories shows him burying Santa Claus.
-**This may be a callback to "[[Rest and Ricklaxation]]" when a toxic performer tells children that Santa isn't real.
-*Among the aliens present in the Collector's menagerie are pair of [[Mr. Meeseeks]], a few female [[Gazorpians]], and several aliens who appeared at Rick's house party in "Ricksy Business".
-*Jerry trying to attain his putter during the post-credits scene is a reference towards his hobby of golf, which was previously shown in "[[Meeseeks and Destroy]]".
-*Also in the post-credits scene, Rick has memory files labeled "Sleepy Gary" and "Apples Campaign", implying that Rick may have removed Jerry's memories of [[Sleepy Gary]] from "[[Total Rickall]]" and his failed "Got Apples?" advertising campaign from "[[M. Night Shaym-Aliens!]]"
+*Rick C-137 doesn't seem to have any hard feelings towards the Citadel of Ricks for trying to kill him. He is only bothered by the unexpected visit of Rick and Morty K-22. Morty, on the other hand, is more hostile towards them because the Council tried to kill Rick. It is also a silent nod to "[[Vindicators 3: The Return of Worldender]]" where Rick says that he doesn't hold grudges against anyone who tried to kill him.
+*[[President Morty|Eye Patch Morty]] returns from "[[Close Rick-Counters of the Rick Kind]]", initially as [[President Morty|Candidate Morty]] and later as [[President Morty]].
+*As with "[[Close Rick-Counters of the Rick Kind]]", the reveal of [[President Morty]]'s past is accompanied by "[[For the Damaged Coda]]" by Blonde Redhead.
+*It is revealed the [[Citadel of Ricks]] was rebuilt after it was heavily damaged during the episode "[[The Rickshank Rickdemption]]." Some of the damage is still visible, with many buildings in ruins and rebuilding still in progress.
+*Simple Rick physically resembles a young Rick seen in the episode "[[The Rickshank Rickdemption]]."
+*[[Mega Trees]] from the Pilot make an appearance.
+*The cracks on the ground surrounding the house can still be seen following the events from the episode "[[Ricksy Business]]."
+*On the wall of Psychopath Morty's room, there is the message "Get Shwifty," a reference to the episode "[[Get Schwifty]]."
+*During the rally attended by Cop Rick and Cop Morty, Mortys are shown holding signs that reference previous episodes. One says "Nobody exists on purpose" which C-137 Morty told Summer during "[[Rixty Minutes]]" while another says "Don't be trippin' dog" which is similar to C-137 Rick's line "Don't even trip dog" in "[[Lawnmower Dog]]".
 
 ===Cultural references===
-[[File:S3E8 Summer's Instructions.png|thumb|Summer's instructions.]]
-* The dimension in the cold open is an homage to M. C. Escher's ''Penrose Stairs'', as well as the 1986 film ''Labyrinth'' starring David Bowie.
-**The being that follows them resembles Morpheus aka Dream from Neil Gaiman's comic series ''The Sandman''.
-* Rick's archive of Morty's memories is a reference to the command center containing memory orbs in the movie ''Inside Out''.
-** It should also be noted that the colors of each memory is either blue, red, purple, or green. These were the signature colors of the movie's portrayal of Sadness, Anger, Fear, and Disgust, respectively. This would explain the specific colors used for each vial, and how each color represent whatever negative emotion he experienced at the time of the memory.
-**Oddly enough, yellow, for Joy, is also represented, despite these being bad memories Morty wanted removed. It can be argued, however, that these were the memories of Morty outsmarting Rick, which were removed without Morty's consent so that Rick could still be seen as a flawless genius in Morty's eyes.
-* In the opening dimension, there are statuettes of what appears to be the Truth Tortoise holding up a triangle with the All-Seeing Eye. This could be a reference to the ''Gravity Falls'' character Bill Cipher, where the triangle has the same eyelashes as the character. Alex later responded it was simply the Eye of Providence and [https://twitter.com/_alexhirsch/status/907802275522912256 tweeted] how to differentiate the two.
-**There's also two memories labeled "Stanford" and "Bill C.", which could also be a reference to the Gravity Falls characters "Ford Pines" and "Bill Cipher".
-**Moreover, the glass containers used by Rick to store memories are reminiscent of the memory canisters used by Gravity Fall's memory gun for the same purpose.
-* When Rick and Morty's memories are erased, one of the only things Rick remembers is ''Men in Black II'', although Morty seems to be able to remember both Men in Black I and II. A Neuralyser-like weapon from the series is also in Rick's possession.
-* Rick and Morty's big-headed captor is a reference to the [[w:c:memory-alpha:Talosian|Talosians]] from ''Star Trek''.
-** It may also be a reference to The Collector from the Marvel Cinematic Universe, The Preserver from the DC Animated Universe, or the Kurt Vonnegut novel ''Slaughterhouse Five''.
-* The menagerie has many parallels to the episode "[[w:c:orville:Episode_2:_Command_Performance|Command Performance]]" from ''The Orville'', also the premiere date is the same.
-* Rick's escape plan is a reference to the 1997 film ''Contact'', starring Jodie Foster.
-* The dark shadows that drag Floop Floopian down when he is killed are straight out of the scene where Willy meets his end in the movie ''Ghost'' starting Patrick Swayze.
-* Meebo's death is an allusion to the Tauntaun scene in ''Star Wars Episode V: The Empire Strikes Back''.
-* Morty references YouTube rants by telling Rick to "save it for YouTube".
-* The squirrels reference Dr. Doolittle when they discover Morty is able to understand them.
-* One of the "cute redheads" resembles Misty from the ''Pokémon'' franchise.
-* Jerry's Mind Blower is a dark parody of ''ET: The Extra Terrestrial.''
-* "I'm not a mouse in a European children's book" is a reference to the children's book ''Mouse Paint''.
-* Santa is shown being buried by Morty in one of his memories.
-* "Lambs to the Cosmic Slaughter" is a reference to Roald Dahl's book ''Lamb to the Slaughter''.
-* One of Morty's memories is a homage to ''Ghostbusters'', as Rick wears the Proton Backpack and holds a Proton Projector, looking for a ghostly Morty who resembles Slimer.
-* Rick references the Simpsons "Treehouse of Horror" episodes when telling Morty that not all the vials have names, unlike the 3 stories in "Treehouse of Horror".
-* Morty is whistling the "Colonel Bogey March" notably used as the theme to the 1957 movie ''The Bridge on the River Kwai'', as he is being followed by the squirrels.
-* A "House Hunters" spoof on Interdimensional Cable depicts two men literally hunting sentient houses.
+*The song that played during the introduction of the Citadel is ''In the City'' by Joe Walsh/Eagles, sung in the episode by Justin Roiland.
+* The Cop Rick and Cop Morty storyline seems to be inspired by ''Training Day''.
+* Teacher Rick resembles Severus Snape from the ''Harry Potter'' franchise. In the ''Harry Potter'' films, Snape is played by Alan Rickman which may be a play Rickman's surname containing the word Rick.
+* The four Mortys are a reference to ''The Body'' by Stephen King and its film adaptation, ''Stand by Me''.
+* In the bar scene, there is a Morty with a red vest, a short messy haircut, and jeans referencing Marty from ''Back to the Future''.
+* Candidate Morty's debate speech bears similarities to Martin Luther King Jr.'s "I Have a Dream" speech.''<nowiki/>''
+** Also his line: "If I'd have to fear anything, I'd fear other people being afraid of fear, itself, but no, I'm not afraid." is a nod to Franklin D. Roosevelt's presidential inauguration speech.
+* Cafe Sanchez is a reference to Starbucks.
+* While riding in the police car, music can be heard reminiscent of the title track from ''GTA: San Andreas''.
+* The Citadel's police cars are reminiscent of the police cars in ''The Fifth Element.''
+* Cop Morty calling the other Mortys "Yellow Shirts" is a reference to a Thai political protest movement known as the "People's Alliance for Democracy", whose members are often also referred to as "Yellow Shirts".
+** It can also be seen as a reference to ''Star Trek''’s 'redshirts', whose appellation has propagated beyond the Trekkie fandom to designate any expendable character.
+* Candidate Morty's assassination attempt and resulting election victory resembles ''Bob Roberts''.
+* In the outer space shot in the background a Rick can be seen wearing a blue vault suit, a reference to ''Fallout''.
+* Candidate Morty's presidential campaign has some similarities to Donald Trump's presidential campaign
+** Nobody believed that he can win and his presidential bid was at first considered a joke.
+** He was an anti-establishment candidate who promised change.
+** He fired his campaign manager.
+*Retired General Rick is a reference to John McCain, Private Sector Rick is a reference to Mitt Romney, Juggling Rick is a reference to Hillary Clinton, Rick Guilt Rick is a reference to James McMillan, Reverse Rick Outrage is a reference to Bernie Sanders. President Morty seems to be a reference to Barack Obama but also shows similarities to Donald Trump.
+*The scene in which President Morty kills off all of his henchmen that admit to opposing him is a reference to ''James Bond: Thunderball ''in which the same thing happens.
+*In "The Creepy Morty", there is a Morty who has very similar facial characteristics as [[Justin Roiland]].
+**There is also a Morty who wears a jacket exactly like Marty McFly’s from ''Back to the Future''.
+**Another one of the Mortys in '"The Creepy Morty" has a daisy sprouting from his head, a likely reference to the Dr. Seuss story ''Daisy-Head Mayzie''.
+*In the crowd of the election campaign, there is a Rick who has similar facial characteristics as Caesar Flickerman from the ''Hunger Games'' franchise.
+*Hard Rick Cafe is a reference to the popular franchise ''Hard Rock Cafe''.
+*The ending of Rick J-22's subplot is a nod to the ending of the book ''1984.''
+**It can also be seen as a nod to the ending of Terry Gilliam's ''Brazil'', where the main character is believed to have escaped the tyrannical society he lived in, only to be revealed as a fantasy where his mind retreated.
+**The end of this subplot could also be a reference to the flim ''Repo Men''. It was revealed at the finale of the movie that one of the characters who was experiencing pleasant memories, was actually in a coma after getting severe brain damage.
+*Slow Rick/"Tall Morty" in the Morty School scene bears much of a resemblance to the one from the comics, as "Dumb Rick". It has been theorized that this Rick is actually him.
+*[[Rick D. Sanchez III]] is a parody of Willy Wonka from Roald Dahl’s novel ''Charlie and the Chocolate Factory''.
+*Plumber Rick is possibly a reference to Mario, but given that it is occurring in an election subplot is much more likely a reference to [[Wikipedia:Joe_the_Plumber|Joe the Plumber]], who was momentarily a central figure in the [[Wikipedia:United_States_presidential_election,_2008|2008 US Presidential Election]].
+*One of the Ricks in the audience wears a similar outfit to Ford Pines from ''Gravity Falls.''
 
-==Transcript==
-View a full transcript of this episode [[Morty's Mind Blowers/Transcript|here]].
+== Transcript ==
+View a transcript of the episode [[The Ricklantis Mixup/Transcript|here]].
+
 {{Gallery}}
 {{Reflist}}
+
 == Site Navigation ==
-{{Episodes}}
+{{Episodes}}{{DEFAULTSORT:Ricklantis Mixup, The}}
 [[Category:Season 3 episodes]]
-[[Category:Morty Episodes]]
 [[Category:Rick Episodes]]
-[[Category:Anthology Episodes]]
+[[Category:Morty Episodes]]
+[[Category:Sequels]]
 [[Category:Episodes]]

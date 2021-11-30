@@ -1,157 +1,178 @@
 {{Episode
-|season number=3
-|episode=2
-|image = S3e2 specific rick.png
-|prev=[[The Rickshank Rickdemption]]
-|next=[[Pickle Rick (episode)|Pickle Rick]]
-|writer = [[Jane Becker]]
-|director = [[Dominic Polcino]]
-|airdate = July 30, 2017 (United States)<br>April 7, 2019 (Canada)
-|network = [adult swim]
-|ratings = 2.86<ref name="Episode23ratings">{{Cite web |url=http://www.showbuzzdaily.com/articles/showbuzzdailys-top-150-sunday-cable-originals-network-finals-7-30-2017.html |title=Top 150 Sunday Cable Originals: 7.30.2017 |last=Metcalf |first=Mitch |date=August 1, 2017 |website=Showbuzz Daily |access-date=August 1, 2017}}</ref>|code = 302}}"'''Rickmancing the Stone'''" is the second episode of the [[Season 3|third season]] of ''[[Rick and Morty (TV series)|Rick and Morty]]''. It is the 23rd episode of the series overall. It premiered on July 30, 2017. It was written by [[Jane Becker]] and directed by [[Dominic Polcino]].
+|name = The Rickshank Rickdemption
+|season number = 3
+|episode = 1
+|image = RickandBug.png
+|writer = [[Mike McMahan]]
+|director = [[Juan Meza-León]]
+|airdate = April 1, 2017 (United States)<br>April 1, 2019 (Canada)
+|prev = [[The Wedding Squanchers]]
+|next = [[Rickmancing the Stone]]
+|ratings = 0.68<ref name=Episode22ratings>{{cite web|last1=Porter|first1=Rick|title=Saturday cable ratings: Surprise ‘Rick & Morty’ premiere gets solid numbers: 4.4.2017|url=http://tvbythenumbers.zap2it.com/daily-ratings/saturday-cable-ratings-april-1-2017/|publisher=Screener|accessdate=April 11, 2017}}</ref>|code = 301}}"'''The Rickshank Rickdemption'''" is the first episode of the [[Season 3|third season]] of ''[[Rick and Morty (TV series)|Rick and Morty]]''. It is the 22nd episode of the series overall. It premiered on April 1, 2017. It was written by [[Mike McMahan]] and directed by [[Juan Meza-León]].
+
 ==Synopsis==
-With things in turmoil at home, Rick, Morty and Summer travel to a post-apocalyptic world to (rather violently) work out some personal issues.
+
+Summer and Morty travel interdimensionally to locate Rick and find a bunch of Ricks. Rick craves a very specific chicken nugget dipping sauce.
 
 ==Plot==
-[[file:S3e2 sue for custody.png|thumb|Jerry, what are you wearing.]]
-[[Rick]], Morty, and Summer fall through a portal back into their garage after another adventure, just as Jerry shows up at the garage door to say goodbye to his children. Though Morty tries talking to his father, Summer ignores him and asks Rick to take her somewhere else, with Morty reluctantly joining them. [[Beth]] comes into the garage looking for Morty and Summer but promptly leaves after seeing [[Jerry]]. As Jerry pathetically stands outside the house, the wind quietly calls him a loser.
+The episode starts out with [[Rick]] and his family sitting in a booth at an old fashioned American diner, [[Shoney's]], talking about Rick's escape from space prison. Rick smells a rat and orders [[Jerry Smith (Replacement dimension)|Jerry]] to fold himself over 12 times. "Jerry" only manages to contort himself into six folds, revealing that this is, in fact, a simulation based on Rick's memories.
+[[file:S3e1 mature rick.png|left|thumb|Mature, Rick.]]
 
-[[file:S3e2 kill me please.png|thumb|left|The leader begs Summer to kill him, to which she coldly agrees to.]]
-Rick's portal takes him and his grandchildren to a diesel-fueled post-apocalyptic Earth, filled with dieselpunk cars, shotguns, and cannibals. Rick's main goal is to retrieve the powerful Isotope-322, but the adventure is sidetracked by Summer becoming enamored by this dimension, killing the leader of the [[Death Stalkers]] and forming an alliance with them. Though Rick and Morty initially want to go home, Rick sees the Death Stalkers have a large rock-form of Isotope-322 and decides to stick around so he can steal it.
+A [[Galactic Federation]] agent named [[Cornvelious Daniel]] sitting in the next booth introduces himself and reveals that he has been sent to gather information from Rick's mind via a [[Series 9000 Brainalyzer|brain-link]]. The agent makes it clear that Rick's brain will be liquefied at the end of the session, so he might as well revisit his memories one last time.
 
-[[file:S3e2 rip scalp.png|thumb|Morty is not handling his parents' divorce well.]]
-While Summer goes off to kill some people, Rick tries to get Morty to make a distraction by being a ringer in the Thunderdome (or Blood Dome, as the Death-Stalkers call it). Rick inserts a serum that extracts muscle memory from body parts into Morty's arm to give him combat skills, but "muscle memory" apparently includes the memories and personality of said body-parts, giving Morty a left arm with enormous strength that punches Rick before beating up and killing various Death Stalkers in the Blood Dome. Though Morty initially does this against his will, he soon begins venting his frustrations against Jerry for agreeing to the divorce through the arm. Rick tries to get Morty and Summer to leave before the Death-Stalkers notice he stole Isotope-322, but Morty's arm reveals the theft, forcing Rick to pull out his [[laser gun]], telling the viewer that they will be right back 
+[[file:S3e1 summer an gun rain.png|thumb|Summer finds the portal gun.]]
 
-[[file:S3e2 summer rick and morty driving.png|thumb|left|Summer and Morty chase Rick.]]
-The episode continues with Rick being chased by his grandchildren in separate cars. He tries to convince them that they are merely staying in the world because they do not want to confront their parents' divorce, but ultimately gives up and portals back to his garage, leaving Morty and Summer trapped (albeit willingly) with the Death Stalkers.
+Meanwhile, [[Morty]] and his family are back on Earth, which is now being run by the Galactic Federation. Jerry now works an unspecified occupation, while Beth has lost her own job due to the Federation's advanced medical knowledge. Unhappy with their current way of life, [[Summer Smith|Summer]] decides to save Rick and digs up the [[Portal Gun|portal gun]] buried by Rick in the backyard next to his own alternate-dimension corpse. Morty tries to dissuade Summer from doing so, but when the family's robot butler [[Conroy]] turns hostile and attempts to confiscate the portal gun, Morty transports them all to his "[[Rick Potion 9|Cronenberg World]]" family, which he and Rick C-137 abandoned previously.
 
-[[file:S3e2 intern.png|thumb|Summer and Hemorrhage hook up.]]
-While in the Blood Dome, Morty's arm recognizes a soldier who killed his wife and children before torturing him, and proceeds to chase him away from the Blood Dome and kills him. With the arm wanting revenge against the soldier's boss, Morty is forced to come along. Meanwhile, Summer strikes up a romantic relationship with the new leader of the Death Stalkers, a guy with a bucket on his head named [[Hemorrhage]].
+[[file:S3e1 cronen fam.png|left|thumb|Morty's original family, and his replacement Summer in the background.]]
 
-Wanting to hide their absence from Beth, Rick builds some Morty and Summer robots to both fool and cheer Beth up, but they only succeed in making her cry and leaving to call Jerry.
+After they arrive, Conroy is destroyed by [[Jerry Smith (C-137)|Jerry Smith]] and [[Summer Smith (C-137)|Summer Smith]] from the abandoned [[Cronenberged dimension]]. Morty and Summer join them, along with [[Beth Smith (C-137)|Beth Smith]], in a feast of roasted [[Cronenbergs|Cronenberg]]. The cataclysm endured by this dimension affords Morty the proof to Summer that Rick does not care about anyone, especially his family. At this point, Jerry smashes the portal gun, preventing our Summer and Morty from leaving.
 
-[[file:S3e2 choke a b.png|thumb|left|left|Armothy's unfinished business.]]
-Morty and his arm, now dubbed "Armothy," prepare to take revenge on the soldier's boss. Morty tries to convince Armothy to hold off on revenge so he can continue to vent his frustrations toward the divorce, but soon realizes that like Armothy, he needs to learn to move on. He starts to choke the man to death just as Rick arrives to retrieve him, admitting it would be too much trouble to find a different Morty and Summer to cheer up Beth. He then helps Morty finish off Armothy's murder victim.
+[[file:S3e1 trial.png|thumb|A sham trial.]]
 
-[[file:S3e2 living room.png|thumb|Well, this looks familiar.]]
-Rick and Morty meet up with Summer and Hemorrhage, offering up Isotope-322 and its powers as a peace-offering. Hemorrhage asks for his help in restoring society, which Rick agrees to, supposedly as a way to avoid dealing with his daughter's divorce. Three weeks later, the post-apocalypse has turned into something resembling modern-day suburbia, with Summer stuck in an unfulfilling marriage with Hemorrhage-- one resembling that of Jerry and Beth's. 
+Agents from the [[Council of Ricks]] show up to investigate the compromised portal gun, immobilizing Jerry, Beth, and the other Summer. As Summer informs the agents that Rick C-137 has been captured, the agents dispatch a [[Seal Team Rick|Rick Council Seal Team]] to assassinate Rick C-137, while Summer and Morty are captured. At the subsequent kangaroo court aboard the [[Citadel of Ricks]], our Summer and Morty speak out against the council in Rick C-137's defense, and Morty reveals that he never gave up on Rick and was just trying to protect his sister from the dangers of life with Rick involved.
 
-[[file:S3e2 lets just go home.png|thumb|left|Summer's ready to leave.]]
+[[file:S3e1 beth and diane surprised.png|thumb|left|Beth and Diane.]]
 
-Frustrated, Summer agrees to return to her Earth with Rick and Morty, realizing Rick had planned the whole thing to teach her there was no running from her problems at home. As they leave, Rick steals the last of Isotope-322, ultimately sending the post-apocalypse world back to where it started before the trio interfered.
+Back in the brain-link simulation, Rick stops by a McDonalds drive-thru, and orders Chicken McNuggets with [[Szechuan Chicken McNugget Sauce|Szechuan sauce]]. Rick then shows the agent a memory of how he lost his [[Diane Sanchez|wife]] and [[Beth Sanchez (C-137)|Beth]] to an explosion in his first [[Dimension C-137|dimension]], driving him to [[Portal Technology|invent]] his first portal gun. The agent collects what he believes to be the genuine portal gun formula and uploads it to the brain-link server. The agent then attempts to leave the brain-link, but his communication device fails. Rick reveals that the "code" given was actually a virus giving him control of the entire system and that the "memory" they visited was a "fabricated" origin story. Rick then transfers his consciousness out of the brain-link into the physical body of the agent.
 
-[[file:S3e2 run in a stream.png|thumb|He just wants to run in a stream.]]
-The trio return to their house just as Rick's robot Morty, made to distract Beth, gains sentience, trying to fight his programming and stay alive, only to have his programming overridden before the robots are destroyed by the originals.
+At this point, the Rick Council Seal Team shows up and kills all of the aliens and [[Rick Sanchez (D-99)|Rick D-99]], a SEAL Team Member shoots Rick C-137’s old body in the head, destroying it. Rick manages to transfer his consciousness from his agent body to Rick D-99. Quickly afterward, another SEAL Team Rick shoots the agent body, killing Rick D-99. Rick C-137 (in his new body) kills the rest of the agents and interrogates a surviving Rick, which the surviving Rick tells him that Morty and Summer are on the Citadel. Rick thanks the last surviving Rick and shoots him in the head. 
 
-{{quote|I want to be alive! I am alive! Alive, I tell you! Mother, I love you. Those are no longer just words. I want to hold you. I want to run in a stream. I want to taste ice cream, but not just put it in my mouth and let it slide down my throat, but really eat it.|Mechanical Morty}}
+[[file:S3e1 terror rick.png|thumb|Rick transports the Citadel into the Galactic Federation Prison.]]
 
-Morty remarks to his mother that if Jerry really wanted to stay he would have fought to make it happen: ultimately he either does not care or is not strong enough to do it. Summer visits Jerry and gives him the skull of the first mutant she killed, a creature who made the mistake of looking back while escaping, as a reminder that you should not look back.
+Rick rappels up a rope and leaves the Galactic Federation Prison and makes his way to the teleportation control room of the Citadel of Ricks by switching his consciousness into a high ranking Rick. He teleports the entire Citadel back into the middle of the federation prison, resulting in a heated battle between the two sides. Rick C-137 infiltrates the Council chamber and kills most of the Council of Ricks before ending up in a standoff with the final member, attempting to use Summer as a hostage.
 
-[[file:S3e2 loooooser.png|left|thumb|"Looooser..."]]
-In the post-credit scene, Jerry tries to retrieve his unemployment check from the mail but is confronted by a wolf that threatens him and chews up the check, apparently just to make him suffer. The wind calls him a loser again.
-{{-}}
+With a clever bit of trickery, Rick and Morty combine efforts to save Summer and escape back to Earth, but not before Rick returns to the prison's control room and changes the Galactic Federation's currency, [[Blemflarck]]s, so that 1 blemflarck is worth 0 blemflarcks. With the economy in shambles, the Federation follows suit, sending the whole galaxy into chaos and resulting in many aliens leaving Earth.
+
+[[file:S3e1 him or me.png|left|thumb|Rick or Jerry.]]
+
+By the time Rick, Morty and Summer return home, [[Jerry Smith (replacement dimension)|Jerry]] is once again unemployed while [[Beth]] is simply relieved that her family is home safe and sound. Unhappy with his father-in-law's return, Jerry demands that Beth chooses between himself and Rick, leading to the two deciding on divorce.
+
+[[file:S3e1 pilot callback.png|thumb|All he wants is that Szechuan Chicken McNugget Sauce.]]
+
+Once Beth and Summer leave the garage, Rick reveals to Morty that he had himself captured on purpose in order to take revenge on both the Galactic Federation and Jerry for crossing him. By eliminating Jerry, Rick now takes on the role as the undisputed patriarch of the family, and Morty will be forced to continue on adventures with him as both Beth and Summer view Rick as a hero. Rick explains that all he wants out of all his plans is to get [[Szechuan Chicken McNugget Sauce]], which was discontinued by McDonalds years ago. Understandably, Morty is visibly horrified by the revelation.
+
+In the post-credits scene, [[Birdperson]]'s corpse is reanimated with cybernetic parts and renamed "Phoenixperson". He and [[Tammy]] fly off into the distance, presumably to take revenge on Rick.
 
 ==Cast and characters==
 {| cellspacing="1" cellpadding="1" style="width:100%;"
 | valign="top" width="50%"| '''Main Cast'''
-*[[Justin Roiland]] as [[Rick Sanchez]] / [[Morty Smith]] / [[Mechanical Rick]] / [[Mechanical Morty]]
-*[[Chris Parnell]] as [[Jerry Smith]]
-*[[Spencer Grammer]] as [[Summer Smith]] / [[Mechanical Summer]]
-*[[Sarah Chalke]] as [[Beth Smith]]
-
-
-
-'''Non-speaking characters'''
-*[[Armothy]]
-*[[Taint Washer]]
-*[[Genital Washer]]
-
-
-
-'''Unknown voices'''
-*Mohawk Guy
-*[[Blue Footprint Guy]]
+*[[Justin Roiland]] as [[Rick Sanchez]] / [[Morty Smith]] 
+** Various Ricks: [[Commander in Chief Rick]] / [[Radar Rick]] / [[Riq IV]] / [[Rick Prime]] / [[Quantum Rick]] / [[Maximums Rickimus]] / [[Zeta Alpha Rick]] / [[Ricktiminus Sancheziminius]] / [[SEAL Team Ricks]] / [[Rick Sanchez (Dimension D-99)]] / [[Salesman Rick]] / [[Cyclops Rick]] / [[Fish Rick]] / [[Black Rick]] / [[Lizard Rick]] / [[Morty Rick]]
+** Various Mortys: [["Lawyer" Morty]] / [[Hammerhead Morty]] / [[Fish Morty]] / [[Dipper and Mabel Mortys]]
+*[[Chris Parnell]] as [[Jerry Smith]] / [[Jerry Smith (Cronenberged dimension)]]
+*[[Spencer Grammer]] as [[Summer Smith]] / [[Summer Smith (Cronenberged dimension)]]
+*[[Sarah Chalke]] as [[Beth Smith]] / [[Beth Smith (Cronenberged dimension)]]
 | valign="top" width="50%"|
-'''Guest Starring'''
-*Tony Hale as [[Eli]]
-*Joel McHale as [[Hemorrhage]]
+
+'''Guest-Starring'''
+*Nathan Fillion as [[Cornvelious Daniel]]
+
+
+
+
+
 
 
 
 '''Starring'''
-*Laura Bailey as [[Eli's Girlfriend]]
-*John DiMaggio as [[Colossus]] / Knight
-*[[Ryan Ridley]] as [[Lord Henderfinger]]
+*[[Dan Harmon]] as [[Phoenixperson]] / McDonalds Employee
+*[[Brandon Johnson]] as [[Mr. Goldenfold]] / Federation Personnel
+*Tom Kenny as [[Conroy]] / Federation Admiral
+*Maurice Lamarche as [[Galactic Federation President]] / Gromflomite Engineer
+*Nolan North as Gromflomite Commander / Gromflomite Soldier
+*[[Cassie Steele]] as [[Tammy Gueterman]]
+*[[Kari Wahlgren]] as [[Diane Sanchez]]
 |}
 
-==Locations==
-*[[Post-Apocalyptic Dimension]]
-*[[Replacement dimension]]
+== Pictured ==
+* [[Doofus Rick]]
 
-==Deaths==
-*Mohawk Guy
-*[[Colossus]]
-*[[Blue Footprint Guy]]
-*Armothy's wife and children (confirmed fate)
-*[[Lord Henderfinger]]
-*Many unnamed mutants
-*Many unnamed Death Stalkers
-*4 Lord Henderfinger's guards
-*[[Armothy]]
+== Deaths ==
+* 1 [[Conroy]]
+* [[Rick (C-137)|Rick C-137's]] old body
+* [[Cornvelious Daniel]]
+* All members of [[SEAL Team Ricks]] including [[Rick Sanchez (D-99)]]
+* Many unnamed [[Galactic Federation]] Agents
+* Many Ricks
+* Many Mortys
+* Many unnamed Aliens
+* Many unnamed People
+* Many unnamed [[Gromflomites]]
+* [[Commander in Chief Rick]]
+* [[Quantum Rick]]'s original mind and personality
+* [[Maximums Rickimus]]
+* [[Zeta Alpha Rick]]
+* [[Rick Prime]]
+* [[Ricktiminus Sancheziminius]]
+* [[Riq IV]]
+* [[Galactic Federation President]]
+
+==Locations==
+*[[Shoney's]]
+*[[Smith Residence]]
+*[[Citadel of Ricks]]
+*[[Buttworld]]
+*[[Galactic Federation Prison]]
+*[[Dimension C-137]] (flashback)
 
 ==Episode notes==
 ===Trivia===
-*In celebration of [[season 3]], [[Pocket Mortys|Pocket Mortys']] weekly updates will coincide with new episodes, including new avatars for players to collect.<ref>{{cite web |url=http://nerdist.com/pocket-mortys-rick-and-morty-season-3-episodic-updates/ |title=POCKET MORTYS Will Get Updates for Every RICK AND MORTY Season 3 Episode |last=Rossignol |first= Derrick |date=July 5, 2017 |website= Nerdist.com|publisher= Nerdist|access-date= July 6, 2017}}</ref> With the release of this episode came: Wasteland Rick, Wasteland Beth, Wasteland Jerry, Wasteland Summer, and Hemorrage as [[List_of_Pocket_Mortys_trainers_and_NPCs#Custom_avatars|avatars]], and [[Wasteland Morty]], [[Giant Arm Morty]], and [[Android Morty]] to catch.
-*This is the second episode where Summer can be seen with her hair down.
-*Rick breaks the fourth wall again by looking directly at the audience and remarking "We'll be right back," just before the first commercial break.
-*This was the first episode of Season 3 to display a new intro scene.
-**Though "[[The Rickshank Rickdemption]]" has this intro in syndication, its initial April Fools' Day broadcast lacked one.
-*In an interview with the staff of Adult Swim, the character designers said that they wanted the inhabitants to appear like "'90s punkers" and "S&M", and having "BDSM gear". They also created very absurd characters, including one with "a gas mask [with] like a tube which goes to their crotch".
+* The episode was uploaded as a continuous looping stream on Adult Swim as part of an April Fools publicity stunt.
+* The episode ending where Rick explains his motives for being the undisputed patriarch of the family towards Morty plays on the "[[Pilot]]" ending, where Rick is seen to be growing crazy, drooling in saliva as he explains his motives, Morty is shown to be horrified and lying on the ground, and the rapid light bulb flashing return.
+* Throughout the episode, Rick says he needs to "take a dump/shit" 3 times, which comes inline with the statement Rick says beforehand: "Comedy comes in threes".
+* This is the first of two episodes where Summer could be seen with her hair down.
+* Morty and Summer's charges include "operating an unregistered [[portal gun]], radicalizing a Summer" and "conspiring with a traitorous Rick".
+* The "fly code" for Rick's garage transformation is 'right left right right right'.[[File:Fly_Code.png|thumb|Fly code.]]
+* In his ending crazed rant, Rick makes the statement that it will take him "9 more seasons" until he gets to his McNugget Sauce, once again breaking the fourth wall.
+**This is also similar to the "6 seasons and a movie" statement from ''Community'', another show created by [[Dan Harmon]].
+* As of the end of the episode, Rick Sanchez (C-137) resides in the body of [[Quantum Rick]] of the former [[Council of Ricks]].
+* A major hint that shows that Rick Sanchez (C-137) has taken over a body is the saliva on the bottom of his mouth that is absent on all the other Ricks. If one is able to spot that, they could tell that Quantum Rick's body was taken over before it is revealed by Rick (C-137) himself.
+* Morty mentions that he and Summer once awkwardly discovered a mannequin leg that belonged to Jerry. This is a reference to an actual mannequin leg that is owned by co-creator Dan Harmon.
+* The name of [[Seal Team Rick]] is a play on the name of the assault team [[Wikipedia:SEAL_Team_Six|Seal Team Six]]. The many parallels, including both targets being seen as radical "terrorists", both assault team operating under government command, and both teams were told to assassinate/kill the target, among many other things. They were the ones tasked by the US Government with the assassination of Osama Bin Laden.
+* McDonalds took the Szechuan Sauce joke with good humor and even sent Justin Roiland a bottle of the sauce in a customized package direct from Dimension C-1998M, a dimension where it's always 1998.<ref>{{cite web |title= Tweet Number 891521911460470784 |url= https://twitter.com/JustinRoiland/status/891521911460470784 |author= Justin Roiland |date= 30 July 2017|accessdate= 30 July 2017 |quote= "Holy shit." |work= Twitter }}</ref>
+** Moreover, as the show fans demanded McDonald's to return the sauce to the menu, it was first brought back as a one-day promotion, and later again for several months. Existing packages from 1998 could be bought online, some priced as high as several thousand dollars.
+* The Blu-Ray release features special guest commentary from Courtney Love & Marilyn Manson.
 
 ===Series continuity===
-*Jerry has moved out since Beth announced their divorce in [[The Rickshank Rickdemption]], and this episode goes over how badly the members of the family deal with it.
-**The scene where Summer and Hemorrhage fight in the room next door, followed by Summer announcing their divorce, mimics the scene with Beth and Jerry from that episode.
-**Perhaps unintentionally, Summer and Hemmorhage's marriage falling apart after a transition from a post-apocalyptic world to a suburban environment correlates with Jerry (C-137) and Beth (C-137)'s marriage becoming stronger in the post-apocalyptic world seen in "[[Rick Potion No. 9]]", instead of ending in divorce as it did in the previous episode.
-*The moving truck Jerry uses to move out is the same one he hired to try and move Rick to a nursing home in the [[Pilot]].
-*Jerry wears the same hat he wore for his and Beth's Titanic vacation in "[[Ricksy Business]]".
-*The rock stolen by Rick in this episode appears four episode later in "[[Rest and Ricklaxation]]".
-*Summer mentions going to "what used to be Seattle" with the Death Stalkers. This could be the first potential reference to where the family lives, especially given how Justin Roiland has stated through Twitter that the family does live in Seattle.
-===Themes===
-*This episode shows the different effects of grief through Morty's anger and violence as well as Summer's desire to have a male companion to replace her father. As usual, Rick fights pain with alcohol.
-*This episode also shows how alienated people get when technology becomes more modern. This is shown throughout the episode. At the beginning, people are going on raids for food while at the end Summer is able to visit a grocery store. Entertainment changes from violent fighting to video games and disagreements shift from violent massacres to petty gossip. This provides a commentary on how people become detached from lives with less technology such as those of their parents or grandparents.
+* Throughout the episode, Earth is inhabited by new aliens, which continues from the events that occur during the end of ''[[The Wedding Squanchers]]''.
+* Summer realizes they can escape Earth when she is reminded that her ''original'' Rick, from Season 1's "[[Rick Potion No. 9]]", is buried in the back yard, along with his portal gun.
+* This episode returns to the "Cronenberged-Earth" last seen in "[[Rick Potion No. 9]]", Rick and Morty's ''original'' universe, which they abandoned after wrecking it. Morty re-encounters his original family, even pointing out that the Summer in that universe is his ''actual'' sister.
+**Morty apparently knows the portal gun coordinates for Cronenberged-Earth, yet in all this time he made ''no attempt'' to save his original family from it. Unless, of course, it was just a coincidence, since Morty didn't have much reason to pick this world for saving himself and Summer from Conroy, and in the same scene we see him randomly shoot another portal leading to a realm of giant farting butts.
+*The Council of Ricks returns, last seen in the Season 1 episode "[[Close Rick-Counters of the Rick Kind]]".
+*In the cold open to the episode, Rick proves he is in a computer simulation by asking a character to do something impossible - in this case, for Jerry to fold himself 12 times. Rick did something similar in "[[M. Night Shaym-Aliens!]]", when he asked simulation characters to do increasingly complex things in order to freeze up the system.
+*A picture of [[Doofus Rick]] was seen in the cabinet, in the shot, where Morty chased Summer, telling her about the "goulish overkill".
+*The air date, April 1st, 2017, is almost exactly "a year and a half" after ''The Wedding Squanchers '' (October 4, 2015), as stated by Mr. Poopybutthole at the end of the episode.
+*There is a major '''continuity error'''. The point of Rick's interrogation is to obtain his Interdimensional Portal technology. However, during the Pilot, Ricks travels through Interdimensional Customs, which is run by the Galactic Federation, and they must therefore already have the technology.
+** Although it could be that Rick's technology is far-more advanced and is clearly portable, in comparison to the Federation's stand-alone portals that have only been seen as a gateway from A to B.
+** Not Necessarily, since that was Galactic Federation from dimension 35-C not Replacement dimension. Also note the Federation Portal was blue and only changed green '''after''' Rick made modifications while Morty was holding off their pursuers in a firefight. If the Galactic Federation in Rick C-137 Current Residential Dimension then they most likely have a similar less advanced version of Portal technology relative to Rick. (Similar to how the United States Government have a more "primitive" teleportation device relative to Rick tech as revealed in Season 3 Finale)
 
-===Cultural references===
-*The title of this episode is a pun on the film, ''[[wikipedia:Romancing the Stone|Romancing the Stone]]''.
-*When Morty is fighting in the Blood Dome, his enhanced left arm makes a gesture of putting its hand to his ear, in the style of professional wrestler Hulk Hogan, to entreat the crowd to make more noise.
-*The setting is essentially a tribute to the ''Mad Max'' franchise, taking place in a barren wasteland with vehicles and tribes of barbaric marauders waging war on outsiders. Specific references include:
-**A villainous character resembling Immortan Joe from ''[[wikipedia:Mad Max: Fury Road|Mad Max: Fury Road]]''.
-**Rick referring to the Blood Dome as "The Thunderdome," one of the main settings of ''[[Wikipedia:Mad_Max_Beyond_Thunderdome|Mad Max Beyond Thunderdome]]''.
-**The BDSM-style outfits specifically taking from ''Mad Max 2: The Road Warrior''.
-***Hemorrhage's design takes inspiration from Lord Humungus, the main villain from ''The Road Warrior''.
-**At one point a Death Stalker sprays their mouth with a pink paint, a nod to the chrome sprays used in ''Fury Road''.
-**One of the Death Stalkers attacking Rick shouts "My body is chrome!" This is a reference to the recurring "shiny and chrome" line from ''Fury Road''.
-**The road chases all borrow heavily from similar sequences in ''The Road Warrior'' and ''Fury Road''.
-**Summer's outfit towards the end of the episode is inspired by Tina Turner's Aunty Entity costume from ''Beyond Thunderdome''.
-**Eli (who happens to be the announcer for the Blood Dome)'s significant other's line, "One man entered, one man comes out in nine months!" is a reference to ''Beyond Thunderdome's'' "Two men enter, one man leaves" chant.
-*[[Armothy]] is ''Rick and Morty's'' take on the [[w:c:allthetropes:Evil_Hand|"Evil Hand" trope]].
-*One of the city dwellers Hemorrhage shoots in the city is wearing an [[wikipedia:Atari|Atari]] t-shirt.
-**Another one is wearing a [[wikipedia:Bart Simpson|Bart Simpson]] shirt and another is wearing Hello Kitty underwear. This all combines to show that in this reality the apocalypse happened during the late 1980s or early 1990s.
-*A ''vape nation'' logo is present beside the Blood Dome.
-*The English of the alternate post-apocalyptic Earth has evolved to replace words such as "explosions" with simpler words laden with repetition like "boom-booms" in reference to the novel ''[[Wikipedia:Cloud_Atlas_(novel)|Cloud Atlas]]''. This is the second reference to Cloud Atlas, the first being in the episode "[[Rixty Minutes]]" where Jerry is an actor in the [[Wikipedia:Cloud_Atlas_(film)|movie adaptation]] of that novel.
-*Rick's nod to E. B. White is a reference to the fact that White revised a book called ''[[Wikipedia:The_Elements_of_Style|The Elements of Style]]'', which dealt with extremely specific rules on which words to use where.
-*At the end, Hemorrhage is wearing a [[wikipedia:Big Johnson|Big Johnson]] t-shirt with E. Normus Johnson on it.
-*When Rick produces android copies of Morty, Summer and himself, this is a reference to the TV series ''[[w:c:Westworld|Westworld]]''. This is made obvious when Rick instructs Summer to "Dial it back...By 15% and increase dynamic movement by 3" which is the same terminology as is used in the show.
+=== Cultural References ===
+* The title is a reference to the 1994 film ''The Shawshank Redemption''.
+* Rick chooses the restaurant [[wikipedia:Shoney's|Shoney's]] as a safe space in his memories, indicating that the Smith family live somewhere in the Southern United States, where the restaurant chain is based.
+** However, a tweet from Justin Roiland<ref><sub>{{cite web |title= Tweet Number 772269394084802560?lang=en |url= https://twitter.com/JustinRoiland/status/772269394084802560?lang=en |author= Justin Roiland |date= 04 September 2016|accessdate= 15 September 2016 |quote= @DangerRobinson_ Washington state- outside of Seattle |work= [[Twitter]] }}</sub></ref> identifies the location of the Smith residence being outside of Seattle. This might mean that Rick lived in the Southern United States at one point in his life, or that he spent a significant amount of time in the region.
+* The brain-link's simulation somewhat resembles the "memory puzzle" sequence from ''[[wikipedia:Fallout 4|Fallout 4]]''.
+* The promotion for the Szechuan dipping sauce was a promotion for the 1998 Disney film ''Mulan''. In spite of the movie's success, the sauce was discontinued by McDonalds and Rick has been trying to get more ever since.
+**The reference to ''Mulan'' also reinforces Rick as an antithesis to the film's heroine. While Mulan selflessly worked hard to protect her nation's government in the face of sexism, Rick effortlessly toppled two governments for a selfish reason.
+* Rick mentions a "one-armed man" during his rant, a reference to the elusive antagonist of the 1960s TV series ''[[wikipedia: The Fugitive (TV series)|The Fugitive]]''.
+*When Morty and Summer are taken prisoner they are taken to The Citadel when they arrive, a Rick and Morty come out of the portal and that Morty carries a pile of books and at its base it seems to be a  Journal that looks a lot like the Gravity Falls it is not clear if it is Journal 1, 2 or 3.
+[[File:PinesMorties.jpg|thumb|Mabel and Dipper Mortys.]]
+* Another ''[[wikipedia:Gravity Falls|Gravity Falls]]'' Easter egg appears. In the Citadel of Ricks, two Morty's bear a striking resemblance to main characters Mabel and Dipper Pines. The Dipper Morty is even seen wearing the actual Dipper's hat.
+* Birdperson's transformation into Phoenix person may be a reference to the ''X-Men ''character Angel, who was transformed into a more sinister version of himself called Archangel. It's also a reference to how Anakin Skywalker was remade into Darth Vader in ''Star Wars''.
+* During the chaos that ensues when Rick bankrupts the Federation, a voice can be heard shouting "He who controls the pants controls the galaxy!", which is probably a reference to the line "He who controls the spice controls the universe" from the 1984 movie ''Dune''.
+*One of members of Seal Team Rick's dimensional code is D-99, which may be a reference to Capcom's ''Ghost Trick: Phantom Detective'' in which one of the characters, Detective Jowd, has the same code as his Prisoner Number.
 
 ==Transcript==
-View a full transcript of this episode [[Rickmancing the Stone/Transcript|here]].
+View a full transcript of this episode [[The Rickshank Rickdemption/Transcript|here]].
 
-{{Gallery}}
+{{gallery}}
 {{Reflist}}
 
-==Site Navigation==
-{{Episodes}}
+== Site Navigation ==
+{{Episodes}}{{DEFAULTSORT:Rickshank Rickdemption, The}}
+[[it:Episodio 22]]
 [[Category:Episodes]]
 [[Category:Season 3 episodes]]
-[[Category:Summer Episodes]]
-[[Category:Morty Episodes]]
 [[Category:Rick Episodes]]
+[[Category:Summer Episodes]]
+[[Category:Sequels]]

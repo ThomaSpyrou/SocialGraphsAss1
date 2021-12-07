@@ -1,0 +1,515 @@
+Id,Label,timeset,species,origin,gender,status,indegree,outdegree,degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,pageranks,componentnumber,strongcompnum,clustering,eigencentrality
+Abandoned Jerrys,Abandoned Jerrys,,Human,Earth,Male,Alive,0,1,1,7,0.277254,0.304877,0,0,0.009046,8,0.000331,0,6,0,0
+Abrodolph Lincoler,Abrodolph Lincoler,,Human,unknown,Male,unknown,5,4,9,7,0.323344,0.36712,0.000246,0.01288,0.060154,9,0.001481,0,5,0.357143,0.017329
+Adam,Adam,,Humanoid,Narnia Dimension,Male,Dead,0,0,0,0,0,0,0,0,0,0,0.000331,1,7,0,0
+Adjudicator Rick,Adjudicator Rick,,Human,unknown,Male,Dead,1,1,2,7,0.250608,0.271868,0,0.000114,0.002486,9,0.000471,0,8,0.5,0.000786
+Afro Rick,Afro Rick,,Human,Earth (Dimension E-33),Male,Alive,2,7,9,6,0.332293,0.381768,0.000114,0.005644,0.064287,9,0.000506,0,12,0.428571,0.00233
+Agent Gribbles,Agent Gribbles,,Gromflomite,unknown,Male,unknown,0,3,3,7,0.31938,0.357571,0,0,0.041316,2,0.000331,0,13,0.5,0
+Alan Rails,Alan Rails,,Human,unknown,Male,Dead,2,2,4,8,0.23395,0.255227,0,0.001431,0.000066,2,0.000692,0,19,1,0.002218
+Albert Einstein,Albert Einstein,,Human,Earth (C-137),Male,Dead,0,3,3,7,0.318393,0.35927,0,0,0.058528,9,0.000331,0,20,0.666667,0
+Alexander,Alexander,,Human,Earth (C-137),Male,Dead,0,5,5,7,0.322884,0.368978,0,0,0.059699,9,0.000331,0,21,0.55,0
+Alien Googah,Alien Googah,,Alien,unknown,Genderless,unknown,0,3,3,7,0.328025,0.36647,0,0,0.059162,0,0.000331,0,22,0.666667,0
+Alien Morty,Alien Morty,,Alien,unknown,Male,unknown,1,2,3,7,0.287449,0.322166,0,0.002819,0.028053,9,0.000439,0,12,0.5,0.001233
+Alien Rick,Alien Rick,,Alien,unknown,Male,unknown,3,5,8,6,0.328197,0.373161,0.000301,0.005813,0.061523,9,0.000635,0,12,0.366667,0.002864
+Alyson Hannigan,Alyson Hannigan,,Alien,unknown,Female,Dead,0,4,4,7,0.293447,0.337032,0,0,0.03822,9,0.000331,0,23,0.333333,0
+Amfiddians,Amfiddians,,Humanoid,unknown,Genderless,unknown,1,3,4,7,0.29078,0.330348,0.000674,0.000086,0.033033,2,0.000907,0,5,0.416667,0.001506
+Amish Cyborg,Amish Cyborg,,Alien,unknown,Male,Dead,1,2,3,7,0.267974,0.296005,0,0.003715,0.001648,2,0.000508,0,5,1,0.00404
+Annie,Annie,,Human,Earth (C-137),Female,Alive,8,7,15,6,0.329582,0.379593,0.004592,0.02251,0.065579,9,0.004753,0,5,0.327273,0.10556
+Antenna Morty,Antenna Morty,,Human,The Citadel,Male,Alive,1,3,4,7,0.293866,0.331449,0.000045,0.001582,0.032505,9,0.000387,0,24,0.333333,0.000786
+Antenna Rick,Antenna Rick,,Human,unknown,Male,unknown,0,5,5,7,0.306705,0.348494,0,0,0.034522,9,0.000331,0,25,0.35,0
+Ants in my Eyes Johnson,Ants in my Eyes Johnson,,Human,unknown,Male,unknown,0,0,0,0,0,0,0,0,0,2,0.000331,2,26,0,0
+Aqua Morty,Aqua Morty,,Humanoid,unknown,Male,unknown,1,3,4,7,0.318462,0.359144,0,0.002786,0.058316,9,0.000427,0,27,0.666667,0.000934
+Aqua Rick,Aqua Rick,,Humanoid,unknown,Male,Alive,1,4,5,6,0.324451,0.366264,0.000014,0.002672,0.060807,9,0.000452,0,27,0.583333,0.000934
+Arcade Alien,Arcade Alien,,Alien,unknown,Male,unknown,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,28,0,0
+Armagheadon,Armagheadon,,Alien,Signus 5 Expanse,Male,Alive,2,2,4,8,0.24061,0.263554,0.000963,0.001439,0.001273,0,0.001238,0,5,0.166667,0.003813
+Armothy,Armothy,,Human Part,Post-Apocalyptic Earth,Male,Dead,2,4,6,6,0.338816,0.379045,0.000281,0.003982,0.075392,9,0.000609,0,29,0.566667,0.002218
+Arthricia,Arthricia,,Alien,Purge Planet,Female,Alive,5,5,10,7,0.322327,0.368746,0.002799,0.01604,0.061746,9,0.0046,0,5,0.380952,0.154171
+Artist Morty,Artist Morty,,Human,unknown,Male,Alive,0,1,1,7,0.282192,0.314667,0,0,0.027787,9,0.000331,0,30,0,0
+Attila Starwar,Attila Starwar,,Human,unknown,Male,Alive,1,0,1,0,0,0,0,0,0,16,0.000612,3,31,0,0.000786
+Baby Legs,Baby Legs,,Human,unknown,Male,Alive,1,1,2,1,1,1,0,0,0,4,0.002205,4,32,0,0.000934
+Baby Poopybutthole,Baby Poopybutthole,,Poopybutthole,unknown,Male,Alive,3,2,5,7,0.265201,0.287305,0,0.003686,0.001111,2,0.001581,0,5,0.666667,0.012331
+Baby Wizard,Baby Wizard,,Alien,unknown,Male,Dead,2,4,6,7,0.301028,0.343926,0.000002,0.006469,0.029586,2,0.000616,0,5,0.583333,0.005367
+Balthromaw,Balthromaw,,Mythological Creature,Draygon,Male,Alive,2,4,6,6,0.327476,0.372276,0.00218,0.00643,0.067343,9,0.002547,0,5,0.583333,0.079811
+Bearded Lady,Bearded Lady,,Alien,unknown,Female,Dead,1,2,3,7,0.317337,0.353751,0,0.003715,0.031735,2,0.000508,0,5,0.5,0.00404
+Beebo,Beebo,,Alien,Venzenulon 7,Male,Dead,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,33,1,0
+Benjamin,Benjamin,,Poopybutthole,unknown,Male,Alive,1,0,1,0,0,0,0,0.002737,0,2,0.000449,0,14,0,0.001303
+Bepisians,Bepisians,,Humanoid,unknown,Genderless,unknown,0,2,2,7,0.278003,0.308114,0,0,0.009387,8,0.000331,0,34,1,0
+Beta-Seven,Beta-Seven,,Alien,unknown,Genderless,Alive,1,2,3,7,0.297965,0.332532,0,0.002682,0.031197,7,0.002023,0,5,1,0.008611
+Beth Sanchez (C-137),Beth Sanchez (C-137),,Human,Earth (C-137),Female,Dead,4,8,12,6,0.341667,0.38561,0.002632,0.010934,0.068366,8,0.004637,0,5,0.375,0.113568
+Beth Sanchez (C-500A),Beth Sanchez (C-500A),,Human,Earth (C-500A),Female,Alive,2,5,7,7,0.325077,0.367426,0.00126,0.00043,0.047845,8,0.000734,0,36,0.333333,0.002182
+Beth Sanchez (Simple Rick's Dimension),Beth Sanchez (Simple Rick's Dimension),,Human,Simple Rick's Dimension,Female,unknown,0,2,2,8,0.253606,0.277076,0,0,0.000156,8,0.000331,0,37,0,0
+Beth Smith,Beth Smith,,Human,Earth (C-137),Female,Alive,57,25,82,6,0.388994,0.463659,0.038319,0.177907,0.111069,8,0.022517,0,5,0.092544,0.556493
+Beth Smith (Evil Rick's Target Dimension),Beth Smith (Evil Rick's Target Dimension),,Human,unknown,Female,Alive,4,11,15,6,0.352941,0.407937,0.000211,0.0098,0.091232,9,0.00054,0,38,0.545455,0.006248
+Beth's Mytholog,Beth's Mytholog,,Mythological Creature,Nuptia 4,Female,Dead,4,4,8,7,0.283967,0.316712,0.000121,0.003006,0.008258,7,0.000996,0,39,0.2,0.004013
+Big Boobed Waitress,Big Boobed Waitress,,Mythological Creature,Fantasy World,Female,Alive,0,3,3,7,0.318462,0.359144,0,0,0.058316,9,0.000331,0,41,0.666667,0
+Big Fat Rick,Big Fat Rick,,Human,unknown,Male,Alive,4,4,8,7,0.29927,0.338223,0.006339,0.008898,0.030995,9,0.003489,0,5,0.75,0.083378
+Big Morty,Big Morty,,Human,unknown,Male,Dead,1,2,3,7,0.285714,0.320654,0.000967,0,0.02785,9,0.000612,0,42,0,0.000786
+Big Morty's Bodyguard Mortys,Big Morty's Bodyguard Mortys,,Human,unknown,Male,Dead,0,1,1,8,0.22306,0.240867,0,0,0,9,0.000331,0,43,0,0
+Big-Head Morty,Big-Head Morty,,Humanoid,unknown,Male,unknown,0,3,3,7,0.304734,0.349653,0,0,0.039736,9,0.000331,0,44,0.666667,0
+Bill (Dog),Bill (Dog),,Animal,unknown,Male,unknown,0,1,1,7,0.251526,0.269001,0,0,0.001494,8,0.000331,0,45,0,0
+Birdperson's Daughter,Birdperson's Daughter,,Bird Person,unknown,Genderless,Alive,1,3,4,7,0.269382,0.299373,0.000018,0.003803,0.007109,2,0.001297,0,5,0.666667,0.017185
+Blamphs,Blamphs,,Alien,unknown,Genderless,unknown,0,0,0,0,0,0,0,0,0,5,0.000331,5,46,0,0
+Blazen,Blazen,,Human,Earth (Replacement Dimension),Male,Dead,1,4,5,7,0.320433,0.363573,0.000157,0.001276,0.058966,9,0.000518,0,47,0.416667,0.000934
+Blim Blam,Blim Blam,,Alien,unknown,Male,Alive,1,5,6,6,0.343384,0.387398,0,0.004608,0.0844,8,0.0023,0,5,1,0.078632
+Blue Footprint Guy,Blue Footprint Guy,,Human,Post-Apocalyptic Earth,Male,Dead,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,48,1,0
+Blue Shirt Morty,Blue Shirt Morty,,Human,The Citadel,Male,unknown,1,4,5,6,0.326498,0.369887,0,0.002807,0.061264,9,0.00042,0,49,0.666667,0.000934
+Bobby Moynihan,Bobby Moynihan,,Human,unknown,Male,Alive,6,8,14,7,0.323664,0.374259,0.003347,0.001674,0.059324,6,0.001707,0,50,0.589286,0.013181
+Boobloosians,Boobloosians,,Alien,unknown,Genderless,unknown,1,5,6,6,0.299566,0.339372,0.000967,0,0.022492,2,0.000715,0,51,0.35,0.000934
+Bootleg Portal Chemist Rick,Bootleg Portal Chemist Rick,,Human,unknown,Male,Dead,2,2,4,7,0.251225,0.275226,0.002462,0.004623,0.00255,9,0.003017,0,5,0.333333,0.073522
+Borpocians,Borpocians,,Humanoid,unknown,Genderless,Alive,0,1,1,8,0.21259,0.23064,0,0,0.001863,2,0.000331,0,52,0,0
+Bova,Bova,,Humanoid,Narnia Dimension,Female,Dead,2,3,5,7,0.30057,0.337294,0.000104,0.004055,0.030722,9,0.000573,0,54,0.5,0.002218
+Brad,Brad,,Human,Earth (Replacement Dimension),Male,Alive,9,14,23,6,0.346284,0.410407,0.01464,0.025213,0.078411,9,0.005947,0,5,0.2375,0.123598
+Brad Anderson,Brad Anderson,,Human,Earth (Replacement Dimension),Male,Dead,0,2,2,7,0.287709,0.322873,0,0,0.031005,9,0.000331,0,55,1,0
+Bruce Chutback,Bruce Chutback,,Human,Earth (Replacement Dimension),Male,Alive,3,3,6,7,0.322327,0.363868,0.000206,0.01081,0.059349,9,0.001513,0,5,0.6,0.048457
+Bullies,Bullies,,Human,unknown,Male,unknown,1,2,3,7,0.283356,0.318712,0.000005,0.002809,0.02851,9,0.000387,0,56,0.333333,0.000786
+Butter Robot,Butter Robot,,Robot,Earth (Replacement Dimension),Genderless,Alive,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,57,1,0
+Buttmouth,Buttmouth,,Alien,Planet 840-3GG,Genderless,unknown,0,0,0,0,0,0,0,0,0,6,0.000331,6,58,0,0
+Calypso,Calypso,,Human,unknown,Female,Dead,3,2,5,9,0.196244,0.211377,0,0.002706,0.000248,1,0.001871,0,59,0.833333,0.003533
+Canklanker Thom,Canklanker Thom,,Alien,Gromflom Prime,Male,Dead,1,2,3,7,0.300146,0.335377,0.000309,0.000151,0.03227,2,0.002035,0,5,0.5,0.011098
+Centaur,Centaur,,Mythological Creature,unknown,Male,Alive,2,2,4,7,0.252774,0.276818,0,0.002839,0.001502,9,0.000767,0,5,0.833333,0.003011
+Chris (The Ricks Must Be Crazy),Chris (The Ricks Must Be Crazy),,Alien,Rick's Battery Microverse,Male,Alive,3,2,5,8,0.232426,0.253937,0.000021,0.002899,0.000529,9,0.002609,0,5,0.333333,0.008308
+Chud King,Chud King,,Chud,unknown,Male,Alive,2,6,8,6,0.335516,0.379106,0.01415,0.007131,0.061618,8,0.001486,0,5,0.466667,0.017222
+Coach Feratu,Coach Feratu,,Vampire,unknown,Male,Dead,2,4,6,7,0.319315,0.362242,0.00308,0.002678,0.059183,9,0.002585,0,5,0.416667,0.009944
+Colossus,Colossus,,Human,Post-Apocalyptic Earth,Male,Dead,1,2,3,7,0.317829,0.356551,0,0.005088,0.058193,9,0.000755,0,5,0.666667,0.015637
+Comedian,Comedian,,Human,unknown,Male,unknown,0,0,0,0,0,0,0,0,0,8,0.000331,7,60,0,0
+Commander Rick,Commander Rick,,Human,unknown,Male,Dead,3,5,8,7,0.306886,0.349884,0.000041,0.006405,0.034833,9,0.001513,0,5,0.466667,0.011833
+Concerto,Concerto,,Humanoid,unknown,Male,Dead,1,3,4,7,0.320814,0.362242,0.000051,0.001662,0.058614,9,0.000588,0,5,0.5,0.003081
+Conroy,Conroy,,Robot,Earth (Replacement Dimension),Genderless,Dead,0,1,1,7,0.264103,0.287887,0,0,0.002222,8,0.000331,0,61,0,0
+Cool Rick,Cool Rick,,Human,Earth (K-83),Male,Alive,2,2,4,8,0.237269,0.258113,0,0.001546,0.000217,4,0.00082,0,5,1,0.002602
+Coop,Coop,,Human,Earth (Replacement Dimension),Male,Alive,0,0,0,0,0,0,0,0,0,9,0.000331,8,62,0,0
+Council of Ricks,Council of Ricks,,Human,unknown,Genderless,Dead,26,14,40,6,0.344538,0.410325,0.020084,0.064201,0.078498,9,0.009409,0,5,0.140212,0.143193
+Courier Flap,Courier Flap,,Alien,unknown,Genderless,Alive,1,2,3,7,0.298119,0.332536,0.000004,0.001396,0.032876,9,0.0005,0,9,0.5,0.000947
+Cousin Nicky,Cousin Nicky,,Alien,unknown,Male,Dead,3,4,7,7,0.320312,0.361475,0.00383,0.008676,0.033272,2,0.001575,0,5,0.5,0.015659
+Crocubot,Crocubot,,Animal,unknown,Male,Dead,0,2,2,7,0.298851,0.333345,0,0,0.03053,2,0.000331,0,63,0.5,0
+Cromulons,Cromulons,,Alien,unknown,Genderless,unknown,14,4,18,7,0.309201,0.347898,0.00701,0.014809,0.031333,0,0.002943,0,5,0.0875,0.015417
+Cronenberg Morty,Cronenberg Morty,,Cronenberg,Cronenberg Earth,Male,unknown,3,3,6,7,0.318818,0.359803,0.002122,0.012775,0.058316,8,0.001633,0,5,0.65,0.042518
+Cronenberg Rick,Cronenberg Rick,,Cronenberg,Cronenberg Earth,Male,unknown,1,4,5,6,0.324367,0.367398,0.000006,0.002672,0.060336,8,0.000794,0,5,0.75,0.00314
+Crop Top Morty,Crop Top Morty,,Human,unknown,Male,Alive,0,1,1,7,0.282192,0.314667,0,0,0.027787,9,0.000331,0,64,0,0
+Crowscare,Crowscare,,Living Scarecrow,unknown,Male,Alive,1,2,3,7,0.298271,0.33254,0,0.002672,0.030471,9,0.000483,0,65,0.5,0.000934
+Crustolomons,Crustolomons,,Alien,unknown,Genderless,unknown,0,2,2,7,0.250914,0.274295,0,0,0.004719,9,0.000331,0,66,1,0
+Crystallized Morty,Crystallized Morty,,Human,unknown,Genderless,Alive,1,3,4,7,0.295615,0.333869,0,0.001396,0.030395,9,0.000473,0,67,0.5,0.001095
+Cult Leader Morty,Cult Leader Morty,,Human,unknown,Male,Alive,0,3,3,7,0.289916,0.327559,0,0,0.030082,9,0.000331,0,69,0.5,0
+Curly-haired Rick,Curly-haired Rick,,Human,unknown,Male,unknown,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,70,0,0
+Cyclops Morty,Cyclops Morty,,Humanoid,Earth (Cyclops),Male,Alive,1,2,3,7,0.286501,0.321577,0,0.002798,0.027845,9,0.000417,0,72,0.5,0.000934
+Cyclops Rick,Cyclops Rick,,Humanoid,Earth (Cyclops),Male,Dead,1,5,6,6,0.325509,0.369311,0.000193,0.001276,0.061059,9,0.000508,0,72,0.4,0.000934
+Cynthia (Rixty Minutes),Cynthia (Rixty Minutes),,Human,Cronenberg Earth,Female,Alive,2,6,8,7,0.330113,0.377201,0.006424,0.005012,0.06129,9,0.000819,0,5,0.5,0.009653
+Dale,Dale,,Mythological Creature,Giant's Town,Male,Dead,3,4,7,7,0.319508,0.362225,0.000028,0.008158,0.058687,9,0.000665,0,53,0.5,0.003355
+Dale's Son,Dale's Son,,Giant,unknown,Male,Alive,2,4,6,7,0.319508,0.362225,0,0.005384,0.058814,9,0.0006,0,53,0.666667,0.002395
+Dangelians,Dangelians,,Alien,unknown,Genderless,unknown,0,2,2,7,0.298271,0.33254,0,0,0.030471,9,0.000331,0,74,0,0
+Daphne,Daphne,,Alien,Morglutz,Female,Alive,1,0,1,0,0,0,0,0.005465,0,8,0.001081,0,2,0,0.03898
+Daron Jefferson,Daron Jefferson,,Alien,Unity's Planet,Male,Alive,0,2,2,8,0.242925,0.264881,0,0,0.001003,7,0.000331,0,75,1,0
+Darth Poopybutthole,Darth Poopybutthole,,Poopybutthole,Ricks’s Story,Male,Alive,1,7,8,6,0.338284,0.384146,0.001386,0.001801,0.063774,2,0.00114,0,5,0.238095,0.009516
+Dave,Dave,,Human,unknown,Male,Alive,0,1,1,8,0.241822,0.260381,0,0,0,9,0.000331,0,77,0,0
+David Letterman,David Letterman,,Human,Earth (C-500A),Male,Alive,1,1,2,7,0.277254,0.304877,0,0.000423,0.009046,8,0.000594,0,35,0.5,0.001396
+David Prime,David Prime,,Alien,unknown,Genderless,Alive,1,1,2,7,0.230769,0.248643,0,0.001031,0,2,0.000452,0,51,0,0.000934
+Davin,Davin,,Human,Earth (C-137),Male,Dead,1,3,4,7,0.293276,0.333391,0.000135,0.00509,0.031164,8,0.001096,0,5,0.666667,0.036039
+Da’hou Ungherstahnk,Da’hou Ungherstahnk,,Alien,unknown,Female,Alive,1,1,2,7,0.230769,0.248643,0,0.001031,0,2,0.000452,0,78,0,0.000934
+Defiance Doctor,Defiance Doctor,,Alien,unknown,Male,Alive,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,79,0,0
+Delta,Delta,,Robot,unknown,Genderless,unknown,0,0,0,0,0,0,0,0,0,10,0.000331,9,80,0,0
+Diablo Verde,Diablo Verde,,Mythological Creature,unknown,Male,Dead,3,3,6,8,0.24359,0.267458,0.001944,0.002706,0.000249,1,0.002077,0,59,0.666667,0.003533
+Diane Sanchez,Diane Sanchez,,Human,Earth (C-137),Female,Dead,18,9,27,6,0.321821,0.367236,0.004033,0.078295,0.040926,8,0.012978,0,5,0.322134,0.425906
+Diesel Weasel,Diesel Weasel,,Animal,Earth (Replacement Dimension),Male,Alive,1,1,2,8,0.22043,0.237526,0,0.001276,0.00056,9,0.003222,0,5,0,0.007919
+Dipper and Mabel Mortys,Dipper and Mabel Mortys,,Human,unknown,Both,unknown,0,2,2,7,0.292199,0.331368,0,0,0.036794,9,0.000331,0,81,1,0
+Diseases,Diseases,,Monster,unknown,Genderless,Dead,3,5,8,7,0.291193,0.335552,0.0035,0.008751,0.030323,9,0.002848,0,5,0.75,0.076662
+Donna Guterman,Donna Guterman,,Robot,unknown,Genderless,Dead,2,6,8,6,0.304606,0.349431,0.000021,0.004842,0.031693,2,0.001555,0,5,0.666667,0.019182
+Doofus Rick,Doofus Rick,,Human,Earth (J19ζ7),Male,unknown,3,3,6,7,0.315871,0.353217,0.002307,0.011162,0.039536,9,0.004009,0,5,0.333333,0.119847
+Doom-Nomitron,Doom-Nomitron,,Alien,unknown,Genderless,Dead,1,5,6,7,0.320552,0.365277,0.002902,0.000011,0.058565,1,0.000919,0,59,0.4,0.001286
+Dr. Glip-Glop,Dr. Glip-Glop,,Alien,unknown,Male,Dead,1,1,2,7,0.297258,0.3293,0,0.001812,0.030407,9,0.000425,0,82,0.5,0.000786
+Dr. Schmidt,Dr. Schmidt,,Human,Roy: A Life Well Lived,Male,unknown,0,0,0,0,0,0,0,0,0,12,0.000331,10,83,0,0
+Dr. Wong,Dr. Wong,,Human,Earth (Replacement Dimension),Female,Alive,1,6,7,6,0.309668,0.351951,0.001219,0.00509,0.02325,8,0.001096,0,5,0.166667,0.036039
+Dr. Xenon Bloom,Dr. Xenon Bloom,,Humanoid,unknown,Male,Dead,6,8,14,7,0.325914,0.378502,0.003283,0.011848,0.063013,9,0.002477,0,5,0.375,0.019719
+Duck with Muscles,Duck with Muscles,,Parasite,unknown,Genderless,Dead,2,5,7,7,0.341098,0.385087,0.000079,0.005071,0.060115,2,0.000639,0,5,0.55,0.005367
+Dwayne,Dwayne,,Human,Earth (Replacement Dimension),Male,Alive,0,0,0,0,0,0,0,0,0,13,0.000331,11,84,0,0
+Eddie,Eddie,,Human,Earth (Replacement Dimension),Male,Dead,2,2,4,7,0.282369,0.317015,0,0.005811,0.028347,9,0.002315,0,5,0.666667,0.073009
+Eli's Girlfriend,Eli's Girlfriend,,Human,Post-Apocalyptic Earth,Female,Alive,0,2,2,7,0.280272,0.313373,0,0,0.011842,8,0.000331,0,85,1,0
+Eric Stoltz Mask Morty,Eric Stoltz Mask Morty,,Human,Eric Stoltz Mask Earth,Male,unknown,1,2,3,7,0.283149,0.318235,0.000043,0.001812,0.028298,9,0.001467,0,5,0,0.008194
+Ethan,Ethan,,Human,Earth (C-137),Male,Alive,15,8,23,6,0.342809,0.392683,0.003233,0.050019,0.080677,8,0.0096,0,5,0.345588,0.277764
+Evil Beth Clone,Evil Beth Clone,,Human,unknown,Female,Dead,2,5,7,6,0.336026,0.377404,0.000554,0.000845,0.066664,8,0.000684,0,86,0.4,0.002218
+Evil Jerry Clone,Evil Jerry Clone,,Human,unknown,Male,Dead,2,3,5,7,0.279195,0.311561,0.000041,0.003477,0.009244,8,0.000624,0,86,0.333333,0.002218
+Evil Rick Sanchez,Evil Rick Sanchez,,Human,unknown,Male,Dead,20,4,24,6,0.326954,0.37065,0.001912,0.048721,0.063621,9,0.006557,0,5,0.209524,0.12887
+Evil Summer Clone,Evil Summer Clone,,Human,unknown,Female,Dead,2,3,5,7,0.275132,0.31068,0.000034,0.003478,0.009206,8,0.000624,0,86,0.333333,0.002218
+Eyehole Man,Eyehole Man,,Alien,unknown,Male,Alive,0,4,4,6,0.339934,0.381877,0,0,0.076247,8,0.000331,0,87,1,0
+Farmer Rick,Farmer Rick,,Human,unknown,Male,Alive,1,6,7,6,0.327666,0.373349,0.000142,0.001305,0.061573,9,0.000514,0,88,0.4,0.001438
+Farmer Rick's Dog,Farmer Rick's Dog,,Robot,unknown,Genderless,unknown,0,0,0,0,0,0,0,0,0,14,0.000331,12,89,0,0
+Fart,Fart,,Alien,unknown,Male,Dead,6,4,10,7,0.321317,0.364681,0.001704,0.017711,0.060555,9,0.006837,0,5,0.357143,0.17725
+Fascist Morty,Fascist Morty,,Human,Earth (Fascist Dimension),Male,Dead,0,5,5,6,0.327132,0.370774,0,0,0.06231,9,0.000331,0,90,0.4,0
+Fast Aging Alien,Fast Aging Alien,,Alien,unknown,Genderless,Dead,0,3,3,7,0.321373,0.36291,0,0,0.060057,2,0.000331,0,91,0.5,0
+Father Bob,Father Bob,,Human,Earth (Replacement Dimension),Male,Alive,0,1,1,8,0.237054,0.255236,0,0,0.000679,0,0.000331,0,92,0,0
+Flansians,Flansians,,Alien,unknown,Genderless,unknown,1,5,6,6,0.299566,0.339372,0.000967,0,0.022492,2,0.000715,0,78,0.35,0.000934
+Fleeb,Fleeb,,Alien,unknown,Genderless,unknown,0,0,0,0,0,0,0,0,0,15,0.000331,13,93,0,0
+Florflok,Florflok,,Humanoid,unknown,Male,Dead,4,7,11,7,0.328526,0.374843,0.000078,0.008772,0.049564,5,0.001321,0,5,0.642857,0.012292
+Frank Palicky,Frank Palicky,,Human,Earth (C-137),Male,Dead,4,4,8,6,0.324881,0.367805,0.000631,0.012316,0.061973,8,0.002056,0,5,0.547619,0.059209
+Frankenstein's Monster,Frankenstein's Monster,,Alien,unknown,Male,Dead,1,2,3,7,0.267974,0.296005,0,0.003715,0.001502,2,0.000508,0,5,1,0.00404
+Fulgora,Fulgora,,Human,unknown,Female,Alive,0,1,1,1,1,1,0,0,0,16,0.000331,3,94,0,0
+Fungo,Fungo,,Alien,unknown,Male,Alive,0,3,3,7,0.278976,0.311456,0,0,0.009407,8,0.000331,0,96,0.666667,0
+Gaia,Gaia,,Sentient planet,Gaia,Female,Alive,5,5,10,7,0.302806,0.343995,0.014715,0.014179,0.032118,5,0.00295,0,5,0.8,0.086187
+Galactic Federation President,Galactic Federation President,,Alien,unknown,Male,Dead,1,2,3,7,0.300146,0.335377,0.000309,0.000151,0.03227,2,0.002035,0,5,0.5,0.011098
+Gar Gloonch,Gar Gloonch,,Alien,unknown,Male,Dead,4,2,6,7,0.279352,0.309846,0.001686,0.00146,0.009131,7,0.001187,0,97,0.15,0.003736
+Gar's Mytholog,Gar's Mytholog,,Mythological Creature,Nuptia 4,Male,Dead,0,2,2,8,0.220106,0.239194,0,0,0.000151,7,0.000331,0,98,1,0
+Garblovians,Garblovians,,Alien,Glaagablaaga,Genderless,Alive,2,1,3,1,1,1,0.000004,0,0,17,0.003217,14,99,0,0.001732
+Garmanarnar,Garmanarnar,,Alien,unknown,Male,Alive,6,6,12,8,0.246225,0.277825,0,0.004346,0.001008,6,0.001654,0,50,1,0.013181
+Garment District Rick,Garment District Rick,,Human,unknown,Male,Dead,2,4,6,7,0.309201,0.349721,0.00023,0.001807,0.036282,4,0.001261,0,5,0.7,0.005132
+Gazorpazorpfield (Character),Gazorpazorpfield (Character),,Alien,unknown,Male,unknown,1,4,5,7,0.320433,0.363573,0.000375,0.000025,0.058865,8,0.000518,0,100,0.416667,0.000934
+Gazorpians,Gazorpians,,Alien,unknown,Genderless,unknown,5,6,11,6,0.330645,0.379593,0.00286,0.01196,0.07288,8,0.001809,0,5,0.347222,0.029105
+Geardude,Geardude,,Robot,unknown,Male,Dead,0,5,5,7,0.304035,0.345588,0,0,0.036329,2,0.000331,0,101,0.45,0
+Gene,Gene,,Human,Earth (Replacement Dimension),Male,Alive,0,4,4,7,0.323899,0.368574,0,0,0.06108,8,0.000331,0,102,0.5,0
+General Nathan,General Nathan,,Human,Earth (Replacement Dimension),Male,Dead,3,4,7,7,0.329582,0.37029,0.000502,0.005793,0.059841,0,0.001259,0,5,0.45,0.00613
+General Store Owner,General Store Owner,,Alien,Purge Planet,Male,Dead,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,103,1,0
+Genital Washer,Genital Washer,,Human,Post-Apocalyptic Earth,Male,Alive,2,2,4,8,0.243306,0.265066,0,0.003982,0.000183,9,0.000609,0,104,1,0.002218
+Ghost in a Jar,Ghost in a Jar,,Alien,unknown,Male,Dead,2,2,4,7,0.267974,0.296005,0,0.006901,0.001568,2,0.000665,0,5,1,0.005728
+Gibble Snake,Gibble Snake,,Alien,Resort Planet,Genderless,Dead,2,1,3,8,0.23,0.246572,0.000005,0.003233,0,9,0.000848,0,105,0,0.001732
+Glar,Glar,,Alien,unknown,Male,Alive,0,4,4,7,0.320433,0.363009,0,0,0.058565,9,0.000331,0,107,0.333333,0
+Glasses Morty,Glasses Morty,,Human,unknown,Male,Alive,4,3,7,7,0.286486,0.324236,0.000453,0.00561,0.028423,9,0.001159,0,88,0.45,0.005011
+Glaxo Slimslom,Glaxo Slimslom,,Alien,unknown,Male,Alive,0,4,4,7,0.301994,0.341206,0,0,0.030696,7,0.000331,0,108,0.166667,0
+Glenn (Rixty Minutes),Glenn (Rixty Minutes),,Human,unknown,Male,Alive,1,1,2,8,0.212215,0.230139,0,0.002758,0.001863,2,0.000763,0,5,1,0.001506
+Glootie,Glootie,,Alien,unknown,Male,Alive,1,3,4,7,0.316923,0.354334,0.00061,0.000418,0.041675,8,0.00051,0,109,0.5,0.001271
+GlorpDieBlorp,GlorpDieBlorp,,Alien,unknown,Male,Alive,1,1,2,1,1,1,0,0,0,17,0.003068,14,99,0,0.00107
+Gobo,Gobo,,Alien,Alpha Centauri,Male,Dead,0,2,2,7,0.299419,0.335899,0,0,0.036833,9,0.000331,0,110,1,0
+Goddess Beth,Goddess Beth,,Mythological Creature,Nuptia 4,Female,Alive,1,3,4,7,0.283582,0.31432,0,0.000378,0.008325,7,0.000543,0,39,0.666667,0.001396
+Goomby,Goomby,,Alien,Story Train,Male,Alive,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,111,0,0
+Gordon Lunas,Gordon Lunas,,Human,unknown,Male,Dead,1,1,2,8,0.209611,0.225708,0,0.000214,0.000595,8,0.000918,0,5,0,0.002775
+Grace,Grace,,Human,unknown,Female,Alive,2,2,4,7,0.291607,0.330546,0.000008,0.007163,0.036794,9,0.00123,0,5,0.5,0.040734
+Grace Smith,Grace Smith,,Human,unknown,Female,unknown,1,8,9,7,0.29454,0.347503,0.000143,0.002954,0.037059,9,0.001397,0,5,0.357143,0.016846
+Greebybobes,Greebybobes,,Alien,Parblesnops,Genderless,Dead,0,1,1,8,0.237054,0.255236,0,0,0.000679,0,0.000331,0,112,0,0
+Greg,Greg,,Robot,Gear World,Male,unknown,0,1,1,8,0.244076,0.263991,0,0,0.000812,9,0.000331,0,113,0,0
+Gromflomites,Gromflomites,,Alien,unknown,Genderless,unknown,21,6,27,7,0.268676,0.305958,0.017575,0.040664,0.003302,2,0.012028,0,5,0.071429,0.144862
+Gwendolyn,Gwendolyn,,Robot,Gazorpazorp,Female,unknown,12,3,15,6,0.323344,0.363333,0.000086,0.050354,0.061411,8,0.00819,0,5,0.583333,0.264196
+Hambrosians,Hambrosians,,Alien,unknown,Genderless,unknown,0,4,4,7,0.321373,0.365337,0,0,0.063439,2,0.000331,0,114,0.916667,0
+Hammerhead Morty,Hammerhead Morty,,Humanoid,unknown,Male,unknown,0,2,2,7,0.28892,0.324295,0,0,0.030019,9,0.000331,0,115,0.5,0
+Hamsters In Butts,Hamsters In Butts,,Animal,Butt World,Genderless,Alive,0,0,0,0,0,0,0,0,0,19,0.000331,15,116,0,0
+Hamurai,Hamurai,,Alien,unknown,Male,Dead,3,2,5,7,0.267974,0.296005,0.000002,0.006977,0.001568,2,0.000881,0,5,0.666667,0.006883
+Harold,Harold,,Cronenberg,Earth (C-137),Male,Alive,0,2,2,7,0.289326,0.325705,0,0,0.029344,9,0.000331,0,117,1,0
+Harold The Garbage Goober,Harold The Garbage Goober,,Alien,unknown,Male,unknown,0,0,0,0,0,0,0,0,0,20,0.000331,16,118,0,0
+Healthy Rick,Healthy Rick,,Human,unknown,Genderless,unknown,2,3,5,7,0.301471,0.338873,0,0.005458,0.031235,9,0.00095,0,5,0.666667,0.003568
+Heistotron,Heistotron,,Robot,Earth (Replacement Dimension),Genderless,Dead,2,1,3,7,0.297965,0.32993,0,0.005424,0.030407,5,0.000472,0,5,0.333333,0.00179
+Helium-Q,Helium-Q,,Alphabetrian,unknown,Male,Dead,3,3,6,8,0.252153,0.277416,0,0.002853,0.00095,0,0.000702,0,5,0.55,0.003573
+Hemorrhage,Hemorrhage,,Human,Post-Apocalyptic Earth,Male,Alive,15,18,33,6,0.368705,0.433577,0.003883,0.061848,0.111042,8,0.008993,0,5,0.42619,0.26802
+Hephaestus,Hephaestus,,Mythological Creature,Mount Olympus,Male,Alive,1,6,7,7,0.325914,0.374111,0.004254,0.002757,0.059796,5,0.000499,0,5,0.233333,0.001993
+Heroin Keith,Heroin Keith,,Human,unknown,Male,Alive,0,1,1,7,0.282192,0.314667,0,0,0.027787,9,0.000331,0,119,0,0
+Hole in the Wall Where the Men Can See it All,Hole in the Wall Where the Men Can See it All,,Alien,unknown,Genderless,unknown,6,6,12,8,0.246225,0.277825,0,0.004346,0.001008,6,0.001654,0,50,1,0.013181
+Holly Hooks,Holly Hooks,,Human,unknown,Female,Alive,2,2,4,7,0.264858,0.290674,0,0.006138,0.003118,8,0.001068,0,5,1,0.014261
+Hologram Rick,Hologram Rick,,Humanoid,Earth (Replacement Dimension),Male,Dead,1,4,5,7,0.320814,0.364681,0.000088,0.001399,0.061179,9,0.001165,0,5,0.666667,0.006212
+Hologram Rick (Edge of Tomorty: Rick Die Repeat),Hologram Rick (Edge of Tomorty: Rick Die Repeat),,Humanoid,unknown,Genderless,Dead,0,5,5,7,0.322933,0.369209,0,0,0.061308,9,0.000331,0,120,0.45,0
+Hookah Alien,Hookah Alien,,Alien,unknown,Male,Alive,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,121,1,0
+Hoovy,Hoovy,,Humanoid,Narnia Dimension,Male,Dead,2,7,9,7,0.324117,0.373663,0.000207,0.002695,0.060403,9,0.000655,0,54,0.333333,0.002218
+Hothead Rick,Hothead Rick,,Human,unknown,Male,Dead,3,4,7,7,0.29927,0.338223,0,0.00428,0.031207,9,0.001865,0,5,0.833333,0.009483
+Hunter,Hunter,,Human,Earth (Giant Telepathic Spiders Dimension),Male,Dead,1,3,4,7,0.2749,0.310571,0.000963,0.000043,0.009959,9,0.000536,0,122,0.166667,0.000934
+Hunter's Father,Hunter's Father,,Human,Earth (Giant Telepathic Spiders Dimension),Male,Alive,1,2,3,8,0.216075,0.235599,0,0.000456,0.000932,9,0.000483,0,122,0.5,0.000934
+Hydrogen-F,Hydrogen-F,,Alien,Alphabetrium,Female,Alive,1,5,6,8,0.253988,0.284397,0,0.00005,0.001083,0,0.000399,0,123,0.55,0.000934
+Ideal Jerry,Ideal Jerry,,Mythological Creature,Nuptia 4,Male,Dead,2,4,6,7,0.291492,0.328116,0.000054,0.00076,0.01739,7,0.000696,0,39,0.45,0.002368
+Insurance Rick,Insurance Rick,,Human,unknown,Male,unknown,0,3,3,7,0.318462,0.359144,0,0,0.058444,9,0.000331,0,124,0.666667,0
+Investigator Rick,Investigator Rick,,Human,unknown,Male,Dead,1,2,3,7,0.250305,0.273194,0,0.002937,0.004719,9,0.001644,0,5,1,0.011947
+Invisi-troopers,Invisi-troopers,,Human,Earth (Replacement Dimension),Male,Alive,0,3,3,7,0.328025,0.36647,0,0,0.059162,0,0.000331,0,125,0.666667,0
+Izzy,Izzy,,Animal,Earth (Replacement Dimension),Female,Alive,0,2,2,7,0.298551,0.33294,0,0,0.030596,9,0.000331,0,126,0.5,0
+Jacob Philip,Jacob Philip,,Human,unknown,Male,Alive,7,7,14,7,0.29078,0.33734,0.000684,0.029199,0.021147,8,0.004475,0,5,0.589286,0.134632
+Jacqueline,Jacqueline,,Human,Earth (Replacement Dimension),Female,Alive,1,5,6,7,0.321821,0.367933,0.001753,0.0045,0.061562,9,0.002221,0,5,0.6,0.072222
+Jaguar,Jaguar,,Human,Earth (Replacement Dimension),Male,Alive,3,5,8,6,0.304154,0.344146,0.005431,0.009188,0.03628,9,0.001513,0,5,0.15,0.038114
+Jamey,Jamey,,Human,Earth (Replacement Dimension),Male,Alive,0,3,3,7,0.325949,0.365176,0,0,0.058872,0,0.000331,0,127,0.5,0
+Jan-Michael Vincent,Jan-Michael Vincent,,Human,unknown,Male,Alive,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,128,1,0
+Japheth,Japheth,,Humanoid,Narnia Dimension,Male,Dead,2,3,5,7,0.285521,0.323008,0.000051,0.004176,0.028096,9,0.000573,0,54,0.5,0.002218
+Jarshog Mollar,Jarshog Mollar,,Alien,unknown,Female,Alive,0,0,0,0,0,0,0,0,0,21,0.000331,17,129,0,0
+Jeff,Jeff,,Human,Earth (Replacement Dimension),Male,Alive,3,5,8,7,0.278581,0.319755,0.001975,0.000423,0.009123,3,0.001054,0,131,0.2,0.003341
+Jerry Smith (C-500A),Jerry Smith (C-500A),,Human,Earth (C-500A),Male,Alive,4,5,9,7,0.281124,0.318118,0.002,0.002623,0.009225,8,0.001547,0,36,0.133333,0.003998
+Jerry Smith (Cronenberged dimension),Jerry Smith (Cronenberged dimension),,Human,unknown,Male,unknown,16,15,31,6,0.357143,0.41935,0.005046,0.04849,0.106533,8,0.010122,0,5,0.282609,0.318065
+Jerry Smith (Evil Rick's Target Dimension),Jerry Smith (Evil Rick's Target Dimension),,Human,unknown,Male,Alive,4,7,11,7,0.290055,0.333277,0.000015,0.01326,0.01572,9,0.000519,0,38,0.595238,0.006248
+Jerry's Mytholog,Jerry's Mytholog,,Mythological Creature,Nuptia 4,Male,Dead,2,2,4,7,0.279412,0.310071,0.000022,0.001175,0.009184,7,0.00069,0,39,0.5,0.002518
+Jessica,Jessica,,Cronenberg,Earth (C-137),Female,Alive,19,10,29,7,0.332253,0.387933,0.008507,0.052185,0.064472,9,0.012538,0,5,0.132035,0.250747
+Jessica's Grandma,Jessica's Grandma,,Human,unknown,Female,Dead,1,1,2,8,0.249695,0.272305,0,0.002954,0.002391,9,0.001397,0,5,0,0.016846
+Jesus Christ,Jesus Christ,,Human,Ricks’s Story,Male,Dead,3,0,3,0,0,0,0,0.005612,0,2,0.001216,0,0,0,0.003779
+Jew,Jew,,Human,unknown,Male,unknown,0,1,1,9,0.194707,0.20832,0,0,0.000066,0,0.000331,0,132,0,0
+Jodie,Jodie,,Human,unknown,Female,Alive,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,133,1,0
+Johnny Depp,Johnny Depp,,Human,Earth (C-500A),Male,Alive,1,1,2,8,0.219665,0.236837,0,0.000423,0.00012,8,0.000594,0,36,0,0.001396
+Jon,Jon,,Alien,Gazorpazorp,Male,Alive,1,2,3,7,0.250302,0.274304,0,0.002697,0.000549,8,0.000441,0,100,0.5,0.000934
+Joseph Lipnip,Joseph Lipnip,,Human,unknown,Male,Alive,3,4,7,7,0.283149,0.316388,0,0.005467,0.009233,8,0.001469,0,5,0.833333,0.011293
+Josiah,Josiah,,Human,Earth (Replacement Dimension),Male,Alive,1,1,2,8,0.217883,0.236725,0,0.000418,0.000019,3,0.000488,0,131,0,0.001109
+Joyce Smith,Joyce Smith,,Human,Earth (C-137),Female,Alive,14,13,27,6,0.328,0.388455,0.002978,0.061765,0.07432,8,0.009959,0,5,0.579167,0.341918
+Juggling Rick,Juggling Rick,,Human,unknown,Male,unknown,1,2,3,7,0.302496,0.336454,0,0.002946,0.032893,9,0.000392,0,11,0.666667,0.001119
+Karen Entity,Karen Entity,,Alien,Unity's Planet,Female,Alive,0,2,2,8,0.242925,0.264881,0,0,0.001003,7,0.000331,0,134,1,0
+Katarina,Katarina,,Human,Earth (Replacement Dimension),Female,Dead,1,2,3,7,0.300146,0.335377,0.000051,0.001662,0.030828,9,0.000588,0,5,0,0.003081
+Katherine Heffelfinger,Katherine Heffelfinger,,Human,unknown,Female,unknown,1,4,5,7,0.286313,0.327991,0,0.002829,0.031944,9,0.001113,0,5,0.666667,0.010702
+Kathy Ireland,Kathy Ireland,,Human,Earth (Replacement Dimension),Female,Alive,1,2,3,7,0.283951,0.319186,0,0.002702,0.027845,9,0.000441,0,47,0.5,0.000934
+Kelsey Shawsen,Kelsey Shawsen,,Human,unknown,Female,Alive,0,2,2,8,0.22563,0.251751,0,0,0.002288,2,0.000331,0,135,0,0
+Kendra,Kendra,,Human,unknown,Female,Dead,0,3,3,6,0.321875,0.36157,0,0,0.060201,9,0.000331,0,136,1,0
+Kevin,Kevin,,Alien,unknown,Male,Dead,1,3,4,7,0.320814,0.360859,0,0.00319,0.058523,9,0.000442,0,5,0.666667,0.00122
+Khlorgg,Khlorgg,,Crittendians,unknown,Genderless,Alive,0,1,1,7,0.277254,0.304877,0,0,0.009046,8,0.000331,0,137,0,0
+Kiara,Kiara,,Krootabulan,unknown,Female,Alive,4,6,10,6,0.342237,0.388211,0.002602,0.014763,0.077215,8,0.005027,0,5,0.452381,0.133548
+King Flippy Nips,King Flippy Nips,,Alien,Pluto,Male,Alive,3,4,7,7,0.299708,0.339977,0.000535,0.007006,0.037518,8,0.003656,0,5,0.666667,0.049488
+Kl’iiik Mijupsrit,Kl’iiik Mijupsrit,,Alien,unknown,Male,Alive,1,1,2,8,0.21928,0.235519,0,0.000452,0,7,0.000559,0,138,0,0.000934
+Korlunxes,Korlunxes,,Alien,unknown,Male,Alive,0,2,2,7,0.278003,0.308114,0,0,0.009387,8,0.000331,0,139,1,0
+Kozbians,Kozbians,,Alien,unknown,Genderless,unknown,1,0,1,0,0,0,0,0.001396,0,9,0.000471,0,73,0,0.000786
+Kristen Stewart,Kristen Stewart,,Human,Earth (C-500A),Female,Alive,2,2,4,7,0.28,0.310975,0,0.002615,0.009166,8,0.000719,0,36,0.666667,0.002503
+Krombopulos Michael,Krombopulos Michael,,Alien,unknown,Male,Dead,4,4,8,7,0.321317,0.364681,0.000585,0.010864,0.060868,9,0.005617,0,5,0.5,0.104237
+Kyle,Kyle,,Humanoid,Zeep Xanflorp's Miniverse,Male,Dead,2,4,6,7,0.319813,0.363461,0.000203,0.002878,0.059154,9,0.001016,0,5,0.45,0.006541
+Lady Katana,Lady Katana,,Humanoid,unknown,Female,Dead,3,2,5,9,0.196244,0.211377,0,0.002706,0.000248,1,0.001871,0,59,0.833333,0.003533
+Larva Aliens,Larva Aliens,,Alien,unknown,Genderless,unknown,0,3,3,7,0.275401,0.302878,0,0,0.005925,2,0.000331,0,140,0.333333,0
+Lawyer Morty,Lawyer Morty,,Human,The Citadel,Male,unknown,0,3,3,7,0.304734,0.349653,0,0,0.039736,9,0.000331,0,141,0.666667,0
+Leonard Smith,Leonard Smith,,Human,Earth (C-137),Male,Alive,13,12,25,6,0.327476,0.386016,0.002967,0.058838,0.072162,8,0.009159,0,5,0.609524,0.325106
+Lighthouse Keeper,Lighthouse Keeper,,Alien,Purge Planet,Male,Dead,1,2,3,7,0.316847,0.355331,0,0.0045,0.058193,9,0.002221,0,5,1,0.072222
+Lil B,Lil B,,Alien,unknown,Male,Dead,0,3,3,7,0.303835,0.341147,0,0,0.035653,2,0.000331,0,142,1,0
+Lisa,Lisa,,Alien,unknown,Female,Dead,0,0,0,0,0,0,0,0,0,23,0.000331,18,143,0,0
+Little Dipper,Little Dipper,,Humanoid,unknown,Male,Alive,0,0,0,0,0,0,0,0,0,24,0.000331,19,144,0,0
+Little Ricky Wrap-it-up,Little Ricky Wrap-it-up,,Human,unknown,Male,Dead,3,4,7,7,0.29927,0.338223,0,0.00428,0.031207,9,0.001865,0,5,0.833333,0.009483
+Lizard Morty,Lizard Morty,,Humanoid,unknown,Male,Alive,4,5,9,7,0.290014,0.331626,0.000186,0.007001,0.028479,9,0.001079,0,88,0.3,0.004547
+Lizard Rick,Lizard Rick,,Humanoid,unknown,Male,unknown,1,2,3,7,0.299859,0.334524,0.00009,0.001305,0.030728,9,0.000514,0,88,0,0.001438
+Loggins,Loggins,,Alien,unknown,Male,Alive,0,0,0,0,0,0,0,0,0,25,0.000331,20,145,0,0
+Logic,Logic,,Human,unknown,Male,Alive,3,2,5,7,0.299427,0.334142,0.000132,0.005755,0.030602,2,0.000599,0,16,0.166667,0.002876
+Long Sleeved Morty,Long Sleeved Morty,,Human,unknown,Male,unknown,0,1,1,7,0.282192,0.314667,0,0,0.027787,9,0.000331,0,146,0,0
+Lord Henderfinger,Lord Henderfinger,,Human,Post-Apocalyptic Earth,Male,Dead,2,5,7,7,0.320552,0.365277,0.000828,0.001301,0.058682,9,0.000742,0,104,0.4,0.002218
+Lucius Needful,Lucius Needful,,Demon,Hell,Male,Alive,4,1,5,7,0.296671,0.328467,0.000205,0.011709,0.030407,9,0.003768,0,5,0.25,0.121336
+Lucy,Lucy,,Human,Earth (Replacement Dimension),Female,Dead,0,0,0,0,0,0,0,0,0,26,0.000331,21,147,0,0
+Maggie,Maggie,,Human,Earth (Replacement Dimension),Female,Alive,3,2,5,8,0.218557,0.240263,0.000014,0.000841,0.000019,3,0.000865,0,131,0.5,0.003341
+Magnesium-J,Magnesium-J,,Alien,Alphabetrium,Male,Alive,1,5,6,8,0.253988,0.284397,0,0.00005,0.001083,0,0.000399,0,123,0.55,0.000934
+Man Painted Silver Who Makes Robot Noises,Man Painted Silver Who Makes Robot Noises,,Human,unknown,Male,Alive,6,6,12,8,0.246225,0.277825,0,0.004346,0.001008,6,0.001654,0,50,1,0.013181
+Mar-Sha,Mar-Sha,,Alien,unknown,Female,Alive,1,2,3,7,0.298834,0.333751,0,0.00334,0.030955,8,0.000587,0,5,0.5,0.002688
+Masy Kallerax,Masy Kallerax,,Alien,unknown,Male,unknown,0,2,2,8,0.242925,0.264881,0,0,0.001003,7,0.000331,0,148,1,0
+Maximums Rickimus,Maximums Rickimus,,Human,unknown,Male,Dead,5,11,16,6,0.330113,0.387317,0.000168,0.014946,0.068814,9,0.001308,0,5,0.439394,0.019942
+MC Haps,MC Haps,,Human,Earth (C-137),Male,Alive,0,3,3,7,0.286494,0.32415,0,0,0.029276,2,0.000331,0,149,0,0
+McGlaargle,McGlaargle,,Alien,Gromflom Prime,Male,Alive,1,3,4,8,0.230079,0.258177,0.004249,0.000151,0.001871,2,0.002035,0,5,0,0.011098
+Mechanical Morty,Mechanical Morty,,Robot,Earth (Replacement Dimension),Male,Dead,0,5,5,7,0.321101,0.365918,0,0,0.058627,9,0.000331,0,153,0.25,0
+Mechanical Rick,Mechanical Rick,,Robot,Earth (Replacement Dimension),Male,Dead,1,3,4,7,0.318043,0.354533,0.000021,0.002686,0.038699,9,0.000387,0,152,0.333333,0.000786
+Mechanical Summer,Mechanical Summer,,Robot,Earth (Replacement Dimension),Female,Dead,1,3,4,7,0.324921,0.363881,0.000032,0.002686,0.047567,8,0.000387,0,150,0.583333,0.000786
+Memory Parasites,Memory Parasites,,Alien,unknown,Genderless,unknown,16,20,36,6,0.364769,0.436585,0.030017,0.028994,0.081068,2,0.004166,0,5,0.134211,0.031925
+Michael (The ABC's of Beth),Michael (The ABC's of Beth),,Human,unknown,Male,unknown,0,1,1,7,0.277254,0.304877,0,0,0.009046,8,0.000331,0,154,0,0
+Michael Denny and the Denny Singers,Michael Denny and the Denny Singers,,Human,unknown,Male,Alive,1,1,2,8,0.223529,0.241353,0,0.001396,0.000064,9,0.000473,0,67,1,0.001095
+Michael Jenkins,Michael Jenkins,,Human,unknown,Male,Dead,0,0,0,0,0,0,0,0,0,29,0.000331,22,155,0,0
+Michael McLick,Michael McLick,,Human,unknown,Male,Alive,1,1,2,1,1,1,0,0,0,30,0.002205,23,156,0,0.000934
+Michael Thompson,Michael Thompson,,Humanoid,unknown,Male,Alive,1,1,2,1,1,1,0,0,0,31,0.002205,24,157,0,0.000934
+Miles Knightly,Miles Knightly,,Alien,unknown,Male,Dead,1,1,2,7,0.297258,0.3293,0,0.002684,0.030407,9,0.000401,0,106,0.5,0.000786
+Million Ants,Million Ants,,Animal,unknown,Male,Dead,2,3,5,7,0.301543,0.337996,0.00096,0.000035,0.030537,2,0.000768,0,19,0.333333,0.002218
+Mitch,Mitch,,Human,Earth (Replacement Dimension),Male,Alive,0,6,6,7,0.295129,0.342291,0,0,0.03324,8,0.000331,0,158,0.4,0
+Morty Jr.,Morty Jr.,,Humanoid,Earth (Replacement Dimension),Male,Alive,17,15,32,6,0.360281,0.422602,0.008522,0.070226,0.106867,8,0.013994,0,5,0.438596,0.412949
+Morty Rick,Morty Rick,,Human,unknown,Male,unknown,0,3,3,7,0.318885,0.359674,0,0,0.059059,9,0.000331,0,159,0.833333,0
+Morty Smith (Evil Rick's Target Dimension),Morty Smith (Evil Rick's Target Dimension),,Human,unknown,Male,Alive,4,11,15,6,0.352941,0.407937,0.000211,0.0098,0.091232,9,0.00054,0,38,0.545455,0.006248
+Morty Smith (K-22),Morty Smith (K-22),,Human,Earth (Dimension K-22),Male,Alive,1,3,4,7,0.318462,0.359144,0,0.002672,0.058316,9,0.000462,0,160,0.666667,0.000934
+Morty Smith (Replacement Dimension),Morty Smith (Replacement Dimension),,Human,unknown,Male,Dead,5,13,18,6,0.354059,0.414634,0.000597,0.025151,0.103588,8,0.003713,0,5,0.570513,0.139278
+Morty's Girlfriend,Morty's Girlfriend,,Human,unknown,Female,Alive,1,1,2,7,0.281593,0.313763,0,0.0045,0.027787,9,0.002221,0,5,0,0.072222
+Mortytown Locos,Mortytown Locos,,Human,The Citadel,Male,Dead,2,2,4,7,0.251225,0.275226,0.000118,0.001393,0.002698,9,0.001873,0,5,0.166667,0.006356
+Mr. Always Wants To Be Hunted,Mr. Always Wants To Be Hunted,,Alien,unknown,Male,unknown,0,1,1,8,0.249093,0.268071,0,0,0.001021,2,0.000331,0,161,0,0
+Mr. Beauregard,Mr. Beauregard,,Alien,unknown,Male,Dead,5,5,10,6,0.35163,0.395122,0.001229,0.011235,0.068966,2,0.001516,0,5,0.357143,0.015219
+Mr. Benson,Mr. Benson,,Human,Earth (Replacement Dimension),Male,Alive,0,3,3,6,0.326984,0.36966,0,0,0.067201,9,0.000331,0,162,1,0
+Mr. Booby Buyer,Mr. Booby Buyer,,Mythological Creature,Fantasy World,Male,Alive,1,2,3,7,0.317411,0.356033,0,0.002672,0.058193,9,0.000425,0,40,0.666667,0.000786
+Mr. Goldenfold,Mr. Goldenfold,,Cronenberg,Earth (C-137),Male,Alive,12,5,17,6,0.334421,0.381301,0.014535,0.026684,0.069872,9,0.007461,0,5,0.211538,0.187901
+Mr. Goldenfold (Wasp Universe),Mr. Goldenfold (Wasp Universe),,Larva,unknown,Male,Dead,2,3,5,7,0.301471,0.337898,0.002376,0.001458,0.031696,9,0.001484,0,5,0.416667,0.007169
+Mr. Goldenfold's Larvae,Mr. Goldenfold's Larvae,,Larva,unknown,Genderless,Dead,1,2,3,7,0.252774,0.276249,0,0.001452,0.00129,9,0.000751,0,5,0.5,0.001351
+Mr. Marklovitz,Mr. Marklovitz,,Human,Earth (C-137),Male,Alive,1,3,4,7,0.280488,0.313872,0.000967,0,0.009857,7,0.000806,0,138,0,0.000934
+Mr. Meeseeks,Mr. Meeseeks,,Humanoid,Mr. Meeseeks Box,Male,unknown,10,3,13,7,0.315871,0.353217,0.002876,0.02766,0.039536,8,0.004471,0,5,0.154545,0.087405
+Mr. Meeseeks (Kirkland),Mr. Meeseeks (Kirkland),,Alien,unknown,Genderless,unknown,1,4,5,7,0.320814,0.364274,0.000067,0.001812,0.060055,8,0.001598,0,5,0.416667,0.006391
+Mr. Nimbus,Mr. Nimbus,,Mythological Creature,The Ocean,Male,Alive,4,6,10,6,0.341667,0.386585,0.000389,0.012301,0.078713,9,0.004214,0,5,0.402778,0.110866
+Mr. Poopybutthole,Mr. Poopybutthole,,Poopybutthole,unknown,Male,Alive,12,6,18,7,0.330113,0.373136,0.016447,0.022292,0.039298,2,0.005714,0,5,0.106061,0.129109
+Mr. Poopybutthole's Cat,Mr. Poopybutthole's Cat,,Animal,unknown,Genderless,Dead,1,3,4,7,0.266753,0.291776,0,0.000059,0.001114,2,0.000427,0,163,0.666667,0.000934
+Mr. Poopybutthole's Dog,Mr. Poopybutthole's Dog,,Animal,unknown,Genderless,unknown,1,4,5,7,0.267097,0.294191,0.000002,0.000051,0.001283,2,0.000452,0,163,0.666667,0.000934
+Mr. Sneezy,Mr. Sneezy,,Human,Interdimensional Cable,Male,Alive,0,0,0,0,0,0,0,0,0,32,0.000331,25,164,0,0
+Mr. Youseeks,Mr. Youseeks,,Alien,The Garage,Genderless,Alive,0,3,3,7,0.300292,0.337795,0,0,0.032397,9,0.000331,0,165,0.333333,0
+Mrs. Lipnip,Mrs. Lipnip,,Human,unknown,Female,Alive,3,5,8,7,0.319315,0.360534,0.000081,0.004071,0.039704,8,0.001522,0,5,0.7,0.011293
+Mrs. Pancakes,Mrs. Pancakes,,Human,Earth (C-137),Female,Alive,4,6,10,7,0.325397,0.372485,0.011158,0.006096,0.059993,9,0.00213,0,5,0.357143,0.016062
+Mrs. Poopybutthole,Mrs. Poopybutthole,,Alien,unknown,Female,Alive,4,5,9,7,0.311077,0.3564,0.00137,0.001962,0.039848,2,0.002029,0,5,0.214286,0.013129
+Mrs. Refrigerator,Mrs. Refrigerator,,Alien,unknown,Female,Dead,1,3,4,7,0.330645,0.37029,0,0.003715,0.039888,2,0.000508,0,5,0.666667,0.00404
+Mrs. Sullivan,Mrs. Sullivan,,Human,Earth (C-500A),Female,Dead,0,1,1,8,0.220251,0.238084,0,0,0.00012,8,0.000331,0,166,0,0
+Mysterious Rick,Mysterious Rick,,Human,unknown,Male,unknown,0,2,2,7,0.291372,0.329716,0,0,0.028445,9,0.000331,0,167,0.5,0
+Nancy,Nancy,,Human,Earth (Replacement Dimension),Female,Alive,5,5,10,6,0.339404,0.382927,0.000606,0.017579,0.075944,8,0.002261,0,5,0.482143,0.065122
+Naruto Smith,Naruto Smith,,Humanoid,Earth (Replacement Dimension),Male,Alive,10,13,23,6,0.362832,0.418537,0.006285,0.043822,0.103482,8,0.008443,0,5,0.480952,0.304776
+Nick,Nick,,Human,Earth (Replacement Dimension),Male,Dead,1,4,5,6,0.335516,0.37561,0.000069,0.0045,0.067803,9,0.002221,0,5,0.833333,0.072222
+Nippalians,Nippalians,,Alien,unknown,Genderless,unknown,7,1,8,8,0.242031,0.261295,0,0.004644,0.00079,7,0.002796,0,5,0.142857,0.013329
+Noob-Noob,Noob-Noob,,Poopybutthole,unknown,Male,Alive,3,6,9,7,0.330696,0.374926,0.000695,0.004256,0.059729,2,0.000835,0,16,0.160714,0.003697
+Numbericons,Numbericons,,Alien,unknown,Genderless,Alive,4,1,5,8,0.249392,0.268635,0,0.002897,0.000139,0,0.000901,0,5,0.666667,0.004862
+Octopus Man,Octopus Man,,Humanoid,unknown,Male,Alive,0,0,0,0,0,0,0,0,0,33,0.000331,26,168,0,0
+Old Reptile,Old Reptile,,Alien,unknown,Male,Alive,1,2,3,7,0.277402,0.307178,0,0.000415,0.009387,8,0.001718,0,5,1,0.004041
+Pat Guterman,Pat Guterman,,Humanoid,unknown,Genderless,Dead,2,5,7,6,0.298399,0.337805,0.000012,0.005256,0.022667,2,0.001517,0,5,0.6,0.019182
+Paul Fleishman,Paul Fleishman,,Human,unknown,Male,Alive,0,5,5,6,0.343907,0.387945,0,0,0.0844,8,0.000331,0,169,1,0
+Pawnshop Clerk,Pawnshop Clerk,,Alien,unknown,Male,Alive,0,3,3,7,0.317901,0.35846,0,0,0.060501,9,0.000331,0,170,0.833333,0
+Pencilvester,Pencilvester,,Alien,unknown,Male,Dead,2,3,5,7,0.339967,0.380209,0,0.006469,0.059522,2,0.000616,0,5,0.666667,0.005367
+Phillip Jacobs,Phillip Jacobs,,Human,unknown,Male,Alive,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,171,1,0
+Photography Cyborgs,Photography Cyborgs,,Humanoid,unknown,Male,Alive,0,3,3,7,0.303835,0.341147,0,0,0.035653,2,0.000331,0,172,1,0
+Photography Raptor,Photography Raptor,,Alien,unknown,Genderless,Dead,1,3,4,7,0.300587,0.341487,0,0.003715,0.02963,2,0.000508,0,5,0.666667,0.00404
+Pichael Thompson,Pichael Thompson,,Humanoid,unknown,Male,Alive,1,1,2,1,1,1,0,0,0,31,0.002205,24,157,0,0.000934
+Pickle Rick (character),Pickle Rick (character),,Pickle,unknown,Genderless,unknown,3,1,4,7,0.297533,0.329686,0.000094,0.00413,0.030407,9,0.000884,0,5,0.083333,0.006644
+Piece of Toast,Piece of Toast,,Bread,unknown,Genderless,Alive,6,7,13,7,0.30329,0.348282,0.00156,0.002949,0.031479,6,0.001684,0,50,0.738095,0.013181
+Pink Sentient Switchblade,Pink Sentient Switchblade,,Switchblade,unknown,Genderless,unknown,0,3,3,7,0.318393,0.355548,0,0,0.039269,8,0.000331,0,173,0.833333,0
+Planetina,Planetina,,Humanoid,Elemental Rings,Female,Alive,5,2,7,7,0.282369,0.317015,0.00308,0.012225,0.027845,9,0.006803,0,5,0.3,0.115725
+Plumber Rick,Plumber Rick,,Human,unknown,Male,Alive,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,174,0,0
+Plutonian,Plutonian,,Alien,unknown,Genderless,Alive,3,2,5,8,0.231116,0.251748,0.000059,0.008697,0.000607,8,0.003111,0,5,0.833333,0.049488
+Pom Poms,Pom Poms,,Alien,unknown,Genderless,unknown,1,2,3,7,0.298399,0.332938,0,0.001812,0.030796,9,0.000855,0,5,0.5,0.003349
+Poncho,Poncho,,Human,unknown,Male,Dead,4,4,8,7,0.284722,0.324739,0.000004,0.010018,0.029762,9,0.001711,0,5,0.6,0.01654
+Poop Jesus,Poop Jesus,,Alien,unknown,Male,unknown,0,1,1,1,1,1,0,0,0.000257,2,0.000331,0,175,0,0
+Poñeta,Poñeta,,Chud,unknown,Female,Alive,4,4,8,6,0.330645,0.369756,0.008469,0.016923,0.059551,8,0.003655,0,5,0.7,0.125253
+Presidentress of the Mega Gargantuans,Presidentress of the Mega Gargantuans,,Alien,Earth (Replacement Dimension),Female,Alive,0,3,3,7,0.328025,0.36647,0,0,0.059162,0,0.000331,0,176,0.666667,0
+Priest Witherspoon,Priest Witherspoon,,Human,Earth (Replacement Dimension),Male,Alive,2,5,7,7,0.278215,0.318969,0.001005,0.000419,0.009123,3,0.000925,0,131,0.2,0.002219
+Prince Nebulon,Prince Nebulon,,Alien,Zigerion,Male,Dead,3,5,8,6,0.339967,0.381138,0.002252,0.007197,0.069608,9,0.000653,0,5,0.428571,0.002707
+Principal Vagina,Principal Vagina,,Cronenberg,Earth (C-137),Male,Alive,7,5,12,7,0.264858,0.298362,0.003857,0.012975,0.00467,8,0.003453,0,5,0.045455,0.024558
+Pripudlians,Pripudlians,,Alien,unknown,Genderless,unknown,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,177,0,0
+Professor Shabooboo,Professor Shabooboo,,Human,Earth (Replacement Dimension),Male,Dead,0,3,3,6,0.304284,0.34288,0,0,0.037763,0,0.000331,0,178,0.5,0
+Purge Planet Ruler,Purge Planet Ruler,,Alien,Purge Planet,Male,Dead,0,3,3,7,0.318393,0.35927,0,0,0.058928,9,0.000331,0,179,1,0
+Pussifer,Pussifer,,Animal,Rick and Two Crows Planet,Male,Dead,0,0,0,0,0,0,0,0,0,34,0.000331,27,180,0,0
+Quantum Rick,Quantum Rick,,Human,unknown,Male,Dead,6,3,9,7,0.30506,0.34338,0.000071,0.018226,0.033642,9,0.001538,0,5,0.666667,0.022967
+Randy Dicknose,Randy Dicknose,,Human,unknown,Male,Alive,1,1,2,1,1,1,0,0,0,30,0.002205,23,156,0,0.000934
+Real Fake Doors Salesman,Real Fake Doors Salesman,,Human,unknown,Male,Alive,0,0,0,0,0,0,0,0,0,35,0.000331,28,181,0,0
+Rebel Doctor,Rebel Doctor,,Alien,unknown,Male,Alive,0,1,1,2,0.666667,0.75,0,0,0,17,0.000331,14,182,0,0
+Red Grin Grumble,Red Grin Grumble,,unknown,unknown,Genderless,unknown,0,4,4,6,0.339934,0.381877,0,0,0.076247,8,0.000331,0,183,1,0
+Reggie,Reggie,,Mythological Creature,Mount Olympus,Male,Dead,5,7,12,7,0.325914,0.375738,0.006528,0.011025,0.060175,5,0.001384,0,5,0.5,0.013156
+Regional Manager Rick,Regional Manager Rick,,Human,unknown,Male,Dead,3,3,6,7,0.254658,0.282218,0.001191,0.003019,0.002635,4,0.00104,0,5,0.333333,0.003755
+Regular Legs,Regular Legs,,Human,unknown,Male,Alive,1,1,2,1,1,1,0,0,0,4,0.002205,4,32,0,0.000934
+Reverse Giraffe,Reverse Giraffe,,Alien,unknown,Male,Dead,4,7,11,6,0.35163,0.398374,0.000901,0.005214,0.069538,2,0.001296,0,5,0.392857,0.008237
+Reverse Rick Outrage,Reverse Rick Outrage,,Human,unknown,Male,Dead,0,2,2,7,0.251519,0.275385,0,0,0.002491,9,0.000331,0,184,0.5,0
+"Revolio Clockberg, Jr.","Revolio Clockberg, Jr.",,Robot,unknown,Male,Alive,4,5,9,7,0.322581,0.368299,0.000516,0.007934,0.061591,9,0.000627,0,17,0.263889,0.003468
+Ricardo Montoya,Ricardo Montoya,,Human,unknown,Male,Alive,3,4,7,7,0.29927,0.338223,0,0.00428,0.031207,9,0.001865,0,5,0.833333,0.009483
+Richard,Richard,,Human,Earth (Replacement Dimension),Male,Alive,3,0,3,0,0,0,0,0.000841,0,3,0.000865,0,130,0.5,0.003341
+Rick D. Sanchez III,Rick D. Sanchez III,,Human,unknown,Male,Dead,4,5,9,7,0.309668,0.350372,0.009578,0.007744,0.033559,4,0.001868,0,5,0.309524,0.020675
+Rick Guilt Rick,Rick Guilt Rick,,Human,unknown,Male,unknown,0,0,0,0,0,0,0,0,0,37,0.000331,29,185,0,0
+Rick Prime,Rick Prime,,Human,unknown,Male,Dead,5,2,7,7,0.303704,0.339315,0,0.01663,0.033349,9,0.001281,0,5,0.866667,0.021249
+Rick Sanchez,Rick Sanchez,,Human,Earth (C-137),Male,Alive,261,40,301,6,0.420945,0.521301,0.223134,0.663568,0.100569,9,0.09268,0,5,0.012698,1
+Rick Sanchez (D-99),Rick Sanchez (D-99),,Human,Earth (Dimension D-99),Male,Dead,2,6,8,6,0.333333,0.383252,0.00015,0.00323,0.070479,9,0.001169,0,5,0.4,0.009373
+Rick Sanchez (Evil Rick's Target Dimension),Rick Sanchez (Evil Rick's Target Dimension),,Human,unknown,Male,Dead,4,11,15,6,0.352941,0.407937,0.000211,0.0098,0.091232,9,0.00054,0,38,0.545455,0.006248
+Rick Sanchez (J-22),Rick Sanchez (J-22),,Human,unknown,Male,unknown,3,5,8,7,0.308271,0.348339,0.002169,0.001715,0.031107,4,0.001141,0,5,0.35,0.003755
+Rick Sanchez (K-22),Rick Sanchez (K-22),,Human,Earth (K-22),Male,unknown,1,3,4,7,0.318462,0.359144,0,0.002672,0.058316,9,0.000462,0,160,0.666667,0.000934
+Rick Sanchez (Replacement Dimension),Rick Sanchez (Replacement Dimension),,Human,unknown,Male,Dead,6,9,15,6,0.349233,0.402033,0.000434,0.027218,0.092764,8,0.003775,0,5,0.555556,0.140392
+Rick's Father,Rick's Father,,Human,unknown,Male,unknown,12,12,24,6,0.376147,0.426911,0.011372,0.054558,0.097444,8,0.007961,0,5,0.479167,0.260588
+Rick's Foal,Rick's Foal,,Humanoid,unknown,Genderless,Alive,6,11,17,6,0.364769,0.414797,0.008582,0.022501,0.096062,8,0.004896,0,5,0.583333,0.130875
+Ricktiminus Sancheziminius,Ricktiminus Sancheziminius,,Human,unknown,Male,Dead,4,11,15,6,0.330113,0.387317,0,0.013474,0.068881,9,0.001189,0,5,0.518182,0.018968
+Riq IV,Riq IV,,Human,unknown,Male,Dead,5,12,17,6,0.337727,0.399919,0.000248,0.014366,0.077848,9,0.001328,0,5,0.403846,0.01963
+Risotto Groupon,Risotto Groupon,,Alien,Resort Planet,Male,Dead,3,3,6,7,0.315871,0.353217,0.002164,0.008501,0.039536,9,0.00185,0,5,0.416667,0.041769
+Robot Morty,Robot Morty,,Robot,unknown,Male,unknown,2,2,4,7,0.283174,0.317978,0.000074,0.004088,0.027926,9,0.000701,0,151,0.166667,0.00188
+Robot Rick,Robot Rick,,Robot,unknown,Male,unknown,2,2,4,7,0.298271,0.33254,0.000152,0.003053,0.030594,9,0.000738,0,151,0.166667,0.002004
+Robot Soldiers,Robot Soldiers,,Robot,unknown,Genderless,Alive,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,186,0,0
+Roger,Roger,,Human,Earth (C-137),Male,Dead,1,1,2,8,0.246098,0.268124,0,0.002887,0.000543,9,0.000594,0,5,0,0.0024
+Ron Benson,Ron Benson,,Alien,Unity's Planet,Male,Alive,0,2,2,8,0.242925,0.264881,0,0,0.001003,7,0.000331,0,187,1,0
+Rose,Rose,,Giant,unknown,Female,Alive,2,4,6,7,0.319508,0.362225,0,0.005384,0.058814,9,0.0006,0,53,0.666667,0.002395
+Roy,Roy,,Human,Roy: A Life Well Lived,Male,Alive,1,2,3,7,0.317411,0.356033,0.000967,0,0.058193,9,0.000612,0,76,0.333333,0.000786
+Ruben,Ruben,,Human,Earth (C-137),Male,Dead,5,12,17,7,0.341098,0.399721,0.000629,0.010987,0.072656,9,0.002255,0,5,0.252747,0.024689
+Running Bird,Running Bird,,Human,Earth (Replacement Dimension),Male,Alive,1,3,4,8,0.218782,0.242621,0.000002,0.000001,0.000096,3,0.000698,0,131,0.5,0.001271
+Salesman Rick,Salesman Rick,,Human,unknown,Male,unknown,1,2,3,7,0.298271,0.33254,0.000028,0.002825,0.030471,9,0.000398,0,10,0.333333,0.001097
+Samantha,Samantha,,Human,Earth (C-137),Female,Alive,0,2,2,7,0.264781,0.291123,0,0,0.003489,8,0.000331,0,188,0.5,0
+Scary Brandon,Scary Brandon,,Mythological Creature,Mr. Goldenfold's dream,Male,Alive,2,2,4,8,0.244048,0.265197,0,0.005376,0.000445,9,0.000912,0,5,1,0.00291
+Scary Glenn,Scary Glenn,,Mythological Creature,Mr. Goldenfold's dream,Male,Alive,0,2,2,7,0.30117,0.335853,0,0,0.030728,9,0.000331,0,189,0.5,0
+Scary Melissa,Scary Melissa,,Scary,unknown,Female,Alive,2,4,6,7,0.321821,0.364355,0.000477,0.002704,0.058761,9,0.001072,0,5,0.5,0.00291
+Scary Terry,Scary Terry,,Mythological Creature,Mr. Goldenfold's dream,Male,Alive,6,4,10,7,0.321821,0.364355,0.005646,0.007005,0.058564,9,0.001664,0,5,0.196429,0.006909
+Schlami,Schlami,,Humanoid,unknown,Genderless,Alive,0,0,0,0,0,0,0,0,0,39,0.000331,30,190,0,0
+Scroopy Noopers,Scroopy Noopers,,Alien,Pluto,Male,Alive,3,4,7,7,0.299708,0.339977,0.001213,0.006247,0.037552,8,0.00432,0,5,0.666667,0.079682
+Scropon,Scropon,,Alien,unknown,Male,unknown,0,7,7,6,0.344209,0.390205,0,0,0.073819,2,0.000331,0,191,0.5,0
+Scrotians,Scrotians,,Alien,unknown,Genderless,unknown,0,5,5,7,0.313433,0.353934,0,0,0.036595,2,0.000331,0,192,0.4,0
+SEAL Team Ricks,SEAL Team Ricks,,Human,unknown,Male,Dead,7,5,12,7,0.309201,0.352729,0.004296,0.024468,0.035654,9,0.003416,0,5,0.458333,0.101359
+Self-Congratulatory Jerry,Self-Congratulatory Jerry,,Mythological Creature,Nuptia 4,Male,Dead,0,1,1,7,0.277254,0.304877,0,0,0.009046,8,0.000331,0,193,0,0
+Semosites,Semosites,,Alien,unknown,Genderless,Alive,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,194,1,0
+Severnians,Severnians,,Alien,unknown,Genderless,Alive,0,0,0,0,0,0,0,0,0,40,0.000331,31,195,0,0
+Shadow Council of Ricks,Shadow Council of Ricks,,Human,unknown,Genderless,unknown,5,5,10,7,0.262484,0.299129,0.006032,0.009754,0.005878,4,0.003603,0,5,0.3,0.02831
+Sheikh Rick,Sheikh Rick,,Human,unknown,Male,Dead,1,1,2,8,0.208122,0.225726,0,0.000269,0.000447,4,0.000943,0,5,0,0.002933
+Shimshamians,Shimshamians,,Alien,unknown,Genderless,Alive,0,0,0,0,0,0,0,0,0,41,0.000331,32,196,0,0
+Shleemypants,Shleemypants,,Alien,unknown,Male,Alive,3,2,5,7,0.298399,0.332938,0.002278,0.007312,0.030539,9,0.003987,0,5,0.166667,0.081186
+Shmlamantha Shmlicelli,Shmlamantha Shmlicelli,,Human,unknown,Female,Alive,0,0,0,0,0,0,0,0,0,42,0.000331,33,197,0,0
+Shmlangela Shmlobinson-Shmlower,Shmlangela Shmlobinson-Shmlower,,Human,unknown,Female,Alive,0,0,0,0,0,0,0,0,0,43,0.000331,34,198,0,0
+Shmlona Shmlobinson,Shmlona Shmlobinson,,Human,unknown,Female,Alive,0,0,0,0,0,0,0,0,0,44,0.000331,35,199,0,0
+Shmlonathan Shmlower,Shmlonathan Shmlower,,Human,unknown,Male,Alive,0,0,0,0,0,0,0,0,0,45,0.000331,36,200,0,0
+Shmlony Shmlicelli,Shmlony Shmlicelli,,Human,unknown,Male,Alive,0,0,0,0,0,0,0,0,0,46,0.000331,37,201,0,0
+Shmooglite Runner,Shmooglite Runner,,Alien,Resort Planet,Male,unknown,1,2,3,7,0.298271,0.33254,0.000967,0,0.030555,9,0.001052,0,105,0,0.00107
+Shnoopy Bloopers,Shnoopy Bloopers,,Alien,unknown,Male,Alive,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,202,0,0
+Shrimp Rick,Shrimp Rick,,Shrimp,Earth (Shrimp Universe),Male,Alive,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,203,0,0
+Shrimply Pibbles,Shrimply Pibbles,,Alien,unknown,Male,Alive,8,2,10,7,0.277402,0.307178,0.004038,0.00744,0.009065,8,0.003264,0,5,0.107143,0.045894
+Simon,Simon,,Human,Earth (Replacement Dimension),Male,Alive,0,4,4,7,0.308846,0.346613,0,0,0.03232,0,0.000331,0,204,0.666667,0
+Simple Rick,Simple Rick,,Human,unknown,Male,Dead,3,5,8,7,0.309668,0.350778,0.006679,0.00297,0.034566,4,0.000983,0,5,0.233333,0.004287
+Simulation Morty,Simulation Morty,,Human,unknown,Male,unknown,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,205,1,0
+Sleepy Gary,Sleepy Gary,,Alien,unknown,Male,Dead,6,12,18,6,0.373406,0.429512,0.018817,0.026802,0.10069,8,0.003505,0,5,0.538462,0.11246
+Slick Morty,Slick Morty,,Human,unknown,Male,Dead,4,2,6,8,0.246799,0.270356,0.000068,0.006898,0.000323,9,0.001043,0,88,0.583333,0.005011
+Slippery Stair,Slippery Stair,,Mythological Creature,Fantasy World,Male,Alive,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,206,1,0
+Slow Mobius,Slow Mobius,,Humanoid,unknown,Male,Alive,0,3,3,7,0.31938,0.360888,0,0,0.060585,9,0.000331,0,207,1,0
+Slow Rick,Slow Rick,,Human,unknown,Male,Alive,1,3,4,7,0.301136,0.338062,0.000005,0.001469,0.031009,9,0.000459,0,88,0.5,0.001124
+Smarkians,Smarkians,,Humanoid,unknown,Genderless,unknown,1,0,1,0,0,0,0,0.000086,0,2,0.000907,0,3,0,0.001506
+Snuffles,Snuffles,,Animal,Story Train,Male,Alive,8,3,11,6,0.334421,0.372358,0.000993,0.032603,0.06724,8,0.007134,0,5,0.583333,0.265671
+Solicitor Rick,Solicitor Rick,,Human,unknown,Male,unknown,2,4,6,6,0.3296,0.373706,0.000092,0.005476,0.062999,9,0.000511,0,71,0.333333,0.00172
+Space Cruiser,Space Cruiser,,Robot,Earth (Replacement Dimension),Female,Alive,9,0,9,0,0,0,0,0.020297,0,9,0.004349,0,1,0.069444,0.063866
+Sperm Queen,Sperm Queen,,Space Sperm,Morty,Female,Dead,1,6,7,6,0.3457,0.39187,0,0.003968,0.085049,8,0.000485,0,5,0.833333,0.002296
+Squanchy,Squanchy,,Alien,Planet Squanch,Male,unknown,9,3,12,7,0.303254,0.340372,0.000208,0.026748,0.035653,2,0.006417,0,5,0.305556,0.145663
+Squeeb,Squeeb,,Humanoid,Gaia,Male,Dead,4,7,11,7,0.328526,0.374843,0.000078,0.008772,0.049564,5,0.001321,0,5,0.642857,0.012292
+Stacy,Stacy,,Human,Earth (Replacement Dimension),Female,Alive,3,4,7,7,0.320312,0.363868,0.00456,0.010086,0.059022,9,0.002824,0,5,0.6,0.079043
+Stair Goblins,Stair Goblins,,Alien,unknown,Genderless,Alive,0,0,0,0,0,0,0,0,0,47,0.000331,38,208,0,0
+Stealy,Stealy,,Poopybutthole,unknown,Male,Alive,1,1,2,8,0.249093,0.268071,0,0.002737,0.001021,2,0.000449,0,15,0.5,0.001303
+Steve (Mortyplicity),Steve (Mortyplicity),,Human,unknown,Male,Alive,0,2,2,7,0.306548,0.339736,0,0,0.031376,0,0.000331,0,209,0.5,0
+Steven Phillips,Steven Phillips,,Alien,Unity's Planet,Male,Alive,0,4,4,7,0.295129,0.339459,0,0,0.037797,7,0.000331,0,210,0.416667,0
+Steven Smith,Steven Smith,,Parasite,unknown,Male,Dead,5,12,17,6,0.368043,0.42561,0.006566,0.018541,0.102184,8,0.003035,0,5,0.719697,0.076601
+Sticky,Sticky,,Space Sperm,Morty,Male,Alive,4,7,11,6,0.346284,0.394309,0.00222,0.014165,0.08659,8,0.001272,0,5,0.541667,0.022849
+Story Lord,Story Lord,,Human,unknown,Male,unknown,1,3,4,7,0.318818,0.359803,0.001033,0.002937,0.058451,9,0.001644,0,5,0.416667,0.011947
+Stu,Stu,,Alien,Zigerion,Male,Dead,0,4,4,6,0.339374,0.378479,0,0,0.067569,9,0.000331,0,211,0.75,0
+Submarine Nazi,Submarine Nazi,,Human,unknown,Male,Dead,0,1,1,7,0.26109,0.280005,0,0,0.000515,2,0.000331,0,212,0,0
+Summer Smith,Summer Smith,,Human,Earth (C-137),Female,Alive,63,30,93,6,0.374088,0.463659,0.033679,0.196576,0.119268,8,0.026482,0,5,0.076487,0.602331
+Summer Smith (Cronenberged dimension),Summer Smith (Cronenberged dimension),,Human,unknown,Female,unknown,10,19,29,6,0.362191,0.432358,0.006339,0.033986,0.111592,8,0.007616,0,5,0.292208,0.260902
+Summer Smith (Evil Rick's Target Dimension),Summer Smith (Evil Rick's Target Dimension),,Human,unknown,Female,Alive,4,7,11,7,0.285714,0.332404,0.000011,0.013262,0.015681,9,0.000519,0,38,0.595238,0.006248
+Summer Smith (Goldenfold's Dream),Summer Smith (Goldenfold's Dream),,Human,Mr. Goldenfold's dream,Female,Alive,0,4,4,7,0.323899,0.366632,0,0,0.059695,9,0.000331,0,213,0.833333,0
+Summer's Boyfriend,Summer's Boyfriend,,Human,unknown,Male,Alive,0,1,1,7,0.27321,0.303988,0,0,0.009008,8,0.000331,0,214,0,0
+Summer's Girlfriend,Summer's Girlfriend,,Human,unknown,Female,Alive,0,1,1,7,0.27321,0.303988,0,0,0.009008,8,0.000331,0,215,0,0
+Supernova,Supernova,,Human,unknown,Female,Alive,2,5,7,8,0.255042,0.286196,0.000232,0.001402,0.000691,2,0.000842,0,19,0.15,0.002218
+Supreme Guard Ricks,Supreme Guard Ricks,,Human,unknown,Male,unknown,0,0,0,0,0,0,0,0,0,48,0.000331,39,216,0,0
+Taddy Mason,Taddy Mason,,Human,Earth (Replacement Dimension),Male,Alive,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,217,1,0
+Taint Washer,Taint Washer,,Human,Post-Apocalyptic Earth,Male,Alive,2,4,6,7,0.28513,0.324504,0.000244,0.002697,0.028211,9,0.000716,0,104,0.416667,0.002218
+Talking Cat,Talking Cat,,Animal,unknown,Male,Alive,1,3,4,7,0.315871,0.353217,0.000014,0.003086,0.039748,9,0.000872,0,5,0.666667,0.005915
+Tammy Guterman,Tammy Guterman,,Human,unknown,Female,Dead,26,11,37,6,0.351027,0.406911,0.013294,0.06059,0.083003,2,0.012504,0,5,0.117725,0.25051
+Task Force Alpha,Task Force Alpha,,Human,unknown,Genderless,unknown,0,1,1,7,0.252761,0.272342,0,0,0.000969,0,0.000331,0,218,0,0
+Teacher Rick,Teacher Rick,,Human,unknown,Male,Alive,2,6,8,7,0.305916,0.351426,0.000665,0.001436,0.032053,9,0.000904,0,88,0.233333,0.002424
+Terry,Terry,,Human,Earth (Replacement Dimension),Male,unknown,0,2,2,8,0.253071,0.275826,0,0,0.001,0,0.000331,0,219,0,0
+Terryfolds,Terryfolds,,Alien,unknown,Genderless,unknown,0,0,0,0,0,0,0,0,0,50,0.000331,40,220,0,0
+The Garage,The Garage,,Robot,unknown,Genderless,unknown,7,5,12,6,0.329582,0.377154,0.000503,0.015782,0.070522,9,0.003452,0,5,0.227273,0.049606
+The Little Girl,The Little Girl,,Dream Human,unknown,Female,Alive,1,4,5,7,0.254027,0.283322,0,0.002749,0.001953,9,0.000633,0,5,0.5,0.002014
+The One True Morty,The One True Morty,,Divine Entity,unknown,Male,unknown,1,2,3,7,0.28892,0.324295,0,0.001378,0.030019,9,0.000425,0,68,0.5,0.000786
+The President,The President,,Human,Earth (Replacement Dimension),Male,Alive,10,7,17,6,0.336617,0.382358,0.013733,0.021146,0.062778,0,0.001911,0,5,0.147619,0.010533
+The President of the Miniverse,The President of the Miniverse,,Humanoid,Zeep Xanflorp's Miniverse,Male,Dead,0,4,4,7,0.301611,0.341436,0,0,0.031068,9,0.000331,0,221,0.5,0
+The Scientist Formerly Known as Rick,The Scientist Formerly Known as Rick,,Human,unknown,Male,Dead,6,4,10,7,0.30597,0.346225,0.000026,0.018212,0.038067,9,0.001337,0,5,0.583333,0.022035
+Thomas Lipnip,Thomas Lipnip,,Human,unknown,Male,unknown,6,5,11,7,0.319315,0.360534,0.006421,0.015484,0.039181,8,0.003872,0,5,0.452381,0.114043
+Three Unknown Things,Three Unknown Things,,Alien,unknown,Genderless,Alive,6,6,12,8,0.246225,0.277825,0,0.004346,0.001008,6,0.001654,0,50,1,0.013181
+Ticktock,Ticktock,,Humanoid,Gaia,Male,Dead,4,7,11,7,0.328526,0.374843,0.000078,0.008772,0.049564,5,0.001321,0,5,0.642857,0.012292
+Time Bird,Time Bird,,Bird Person,unknown,Genderless,unknown,0,0,0,0,0,0,0,0,0,52,0.000331,41,222,0,0
+Tinkles,Tinkles,,Alien,unknown,Female,Dead,2,1,3,7,0.267624,0.293566,0,0.003784,0.001329,2,0.000724,0,5,1,0.005195
+Tiny Rick,Tiny Rick,,Human,Earth (Replacement Dimension),Male,Dead,6,3,9,7,0.318818,0.359803,0.004459,0.018895,0.058316,9,0.005315,0,5,0.380952,0.13432
+Toby Matthews,Toby Matthews,,Human,Earth (Replacement Dimension),Male,Alive,3,3,6,7,0.274064,0.309129,0.000563,0.009267,0.012166,8,0.002242,0,5,0.25,0.056984
+Todd Crystal,Todd Crystal,,Alien,Unity's Planet,Male,Alive,0,2,2,8,0.242925,0.264881,0,0,0.001003,7,0.000331,0,223,1,0
+Tommy's Clone,Tommy's Clone,,Human,Earth (Replacement Dimension),Male,Alive,3,6,9,7,0.320312,0.363786,0.000101,0.004038,0.040429,8,0.00156,0,5,0.5,0.011293
+Tony's Wife,Tony's Wife,,Alien,unknown,Female,Dead,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,224,0,0
+Tophat Jones,Tophat Jones,,Mythological Creature,unknown,Male,Dead,0,0,0,0,0,0,0,0,0,53,0.000331,42,225,0,0
+Tortured Mortys,Tortured Mortys,,Human,unknown,Male,unknown,0,3,3,7,0.317901,0.35846,0,0,0.060426,9,0.000331,0,226,0.833333,0
+Tough Rat,Tough Rat,,Animal,Earth (Replacement Dimension),Genderless,Dead,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,227,0,0
+Toxic Morty,Toxic Morty,,Humanoid,Detoxifier,Male,Dead,5,4,9,7,0.320312,0.363868,0.001525,0.011245,0.058756,9,0.00185,0,5,0.404762,0.014601
+Toxic Rick,Toxic Rick,,Humanoid,Detoxifier,Male,Dead,3,6,9,7,0.321317,0.368746,0.000771,0.006828,0.060351,9,0.001593,0,5,0.366667,0.009007
+Traflorkians,Traflorkians,,Alien,unknown,Genderless,unknown,0,3,3,7,0.316514,0.35383,0,0,0.039536,9,0.000331,0,228,0.5,0
+Trandor,Trandor,,Alien,Krootabulon,Male,Dead,2,2,4,7,0.283541,0.319048,0,0.008147,0.028463,8,0.003012,0,5,0.833333,0.087616
+Tricia Lange,Tricia Lange,,Human,Earth (Replacement Dimension),Female,Alive,5,9,14,7,0.3125,0.368839,0.001246,0.015852,0.055542,8,0.003982,0,5,0.416667,0.08343
+Trunk Morty,Trunk Morty,,Humanoid,Trunk World,Male,Alive,2,5,7,7,0.296454,0.338653,0.000137,0.002672,0.030465,9,0.000837,0,67,0.25,0.002042
+Trunk People,Trunk People,,Alien,unknown,Genderless,unknown,2,2,4,7,0.287088,0.322431,0.000977,0.001399,0.027909,9,0.000875,0,67,0.333333,0.002042
+Truth Tortoise,Truth Tortoise,,Mythological Creature,unknown,Male,unknown,0,2,2,7,0.317411,0.356033,0,0,0.058193,9,0.000331,0,229,1,0
+Tumblorkians,Tumblorkians,,Alien,unknown,Genderless,Alive,0,1,1,8,0.217989,0.233749,0,0,0.000341,8,0.000331,0,230,0,0
+Tusked Assassin,Tusked Assassin,,Alien,Resort Planet,Male,unknown,0,4,4,7,0.318043,0.357738,0,0,0.039991,9,0.000331,0,231,0.416667,0
+Two Crows,Two Crows,,Animal,Earth (Replacement Dimension),Male,Alive,1,3,4,7,0.318462,0.359144,0.000071,0.001396,0.058316,9,0.000536,0,65,0.5,0.000934
+Two Guys with Handlebar Mustaches,Two Guys with Handlebar Mustaches,,Human,unknown,Male,Alive,6,6,12,8,0.246225,0.277825,0,0.004346,0.001008,6,0.001654,0,50,1,0.013181
+Unity,Unity,,Alien,unknown,Genderless,Alive,13,4,17,7,0.318818,0.361835,0.011806,0.017243,0.058529,7,0.007964,0,5,0.076923,0.113
+Unmuscular Michaels,Unmuscular Michaels,,Human,unknown,Male,unknown,0,0,0,0,0,0,0,0,0,54,0.000331,43,232,0,0
+Unnamed Uncle,Unnamed Uncle,,Human,unknown,Male,Dead,12,9,21,6,0.325397,0.377886,0.002635,0.056086,0.066032,8,0.008498,0,5,0.67033,0.300087
+Vampire Master,Vampire Master,,Mythological Creature,Earth (Replacement Dimension),Male,Alive,1,1,2,8,0.242317,0.261539,0,0.002712,0.000123,9,0.00088,0,5,0,0.001475
+Vance Maximus,Vance Maximus,,Human,unknown,Male,Dead,2,2,4,7,0.283174,0.317978,0.000236,0.001428,0.027909,2,0.000823,0,18,0,0.002192
+Ventriloquiver,Ventriloquiver,,Humanoid,Plitzville Montana,Female,Alive,1,0,1,0,0,0,0,0.00274,0,5,0.000402,0,4,0,0.001003
+Vermigurber,Vermigurber,,Alien,unknown,Male,Alive,0,0,0,0,0,0,0,0,0,55,0.000331,44,233,0,0
+Visor Rick,Visor Rick,,Human,unknown,Male,Dead,0,3,3,6,0.325434,0.366828,0,0,0.061135,9,0.000331,0,234,0.833333,0
+Voltamatron,Voltamatron,,Alien,unknown,Genderless,unknown,0,1,1,7,0.282192,0.314667,0,0,0.027787,9,0.000331,0,235,0,0
+Vulvorvians,Vulvorvians,,Alien,unknown,Genderless,unknown,0,1,1,7,0.297258,0.3293,0,0,0.030407,9,0.000331,0,236,0,0
+Warlord of Titan,Warlord of Titan,,Alien,unknown,Genderless,Dead,1,6,7,6,0.343907,0.387945,0,0,0.0844,8,0.000331,0,237,0.833333,0.000934
+Wasp Rick,Wasp Rick,,Animal,Earth (Wasp Dimension),Male,Alive,4,3,7,7,0.29927,0.33619,0.006357,0.012973,0.030538,9,0.002944,0,5,0.2,0.081842
+Water-T,Water-T,,Alien,unknown,Male,Alive,5,6,11,7,0.331715,0.376794,0.00705,0.003026,0.060104,0,0.001663,0,5,0.285714,0.006937
+Wedding Bartender,Wedding Bartender,,Alien,unknown,Male,unknown,0,4,4,7,0.321373,0.365337,0,0,0.063439,2,0.000331,0,238,0.916667,0
+Weird Rick,Weird Rick,,Human,unknown,Male,unknown,3,4,7,6,0.322327,0.364553,0.000016,0.009617,0.062282,8,0.004019,0,5,0.833333,0.112029
+Western Morty,Western Morty,,Human,unknown,Male,Alive,1,4,5,6,0.327189,0.370031,0,0.002825,0.061399,9,0.000398,0,12,0.666667,0.001097
+Western Rick,Western Rick,,Human,unknown,Male,Alive,2,6,8,6,0.330233,0.377465,0.000085,0.005759,0.061653,9,0.000477,0,12,0.4,0.002066
+Wharborgarbors,Wharborgarbors,,Monster,unknown,Genderless,Alive,0,2,2,7,0.283356,0.318712,0,0,0.028377,9,0.000331,0,239,0.5,0
+Woman Rick,Woman Rick,,Alien,unknown,Female,Alive,0,3,3,6,0.325434,0.366828,0,0,0.061135,9,0.000331,0,240,0.833333,0
+Worldender,Worldender,,Alien,unknown,Male,Dead,2,2,4,7,0.298271,0.33254,0.000152,0.002678,0.030472,2,0.000821,0,18,0.166667,0.001894
+Xing Ho,Xing Ho,,Human,Earth (Replacement Dimension),Female,Dead,0,3,3,7,0.283356,0.320331,0,0,0.028613,9,0.000331,0,241,0.833333,0
+Xorjhans,Xorjhans,,Alien,unknown,Genderless,unknown,0,0,0,0,0,0,0,0,0,56,0.000331,45,242,0,0
+Yaarb,Yaarb,,Alien,unknown,Male,Alive,1,2,3,7,0.278003,0.308114,0,0.000431,0.009387,8,0.000425,0,95,0.666667,0.000786
+Yellow Headed Doctor,Yellow Headed Doctor,,Alien,unknown,Male,Alive,0,1,1,8,0.217989,0.233749,0,0,0.000341,8,0.000331,0,243,0,0
+Yellow Shirt Rick,Yellow Shirt Rick,,Human,unknown,Male,unknown,1,4,5,6,0.326498,0.369887,0,0.002807,0.061264,9,0.00042,0,49,0.666667,0.000934
+Zarbadar Gloonch,Zarbadar Gloonch,,Alien,unknown,Female,Dead,4,2,6,7,0.253676,0.274948,0.000546,0.001839,0.000857,7,0.001187,0,97,0.15,0.003736
+Zarbadar's Mytholog,Zarbadar's Mytholog,,Mythological Creature,Nuptia 4,Female,Dead,0,2,2,8,0.220106,0.239194,0,0,0.000151,7,0.000331,0,244,1,0
+Zeep Xanflorp,Zeep Xanflorp,,Humanoid,Rick's Battery Microverse,Male,Alive,4,5,9,7,0.301471,0.343101,0.006168,0.008658,0.031734,9,0.003616,0,5,0.214286,0.075831
+Zerillians,Zerillians,,Alien,unknown,Genderless,unknown,0,1,1,7,0.277254,0.304877,0,0,0.009046,8,0.000331,0,245,0,0
+Zeta Alpha Rick,Zeta Alpha Rick,,Human,unknown,Male,Dead,4,11,15,6,0.330113,0.387317,0,0.013474,0.068881,9,0.001189,0,5,0.518182,0.018968
+Jerry Smith,Jerry Smith,,Human,Earth (C-137),Male,Alive,79,26,105,6,0.38175,0.46122,0.055776,0.197417,0.114729,8,0.033198,0,5,0.056715,0.595333
+Morty Smith,Morty Smith,,Human,Earth (C-137),Male,Alive,225,35,260,6,0.391221,0.488699,0.137663,0.606385,0.098198,9,0.077829,0,5,0.015667,0.950395
+Evil Morty,Evil Morty,,Humanoid,unknown,Male,Alive,29,7,36,6,0.332792,0.382276,0.015684,0.054252,0.064084,9,0.010816,0,5,0.090323,0.140047
+Birdperson,Birdperson,,Bird Person,Bird World,Male,Alive,24,8,32,6,0.348639,0.399187,0.005102,0.053894,0.081942,2,0.011911,0,5,0.119658,0.270082
+Memory Rick,Memory Rick,,Sentient Memory (Human appearance),Birdperson's mind,Male,Alive,1,4,5,7,0.294118,0.337259,0.000014,0.003133,0.03428,2,0.000824,0,5,0.4,0.007743
+Chris,Chris,,Alien,unknown,Genderless,Dead,3,2,5,8,0.2319,0.252311,0.000193,0.002878,0.000468,9,0.003749,0,5,0.333333,0.01335
+Cynthia,Cynthia,,Zigerion,Zigerion,Female,Dead,1,3,4,7,0.305514,0.341835,0.004226,0.002809,0.030966,9,0.000447,0,5,0.333333,0.00148
+Glenn,Glenn,,Gromflomite,unknown,Male,Dead,1,4,5,7,0.321821,0.365494,0.00266,0.000151,0.060183,2,0.002035,0,5,0.333333,0.011098
